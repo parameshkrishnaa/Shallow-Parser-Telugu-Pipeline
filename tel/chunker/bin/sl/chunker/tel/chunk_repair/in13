@@ -1,0 +1,35 @@
+<Sentence id="1">
+1	((	NP	
+1.1	ixe	PRP	<fs af='ixe,avy,,,,,0,0_avy'>|<fs af='ixi,pn,fn,sg,3,,0,0_e'>
+	))		
+2	((	NP	
+2.1	wirumala	NN	<fs af='wirumala,n,,sg,,d,0,0'>|<fs af='wirumala,n,,sg,,d,0,0'>|<fs af='wirumala,n,,sg,,o,ti,ti'>|<fs af='wirumala,n,,sg,,o,ti,ti'>
+	))		
+3	((	NP	
+3.1	AlayaMlo	NN	<fs af='AlayaM,n,,sg,,,lo,lo'>
+	))		
+4	((	NP	
+4.1	moVttamoVxati	NST	<fs af='moVttamoVxati,adj,,,,,0,0_adj'>|<fs af='moVttamoVxata,nst,,,,,yoVkka,yoVkka_adv'>
+	))		
+5	((	NP	
+5.1	kAnukagA	NN	<fs af='kAnuka,n,,sg,,,gA,gA'>
+	))		
+6	((	NP	
+6.1	xevAlayaMloni	NN	<fs af='xevAlayaM,n,,sg,,,loni,loni'>|<fs af='xevAlayaM,n,,sg,,,loni,loni'>
+	))		
+7	((	NP	
+7.1	godala	NN	<fs af='goda,n,,pl,,o,ti,ti'>
+	))		
+8	((	NP	
+8.1	mIxi	PRP	<fs af='mIxi,n,,sg,,d,0,0'>|<fs af='mIxi,n,,sg,,o,ti,ti'>|<fs af='mIxa,nst,,,,,yoVkka,yoVkka_adv'>|<fs af='mIru,pn,any,sg,2,,xi,xi'>
+	))		
+9	((	NP	
+9.1	SAsanaM	NN	<fs af='SAsanaM,n,,sg,,d,0,0'>
+9.2	valana	PSP	<fs af='valana,avy,,,,,0,0_avy'>|<fs af='vala,n,,sg,,,na,na'>
+	))		
+10	((	VGF	
+10.1	weVluswoMxi	VM	<fs af='weVluvu,v,fn,sg,3,,wunn,wunn'>
+10.2	.	SYM	<fs af='&dot;,punc,,,,,,'>
+	))		
+</Sentence>
+

@@ -1,0 +1,77 @@
+<Sentence id="1">			
+1	((	NP	
+1.1	lohaSAswraM	NN	<fs af='lohaSAswraM,n,,sg,,d,0,0'>
+1.2	,	SYM	<fs af='&comma;,punc,,,,,,'>
+	))		
+2	((	NP	
+2.1	bIja	JJ	<fs af='bIjaM,n,,sg,,o,ti,ti' poslcat="NM">
+2.2	gaNiwaM	NN	<fs af='gaNiwaM,n,,sg,,d,0,0'>
+2.3	,	SYM	<fs af='&comma;,punc,,,,,,'>
+	))		
+3	((	NP	
+3.1	KagolYa	JJ	<fs af='KagolYaM,n,,sg,,o,ti,ti' poslcat="NM">
+3.2	SAswraM	NN	<fs af='SAswraM,n,,sg,,d,0,0'>
+3.3	,	SYM	<fs af='&comma;,punc,,,,,,'>
+	))		
+4	((	NP	
+4.1	gaNiwaM	NN	<fs af='gaNiwaM,n,,sg,,d,0,0'>
+4.2	,	SYM	<fs af='&comma;,punc,,,,,,'>
+	))		
+5	((	NP	
+5.1	jyowiRaM	NNP	<fs af='jyowiRaM,n,,sg,,d,0,0'>
+5.2	,	SYM	<fs af='&comma;,punc,,,,,,'>
+	))		
+6	((	NP	
+6.1	vAswu	NN	<fs af='vAswu,n,,sg,,d,0,0'>|<fs af='vAswu,n,,sg,,o,ti,ti'>
+	))		
+7	((	NP	
+7.1	Silpi	NN	<fs af='Silpi,n,,sg,,d,0,0'>|<fs af='Silpi,n,,sg,,o,ti,ti'>
+	))		
+8	((	NP	
+8.1	SAswrAla	NN	<fs af='SAswraM,n,,pl,,o,ti,ti'>
+8.2	guriMci	PSP	<fs af='guriMci,avy,,,,,0,0_avy' poslcat="NM">
+	))		
+9	((	NP	
+9.1	pAScwAya	NN	<fs af='pAScwAya,unk,,,,,,' poslcat="NM">
+	))		
+10	((	NP	
+10.1	xeSAlu	NN	<fs af='xeSaM,n,,pl,,d,0,0'>|<fs af='xeSaM,n,,pl,,,vu,vu'>
+	))		
+11	((	VGNF	
+11.1	weVlusukovadAnikaMte	VM	<fs af='weVlusuko,v,,sg,,,adaM_kaMteV,adaM_kaMteV' deri_cat=n>
+	))		
+12	((	NP	
+12.1	cAlA	INTF	<fs af='cAlA,avy,,,,,0,0_avy'>|<fs af='cAlu,avy,,,,,A,A_avy'>
+12.2	muMxe	NST	<fs af='muMxu,n,,sg,,,0,0_e'>
+	))		
+13	((	NP	
+13.1	BArawIya	JJ	<fs af='BArawIya,adj,,,,,0,0_adj'>
+13.2	vexAlu	NN	<fs af='vexaM,n,,pl,,d,0,0'>|<fs af='vexaM,n,,pl,,,vu,vu'>
+13.3	,	SYM	<fs af='&comma;,punc,,,,,,'>
+	))		
+14	((	NP	
+14.1	prAMcIna	NN	<fs af='prAMcIna,unk,,,,,,' poslcat="NM">
+	))		
+15	((	NP	
+15.1	graMWAllonU	NN	<fs af='graMWaM,n,,pl,,,lo,lo_V'>
+	))		
+16	((	NP	
+16.1	vAti	PRP	<fs af='axi,pn,fn,pl,3,o,ti,ti'>
+	))		
+17	((	NP	
+17.1	samAcAraM	NN	<fs af='samAcAraM,n,,sg,,d,0,0'>
+	))		
+18	((	VGF	
+18.1	uMxani	VM	<fs af='uMdu,v,fn,sg,3,,A,A'>
+	))		
+19	((	BLK	
+19.1	ani	UT	<fs af='ani,avy,,,,,,'>
+	))		
+20	((	NP	
+20.1	Ayana	PRP	<fs af='Ayana,pn,,sg,,d,0,0'>|<fs af='Ayana,pn,,sg,,o,ti,ti'>
+	))		
+21	((	VGF	
+21.1	ceVppAru	VM	<fs af='ceVppu,v,fm,pl,3,,A,A'>
+21.2	.	SYM	<fs af='&dot;,punc,,,,,,'>
+	))		
+</Sentence>			

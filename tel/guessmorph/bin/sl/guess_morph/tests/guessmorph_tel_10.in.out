@@ -1,0 +1,21 @@
+<Sentence id="1">			
+1	((	NP	
+1.1	akkada	NST	<fs af='akkada,adv,,,,,0,0_adv'>
+	))		
+2	((	NP	
+2.1	SrI	NNP	<fs af='SrI,n,,sg,,d,0,0'>|<fs af='SrI,n,,sg,,o,ti,ti'>
+	))		
+3	((	VGNF	
+3.1	preyasi	VM	<fs af='preyasi,n,,sg,,d,0,0' poslcat="NM">'>|<fs af='preyasi,n,,sg,,o,ti,ti' poslcat="NM">'>
+	))		
+4	((	NP	
+4.1	vERNavi	NN	<fs af='vERNavi,n,,sg,,d,0,0'>|<fs af='vERNavi,n,,sg,,o,ti,ti'>
+	))		
+5	((	NP	
+5.1	pramAxavaSAwwu	NN	<fs af='pramAxavaSAwwu,n,,sg,,d,0,0'>|<fs af='pramAxavaSAwwu,n,,sg,,o,ti,ti'>
+	))		
+6	((	VGF	
+6.1	canipowuMxi	VM	<fs af='canipo,v,fn,sg,3,,wA,wA'>
+6.2	.	SYM	<fs af='&dot;,punc,,,,,,'>
+	))		
+</Sentence>			

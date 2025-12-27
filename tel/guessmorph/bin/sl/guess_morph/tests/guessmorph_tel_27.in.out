@@ -1,0 +1,29 @@
+<Sentence id="1">			
+1	((	NP	
+1.1	xIniki	PRP	<fs af='ixi,pn,fn,sg,3,,ki,ki'>
+	))		
+2	((	NP	
+2.1	AyannuMci	NN	<fs af='AyannuMci,unk,,,,,,' poslcat="NM">
+	))		
+3	((	NP	
+3.1	riplE	NN	<fs af='riplE,n,,sg,,d,0,0'>|<fs af='riplE,n,,sg,,o,ti,ti'>
+	))		
+4	((	VGF	
+4.1	rAkapovadaMwo	VM	<fs af='vaccu,v,,sg,,,aka_po_adaM_wo,aka_po_adaM_wo'>
+4.2	,	SYM	<fs af='&comma;,punc,,,,,,'>
+	))		
+5	((	NP	
+5.1	exo	WQ	<fs af='exi,pn,fn,sg,3,,0,0_o'>
+5.2	PrasteRanlo	NN	<fs af='PrasteRan,n,,sg,,,lo,lo'>
+	))		
+6	((	RBP	
+6.1	alA	RB	<fs af='alA,adv,,,,,0,0_avy'>
+	))		
+7	((	VGNF	
+7.1	annAdani	VM	<fs af='anu,v,m,sg,3,,A_ani,A_ani'>
+	))		
+8	((	VGF	
+8.1	saripeVttukunnArata	VM	<fs af='saripeVttu,v,fm,pl,3,,koVn_A_ata,koVn_A_ata'>
+8.2	.	SYM	<fs af='&dot;,punc,,,,,,'>
+	))		
+</Sentence>			

@@ -1,0 +1,27 @@
+1	maMcivAdiki	unk	<fs af='maMci,adj,,sg,,,vAdu_ki,vAdu_ki' deri_cat='pn'>
+2	puswakaM	unk	<fs af='puswakaM,n,,sg,,,0,0'>
+3	puswakaMlo	unk	<fs af='puswakaM,n,,sg,,,lo,lo'>
+4	puswakaMwo	unk	<fs af='puswakaM,n,,sg,,,wo,wo'>
+5	puswakAlanuMci	unk	<fs af='puswakaM,n,,pl,,,niMci,niMci'>
+6	puswakaM	unk	<fs af='puswakaM,n,,sg,,,0,0'>
+7	gAni	unk	<fs af='gAni,avy,,,,,,'>|<fs af='gAni,avy,,,,,0,0_avy'>|<fs af='gAdu,n,,sg,,,obl,obl'>|<fs af='gAdu,n,,sg,,,obl,obl'>|<fs af='gaM,n,,sg,,,obl,obl'>
+8	lexu	unk	<fs af='gala,v,fn,sg,3,,a,a'>|<fs af='uMdu,v,any,any,any,,a_lexu,a_lexu'>
+8	ikkada	unk	<fs af='ikkada,adv,,,,,0,0_adv'>|<fs af='ikkada,n,,sg,,,0,0'>|<fs af='ikkada,n,,sg,,,obl,obl'>
+9	puswakaM	unk	<fs af='puswakaM,n,,sg,,,0,0'>
+10	arXaM	unk	<fs af='arWaM,n,,sg,,,0,0'>
+11	nenu	unk	<fs af='nenu,pn,,sg,,,0,0'>
+12	anna	unk	<fs af='anna,avy,,,,,,'>|<fs af='anna,n,,sg,,,0,0'>|<fs af='anna,n,,sg,,,obl,obl'>|<fs af='annaM,n,,sg,,,obl,obl'>|<fs af='anu,v,any,any,any,,ina,ina'>
+13	puswakame	unk	<fs af='puswakaM,n,,sg,,,0_e,0_e'>
+14	kote	unk	<fs af='kota,n,,sg,,,0_e,0_e'>|<fs af='koti,n,,sg,,,0_e,0_e'>|<fs af='kotu,n,,sg,,,0_e,0_e'>
+15	kotA	unk	<fs af='kotA,n,,sg,,,0,0'>|<fs af='kotA,n,,sg,,,obl,obl'>|<fs af='kota,n,,sg,,,0_A,0_A'>|<fs af='kota,n,,sg,,,0_V,0_V'>|<fs af='koti,n,,sg,,,0_A,0_A'>|<fs af='kotu,n,,sg,,,0_A,0_A'>
+16	koto	unk	<fs af='kota,n,,sg,,,0_o,0_o'>|<fs af='koti,num,,,,,ava,ava'>|<fs af='koti,n,,sg,,,0_o,0_o'>|<fs af='kotu,n,,sg,,,0_o,0_o'>
+17	kotale	unk	<fs af='kota,n,,sg,,,0_le,0_le'>|<fs af='kota,n,,pl,,,0_e,0_e'>
+18	caxuvuwunna	unk	<fs af='caxuvu,v,any,any,any,,wunna,wunna'>
+19	caxivAnu	unk	<fs af='caxuvu,v,,sg,1,,A,A'>|<fs af='caxuvu,v,,sg,1,,A,A'>
+20	caxuvuwAnu	unk	<fs af='caxuvu,v,,sg,1,,wA,wA'>
+21	caxuvuwunnAnu	unk	<fs af='caxuvu,v,,sg,1,,wunn,wunn'>
+22	caxuvalexu	unk	<fs af='caxuvu,v,any,any,any,,a_lexu,a_lexu'>
+23	caxavanu	unk	<fs af='caxuvu,v,,sg,1,,a,a'>|<fs af='caxuvu,v,,sg,1,,a,a'>
+24	poVgadanu	unk	<fs af='poVgada,n,,sg,,,nu,nu'>|<fs af='poVgada,n,,sg,,,ni,ni'>|<fs af='poVgadu,v,,sg,1,,a,a'>|<fs af='poVgudu,v,,sg,1,,a,a'>
+25	ponu	unk	<fs af='po,v,,sg,1,,a,a'>
+26	caxuvanule	unk	<fs af='caxuvu,v,,sg,1,,a_le,a_le'>

@@ -1,0 +1,40 @@
+<Sentence id="1">
+0       ((      SSF
+1       ((      NP
+2	gAMXIjI	NNP	
+3	kI	PSP	<fs af='kA,sh_n,s,f,,0,Shashthi,'>
+	))
+5       ((      NP
+6	life	NN	<fs af='life,n,f,s,,0,,'>	
+	))
+8       ((      JJP
+9	weja	JJ	<fs af='weja,D,,,,,,'>	
+	))
+11      ((      VGF
+12	life	@VM	<fs af='life,n,f,s,any,,WA,'>	
+	))
+14      ((      BLK
+15	.	SYM	
+	))
+	))
+</Sentence>
+
+<Sentence id="2">
+1	((	NNP	
+3	popularly	RB	<fs af='popularly,D,m,s,3,0,,'>
+4	known	VBN	<fs af='know,v,m,s,3,0,,' tense='PPART'v_form='STR'>
+5	as	IN	<fs af='as,p,m,s,3,0,,'>
+6	the	DT	<fs af='the,det,m,s,3,0,,'>
+7	Pink	NN	<fs af='pink,n,m,s,3,0,,'>
+8	City	NNP	<fs af='city,n,m,s,3,0,,'>
+10	is	VBZ	<fs af='be,v,m,s,3,0,,' tense='PRES'>
+11	the	DT	<fs af='the,det,m,s,3,0,,'>
+12	capital	NN	<fs af='capital,n,m,s,3,0,,'>
+13	of	IN	<fs af='of,p,m,s,3,0,,'>
+14	Rajasthan	IN	
+15	state	NN	<fs af='state,n,m,s,3,0,,'>
+16	,	,	
+17	India	NNP	<fs af='india,n,m,s,3,0,,'>
+18	.	VGF	
+	))
+</Sentence>

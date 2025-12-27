@@ -1,0 +1,41 @@
+<Sentence id="1">			
+1	EjAk	NN	<fs af='EjAk,unk,,,,,,'>
+2	nyUtan	NN	<fs af='nyUtan,n,,sg,,d,0,0'>|<fs af='nyUtan,n,,sg,,o,ti,ti'>
+3	ceVppadAni	VM	<fs af='ceVppu,v,,sg,,,adaM,adaM_obl'>
+4	kaMte	PSP	<fs af='kaMte,avy,,,,,,'>|<fs af='kaMteV,n,,sg,,,0,0_e'>|<fs af='kaMteV,n,,sg,,,0,0_V'>|<fs af='kanu,v,any,any,any,,we,we'>|<fs af='k,n,,sg,,,aMte,aMte'>|<fs af='k,n,,sg,,,aMte,aMte'>
+5	1500	QC	<fs af='1500,num,,,,,,'>
+6	elYla	NN	<fs af='edu,n,,pl,,o,ti,ti'>|<fs af='edu,n,,pl,,o,ti,ti'>
+7	muMxe	NST	<fs af='muMxe,avy,,,,,0,0_avy'>|<fs af='muMxu,n,,sg,,,0,0_e'>
+8	KagolYa	NN	<fs af='KagolYaM,n,,sg,,o,ti,ti'>
+9	SAswra	NN	<fs af='SAswraM,n,,sg,,o,ti,ti'>
+10	nipuNudu	NN	<fs af='nipuNudu,n,,sg,,d,0,0'>|<fs af='nipuNudu,n,,sg,,d,0,0'>|<fs af='nipuNa,adj,,,,,vAdu,vAdu_adj'>
+11	AryaBattaku	NN	<fs af='AryaBattaku,unk,,,,,,'>
+12	xAni	PRP	<fs af='axi,pn,fn,sg,3,o,ti,ti'>
+13	guriMci	PSP	<fs af='guriMci,avy,,,,,0,0_avy'>
+14	weVlusunani	VM	<fs af='weVluvu,v,n,pl,3,,uxu,uxu'>
+15	ani	UT	<fs af='ani,avy,,,,,,'>
+15	,	SYM	<fs af='&comma;,punc,,,,,,'>
+16	caMxruni	NNP	<fs af='caMxrudu,n,,sg,,o,ti,ti'>
+17	pEna	NST	<fs af='pEna,adv,,,,,0,0_adv'>|<fs af='pEna,n,,sg,,d,0,0'>|<fs af='pEna,n,,sg,,o,ti,ti'>|<fs af='pE,n,,sg,,,na,na'>|<fs af='pi,n,,sg,,,Ena,Ena'>
+18	jalarASi	NN	<fs af='jalarASi,unk,,,,,,'>
+19	uMxani	VM	<fs af='uMxani,avy,,,,,,'>|<fs af='uMdu,v,fn,sg,3,,A,A'>
+20	ani	UT	<fs af='ani,avy,,,,,,'>
+20	vexAlloni	NN	<fs af='vexaM,n,,pl,,,loni,loni'>
+21	koVnni	QF	<fs af='koVnni,pn,,pl,,d,0,0'>|<fs af='koVMwa,pn,,pl,,d,0,0' deri_cat='n'>|<fs af='koVMwa,pn,,pl,,,vu,vu' deri_cat='n'>
+22	SlokAlu	NN	<fs af='SlokAl,n,,sg,,d,0,0'>|<fs af='SlokAl,n,,sg,,o,ti,ti'>|<fs af='SlokaM,n,,pl,,d,0,0'>|<fs af='SlokaM,n,,pl,,,vu,vu'>
+23	praswAviMcAyani	VM	<fs af='praswAviMcu,v,n,pl,3,,A,A'>
+24	ani	UT	<fs af='ani,avy,,,,,,'>
+24	pramuKa	NN	<fs af='pramuKa,adj,,,,,0,0_adj'>|<fs af='pramuKaM,n,,sg,,o,ti,ti'>|<fs af='pramuKudu,n,,sg,,o,ti,ti'>
+25	SAswrvewwa	NN	<fs af='SAswrvewwa,unk,,,,,,'>
+26	,	SYM	<fs af='&comma;,punc,,,,,,'>
+27	isro	NN	<fs af='isro,unk,,,,,,'>
+28	mAjI	NN	<fs af='mAjI,n,,sg,,d,0,0'>|<fs af='mAjI,n,,sg,,o,ti,ti'>|<fs af='mAji,n,,sg,,,0,0_V'>
+29	cErman	NN	<fs af='cErman,n,,sg,,d,0,0'>|<fs af='cErman,n,,sg,,o,ti,ti'>
+30	jI	NN	<fs af='jI,avy,,,,,0,0_avy'>|<fs af='ji,avy,,,,,V,V_avy'>
+31	mAXavan	NNP	<fs af='mAXavan,n,,sg,,d,0,0'>|<fs af='mAXavan,n,,sg,,d,0,0'>|<fs af='mAXavan,n,,sg,,o,ti,ti'>|<fs af='mAXavan,n,,sg,,o,ti,ti'>
+32	nAyar	NN	<fs af='nAyar,n,,sg,,d,0,0'>|<fs af='nAyar,n,,sg,,o,ti,ti'>
+33	annAru	VM	<fs af='anu,v,fm,pl,3,,A,A'>
+34	.	SYM	<fs af='&dot;,punc,,,,,,'>
+</Sentence>			
+<Sentence id="2">			
+</Sentence>			

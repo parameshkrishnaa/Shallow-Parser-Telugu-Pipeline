@@ -1,0 +1,18 @@
+<Sentence id="1">
+1	((	NP	
+1.1	SrI	NNP	<fs af='SrI,n,,sg,,d,0,0'>|<fs af='SrI,n,,sg,,o,ti,ti'>
+	))		
+2	((	NP	
+2.1	ki	NN	<fs af='ki,avy,,,,,0,0_avy' poslcat="NM">
+	))		
+3	((	NP	
+3.1	uri	NN	<fs af='uri,n,,sg,,d,0,0'>|<fs af='uri,n,,sg,,o,ti,ti'>
+	))		
+4	((	NP	
+4.1	SikRa	NN	<fs af='SikRa,n,,sg,,d,0,0'>|<fs af='SikRa,n,,sg,,o,ti,ti'>
+	))		
+5	((	VGF	
+5.1	viXiswAru	VM	<fs af='viXiMcu,v,fm,pl,3,,wA,wA'>
+5.2	.	SYM	<fs af='&dot;,punc,,,,,,'>
+	))		
+</Sentence>

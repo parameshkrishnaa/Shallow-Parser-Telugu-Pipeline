@@ -1,0 +1,42 @@
+<Sentence id="1">			
+1	((	NP	
+1.1	A	DEM	<fs af='A,avy,,,,,,' poslcat="NM">
+1.2	SikRa	NN	<fs af='SikRa,n,,sg,,d,0,0'>|<fs af='SikRa,n,,sg,,o,ti,ti'>
+1.3	nuMdi	PSP	<fs af='nuMdi,avy,,,,,0,0_avy' poslcat="NM">
+	))		
+2	((	NP	
+2.1	awanu	PRP	<fs af='awanu,pn,m,sg,3,d,0,0'>
+	))		
+3	((	VGNF	
+3.1	wappiMcukovAlaMte	VM	<fs af='wappiMcuko,v,any,any,any,,Ali_aMte,Ali_aMte'>
+	))		
+4	((	VGNF	
+4.1	cani	VM	<fs af='canu,v,any,any,any,,i,i'>
+	))		
+5	((	VGNF	
+5.1	poyina	VM	<fs af='po,v,any,any,any,,ina,ina'>
+	))		
+6	((	NP	
+6.1	vERNavi	NN	<fs af='vERNavi,n,,sg,,d,0,0'>|<fs af='vERNavi,n,,sg,,o,ti,ti'>
+	))		
+7	((	NP	
+7.1	wallixaMdrulu	NN	<fs af='wallixaMdrulu,n,,pl,,d,0,0'>|<fs af='wallixaMdrulu,n,,pl,,,vu,vu'>
+	))		
+8	((	NP	
+8.1	SrI	NNP	<fs af='SrI,n,,sg,,d,0,0'>|<fs af='SrI,n,,sg,,o,ti,ti'>
+	))		
+9	((	NP	
+9.1	ni	NN	<fs af='ni,avy,,,,,0,0_avy' poslcat="NM">
+	))		
+10	((	VGNF	
+10.1	kRamiMcinatlu	VM	<fs af='kRamiMcu,v,any,any,any,,ina_atlu,ina_atlu'>
+	))		
+11	((	NP	
+11.1	rAsu	NN	<fs af='rAs,n,,sg,,d,0,0'>|<fs af='rAs,n,,sg,,o,ti,ti'>
+	))		
+12	((	VGF	
+12.1	ivvAlsi	VM	<fs af='ivvu,v,any,any,any,,Alasi,Alasi'>
+12.2	uMtuMxi	VAUX	<fs af='uMdu,v,fn,sg,3,,wA,wA' poslcat="NM">
+12.3	.	SYM	<fs af='&dot;,punc,,,,,,'>
+	))		
+</Sentence>			

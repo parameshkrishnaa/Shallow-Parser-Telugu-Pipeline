@@ -1,0 +1,33 @@
+<Sentence id="1">
+1	((	CCP	
+1.1	ayiwe	CC	<fs af='ayiwe,avy,,,,,0,0_avy'>|<fs af='ayiwe,avy,,,,,0,0_avy'>
+	))		
+2	((	NP	
+2.1	AmeVnu	PRP	<fs af='AmeV,pn,f,sg,3,,ni,ni'>
+	))		
+3	((	NP	
+3.1	SrI	NNP	<fs af='SrI,n,,sg,,d,0,0'>|<fs af='SrI,n,,sg,,o,ti,ti'>
+	))		
+4	((	NP	
+4.1	hawya	NNP	<fs af='hawya,n,,sg,,d,0,0'>|<fs af='hawya,n,,sg,,o,ti,ti'>
+	))		
+5	((	VGNF	
+5.1	cesinatlu	VM	<fs af='ceVyyi,v,any,any,any,,ina_atlu,ina_atlu'>
+	))		
+6	((	VGNF	
+6.1	BAviMci	VM	<fs af='BAviMcu,v,any,any,any,,i,i'>|<fs af='BAviMcu,v,any,any,any,,i,i'>
+	))		
+7	((	NP	
+7.1	akkadi	NST	<fs af='akkada,nst,,,,,yoVkka,yoVkka_adv'>
+	))		
+8	((	NP	
+8.1	polIsulu	NN	<fs af='polIsu,n,,pl,,d,0,0'>|<fs af='polIsu,n,,pl,,,vu,vu'>|<fs af='polIs,n,,pl,,d,0,0'>|<fs af='polIs,n,,pl,,,vu,vu'>
+	))		
+9	((	NP	
+9.1	areVst	NN	<fs af='areVst,n,,sg,,d,0,0'>|<fs af='areVst,n,,sg,,o,ti,ti'>
+	))		
+10	((	VGF	
+10.1	ceswAru	VM	<fs af='ceVyyi,v,fm,pl,3,,wA,wA'>
+10.2	.	SYM	<fs af='&dot;,punc,,,,,,'>
+	))		
+</Sentence>

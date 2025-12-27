@@ -1,0 +1,25 @@
+<Sentence id="1">			
+1	BAraw	NNP	<fs af='BAraw,n,,sg,,d,0,0'>|<fs af='BAraw,n,,sg,,o,ti,ti'>
+2	-	SYM	<fs af='&minus;,punc,,,,,,'>
+3	e	WQ	<fs af='e,avy,,,,,,'>|<fs af='e,avy,,,,,,'>|<fs af='e,adj,,,,,0,0_adj'>
+4	waraPuna	NN	<fs af='waraPuna,n,,sg,,d,0,0'>|<fs af='waraPuna,n,,sg,,o,ti,ti'>
+5	AduwU	VM	<fs af='Adu,v,any,any,any,,wU,wU'>
+6	pAkiswAn	NNP	<fs af='pAkiswAn,n,,sg,,d,0,0'>|<fs af='pAkiswAn,n,,sg,,o,ti,ti'>
+7	-	SYM	<fs af='&minus;,punc,,,,,,'>
+8	e	WQ	<fs af='e,avy,,,,,,'>|<fs af='e,avy,,,,,,'>|<fs af='e,adj,,,,,0,0_adj'>
+9	pE	JJ	<fs af='pE,adj,,,,,0,0_adj'>|<fs af='pE,n,,sg,,d,0,0'>|<fs af='pE,n,,sg,,o,ti,ti'>
+10	seVMcarIlu	NN	<fs af='seVMcarIlu,unk,,,,,,'>
+11	sAXiMci	VM	<fs af='sAXiMcu,v,any,any,any,,i,i'>
+12	wana	PRP	<fs af='wana,avy,,,,,0,0_avy'>|<fs af='wAnu,pn,,sg,,o,ti,ti'>
+13	prawiBanu	NN	<fs af='prawiBa,n,,sg,,,nu,nu'>|<fs af='prawiBa,n,,sg,,,ni,ni'>
+14	veVlladiMci	VM	<fs af='veVlladiMcu,v,any,any,any,,i,i'>
+15	axe	PRP	<fs af='axe,avy,,,,,0,0_avy'>|<fs af='axi,pn,fn,sg,3,,0,0_e'>
+16	saMvawsaraMlo	NN	<fs af='saMvawsaraM,n,,sg,,,lo,lo'>
+17	BArawa	NNP	<fs af='BArawaM,n,,sg,,o,ti,ti'>
+18	jattulo	NN	<fs af='jattu,n,,pl,,,0,0_o'>|<fs af='jattu,n,,sg,,,lo,lo'>
+19	sWAnaM	NN	<fs af='sWAnaM,n,,sg,,d,0,0'>
+20	saMpAxiMcAdu	VM	<fs af='saMpAxiMcu,v,m,sg,3,,A,A'>
+21	.	SYM	<fs af='&dot;,punc,,,,,,'>
+</Sentence>			
+<Sentence id="2">			
+</Sentence>			

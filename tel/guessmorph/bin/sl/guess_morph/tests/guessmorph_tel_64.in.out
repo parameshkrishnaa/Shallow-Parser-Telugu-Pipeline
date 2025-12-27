@@ -1,0 +1,47 @@
+<Sentence id="1">			
+1	((	NP	
+1.1	samAcAra	JJ	<fs af='samAcAraM,n,,sg,,o,ti,ti' poslcat="NM">
+1.2	hakku	NN	<fs af='hakku,n,,sg,,d,0,0'>|<fs af='hakku,n,,sg,,o,ti,ti'>
+	))		
+2	((	NP	
+2.1	cattaM	NN	<fs af='cattaM,n,,sg,,d,0,0'>|<fs af='cattaM,n,,sg,,d,0,0'>
+	))		
+3	((	VGF	
+3.1	wIsukurAvataM	VM	<fs af='wIsukuvaccu,v,any,any,any,,adaM,adaM'>
+	))		
+4	((	CCP	
+4.1	mariyu	CC	<fs af='mariyu,avy,,,,,0,0_avy'>
+	))		
+5	((	NP	
+5.1	pexavAri	NN	<fs af='pexa,n,,pl,,,vAru,vAru_obl' deri_cat=pn>
+	))		
+6	((	NP	
+6.1	sWomawa	NN	<fs af='sWomawa,unk,,,,,,' poslcat="NM">
+	))		
+7	((	VGNF	
+7.1	peVMcadAniki	VM	<fs af='peVMcu,v,,sg,,,adaM_ki,adaM_ki'>
+	))		
+8	((	VGNF	
+8.1	cesina	VM	<fs af='ceVyyi,v,any,any,any,,ina,ina'>
+	))		
+9	((	NP	
+9.1	kqRiki	NN	<fs af='kqRi,n,,sg,,,ki,ki'>
+	))		
+10	((	NP	
+10.1	2006	QC	<fs af='2006,num,,,,,,'>
+10.2	lo	PSP	<fs af='lo,avy,,,,,,' poslcat="NM">'>|<fs af='la,avy,,,,,o,o_avy' poslcat="NM">'>
+	))		
+11	((	NP	
+11.1	rAman	NNP	<fs af='rAman,n,,sg,,d,0,0'>|<fs af='rAman,n,,sg,,o,ti,ti'>
+	))		
+12	((	VGNF	
+12.1	meVgaseVse	VM	<fs af='meVgaseVse,unk,,,,,,' poslcat="NM">
+	))		
+13	((	NP	
+13.1	puraskAraM	NN	<fs af='puraskAraM,n,,sg,,d,0,0'>
+	))		
+14	((	VGF	
+14.1	laBiMciMxi	VM	<fs af='laBiMcu,v,fn,sg,3,,A,A'>
+14.2	.	SYM	<fs af='&dot;,punc,,,,,,'>
+	))		
+</Sentence>			

@@ -1,0 +1,15 @@
+<Sentence id="1">			
+1	uwwara	NN	<fs af='uwwaraM,n,,sg,,o,ti,ti'>
+2	BArawaM	NNP	<fs af='BArawaM,n,,sg,,d,0,0'>
+3	lo	PSP	<fs af='lo,avy,,,,,,'>|<fs af='la,avy,,,,,o,o_avy'>
+4	iwara	JJ	<fs af='iwara,avy,,,,,0,0_avy'>|<fs af='iwaraM,n,,sg,,o,ti,ti'>
+5	sAMskqwika	NN	<fs af='sAMskqwikaM,n,,sg,,o,ti,ti'>
+6	sWAnAla	NN	<fs af='sWAnaM,n,,pl,,o,ti,ti'>
+7	valeV	PSP	<fs af='valeV,avy,,,,,0,0_avy'>
+8	KajurAho	NN	<fs af='KajurAho,n,,sg,,d,0,0'>|<fs af='KajurAho,n,,sg,,o,ti,ti'>
+9	xevAlayAlu	NN	<fs af='xevAlayaM,n,,pl,,d,0,0'>|<fs af='xevAlayaM,n,,pl,,d,0,0'>|<fs af='xevAlayaM,n,,pl,,,vu,vu'>|<fs af='xevAlayaM,n,,pl,,,vu,vu'>
+10	krI	NN	<fs af='krI,n,,sg,,d,0,0'>|<fs af='krI,n,,sg,,o,ti,ti'>
+11	.	SYM	<fs af='&dot;,punc,,,,,,'>
+</Sentence>			
+<Sentence id="2">			
+</Sentence>			

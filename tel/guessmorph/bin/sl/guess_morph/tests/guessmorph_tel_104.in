@@ -1,0 +1,25 @@
+<Sentence id="1">
+1	((	NP	
+1.1	caMxrayAn	NNP	<fs af='caMxrayAn,unk,,,,,,' poslcat="NM">
+	))		
+2	((	NP	
+2.1	kAryakramaM	NN	<fs af='kAryakramaM,n,,sg,,d,0,0'>
+2.2	xvArA	PSP	<fs af='xvArA,avy,,,,,0,0_avy' poslcat="NM">
+	))		
+3	((	NP	
+3.1	xAnini	PRP	<fs af='axi,pn,fn,sg,3,,ni,ni'>|<fs af='axi,pn,fn,sg,3,,nu,nu'>
+	))		
+4	((	NP	
+4.1	rujuvu	NN	<fs af='rujuvu,n,,sg,,d,0,0'>|<fs af='rujuvu,n,,sg,,o,ti,ti'>
+	))		
+5	((	VGF	
+5.1	ceyagaligAmani	VM	<fs af='ceVyyi,v,,pl,1,,a_galugu_A,a_galugu_A'>
+	))		
+6	((	BLK	
+6.1	ani	UT	<fs af='ani,avy,,,,,,'>
+	))		
+7	((	VGF	
+7.1	ceVppAru	VM	<fs af='ceVppu,v,fm,pl,3,,A,A'>
+7.2	.	SYM	<fs af='&dot;,punc,,,,,,'>
+	))		
+</Sentence>

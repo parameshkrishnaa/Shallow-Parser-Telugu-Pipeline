@@ -1,0 +1,27 @@
+<Sentence id="1">			
+1	rElve	NN	<fs af='rElve,n,,sg,,d,0,0'>|<fs af='rElve,n,,sg,,o,ti,ti'>
+2	lEnlu	NN	<fs af='lEn,n,,pl,,d,0,0'>|<fs af='lEn,n,,pl,,,vu,vu'>|<fs af='lEnu,n,,pl,,d,0,0'>|<fs af='lEnu,n,,pl,,,vu,vu'>
+3	unna	VM	<fs af='unna,adj,,,,,0,0_adj'>|<fs af='uMdu,v,any,any,any,,ina,ina'>
+4	prAMwAllo	NN	<fs af='prAMwaM,n,,pl,,,lo,lo'>
+5	meVtro	NN	<fs af='meVtro,n,,sg,,d,0,0'>|<fs af='meVtro,n,,sg,,o,ti,ti'>
+6	kAridAr	NN	<fs af='kAridAr,unk,,,,,,'>
+7	kosaM	PSP	<fs af='kosaM,avy,,,,,0,0_avy'>|<fs af='kosaM,avy,,,,,0,0_avy'>
+8	nirmiMcanunna	VM	<fs af='nirmiMcu,v,any,any,any,,a_uMdu_ina,a_uMdu_ina'>
+9	rodovar	NN	<fs af='rodovar,unk,,,,,,'>
+10	bridji	NN	<fs af='bridji,n,,sg,,d,0,0'>|<fs af='bridji,n,,sg,,o,ti,ti'>
+11	laku	NN	<fs af='laku,avy,,,,,0,0_avy'>
+12	saMbaMXiMci	VM	<fs af='saMbaMXiMcu,v,any,any,any,,i,i'>
+13	hExarAbAx	NNP	<fs af='hExarAbAx,n,,sg,,d,0,0'>|<fs af='hExarAbAx,n,,sg,,o,ti,ti'>
+14	meVtro	NN	<fs af='meVtro,n,,sg,,d,0,0'>|<fs af='meVtro,n,,sg,,o,ti,ti'>
+15	rElu	NN	<fs af='rElu,n,,sg,,d,0,0'>|<fs af='rEl,n,,sg,,d,0,0'>|<fs af='rEl,n,,sg,,o,ti,ti'>
+16	kotlalo	NN	<fs af='kot,n,,pl,,,lo,lo'>|<fs af='kot,n,,pl,,,lo,lo'>|<fs af='koti,n,,pl,,,lo,lo'>|<fs af='kotu,n,,pl,,,lo,lo'>
+17	xakRiNa	NN	<fs af='xakRiNaM,n,,sg,,o,ti,ti'>|<fs af='xakRiNudu,n,,sg,,o,ti,ti'>
+18	maXya	NST	<fs af='maXya,adv,,,,,0,0_adv'>|<fs af='maXya,nst,,,,,yoVkka,yoVkka_adv'>|<fs af='maXyaM,n,,sg,,o,ti,ti'>
+19	rElveku	NN	<fs af='rElve,n,,sg,,,ki,ki'>
+20	CArjIlanu	NN	<fs af='CArjI,n,,pl,,,ni,ni'>
+21	ceVlliMcAlsi	VM	<fs af='ceVlliMcu,v,any,any,any,,Alasi,Alasi'>
+22	uMdexi	VAUX	<fs af='uMdu,v,,sg,,,e_axi,e_axi_0' deri_cat='pn'>
+23	.	SYM	<fs af='&dot;,punc,,,,,,'>
+</Sentence>			
+<Sentence id="2">			
+</Sentence>			

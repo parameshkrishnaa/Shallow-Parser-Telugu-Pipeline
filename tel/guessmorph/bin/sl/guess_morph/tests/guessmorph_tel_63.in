@@ -1,0 +1,33 @@
+<Sentence id="1">
+1	((	NP	
+1.1	ixi	PRP	<fs af='ixi,pn,fn,sg,3,d,0,0'>
+	))		
+2	((	NP	
+2.1	rARtra	JJ	<fs af='rARtraM,n,,sg,,o,ti,ti' poslcat="NM">
+2.2	rAjaXAni	NN	<fs af='rAjaXAni,n,,sg,,d,0,0'>|<fs af='rAjaXAni,n,,sg,,o,ti,ti'>
+	))		
+3	((	NP	
+3.1	agu	NN	<fs af='agu,adj,,,,,0,0_adj' poslcat="NM">|<fs af='avvu,v,any,any,any,,e,e' poslcat="NM">
+	))		
+4	((	NP	
+4.1	hExarAbAxunaku	NN	<fs af='hExarAbAxu,n,,sg,,,ki,ki'>|<fs af='hExarAbAx,n,,sg,,,ki,ki'>
+	))		
+5	((	NP	
+5.1	uwwara	JJ	<fs af='uwwaraM,n,,sg,,o,ti,ti' poslcat="NM">
+5.2	xiSalo	NN	<fs af='xiSa,n,,pl,,,0,0_o'>|<fs af='xiSa,n,,sg,,,lo,lo'>
+	))		
+6	((	NP	
+6.1	157	QC	<fs af='157,num,,,,,,'>
+6.2	ki.	NN	<fs af='ki.,unk,,,,,,' poslcat="NM">
+	))		
+7	((	NP	
+7.1	mi	NN	<fs af='mi,unk,,,,,,' poslcat="NM">
+	))		
+8	((	NP	
+8.1	xUraMlo	NN	<fs af='xUraM,n,,sg,,,lo,lo'>
+	))		
+9	((	VGF	
+9.1	unnaxi	VM	<fs af='unna,adj,,,,,xi,xi_adj' poslcat="NM">|<fs af='unna,adj,,,,,xi,xi_adj' poslcat="NM">
+9.2	.	SYM	<fs af='&dot;,punc,,,,,,'>
+	))		
+</Sentence>

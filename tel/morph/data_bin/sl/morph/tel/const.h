@@ -1,0 +1,3 @@
+#define SIZEOF_IND 19 
+#define SIZEOF_SUFF_ADD 47592 
+#define TOTAL_FE_INFO  1924 

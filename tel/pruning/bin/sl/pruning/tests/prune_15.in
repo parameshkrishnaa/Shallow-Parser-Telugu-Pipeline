@@ -1,0 +1,31 @@
+<Sentence id="1">
+1	((	RBP	
+1.1	pEgA	RB	<fs af='pEgA,avy,,,,,0,0_avy'>|<fs af='pE,adj,,,,,gA,gA_adj'>|<fs af='pE,n,,sg,,,gA,gA'>
+	))		
+2	((	NP	
+2.1	giMjala	NN	<fs af='giMja,n,,pl,,o,ti,ti'>
+2.2	nuMci	PSP	<fs af='nuMci,avy,,,,,0,0_avy'>
+	))		
+3	((	VGNF	
+3.1	wIse	VM	<fs af='wiyyi,v,any,any,any,,e,e'>|<fs af='wiyyi,v,any,any,any,,i,i_e'>
+	))		
+4	((	NP	
+4.1	nUneV	NN	<fs af='nUneV,n,,sg,,d,0,0'>|<fs af='nUneV,n,,sg,,o,ti,ti'>
+	))		
+5	((	VGNN	
+5.1	vAdadaM	VM	<fs af='vAdu,v,any,any,any,,adaM,adaM'>|<fs af='vAdu,v,any,any,any,,adaM,adaM'>
+5.2	valana	PSP	<fs af='valana,avy,,,,,0,0_avy'>|<fs af='vala,n,,sg,,,na,na'>
+	))		
+6	((	NP	
+6.1	aXika	JJ	<fs af='aXika,adj,,,,,0,0_adj'>|<fs af='aXikaM,n,,sg,,o,ti,ti'>
+6.2	rakwapotu	NN	<fs af='rakwapotu,n,,sg,,d,0,0'>|<fs af='rakwapotu,n,,sg,,o,ti,ti'>
+	))		
+7	((	NP	
+7.1	axupulo	NN	<fs af='axupu,n,,pl,,,0,0_o'>|<fs af='axupu,n,,sg,,,lo,lo'>
+	))		
+8	((	VGF	
+8.1	uMtuMxi	VM	<fs af='uMdu,v,fn,sg,3,,wA,wA'>
+8.2	.	SYM	<fs af='&dot;,punc,,,,,,'>
+	))		
+</Sentence>
+

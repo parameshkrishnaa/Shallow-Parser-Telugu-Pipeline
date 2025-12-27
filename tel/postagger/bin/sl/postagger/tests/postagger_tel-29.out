@@ -1,0 +1,12 @@
+<Sentence id="1">			
+1	xeSaMloni	NN	<fs af='xeSaM,n,,sg,,,loni,loni'>
+2	xAxApu	NN	<fs af='xAxApu,n,,sg,,d,0,0'>|<fs af='xAxApu,n,,sg,,o,ti,ti'>
+3	38	QC	<fs af='38,num,,,,,,'>
+4	%	SYM	<fs af='&perc;,punc,,,,,,'>
+5	janABA	NN	<fs af='janABA,n,,sg,,d,0,0'>|<fs af='janABA,n,,sg,,o,ti,ti'>
+6	rAjaXAnilone	NN	<fs af='rAjaXAni,n,,sg,,,lo,lo_e'>
+7	nivasiswoMxi	VM	<fs af='nivasiMcu,v,fn,sg,3,,wunn,wunn'>
+8	.	SYM	<fs af='&dot;,punc,,,,,,'>
+</Sentence>			
+<Sentence id="2">			
+</Sentence>			

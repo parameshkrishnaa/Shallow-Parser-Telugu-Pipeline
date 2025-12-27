@@ -1,0 +1,19 @@
+<Sentence id="1">
+1	((	NP	
+1.1	rARtra	NN	<fs af='rARtraM,n,,sg,,o,ti,ti'>
+	))		
+2	((	NP	
+2.1	ArWika	NN	<fs af='ArWika,adj,,,,,0,0_adj'>|<fs af='ArWikaM,n,,sg,,o,ti,ti'>
+	))		
+3	((	NP	
+3.1	vyavasWaku	NN	<fs af='vyavasWa,n,,sg,,,ki,ki'>
+	))		
+4	((	NP	
+4.1	vyavasAyaM	NN	<fs af='vyavasAyaM,n,,sg,,d,0,0'>
+	))		
+5	((	VGF	
+5.1	Ayuvupattu	VM	<fs af='Ayuvupattu,n,,sg,,d,0,0'>|<fs af='Ayuvupattu,n,,sg,,o,ti,ti'>
+5.2	.	SYM	<fs af='&dot;,punc,,,,,,'>
+	))		
+</Sentence>
+

@@ -1,0 +1,25 @@
+<Sentence id="1">			
+1	vexAlu	NN	<fs af='vexaM,n,,pl,,d,0,0'>|<fs af='vexaM,n,,pl,,,vu,vu'>
+2	svacCamEna	JJ	<fs af='svacCaM,n,,sg,,,Ena,Ena'>
+3	saMskqwaMlo	NNP	<fs af='saMskqwaM,n,,sg,,,lo,lo'>
+4	unnaMxuna	VM	<fs af='uMdu,v,any,any,any,,ina_aMxuna,ina_aMxuna'>
+5	vAtilo	PRP	<fs af='axi,pn,fn,pl,3,,lo,lo'>
+6	unnaxaMwA	VM	<fs af='unnaxaMwA,unk,,,,,,'>
+7	arWaM	NN	<fs af='arWaM,n,,sg,,d,0,0'>
+8	cesukolekapowunnAmani	VM	<fs af='ceVyyi,v,,pl,1,,koVn_a_le_aka_po_wU_uMdu_AkoVn_a_le_aka_po_wU_uMdu_A_ani,koVn_a_le_aka_po_wU_uMdu_A_ani'>|<fs af='ceVyyi,v,,pl,1,,koVn_a_le_aka_po_wunn,koVn_a_le_aka_po_wunn'>
+9	ani	UT	<fs af='ani,avy,,,,,,'>
+9	,	SYM	<fs af='&comma;,punc,,,,,,'>
+10	pAScAwya	NN	<fs af='pAScAwya,adj,,,,,0,0_adj'>|<fs af='pAScAwyudu,n,,sg,,o,ti,ti'>
+11	prapaMcAniki	NN	<fs af='prapaMcaM,n,,sg,,,ki,ki'>
+12	e	WQ	<fs af='e,avy,,,,,,'>|<fs af='e,avy,,,,,,'>|<fs af='e,adj,,,,,0,0_adj'>
+13	mAwraM	PSP	<fs af='mAwraM,avy,,,,,,'>|<fs af='mAwraM,avy,,,,,0,0_avy'>
+14	weVliyani	VM	<fs af='weVliyani,avy,,,,,,'>|<fs af='weVliyu,v,any,any,any,,ani,ani'>
+15	prAWamika	NN	<fs af='prAWamika,adj,,,,,0,0_adj'>|<fs af='prAWamikaM,n,,sg,,o,ti,ti'>|<fs af='prAWamikaM,n,,sg,,o,ti,ti'>|<fs af='prAWamikudu,n,,sg,,o,ti,ti'>
+16	AviRkaraNalu	NN	<fs af='AviRkaraNa,n,,pl,,d,0,0'>|<fs af='AviRkaraNa,n,,pl,,,vu,vu'>
+17	xInilo	PRP	<fs af='ixi,pn,fn,sg,3,,lo,lo'>
+18	unnAyi	VM	<fs af='uMdu,v,n,pl,3,,A,A'>
+19	annAru	VM	<fs af='anu,v,fm,pl,3,,A,A'>
+20	.	SYM	<fs af='&dot;,punc,,,,,,'>
+</Sentence>			
+<Sentence id="2">			
+</Sentence>			

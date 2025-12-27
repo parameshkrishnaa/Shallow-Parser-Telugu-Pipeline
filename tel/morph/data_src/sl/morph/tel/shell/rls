@@ -1,0 +1,850 @@
+			LEFT		RIGHT		MO0CALL		COND
+SlNo	Pattern	br0pt	dlt	add	dlt	add	lft	rt	lft	right
+------------------------------------------------------------------------------------------------
+1##1--Ak[uUAeo]	0	0	u	0	0	1	1	n,ti	n,0 ##nAkeVlA-*nu+AkeVlA
+2	ale[mvrxd]u	1	0	0	0	0	1	1	v,an
+3	unna	0	0	u	0	0	1	1	n,0	
+4	Ak[uUAo]	0	0	u	0	0	1	1	n,ti	n,0
+5	Ak[uUAeo]	0	0	i	0	0	1	1	n,ti	n,0
+6	Ak[uUAeo]	0	0	a	0	0	1	1	n,ti	n,0
+7	Ak[uUAeo]	0	0	eV	0	0	1	1	n,ti	n,0
+8	Aspax[au]	0	0	a	0	0	1	1	n,ti	n,0
+9	Awmak	0	0	a	0	0	1	1	n,0	n,0	
+10	vAx[iIeoua]	0	0	0	0	0	1	1	n,0	
+11	yAx[iueAo]	0	0	i	1	0	1	1	n,0	
+12	Ax[iueAo]	0	0	u	0	0	1	1	n,0	
+13	Ax[iueAo]	0	0	a	0	0	1	1	n,0	
+14	Ax[iueAo]	0	0	eV	0	0	1	1	n,0	
+15	E$	0	0	u	0	0	1	1	n,0	v,i	
+16	E$	0	0	i	0	0	1	1	n,0	
+17	E$	0	0	a	0	0	1	1	n,0	
+18	mEwe	1	1	M	0	0	1	1	n,0	v,we
+19	IkariMc	0	0	a	0	0	1	1	n,ti	v,0
+20	IkariMp	0	0	a	0	0	1	1	n,ti	v,0
+21	Ikarisw	0	0	a	0	0	1	1	n,ti	v,0
+22	SIla	0	0	0	0	0	1	1	n,0_adj	
+23	SIl[aiIueoA]	0	0	0	0	0	1	1	n,0	n,0_adj
+24	Saky[au]	0	0	0	0	0	1	1	n,0_adj
+25	Sakya[mM]	0	0	0	0	0	1	1	v,an
+26	[kg]an[au]k[aAe]	0	0	0	0	0	1	1	n,0
+27	[gk]an[au]k[aAe]	0	0	0	0	0	1	1	v
+28	[kg]ala[xv]	0	0	0	0	0	1	1	n,0	pn,0
+29	[kg]ala[xv]	0	0	0	0	0	1	1	v	pn,0
+30	[kg]ala	0	0	0	0	0	1	1	n,0	n,0_adj
+31	[kg]ala	0	0	0	0	0	1	1	v	n,0_adj
+32	[kg]ala	0	0	0	0	0	1	1	v	v
+33	[kg]alu	0	0	0	0	0	1	1	v	v
+34	[kg]alu	0	0	0	0	0	1	1	n	v
+35	[wx]aga	0	0	0	0	0	1	1	v	v
+36	[wx]akkuv[AaEeo]	0	0	0	0	0	1	1	n,0
+37	lokaMte	0	0	0	0	0	1	1	n,0	avy
+38	kaMte	0	0	0	0	0	1	1	n,0	avy
+39	aMt[aAieuU]	0	0	i	0	0	1	1	pn,0	n,0_A
+40	aMt[aAieuU]	0	0	u	0	0	1	1	pn,0	n,0_A
+41	aMt[aAieuU]	0	0	u	0	0	1	1	v	avy	
+42	aMt[aAieuU]	0	0	i	0	0	1	1	v	avy
+43	aMt[aAieuU]	0	0	a	0	0	1	1	v	avY
+44	aMt[aAieuU]	0	0	eV	0	0	1	1	v	avy
+45	aMt[aAieuU]	0	0	u	0	0	1	1	n,0	avy	
+46	aMt[aAieuU]	0	0	i	0	0	1	1	n,0	avy
+47	aMt[aAieuU]	0	0	a	0	0	1	1	n,0	avY
+48	aMt[aAieuU]	0	0	eV	0	0	1	1	n,0	avy
+49	maMwatA	1	1	M	0	0	1	1	n,0	
+50	naMwatA	1	1	M	0	0	1	1	n,0	
+51	nnaMwatA	1	1	i	2	0	1	1	n,0
+52	aMw[aAeo]	0	1	0	0	0	1	1	n,0
+53	aMw[aAeo]	0	0	i	0	0	1	1	n,0
+54	aMw[aAeo]	0	0	u	0	0	1	1	n,0
+55	aMw[aAeo]	0	0	a	0	0	1	1	n,0
+56	aMw[aAeo]	0	0	u	0	0	1	1	n,0
+57	aMw[aAeo]	0	0	a	0	0	1	1	n,0
+58	aMw[aAeo]	0	0	eV	0	0	1	1	n,0
+59	laMxar[aAuieo]	1	0	a	0	0	1	1	n,0	pn
+60	raMxar[aAuieo]	1	0	u	0	0	1	1	n,0	pn
+61	laMxar[aAuieo]	1	0	u	0	0	1	1	pn	pn
+62	raMxar[aAuieo]	1	0	u	0	0	1	1	pn	pn
+63	laMxarU	1	0	u	0	0	1	1	n,0
+64	raMxarU	1	0	u	0	0	1	1	n,0
+65	laMxarU	1	0	u	0	0	1	1	n,0
+66	raMxarU	1	0	u	0	0	1	1	n,0
+67	abbI	0	0	u	0	0	1	1	n,0
+68	abbI	0	0	u	0	0	1	1	n,ti
+69	abbI	0	0	i	0	0	1	1	n,0	
+70	abbI	0	0	a	0	0	1	1	n,0
+71	akkA	0	0	u	0	0	1	1	n,0
+72	akkA	0	0	i	0	0	1	1	n,0
+73	akkA	0	0	a	0	0	1	1	n,0
+74	allA	0	0	i	0	0	1	0	n,0	
+75	allA	0	0	i	0	0	1	0	v,0	
+76	allA	0	0	u	0	0	1	0	n,0	
+77	allA	0	0	u	0	0	1	0	v	
+78	allA	0	0	a	0	0	1	0	n,0
+79	allA	0	0	a	0	0	1	0	v	
+80	allA	0	0	eV	0	0	1	0	n,0
+81	allA	0	0	eV	0	0	1	0	v
+82	alle	0	0	u	0	0	1	1	n,0
+83	alle	0	0	i	0	0	1	1	n,0
+84	alle	0	0	a	0	0	1	1	n,0
+85	alle	0	0	eV	0	0	1	1	n,0
+86	amm[AoI]	0	0	u	0	0	1	1	n,0
+87	amm[AoI]	0	0	i	0	0	1	1	n,0
+88	amm[AoI]	0	0	a	0	0	1	1	n,0
+89	amm[AoI]	0	0	eV	0	0	1	1	v
+90	amm[AoI]	0	0	u	0	0	1	1	v
+91	amm[AoI]	0	0	i	0	0	1	1	v
+92	aMxuk	0	0	u	0	0	1	1	n
+93	aMxuk	0	0	u	0	0	1	1	v
+94##81--[A-z]an[iIeoA]	1	0	u	0	0	1	1	n,0	
+95##82--[A-z]an[iIeoA]	1	0	i	0	0	1	1	pn,0	
+96	Alian[iIeoA]	3	0	0	0	0	1	1	v,Ali	
+97##82--[A-z]an[iIeoA]	1	0	i	0	0	1	1	n,0	
+98##83--[A-z]an[iIeoA]	1	0	a	0	0	1	1	n,0	
+99##84--[A-z]an[iIeoA]	1	0	eV	0	0	1	1	n,0	
+100	xan[iIeoA]	1	0	i	0	0	1	1	v,0	
+101	loa	2	0	0	0	0	1	1	n	v
+102	loA	2	0	0	0	0	1	1	n	v
+103	lou	2	0	0	0	0	1	1	n	v
+104	loU	2	0	0	0	0	1	1	n	v
+105	loe	2	0	0	0	0	1	1	n	v
+106	anipiMc	0	0	0	0	0	1	1	v	v
+107	anipiMc	0	0	u	0	0	1	1	v	v
+108	anipiMc	0	0 	eV	0	1	1	v	v
+109	anipisw	0	0	u	0	0	1	1	v	v
+110	anipisw	0	0	i	0	0	1	1	v	v
+111	nenu	0	0	0	0	0	1	1	v	pn
+112	kax[eAUa]	4	0	0	0	a	1	1	n,0
+113	kax[eAUa]	0	0	0	0	0	1	1	v	
+114	annA	0	0	u	0	0	1	1	v	v
+115	annA	0	0	i	0	0	1	1	v	v
+116	annA	0	0	a	0	0	1	1	v	v
+117	[dmvnrx]anna	1	0	u	0	0	1	0	v
+118	[lxy]anna	1	0	i	0	0	1	0	v
+119	anna	0	0	u	0	0	1	0	pn
+120	anna	0	0	i	0	0	1	0	pn
+121	lann[iI]	1	0	u	0	0	1	1	n,0	n,0_avy	
+122	vann[iI]	1	0	i	0	0	1	1	n,0
+123	vann[iI]	1	0	i	0	0	1	1	pn
+124	vann[iI]	1	0	i	0	0	1	1	v
+125	kann[iIA]	1	0	u	0	0	1	1	n,0
+126	nann[iIA]	1	0	u	0	0	1	1	n,0
+127	[lx]anuk[oVu]	1	0	i	0	0	1	1	v	v
+128	[nmvrdx]anuk[oVu]	1	0	u	0	0	1	1	v	v
+129	#anuk[oVu]	5	1	o	0	u	1	1	n,0	v	
+130	anuk[oVu]	0	0	u	0	0	1	1	n,0	v	
+131	anuk[oVu]	0	0	eV	0	0	1	1	n,0	v	
+132	anuk[oVu]	0	0	i	0	0	1	1	n,0	v	
+133	anuk[oVu]	0	0	a	0	0	1	1	n,0	v	
+134	anuk[oVu]	0	0	u	0	0	1	1	pn	v	
+135	arrA	0	0	u	0	0	1	1	n,0
+136	arrA	0	0	i	0	0	1	1	n,0
+137	arrA	0	0	a	0	0	1	1	n,0
+138	arrA	0	0	eV	0	0	1	1	n,0
+139	vas[wW]	0	0	0	0	0	1	1	n,0
+140	as[wW][ua]	0	0	u	0	0	1	1	n,0
+141	as[wW][ua]	0	0	i	0	0	1	1	n,0
+142	as[wW][ua]	0	0	a	0	0	1	1	n,0
+143	at[aeA]	0	0	u	0	0	1	1	n,0
+144	at[aeA]	0	0	i	0	0	1	1	n,0
+145	at[aeA]	0	0	a	0	0	1	1	n,0
+146	at[aeA]	0	0	eV	0	0	1	1	n,0
+147	awi	3	0	-	0	0	1	1	n,0
+148	awi	3	0	-	0	0	0	1	n,0
+149	ayi	0	0	u	0	0	1	1	n,0	v
+150	ayi	0	0	i	0	0	1	1	n,0	v
+151	ayi	0	0	a	0	0	1	1	n,0	v
+152	ayinA	0	0	u	0	0	1	1	n,0
+153	ayinA	0	0	i	0	0	1	1	n,0
+154	ayinA	0	0	a	0	0	1	1	n,0
+155	ayiwe	0	0	u	0	0	1	0	n,0
+156	ayiwe	0	0	i	0	0	1	0	n,0
+157	ayiwe	0	0	a	0	0	1	0	n,0
+158	ayiwe	0	0	eV	0	0	1	0	n,0
+159	Ayan[aAeo]	0	0	u	0	0	1	1	v	pn
+160	Avid[aAeo]	0	0	i	0	0	1	1	v	pn
+161	AmeV	0	0	i	0	0	1	1	v	pn
+162	ayyA	0	0	u	0	0	1	1	n,0
+163	ayyA	0	0	i	0	0	1	1	n,0
+164	ayyA	0	0	a	0	0	1	1	n,0
+165	ayyA	0	0	eV	0	0	1	1	n,0
+166	cAlA	4	0	0	0	0	1	1	n,0
+167	ceVt[tluaUAeo]	0	0	0	0	0	1	0	n,0
+168	cuttU	0	0	0	0	0	1	1	n,0
+169	dan[iIAeo]	1	0	u	0	0	1	1	n,0
+170	xan[iIAeo]	1	0	i	0	0	1	1	n,0
+171	xan[iIAeo]	1	0	u	0	0	1	1	n,0
+172	#Adu	0	0	A	1	eV	1	0	n,0
+173	Idu	0	0	I	1	eV	1	0	n,0
+174	eVdu	0	0	u	0	0	1	0	n,0
+175	eVdu	0	0	i	0	0	1	0	n,0
+176	eVdu	0	0	a	0	0	1	0	n,0
+177	eVdu	0	0	eV	0	0	1	0	n,0
+178	eMtaMte	0	0	u	0	0	1	1	pn,0
+179	eMtaMte	0	0	u	0	0	1	1	n,0
+180	eMtaMte	0	0	i	0	0	1	1	p,0
+181	eMtaMte	0	0	i	0	0	1	1	n,0
+182	eMtaMte	0	0	a	0	0	1	1	pn,0
+183	eMtaMte	0	0	a	0	0	1	1	n,0
+184	yeVdala	1	1	0	0	0	1	1	n,0
+185	yeVdala	1	1	0	0	0	1	1	n,0
+186	yeVdala	1	1	0	0	0	1	1	n,0
+187	yeVdala	1	1	0	0	0	1	1	n,0
+188	yeVdala	1	1	0	0	0	1	1	n,0
+189	yeVdala	1	1	0	0	0	1	1	n,0
+190	yeVdala	1	1	0	0	0	1	1	n,0
+191	eVwwu	0	0	u	0	0	1	1	n,0
+192	eVwwu	0	0	i	0	0	1	1	n,0
+193	eVwwu	0	0	a	0	0	1	1	n,0
+194	e[vm]itaMte	0	0	u	0	0	1	1	pn,0
+195	e[vm]itaMte	0	0	u	0	0	1	1	n,0
+196	e[vm]itaMte	0	0	i	0	0	1	1	n,0
+197	e[vm]itaMte	0	0	i	0	0	1	1	pn,0
+198	e[vm]itaMte	0	0	a	0	0	1	1	n,0
+199	e[vm]itaMte	0	0	a	0	0	1	1	pn,0
+200	e[vm]itaMte	0	0	eV	0	0	1	1	n,0
+201	emaMte	0	0	u	0	0	1	1	n,0
+202	emaMte	0	0	i	0	0	1	1	n,0
+203	emaMte	0	0	a	0	0	1	1	n,0
+204	xemaMte	1	0	i	0	0	1	1	n,0
+205	emo	0	0	u	0	0	1	1	n,0
+206	emo	0	0	i	0	0	1	1	n,0
+207	emo	0	0	a	0	0	1	1	n,0
+208	emo	0	0	eV	0	0	1	1	n,0
+209	emonani	0	0	u	0	0	1	1	n,0
+210	emonani	0	0	i	0	0	1	1	n,0
+211	emonani	0	0	a	0	0	1	1	n,0
+212	emonani	0	0	eV	0	0	1	1	n,0
+213	emonan	0	0	u	0	0	1	1	v
+214	emonan	0	0	i	0	0	1	1	v
+215	yewar	2	2	0	0	i	1	1	n,0
+216	ewarul	1	1	a	0	i	1	1	n,0
+217	ewar	1	1	a	0	i	1	1	n,0
+218	gAd[uUioeA]	0	0	0	0	0	1	1	n,0
+219	gAn[iIAoeuU]	0	0	0	0	0	1	1	n,0
+220##192--gA	0	0	0	2	gaxA	1	1	n,0
+221	gawa	0	0	0	0	0	1	1	n,0
+222	gawa	4	0	0	0	0	1	1	n,0
+223	gawweV	0	0	0	0	0	1	1	n,0
+224	giMj[aAeo]	0	0	0	0	0	1	1	n,0	
+225	goVMdi	0	0	0	0	0	1	1	n,0
+226	goVttu	0	0	0	0	0	1	1	n,0
+227	ixxar	0	0	u	0	0	1	1	v	pn
+228	ixxar	0	0	i	0	0	1	1	v	pn
+229	ixxar	0	0	a	0	0	1	1	v	pn
+230	ixxar	0	0	u	0	0	1	1	pn	pn
+231	ixxar	0	0	u	0	0	1	1	n,0	pn
+232	anaMwara	0	0	u	0	0	1	1	n,0
+233	anaMwara	0	0	i	0	0	1	1	n,0
+234	AnaMwara	1	1	a	0	a	1	1	n,0
+235	jAlA[lM]	0	0	0	0	0	1	1	n,0
+236	kAbolu	0	0	0	0	0	1	1	n,0
+237	kAbolu	0	0	0	0	0	1	0	v
+238*212	kAd[UueAo]	0	0	0	0	0	1	1	n,0
+239	kAla[mM]	0	0	0	0	0	1	1	n,0
+240	kAlA[nl]	0	0	0	0	0	1	1	n,0
+241	kAn[iI]	0	0	0	0	0	1	1	n,0
+242*216	kAr[Aeiou]	0	0	0	0	0	1	1	n,0
+243	kAx[uUAeo]$	0	0	0	0	0	1	0	n,0
+244	kAy[aAiIeo]	0	0	0	0	0	1	1	n,0
+245	kUr[aAeo]	0	0	0	0	0	1	1	n,0
+246	aMt[aAeU]	0	0	i	0	0	1	1	pn
+247*220	aMt[aAeU]	0	0	u	0	0	1	1	v
+248	kallA	0	0	0	0	-	1	1	pn,ti
+249*222	kallA	0	0	0	0	-	1	1	n,0
+250	kattu	0	0	0	0	0	1	1	n
+251	kawweV	0	0	0	0	0	1	1	n,0
+252	gax[eAUa]	0	0	0	0	0	1	1	n,0
+253	koti	0	0	0	0	0	1	1	n,0
+254	lAdi	0	0	0	0	0	1	1	n,0
+255	lAdi	0	0	0	0	0	1	1	v
+256	lAg[aA]	0	0	0	0	0	1	1	n,0
+257	lAg[aA]	0	0	0	0	0	1	1	pn,0
+258*229	lAg[aA]	0	0	0	0	0	1	1	v,e
+259	kann[iIA]	1	0	u	0	0	1	1	n,0
+260	nann[iIA]	1	0	u	0	0	1	1	n,0
+261	lann[iIA]	1	0	u	0	0	1	1	n,0
+262	tann[iIA]	1	0	i	0	0	1	1	n,0
+263	[x]em[iI]	0	1	i	1	0	1	1	adj
+264	[x]em[iI]	0	0	i	1	0	1	1	n
+265	lekuMdA	0	0	0	0	0	1	1	n,0
+266	lekuMdA	0	0	-	0	0	1	1	n,0
+267	le[V]	0	0	0	0	0	1	1	n,0
+268	le[V]	0	0	0	0	0	1	1	v
+269	le[V]	0	0	0	0	0	1	1	pn
+270	lemi	0	0	0	0	0	1	1	n,0
+271	leni	0	0	0	0	0	1	1	n,0
+272	leni	0	0	0	0	0	1	1	n,0
+273	leni	4	0	0	0	0	1	1	n,0
+274##242--lex[uUeoA]	0	0	0	0	0	1	1	avy
+275	logA	0	0	0	0	0	1	1	v,e
+276	logA	0	0	0	0	0	1	1	n,0
+277	lok[ieAo]	0	0	0	0	0	1	1	n,0
+278*246	lok[aeV]llA	0	0	0	0	0	1	1	n,0
+279	lopal	0	0	0	0	0	1	1	n,0
+280	mAlina	0	0	0	0	0	1	1	n,0
+281	mApaka	0	0	0	0	0	1	1	n,0
+282	aMw[aAeo]	0	0	eV	0	0	1	1	n,0	adv
+283	maMwu	0	0	0	0	0	1	1	n,0
+284	maMx[iIeAo]	0	0	0	0	0	1	1	adj
+285	maniR	0	0	0	0	0	1	1	n,0
+286	maniR	0	0	0	0	0	1	1	adj,0
+287	manuRul	0	0	0	0	0	1	1	n,0
+288	maya	0	0	0	0	0	1	1	n,0
+289	muKa[Mm]	0	0	0	0	0	1	1	n,0
+290	niMdA	0	0	0	0	0	1	1	n,0
+291*258	nir	3	0	-	0	0	0	1	1	n,0
+292	nnara	0	0	-	2	0	1	1	n,0
+293	nuM[dc]allA	0	0	0	0	0	1	1	n,0
+294	avoy[iI]*	2	0	u	0	0	1	1	n,0
+295	[yx]oy[iI]*	1	0	i	0	0	1	1	n,0
+296	[dnmrv]oy[iI]*	1	0	u	0	0	1	1	n,0
+297	oy[iI]*	0	0	u	0	0	1	1	n,0
+298	oy[iI]*	0	0	i	0	0	1	1	n,0
+299	oy[iI]*	1	0	a	0	0	1	1	n,0
+300	oy[iI]*	0	0	u	0	0	1	1	n,0
+301	oy[iI]*	0	0	i	0	0	1	1	n,0
+302	moy[iI]*	1	1	M	0	0	1	1	n,0
+303	moy[iI]*	1	0	u	0	0	1	1	n,0
+304	pAlYl	0	0	0	0	0	1	1	n,0
+305	pAlu	0	0	0	0	0	1	1	n,0
+306	pAti[xv]	0	0	0	0	0	1	1	n,0
+307	pAti[xv]	0	0	0	0	0	1	1	n,0
+308	pAtik	0	0	0	0	0	1	1	n,0
+309	pAtik	0	0	0	0	0	1	1	v,e
+310	pAtik	0	0	0	0	0	1	1	v,ina
+311	pAtik	0	0	0	0	0	1	1	n,0
+312	pAtu	0	0	0	0	0	1	1	n,0
+313	pUriw	0	0	0	0	0	1	1	n,0
+314	pUrvaka	0	0	0	0	0	1	1	n,0
+315	paMd[uAeoU]	0	0	0	0	0	1	1	n,0	v
+316	paMd[uAeoU]	0	0	0	0	0	1	1	n,0	n,0
+317	pacca[dlY][iIAeolu]	0	0	0	0	0	1	1	n,0
+318	palu	4	0	0	0	0	1	1	n,0
+319	para[Mm]	0	0	0	0	0	1	1	n,0
+320	paru[dnlr]	0	0	0	0	0	1	1	n,0
+321	patla	0	0	0	0	0	1	1	n,0
+322	pattu	5	0	0	0	0	1	1	n,0	v
+323	picci	0	0	0	0	0	1	1	n,0
+324	picci	5	0	0	0	0	1	1	n,0
+325	powu	0	0	0	0	0	1	1	n,0
+326	powu	4	0	0	0	0	1	1	n,0
+327	prAy[au]	0	0	0	0	0	1	1	n,ti
+328	puvv[uUAeo]	0	0	0	0	0	1	1	n,0	
+329--rA$	0	0	0	0	0	1	1	n,0
+330	rAni	0	0	0	0	0	1	1	n,0
+331	rahiw	0	0	0	0	0	1	1	n,0
+332	ran[iIAeo]	1	1	u	1	0	1	1	pn
+333	sAr[ieAo]	0	0	0	0	0	1	1	n,0
+334	sAr[ieAo]	0	0	0	0	0	1	1	pn
+335	sAr[ieAo]	0	0	0	0	0	1	1	v	
+336	sArl[iuUeAo]	0	0	0	0	0	1	1	n,0
+337	sarik[iIeAo]	0	0	0	0	0	1	1	v,e
+338	sarikallA	0	0	0	0	0	1	1	v,e
+339	sep[uaeAUo]	0	0	0	0	0	1	1	n,0
+340	vArI	0	0	0	0	0	1	1	n,0
+341	vaMti	0	0	0	0	0	1	1	n,0
+342	vaMti	0	0	0	0	0	1	1	n,0
+343	van[iIAeo]	1	0	i	1	0	1	1	n,0
+344	merak	0	0	0	0	0	1	1	n,0
+345	varak[uUeAo]	0	0	0	0	0	1	1	n,0
+346	varak[uUeAo]	0	0	0	0	0	1	1	n,ti
+347	varak[uUeAo]	0	0	0	0	0	1	1	v,e
+348	vewwa	0	0	0	0	0	1	1	n,0
+349	vidi	4	0	0	0	0	0	1	1	n,0
+350	wanAn[n]i	0	0	0	0	0	1	1	n,0
+351	wana[mM]	0	0	0	0	0	1	1	n,0
+352	warA	0	0	0	0	0	1	1	n,0
+353	wara[Mm]	0	0	0	0	0	1	1	n,0
+354	wara[Mm]	0	0	0	0	0	1	1	n,0
+355	warabadi	0	0	0	0	0	1	n,ti
+356	wonallA	0	0	0	0	0	1	1	pn
+357	wonallA	0	0	0	0	0	1	1	n,0
+358	wuly[au]	0	0	0	0	0	1	1	n,0
+359	xAru[dnl]	0	0	0	0	0	1	1	n,0
+360	xxAru	0	0	0	0	0	1	1	n,0
+361	xAyak	0	0	0	0	0	1	1	n,0
+362	xakRa	0	0	0	0	0	1	1	n,0
+363	xakRu[drnl]	0	0	0	0	0	1	1	n,0
+364	yaMw[A-Za-z]	0	0	0	0	0	1	1	n,0	pn
+365	yaMw[A-Za-z]	0	0	0	y	0	1	1	n,0	pn
+366	yeVdala	0	0	0	0	0	1	1	v,e
+367	yeVdala	0	0	0	0	0	1	1	v,wunna
+368	yeVwwu	0	0	0	0	0	1	1	n,ti
+369	yuw[au]	0	0	0	0	0	1	1	n,ti
+370	mAwru[ndlr]	0	0	0	0	0	1	1	n,ti
+371	maMx[iAoeI]	0	0	0	0	0	1	1	n,0	n
+372	prax[au]	0	0	0	0	0	1	1	n,0
+373##340--gA	0	0	0	0	0	1	1	n,0
+374	lA[gAa]	0	0	0	0	0	1	1	n,0
+375	rIwyA	0	0	0	0	0	1	1	n,0
+376	atti	0	0	a	0	0	1	1	v,ina
+377	lopu	0	0	0	0	0	1	1	n,0
+378	lopu	0	0	0	0	0	1	1	v
+379	gAr[uUAieol]	0	0	0	0	0	1	1	n,0
+380	rAv[uUAeol]	0	0	0	0	0	1	1	n,0
+381	reVdd[ieoAI]	0	0	0	0	0	1	1	n,0
+382	nAyu[nd][iueoA]	0	0	0	0	0	1	1	n,0
+383	SAswr[iueoAl]	0	0	0	0	0	1	1	n,0
+384	Sarm[aeoAl]	0	0	0	0	0	1	1	n,0
+385	[ndxvrm]annamAt[aAeo]	1	0	u	0	0	1	1	n,0
+386	[ndxvrm]annamAt[aAeo]	1	0	i	0	0	1	1	n,0
+387	parac[uaieA]	0	0	0	0	0	1	1	n,0
+388	par[iu]sw[ueAUo]	0	0	0	0	0	1	0	n,0
+389	veVMt[aAeo]	0	0	0	0	0	1	1	n,0
+390#359--le[nmvdrx][uAUeo]	0	0	0	0	0	1	0	n,0	avy
+391#59--le[nmvdrx][uAUeo]	0	0	0	0	0	1	0	v	avy
+392	lek[aAeo]	0	0	0	0	0	1	1	n,0
+393	lek[aAeo]	0	0	0	0	0	1	1	v
+394	gax[eAUa]	0	0	0	0	0	1	1	n,0
+395	gax[eAUa]	0	0	0	0	0	1	1	v
+396	mannA	1	1	M	0	0	1	1	n,0	v
+397	mannA	1	1	M	0	0	1	1	v,0	v
+398	maMt[AeaU]	1	1	M	0	0	1	1	n,0|v	avy
+399	mAwra[Mm]	0	0	0	0	0	1	1	pn
+400	mAwra[Mm]	0	0	0	0	0	1	1	n,0
+401	nenA	2	0	0	0	k	1	0	pn
+402##364--an[iIeAo]	0	0	i	0	0	1	1	v	n
+403	an[iIeAo]	0	0	u	0	0	1	1	n	n
+404	nan[iIeAo]	0	0	0	1	0	1	1	n	
+405	opew[au][mMdnl]	0	0	a	1	u	0	1	n,0
+406	vAra	0	0	0	0	0	1	1	n,0
+407	gAn[iIAeoUu]	0	0	0	0	0	1	1	n,0
+408	gANN[ieoA]	0	0	0	0	0	1	1	n,0
+409	svAm[iIueoA]	0	0	0	0	0	1	1	n,0
+410	aMd[iI]$	0	0	u	0	0	1	1	v
+411	aMd[iI]$	0	0	i	0	0	1	1	v
+412	aMdoyi$	0	0	u	0	0	1	1	n,0
+413	aMdoyi$	0	0	i	0	0	1	1	n,0
+414##374--gA	0	0	0	0	0	1	1	n,0
+415	vEpul[auAUeo]	0	0	0	0	0	1	1	n,0
+416	vEp[uUoeA]	0	0	0	0	0	1	1	n,0
+417	vEpul[auAUeo]	0	0	0	0	0	1	1	n,0
+418	vEp[uoeAU]	0	0	0	0	0	1	1	n,0
+419	raMg[Aa]	0	0	0	0	0	1	1	n,0
+420	kAMda	0	0	0	0	0	1	1	n,0
+421*381	kara[Mm]	0	0	0	0	0	1	1	n,0
+422	SAl[iIueoA]	0	0	0	0	0	1	1	n,0
+423	upa	3	0	0	0	0	1	1	n,0
+424	kuMx[iIeAo]	1	0	u	0	0	1	1	n,0
+425	awan[uiIeAo]	0	0	u	0	0	1	1	v	pn
+426	awan[uiIeAo]	0	0	i	0	0	1	1	v	pn
+427	awan[uiIeAo]	0	0	eV	0	0	1	1	v	pn
+428	nAd[uUeAo]*	0	0	0	0	0	1	1	n,0
+429	nAt[ia]	0	0	0	0	0	1	1	n,0
+430	em[iIo]	0	0	u	0	0	1	1	pn,0
+431	em[iIo]	0	0	i	0	0	1	1	pn,0
+432	em[iIo]	0	0	a	0	0	1	1	pn,0
+433	em[iIo]	0	0	u	0	0	1	1	v,0
+434	em[iIo]	0	0	i	0	0	1	1	v,0
+435	em[iIo]	0	0	a	0	0	1	1	v,0
+436	em[iIo]	0	0	u	0	0	1	1	n,0
+437	em[iIo]	0	0	i	0	0	1	1	n,0
+438	em[iIo]	0	0	a	0	0	1	1	n,0
+439	pUrva[mM]	0	0	0	0	0	1	1	v
+440	eVllA	0	0	i	0	0	1	1	pn
+441	mat[Aeo]	0	0	M	m	0	1	1	n,0
+442	uMd[Aeiou]	0	0	u	0	0	1	1	n,0
+443	uMd[Aeiou]	0	0	u	0	0	1	1	v,0
+444	uMd[Aeiou]	0	0	i	0	0	1	1	n,0
+445	uMd[Aeiou]	0	0	i	0	0	1	1	v,0
+446	uMd[Aeiou]	0	0	a	0	0	1	1	n,0
+447	uMd[Aeiou]	0	0	a	0	0	1	1	v,0
+448	uMd[Aeiou]	0	0	eV	0	0	1	1	n,0
+449	#oMx[Aeiou]	0	1	0	1	u	1	1	v
+450	ayyA[nmvrd]	0	0	u	0	0	1	1	n,0	v
+451	ayyA[nmvrd]	0	0	i	0	0	1	1	n,00	v
+452	ayyA[nmvrd]	0	0	u	0	0	1	1	n,00	v
+453	buxX	0	0	0	0	0	1	1	v
+454	mEnA	1	1	M	0	0	1	1	n,0
+455	annamAt[aAeo]	0	0	u	0	0	1	1	n,0
+456	annamAt[aAeo]	0	0	i	0	0	1	1	n,0
+457	annamAt[aAeo]	0	0	u	0	0	1	1	n,0
+458	annamAt[aAeo]	0	0	i	0	0	1	1	n,0
+459	mannamAt[aAeo]	1	1	M	0	0	1	1	n,0
+460	annamAt[aAeo]	0	0	a	0	0	1	1	avy	n
+461	mahA	4	0	0	0	0	1	1	n,0
+462	mahA	4	0	0	0	a	1	1	n,0
+463	mahA	4	0	0	0	A	1	1	n,0
+464	maho	4	o	A	0	u	1	1	n,0
+465	mahe	4	e	A	0	I	1	1	n,0
+466	mahe	4	e	A	0	i	1	1	n,0
+467	cot[aAiuoe]	0	0	0	0	0	1	1	v,ina
+468	cot[aAiuoe]	0	0	0	0	0	1	1	v,wunna
+469	cot[aAiuoe]	0	0	0	0	0	1	1	v,e
+470	sum[AI]	0	0	0	0	0	1	1	v
+471	sm[AI]	0	0	0	0	0	1	1	v
+472	annAy	0	0	u	0	0	1	1	v	v
+473	annAy	0	0	i	0	0	1	1	v	v
+474	[kg]an[au]k[aAe]	0	0	0	0	0	1	1	pn,0
+475	leVxx[uU]	0	0	0	0	0	1	1	v
+476#425--pE	0	0	0	0	0	1	1	n,0
+477#425--pE	2	0	0	0	0	1	1	n,0
+478	mallA	1	1	M	0	0	1	1	n,0
+479	lopad[uaieoA]	0	0	0	0	0	1	1	n,0
+480	lopadd[aA]	0	0	0	0	0	1	1	n,0
+481	llopad[uaieoA]	0	0	la	1	0	1	1	n,ti
+482	llopadd[aA]	0	0	la	1	0	1	1	n,ti
+483	A#$	0	0	u	0	0	1	1	n,0
+484	A#$	0	0	i	0	0	1	1	n,0
+485	A#$	0	0	eV	0	0	1	1	n,0
+486	A#$	0	0	a	0	0	1	1	n,0
+487	kunna	1	0	u	0	0	1	1	n,0
+488	kunna	0	0	i	0	0	1	1	n,0
+489	unna	0	0	a	0	0	1	1	n,0
+490	unna	0	0	u	0	0	1	1	n,0
+491	unna	0	0	i	0	0	1	1	n,0
+492	anuk[oVu]	0	0	a	0	0	1	1	n,0	v
+493	anuk[oVu]	0	0	eV	0	0	1	1	n,0	v
+494	ce[Vy]	0	0	0	0	0	1	1	n,0	v
+495	Ayan[aAeo]	0	0	u	0	0	1	1	n,0	pn
+496	Avid[aAeo]	0	0	i	0	0	1	1	n,0	pn
+497	mudi	4	0	0	0	0	0	1	n,0
+498	mudi	0	0	0	0	0	0	1	n,0
+499	nIya	0	0	0	0	0	1	1	n,0
+500	nIyu	0	0	0	0	0	1	1	n,0
+501	sIma	4	0	0	0	0	0	1	n,0
+502	prajA	5	0	0	0	0	0	1	n,0
+503	eka	3	0	0	0	0	0	1	n,0
+504	namm[AoIa]	0	0	0	n	0	1	1	n,0
+505*452	Epo	0	0	u	0	0	1	1	n,0	v
+506	Epo	0	0	i	0	0	1	1	n,0	v
+507	sAg[Aieauo]	0	0	0	0	0	1	1	n,0	v
+508	yatuvaMti	1	1	0	0	0	1	1	n,0
+509*456	kAx[uUAeo]$	0	0	0	0	0	1	1	v	v
+510*457	gAla	0	0	0	0	0	1	1	n,0	v
+511	xuRta	5	0	0	0	0	1	1	n,0
+512	l[aieV]nnit	0	0	u	0	0	1	1	n,0	p
+513	l[aieV]nnit	0	0	i	0	0	1	1	n,0
+514	l[aieV]nnit	0	0	a	0	0	1	1	n,0
+515	l[aieV]nnit	0	0	eV	0	0	1	1	n,0
+516	mEnapp	1	1	M	0	0	1	1	n,0	n,0
+517	meWo	4	0	0	0	0	1	1	n,0
+518	[m]anna	0	0	0	0	0	1	0	v,0	avy
+519	[m]anna	0	0	u	0	0	1	0	v,0	avy
+520	[m]anna	0	0	i	0	0	1	0	v,0	avy
+521	[m]anna	0	0	a	0	0	1	0	v,0	avy
+522	[m]anna	0	0	eV	0	0	1	0	v,0	avy
+523	anna	0	0	u	0	0	1	0	n,0	avy
+524	anna	0	0	i	0	0	1	0	n,0	avy
+525	anna	0	0	a	0	0	1	0	n,0	avy
+526	anna	0	0	eV	0	0	1	0	n,0	avy
+527	sAr[ieAo]	0	0	0	0	0	1	1	n,0
+528	sArl[uUeAo]	0	0	0	0	0	1	1	n,0
+529	pexa	4	0	0	0	0	1	1	n,0
+530	pexa	4	0	0	0	0	1	1	pn,0
+531	kriwa	0	0	0	0	0	1	1	n,0
+532	mayy[eo]	1	1	M	0	0	1	1	n,0	v
+533	ayy[eo]	0	0	u	0	0	1	1	n,0	v
+534	ayy[eo]	0	0	i	0	0	1	1	n,0	v
+535	ayy[eo]	0	0	a	0	0	1	1	n,0	v
+536	ayy[eo]	0	0	eV	0	0	1	1	n,0	v
+537	[cj]es[ieouw]	0	0	0	0	0	1	1	n,0	v
+538	[cj]eSA	0	0	0	0	0	1	1	n,0	v
+539	[cj]eVyy	0	0	0	0	0	1	1	n,0	v
+540	aMxar[ia]	0	0	a	0	0	1	1	pn	pn
+541	aMx[aie]	0	0	u	0	0	1	1	n,0	v
+542	aMx[aie]	0	0	i	0	0	1	1	n,0	v
+543	aMx[aie]	0	0	a	0	0	1	1	n,0	v
+544	pUt[aeAo]	0	0	0	0	0	1	1	n,0
+545	mavu	0	0	M	1	0	1	1	n,0	v,wA
+546	I	0	0	0	0	0	1	1	avy
+547	IkaraN	0	0	a	0	0	1	1	n,0
+548	Ikqw	0	0	a	0	0	1	1	n,0
+549	sarva	5	0	0	0	0	1	1	n,0
+550	sarvo	5	1	a	0	u	1	1	n,0
+551	sarvo	5	1	a	0	o	1	1	n,0
+552	sarve	5	1	a	0	i	1	1	n,0
+553	sarve	5	1	a	0	e	1	1	n,0
+554	suxIrGa	7	0	0	0	0	1	1	n,0
+555	suxIrGo	7	1	a	0	u	1	1	n,0
+556	svArWa	6	0	0	0	0	1	1	n,0
+557	svArWo	6	1	a	0	u	1	1	n,0
+558	svArWe	6	1	a	0	i	1	1	n,0
+559	uMt[eAUu]	0	0	i	0	0	1	1	v,0	v
+560	uMt[eAUu]	0	0	u	0	0	1	1	v,0	v
+561	uMt[eAUu]	0	0	a	0	0	1	1	v,0	v
+562	uMt[eAUu]	0	0	u	0	0	1	1	n,0	v
+563	uMt[eAUu]	0	0	i	0	0	1	1	n,0	v
+564	uMt[eAUu]	0	0	a	0	0	1	1	n,0	v
+565	manuk[oVu]	1	0	u	0	0	1	1	n,0	v
+566	tatuvaMti	1	1	0	0	0	1	1	n,0
+567	atuvaMti	0	0	a	0	0	1	1	n,0
+568	kara	0	0	0	0	0	1	1	n,0
+569	kArak	0	0	0	0	0	1	1	n,0
+570	Ewe	0	0	u	0	0	1	1	v	v
+571	Ewe	0	0	i	0	0	1	1	v	v
+572	[cj]es[ieouw]	0	0	0	0	0	1	1	n,0	v
+573	[cj]eSA	0	0	0	0	0	1	1	n,0	v
+574	[cj]eVyy	0	0	0	0	0	1	1	n,0	v
+575	[dmrvnx]anI	1	0	u	0	0	1	1	v,
+576	xanI	1	0	i	0	0	1	1	v,
+577	vuMx[iIeAo]	0	0	0	0	0	1	1	n,0
+578	vuMx[iIeAo]	0	0	0	0	0	1	1	n,0
+579	vuMx[iIeAo]	0	0	0	0	0	1	1	n,0
+580	muMx[iIeAo]	1	1	M	0	0	1	1	n,0
+581	maMxara	1	0	u	0	0	1	1	pn	pn
+582	kunna	0	0	u	0	0	1	1	v,0	
+583	kunna	0	0	i	0	0	1	1	v,0	
+584	kunna	0	0	u	0	0	1	1	n,0	
+585	kunna	0	0	i	0	0	1	1	n,0	
+586	unna	0	0	u	0	0	1	1	v,0	
+587	unna	0	0	i	0	0	1	1	v,0	
+588	unna	0	0	u	0	0	1	1	n,0	
+589	unna	0	0	i	0	0	1	1	n,0	
+590	mAwrAn	0	0	0	0	0	1	0	n,0	
+591	unna	0	0	u	0	0	1	1	adv	
+592	unna	0	0	i	0	0	1	1	adv	
+593	unna	0	0	a	0	0	1	1	adv	
+594	unna	0	0	eV	0	0	1	1	adv	
+595	nAti	0	0	0	0	0	1	1	n,0	
+596	Alop[aA]	1	1	a	0	0	1	1	n,0
+597#530	lokann[aA]	0	0	0	0	0	1	1	n,0
+598	kAgA	0	0	0	0	0	1	0	n,0	avy
+599	kAgA	0	0	0	0	0	1	0	pn	avy
+600	lexan	0	0	0	0	0	1	1	v	v
+601#535--le[nmvdrx][uAUeo]	0	0	0	0	0	1	1	n,0
+602	aMt[aAeU]	0	0	i	0	0	1	1	v	avy
+603	aMtunnA	0	0	u	0	0	1	1	n	v
+604	aMtunnA	0	0	u	0	0	1	1	v	v
+605	maMt[AeaU]	1	1	M	0	0	1	1	v	avy
+606	[xy]aMtunnA	1	0	i	0	0	1	1	v	v
+607	[xy]aMtunnA	1	0	i	0	0	1	1	avy	v
+608	[xy]aMtunnA	1	0	i	0	0	1	1	n	v
+609	[xy]aMtunnA	1	0	i	0	0	1	1	adj	v
+610	kUd[Aaie]	0	0	0	0	0	1	1	n,0
+611	kUd[Aaie]	0	0	0	0	0	1	1	v
+612	unnA	0	0	0	0	0	1	1	v	v
+613	unnA	0	0	0	0	0	1	1	n	v
+614	unnA	0	0	u	0	0	1	1	n,0	v
+615	unnA	0	0	i	0	0	1	1	n,0	v
+616	unnA	0	0	a	0	0	1	1	n,0	v
+617	pad[uaieoA]	0	0	0	0	0	1	1	n,0	v
+618	padd[aA]	0	0	0	0	0	1	1	n,0
+619	ayyA[nmvrd]	0	0	i	0	0	1	1	n,0	v
+620	lenapp	0	0	0	0	0	1	1	v	avy
+621	param	0	0	0	0	0	1	1	n,0	
+622	mEnat	1	1	M	0	0	1	1	n,0	v,ina
+623	gAne[gk]Aka	0	0	0	0	0	1	0	n,0
+624	kAnekA	0	0	0	0	0	1	0	n,0	
+625	kAnekA	0	0	0	0	0	1	0	n,0	
+626	kAnekA	0	0	0	0	0	1	0	n,0	
+627	mEna	1	1	M	0	0	1	1	n,0	
+628	Epo	0	0	a	0	0	1	1	n,0	v
+629	Epo	0	0	eV	0	0	1	1	n,0	v
+630	k[r]iwaM	0	0	0	0	0	1	1	n,0
+631	ne[gk]Ak	0	0	0	0	0	1	0	n,e	avy
+632	e[gk]Ak	0	0	0	0	0	1	0	n,e	avy
+633	e[gk]Ak	0	0	0	0	0	1	0	pn,e	avy
+634	oVka	4	0	0	0	0	1	1	n,0	
+635	reVMdu	6	0	0	0	0	1	1	n,0	
+636	e[V]Mxu	0	0	a	0	0	1	1	avy	
+637	e[V]Mxu	0	0	u	0	0	1	1	avy	
+638	e[V]Mxu	0	0	i	0	0	1	1	avy	
+639	e[V]Mxu	0	0	a	0	0	1	1	adv	
+640	e[V]Mxu	0	0	u	0	0	1	1	adv	
+641	e[V]Mxu	0	0	i	0	0	1	1	adv	
+642	e[V]Mxu	0	0	a	0	0	1	1	pn,0	
+643	e[V]Mxu	0	0	i	0	0	1	1	pn,0	
+644	e[V]Mxu	0	0	u	0	0	1	1	pn,0	
+645	e[V]Mxu	0	0	a	0	0	1	1	n,0	
+646	e[V]Mxu	0	0	u	0	0	1	1	n,0	
+647	e[V]Mxu	0	0	i	0	0	1	1	n,0	
+648	e[V]Mxu	0	0	u	0	0	1	1	v,0	
+649	e[V]Mxu	0	0	a	0	0	1	1	v,0	
+650	e[V]Mxu	0	0	i	0	0	1	1	v,0	
+651	mUdu	4	0	0	0	0	1	1	n,0	
+652	nAlugu	6	0	0	0	0	1	1	n,0	
+653	Exu	3	0	0	0	0	1	1	n,0	
+654	ayixu	5	0	0	0	0	1	1	n,0	
+655	Aru	3	0	0	0	0	1	1	n,0	
+656	edu	3	0	0	0	0	1	1	n,0	
+657	eVnimixi	8	0	0	0	0	1	1	n,0	
+658	woVmmixi	8	0	0	0	0	1	1	n,0	
+659	paxi	4	0	0	0	0	1	1	n,0	
+660	vaMxa	5	0	0	0	0	1	1	n,0	
+661	nUru	4	0	0	0	0	1	1	n,0	
+662	veVyyi	6	0	0	0	0	1	1	n,0	
+663	veyi	4	0	0	0	0	1	1	n,0	
+664	lakRa	5	0	0	0	0	1	1	n,0	
+665	koti	4	0	0	0	0	1	1	n,0	
+666	palYl[uAeoU]	0	0	0	0	0	1	1	n,0	
+667	palYl[uAeoU]	0	0	0	0	0	1	1	v	
+668	koVMwa	6	0	0	0	0	1	1	n,0	
+669	koVnni	6	0	0	0	0	1	1	n,0	
+670	koVwwa	6	0	0	0	0	1	1	n,0	
+671	mAlok[aA]	0	0	0	0	0	1	1	n,0	
+672	neVl[aAoe]	0	0	0	0	0	1	1	n,0	
+673	roj[uUAoe]	0	0	0	0	0	1	1	n,0	
+674	roj[uUAoe]	0	0	0	0	0	1	1	v	
+675	koVka	1	0	u	0	0	1	1	n,0	
+676	lannA	1	0	i	0	0	1	1	n,0	v
+677	Ayan[aAeo]	0	0	a	0	0	1	1	n,0	pn
+678	Ayan[aAeo]	0	0	i	0	0	1	1	n,0	pn
+679	Avid[aAeo]	0	0	u	0	0	1	1	n,0	pn
+680	Avid[aAeo]	0	0	a	0	0	1	1	n,0	pn
+681	keVlYl[uUaAeoi]	1	0	i	0	v	1	1	n,0	v
+682	EMx[iIAeo]	0	0	u	0	0	1	1	n,0	v
+683	EMx[iIAeo]	0	0	i	0	0	1	1	n,0	v
+684	EMx[iIAeo]	0	0	a	0	0	1	1	n,0	v
+685	EMx[iIAeo]	0	0	eV	0	0	1	1	n,0	v
+686	avuwA	0	0	u	0	0	1	1	n,0	v
+687	avuwA	0	0	i	0	0	1	1	n,0	v
+688	avuwA	0	0	a	0	0	1	1	n,0	v
+689	aMxar[ia]	0	0	u	0	0	1	1	pn	pn
+690	aMxar[ia]	0	0	i	0	0	1	1	pn	pn
+691	koVcc	1	0	u	0	0	1	1	n,0	v
+692	koVcc	1	0	u	0	0	1	1	nst	v
+693	koVcc	1	0	i	0	0	1	1	n,0	v
+694	koVsw	1	0	u	0	0	1	1	n,0	v
+695	koVsw	1	0	i	0	0	1	1	n,0	v
+696	kicc	1	0	u	0	0	1	1	n,0	v
+697	kicc	1	0	i	0	0	1	1	n,0	v
+698	kisw	1	0	u	0	0	1	1	n,0	v
+699	kisw	1	0	i	0	0	1	1	n,0	v
+700	koVcc	1	0	u	0	0	1	1	pn	v
+701	koVcc	1	0	i	0	0	1	1	pn	v
+702	koVsw	1	0	u	0	0	1	1	pn	v
+703	koVsw	1	0	i	0	0	1	1	pn	v
+704	kicc	1	0	u	0	0	1	1	pn	v
+705	kicc	1	0	i	0	0	1	1	pn	v
+706	kisw	1	0	u	0	0	1	1	pn	v
+707	kisw	1	0	i	0	0	1	1	pn	v
+708	koVka	1	0	i	0	0	1	1	n,0	
+709	koVka	1	0	u	0	0	1	1	n,0	
+710	koVka	1	0	i	0	0	1	1	n,0	
+711	unnA	0	0	u	0	0	1	1	v	v
+712	unnA	0	0	i	0	0	1	1	v	v
+713	uMx[iAeIo]	0	0	u	0	0	1	1	v,wA	v,wA
+714	uMx[iAeIo]	0	0	i	0	0	1	1	v,wA	v,wA
+715	uMx[iAeIo]	0	0	u	0	0	1	1	n,0	v,wA
+716	uMx[iAeIo]	0	0	i	0	0	1	1	n,0	v,wA
+717	uMx[iAeIo]	0	0	a	0	0	1	1	n,0	v,wA
+718	kkAvAl[aAiIeo]	1	0	u	0	0	1	1	n,0	
+719	kkAvAl[aAiIeo]	1	0	i	0	0	1	1	n,0	
+720	kkAvAl[aAiIeo]	1	0	u	0	0	1	1	n,0	
+721	kkAvAl[aAiIeo]	1	0	i	0	0	1	1	n,0	
+722	kAvAl[aAiIeo]	0	0	0	0	0	1	1	n,0	
+723	micc[Aie]	1	1	M	0	0	1	1	n	v
+724	icc[Aie]	0	0	u	0	0	1	1	n,0	v
+725	icc[Aie]	0	0	0	0	0	1	1	n,0	v
+726	vaMwu	0	0	0	0	0	1	1	n,0	
+727	vaMwu	0	0	0	0	0	1	1	n,0	
+728	vaMwu	0	0	0	0	0	1	1	n,0	
+729	[ai]napudu	2	0	a	0	0	1	1	v	avy
+730	ivv[auA]	0	0	u	0	0	1	1	n,0	v
+731	ivv[auA]	0	0	i	0	0	1	1	n,0	v
+732	lannA	1	0	u	0	0	1	1	n,0	v
+733	esiMx	0	0	u	0	0	1	1	n,0	v
+734	esiMx	0	0	i	0	0	1	1	n,0	v
+735	esiMx	0	0	a	0	0	1	1	n,0	v
+736	eSA[dmvnly]	0	0	u	0	0	1	1	n,0	v
+737	eSA[dmvnly]	0	0	i	0	0	1	1	n,0	v
+738	eSA[dmvnly]	0	0	a	0	0	1	1	n,0	v
+739	es[iwe]	0	0	u	0	0	1	1	n,0	v
+740	es[iwe]	0	0	i	0	0	1	1	n,0	v
+741	es[iwe]	0	0	a	0	0	1	1	n,0	v
+742	es[iwe]	0	0	eV	0	0	1	1	n,0	v
+743	eVyy[aAo]	0	0	u	0	0	1	1	n,0	v
+744	eVyy[aAo]	0	0	i	0	0	1	1	n,0	v
+745	eVyy[aAo]	0	0	a	0	0	1	1	n,0	v
+746	emannA	0	0	u	0	0	1	1	n,0	
+747	emannA	0	0	i	0	0	1	1	n,0	
+748	emannA	0	0	a	0	0	1	1	n,0	
+749	emEnA	0	0	u	0	0	1	1	n,0	
+750	emEnA	0	0	i	0	0	1	1	n,0	
+751	emEnA	0	0	eV	0	0	1	1	n,0	
+752	Ade	0	0	i	0	0	1	1	n,0	v
+753	Ade	0	0	u	0	0	1	1	n,0	v
+754	Ade	0	0	a	0	0	1	1	n,0	v
+755	Ada	3	0	0	0	0	1	1	n,0	
+756	oVka	0	0	u	0	0	1	1	n,0	
+757	oVka	0	0	i	0	0	1	1	n,0	
+758	oVka	0	0	a	0	0	1	1	n,0	
+759	oVka	0	0	eV	0	0	1	1	n,0	
+760	nAtu	4	0	0	0	0	1	1	n,0	
+761	eVnn	0	0	u	0	0	1	1	pn	pn
+762	eVnn	0	0	i	0	0	1	1	pn	pn
+763	eVnn	0	0	eV	0	0	1	1	pn	pn
+764	eVnn	0	0	u	0	0	1	1	n,0	pn
+765	EnA	0	0	i	0	0	1	1	n,0	n,0_avy
+766	EnA	0	0	a	0	0	1	1	n,0	n,0_avy
+767	EnA	0	0	u	0	0	1	1	avy,	n,0_avy
+768	EnA	0	0	u	0	0	1	1	n,0_adv	n,0_avy
+769	EnA	0	0	u	0	0	1	1	n,0	n,0_avy
+770	EnA	0	0	i	0	0	1	1	avy,	n,0_avy
+771	EnA	0	0	i	0	0	1	1	n,xi	n,0_avy
+772	nEnA	1	0	i	0	0	1	1	n,loni	n,0_avy
+773	kEnA	1	0	i	0	0	1	1	n,0_avy	n,0_avy
+774	kEnA	1	0	i	0	0	1	1	n,ki	n,0_avy
+775	kEnA	1	0	i	0	0	1	1	pn,ki	n,0_avy
+776	EnA	0	0	i	0	0	1	1	pn,ni	n,0_avy
+777	EnA	0	0	i	0	0	1	1	pn,0	n,0_avy
+778	EnA	0	0	u	0	0	1	1	pn,0	n,0_avy
+779	EnA	0	0	a	0	0	1	1	pn,0	n,0_avy
+780	Ewe	0	0	a	0	0	1	1	n,0_adj	v,we
+781	Ewe	0	0	u	0	0	1	1	n,0	v,we
+782	Ewe	0	0	i	0	0	1	1	n,0	v,we
+783	Ewe	0	0	a	0	0	1	1	n,0	v,we
+784	Ewe	0	0	eV	0	0	1	1	n,0	v,we
+785	mEwe	1	1	M	0	0	1	1	n,0	v,we
+786	Ewe	0	0	u	0	0	1	1	pn,0	v,we
+787	aMxEwe	3	0	u	0	0	1	1	pn,aMxu	v,we
+788	varakEwe	5	0	u	0	0	1	1	pn,varaku	v,we
+789	Ewe	0	0	i	0	0	1	1	pn,0	v,we
+790	Ewe	0	0	i	0	0	1	1	n,0_avy	v,we
+791	Ewe	0	0	a	0	0	1	1	pn,0	v,we
+792	Ewe	0	0	eV	0	0	1	1	pn,0	v,we
+793	Ewe	0	0	0	0	0	1	1	pn,0	v,we
+794	Ewe	0	0	i	0	0	1	1	adj,	v,we
+795	mEwe	1	1	M	0	0	1	1	pn,0	v,we
+796	gEwe	1	0	a	0	0	1	1	n,0_avy	v,we
+797	Ewe	0	0	a	0	0	1	1	avy,	v,we
+798	kEwe	1	0	u	0	0	1	1	pn,ki	v,we
+799	kEwe	1	0	i	0	0	1	1	pn,ki	v,we
+800	kEwe	1	0	u	0	0	1	1	n,	v,
+801	kirolu	2	2	0	0	0	1	1	n	n
+802	kirA	2	0	0	0	0	1	1	n	v
+803	ikkada	0	0	u	0	0	1	1	v	adv
+804	akkada	0	0	u	0	0	1	1	v	adv
+805	e[V]var[uU]	0	0	u	0	0	1	1	v	adv
+806	e[V]var[uU]	0	0	u	0	0	1	1	n	adv
+807	e[V]var[uU]	0	0	u	0	0	1	1	adv	adv
+808	e[V]var[uU]	0	0	u	0	0	1	1	pn	adv
+809	e[V]ppud[uU]	0	0	u	0	0	1	1	v	adv
+810	e[V]ppud[uU]	0	0	u	0	0	1	1	n	adv
+811	e[V]ppud[uU]	0	0	u	0	0	1	1	adv	adv
+812	e[V]ppud[uU]	0	0	u	0	0	1	1	pn	adv
+813	e[V]kkad[aA]	0	0	u	0	0	1	1	adv	adv
+814	e[V]kkad[aA]	0	0	u	0	0	1	1	pn	adv
+815	e[V]kkad[aA]	0	0	u	0	0	1	1	v	adv
+816	e[V]kkada	0	0	u	0	0	1	1	n	adv
+817	neVll	0	0	u	0	0	1	1	n	adv
+818	neVlal	0	0	u	0	0	1	1	n	adv
+819	isw[euAiU]	0	0	u	0	0	1	1	n,0	v
+820	isw[euAiU]	0	0	i	0	0	1	1	n,0	v
+821	lonu	0	0	0	0	0	1	1	n	v
+822	lak[uae]$	0	0	0	0	0	1	1	n	
+823	ulak[uae]$	1	0	na	0	0	1	1	v	
+824	oVkk	0	0	i	0	0	1	1	pn	
+825	oVkk	0	0	i	0	0	1	1	n	
+826	oVkk	0	0	i	0	0	1	1	v	
+827	emiti	0	0	i	0	0	1	1	v	
+828	emiti	0	0	i	0	0	1	1	n	
+829	emiti	0	0	i	0	0	1	1	adj	
+830	emiti	0	0	i	0	0	1	1	pn	
+831	peru	0	0	0	0	0	1	1	avy	
+832	peru	0	0	0	0	0	1	1	pn	
+833	peru	0	0	0	0	0	1	1	n	
+834	peru	0	0	0	0	0	1	1	v	
+835	egAka	1	0	0	0	0	1	1	n
+836	wetaMwat	3	1	0	0	0	1	1	v
+837	keVlA	1	0	i	0	0	1	1	n	
+838	keVlA	1	0	i	0	0	1	1	v	
+839	apani	1	0	0	0	0	1	1	v,ina	n
+840	keVMw	1	0	u	0	0	1	1	v
+841	luM[cxd]	1	0	u	0	0	1	0	n
+842	rata	1	0	u	0	0	1	1	pn
+843	rani	1	0	u	0	0	1	1	pn
+844	iveVlY	1	0	0	0	0	1	1	v
+845	napp	1	0	a	0	0	1	1	v
+846	kaxA	0	0	0	0	a	1	1	n,0
+847	dunn	1	0	u	0	0	1	1	n,0	v

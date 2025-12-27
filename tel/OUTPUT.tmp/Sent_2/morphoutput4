@@ -1,0 +1,4 @@
+1	nenu	unk	<fs af='nenu,pn,,sg,,,0,0'>
+2	ikkada	unk	<fs af='ikkada,adv,n,,,,0,0_adv'>|<fs af='ikkada,n,n,sg,,,0,0', case_name='Nom'>|<fs af='ikkada,n,n,sg,,,obl,obl'>
+3	unnAnu	unk	<fs af='uMdu,v,,sg,1,,A,A', Tense='Pst'>
+4	.	unk	<fs af='&dot;,punc,,,,,,'>

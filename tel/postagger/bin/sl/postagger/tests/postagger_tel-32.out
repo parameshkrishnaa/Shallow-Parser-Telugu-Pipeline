@@ -1,0 +1,11 @@
+<Sentence id="1">			
+1	rAjapuwrula	NN	<fs af='rAjapuwrudu,n,,pl,,o,ti,ti'>
+2	saMwawivAru	NN	<fs af='saMwawivAru,n,,sg,,d,0,0'>|<fs af='saMwawivAru,n,,sg,,o,ti,ti'>|<fs af='saMwawi,n,,sg,,,vAru,vAru'>
+3	ippatikI	NST	<fs af='ippatiki,avy,,,,,V,V_avy'>|<fs af='ippudu,nst,,,,,ki_V,ki_V_adv'>
+4	vAri	PRP	<fs af='vAru,pn,fm,pl,3,o,ti,ti'>
+5	hoxAlo	NN	<fs af='hoxA,n,,pl,,,0,0_o'>|<fs af='hoxA,n,,sg,,,lo,lo'>
+6	koVnasAguwunnAru	VM	<fs af='koVnasAgu,v,fm,pl,3,,wunn,wunn'>|<fs af='koVnasAgu,v,fm,pl,3,,wunn,wunn'>
+7	.	SYM	<fs af='&dot;,punc,,,,,,'>
+</Sentence>			
+<Sentence id="2">			
+</Sentence>			

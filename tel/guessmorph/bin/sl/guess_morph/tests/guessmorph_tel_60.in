@@ -1,0 +1,22 @@
+<Sentence id="1">
+1	((	NP	
+1.1	ulAn	NN	<fs af='ulAn,unk,,,,,,' poslcat="NM">
+	))		
+2	((	NP	
+2.1	bawor	NN	<fs af='bawor,unk,,,,,,' poslcat="NM">
+	))		
+3	((	NP	
+3.1	xIni	PRP	<fs af='ixi,pn,fn,sg,3,o,ti,ti'>
+	))		
+4	((	NP	
+4.1	rAjaXAni	NN	<fs af='rAjaXAni,n,,sg,,d,0,0'>|<fs af='rAjaXAni,n,,sg,,o,ti,ti'>
+	))		
+5	((	CCP	
+5.1	mariyu	CC	<fs af='mariyu,avy,,,,,0,0_avy'>
+	))		
+6	((	NP	
+6.1	awipeVxxa	JJ	<fs af='awipeVxxa,adj,,,,,0,0_adj'>
+6.2	nagaramUnu	NN	<fs af='nagaraM,n,,sg,,,0,0_V'>
+6.3	.	SYM	<fs af='&dot;,punc,,,,,,'>
+	))		
+</Sentence>

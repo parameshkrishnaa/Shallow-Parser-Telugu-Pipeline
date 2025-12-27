@@ -1,0 +1,2 @@
+#define SIZEOF_IND 15
+#define SIZEOF_LEX 100

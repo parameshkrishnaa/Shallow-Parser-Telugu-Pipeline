@@ -1,0 +1,40 @@
+<Sentence id="1">			
+1	((	NP	
+1.1	oVkappati	NST	<fs af='oVkappudu,nst,,,,,yoVkka,yoVkka_adv'>
+	))		
+2	((	NP	
+2.1	nirmAwa	NN	<fs af='nirmAwa,n,,sg,,d,0,0'>|<fs af='nirmAwa,n,,sg,,o,ti,ti'>
+	))		
+3	((	VGNF	
+3.1	kAtragadda	VM	<fs af='kAtragadda,n,,sg,,d,0,0' poslcat="NM">'>|<fs af='kAtragadda,n,,sg,,o,ti,ti' poslcat="NM">'>
+	))		
+4	((	NP	
+4.1	murAri	NN	<fs af='murAri,n,,sg,,d,0,0'>|<fs af='murAri,n,,sg,,o,ti,ti'>
+	))		
+5	((	NP	
+5.1	ImaXya	NN	<fs af='ImaXya,n,,sg,,d,0,0'>|<fs af='ImaXya,n,,sg,,o,ti,ti'>
+	))		
+6	((	NP	
+6.1	wana	PRP	<fs af='wAnu,pn,,sg,,o,ti,ti'>
+6.2	AwmakaWa	NN	<fs af='AwmakaWa,n,,sg,,d,0,0'>|<fs af='AwmakaWa,n,,sg,,o,ti,ti'>
+6.3	'	SYM	<fs af='&apos;,punc,,,,,,'>
+	))		
+7	((	VGF	
+7.1	navvipoxurugAka	VM	<fs af=',num,,,,,,' poslcat="NM">
+7.2	'	SYM	<fs af='&apos;,punc,,,,,,'>
+7.3	,	SYM	<fs af='&comma;,punc,,,,,,'>
+	))		
+8	((	BLK	
+8.1	ane	UT	<fs af='ane,avy,,,,,,'>|<fs af='ani,avy,,,,,e,e_avy'>
+	))		
+9	((	NP	
+9.1	puswakAnni	NN	<fs af='puswakaM,n,,sg,,,nu,nu'>|<fs af='puswakaM,n,,sg,,,ni,ni'>
+	))		
+10	((	NP	
+10.1	viduxala	NN	<fs af='viduxala,n,,sg,,d,0,0'>|<fs af='viduxala,n,,sg,,o,ti,ti'>
+	))		
+11	((	VGF	
+11.1	ceSAru	VM	<fs af='ceVyyi,v,fm,pl,3,,A,A'>
+11.2	.	SYM	<fs af='&dot;,punc,,,,,,'>
+	))		
+</Sentence>			

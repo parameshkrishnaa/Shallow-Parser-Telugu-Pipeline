@@ -1,0 +1,17 @@
+1       ((      NP
+2	gAMXIjI	NNP	
+3	kI	PSP	<fs af='kA,sh_n,s,f,,0,Shashthi,'>
+	))
+5       ((      NP
+6	life	NN	<fs af='life,n,f,s,,0,,'>	
+	))
+8       ((      JJP
+9	weja	JJ	<fs af='weja,D,,,,,,'>	
+	))
+11      ((      VGF
+12	life	@VM	<fs af='life,n,f,s,any,,WA,'>	
+	))
+14      ((      BLK
+15	.	SYM	
+	))
+

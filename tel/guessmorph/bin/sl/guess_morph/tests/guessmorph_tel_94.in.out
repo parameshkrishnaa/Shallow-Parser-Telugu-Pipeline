@@ -1,0 +1,23 @@
+<Sentence id="1">			
+1	((	NP	
+1.1	ixi	PRP	<fs af='ixi,pn,fn,sg,3,d,0,0'>
+	))		
+2	((	NP	
+2.1	BAraw	NNP	<fs af='BAraw,n,,sg,,d,0,0'>|<fs af='BAraw,n,,sg,,o,ti,ti'>
+	))		
+3	((	NP	
+3.1	waraPuna	JJ	<fs af='waraPuna,n,,sg,,o,ti,ti' poslcat="NM">'>|<fs af='waraPuna,n,,sg,,d,0,0' poslcat="NM">'>
+3.2	vandelo	NN	<fs af='vandelo,unk,,,,,,' poslcat="NM">
+	))		
+4	((	NP	
+4.1	reVMdo	QO	<fs af='reVMdu,num,,,,,ava,ava' deri_cat=n>'>|<fs af='reVMdo,adj,,,,,0,0_adj'>
+	))		
+5	((	JJP	
+5.1	awyuwwama	JJ	<fs af='awyuwwama,adj,,,,,0,0_adj'>
+	))		
+6	((	NP	
+6.1	vyakwigawa	JJ	<fs af='vyakwigawaM,n,,sg,,o,ti,ti' poslcat="NM">
+6.2	skoru	NN	<fs af='skoru,n,,sg,,d,0,0'>|<fs af='skoru,n,,sg,,o,ti,ti'>
+6.3	.	SYM	<fs af='&dot;,punc,,,,,,'>
+	))		
+</Sentence>			

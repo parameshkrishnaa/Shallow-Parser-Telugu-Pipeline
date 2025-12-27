@@ -1,0 +1,21 @@
+export LC_ALL=C
+sed '4,$w jnk' < ../../../../../data_bin/sl/morph/tel/suff_info.c > jnk1
+perl rpl_blank_0.pl < jnk > jnk1
+#rm jnk
+mv jnk1 suff_info.c
+sed '$d' suff_info.c > jnk
+#mv jnk suff_info.c
+cp jnk suff_info.c
+sort suff_info.c > suff_info1.c
+perl join_suff.pl < suff_info1.c > suff_info.dbm.c
+#to avoid segemntation fault
+FILE=../../../../../data_bin/sl/morph/tel/suff
+if [ -f $FILE ];
+then
+rm ../../../../../data_bin/sl/morph/tel/suff
+echo "$FILE removed"
+fi
+perl create_dbm_suff.pl GDBM ../../../../../data_bin/sl/morph/tel/suff < suff_info.dbm.c
+chmod 644 ../../../../../data_bin/sl/morph/tel/suff
+#rm suff_info.c suff_info.dbm.c
+

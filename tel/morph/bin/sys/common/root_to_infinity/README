@@ -1,0 +1,29 @@
+			
+					README of HINDI_GENERATOR
+					-----  -- ---------------
+
+Requirements:
+------------
+Operating System                :    LINUX/UNIX system
+
+Compiler/Interpreter/Librarie(s):    Perl and SSF API's
+
+How to Use??
+-----------
+
+>> perl ./hindi_gen.pl --path=/home/hin_gen [-i inputfile|--input="input_file"] [-o outputfile|--output="output_file"]
+
+   *Sample input and output files are provided in the home dir namely input.txt, output.txt 
+
+
+
+
+#################################
+Author: Karthik Gali
+        LTRC
+        IIIT Hyderabad
+
+Any Quries or suggestions mail to
+karthikg@students.iiit.ac.in
+#################################
+

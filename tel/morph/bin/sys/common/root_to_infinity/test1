@@ -1,0 +1,19 @@
+<Sentence id="1">
+0	((	SSF	
+1	((	NP	<fs af='rAmaliMgaM,n,,sg,,o,టి,ti' head='rAmaliMgadi'>
+1.1	rAmaliMgaM	NNP	<fs af='rAmaliMgaM,n,,sg,,o,టి,ti' name='rAmaliMgadi'>
+	))
+2	((	NP	<fs af='Gara,n,,sg,,o,టి,ti' head='iMti'>
+2.1	Gara	NN	<fs af='Gara,n,,sg,,o,టి,ti' name='iMti'>
+	))
+3	((	NP	<fs af='JIla,n,,sg,,,0,0' head='ceVruvu'>
+3.1	@పక్కనే	NST	<fs af='@పక్కనే,unk,,,,,,'>
+3.2	JIla	NN	<fs af='JIla,n,,sg,,,0,0' name='ceVruvu'>
+	))
+4	((	VGF	<fs af='rahanA,v,,,,,या,A' name='uMxi'>
+4.1	rahanA	VM	<fs af='rahanA,v,fn,sg,3,,या,A' name='uMxi'>
+4.2	@.	SYM	<fs af='@.,punc,,,,,,'>
+	))
+	))
+</Sentence>
+

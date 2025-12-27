@@ -1,0 +1,60 @@
+<Sentence id="1">			
+1	((	NP	
+1.1	jana	JJ	<fs af='jana,adj,,,,,0,0_adj'>
+1.2	lokapAl	NN	<fs af='lokapAl,unk,,,,,,' poslcat="NM">
+	))		
+2	((	NP	
+2.1	billu	NN	<fs af='billu,n,,sg,,d,0,0'>|<fs af='billu,n,,sg,,o,ti,ti'>
+2.2	kosaM	PSP	<fs af='kosaM,avy,,,,,0,0_avy' poslcat="NM">'>|<fs af='kosaM,avy,,,,,0,0_avy' poslcat="NM">'>
+	))		
+3	((	NP	
+3.1	annA	NN	<fs af='anna,n,,sg,,,0,0_A'>|<fs af='anna,n,,sg,,,0,0_V'>
+	))		
+4	((	NP	
+4.1	hajAre	NN	<fs af='hajAre,n,,sg,,d,0,0'>|<fs af='hajAre,n,,sg,,o,ti,ti'>
+4.2	wo	PSP	<fs af='wo,avy,,,,,0,0_avy' poslcat="NM">
+	))		
+5	((	VGNF	
+5.1	kalisi	VM	<fs af='kaliyu,v,any,any,any,,i,i'>|<fs af='kaluvu,v,any,any,any,,i,i'>
+	))		
+6	((	VGNF	
+6.1	cesina	VM	<fs af='ceVyyi,v,any,any,any,,ina,ina'>
+	))		
+7	((	NP	
+7.1	porAtaM	NN	<fs af='porAtaM,n,,sg,,d,0,0'>
+	))		
+8	((	CCP	
+8.1	mariyu	CC	<fs af='mariyu,avy,,,,,0,0_avy'>
+	))		
+9	((	NP	
+9.1	samAcAra	JJ	<fs af='samAcAraM,n,,sg,,o,ti,ti' poslcat="NM">
+9.2	hakku	NN	<fs af='hakku,n,,sg,,d,0,0'>|<fs af='hakku,n,,sg,,o,ti,ti'>
+	))		
+10	((	NP	
+10.1	cattaM	NN	<fs af='cattaM,n,,sg,,d,0,0'>|<fs af='cattaM,n,,sg,,d,0,0'>
+10.2	kosaM	PSP	<fs af='kosaM,avy,,,,,0,0_avy' poslcat="NM">'>|<fs af='kosaM,avy,,,,,0,0_avy' poslcat="NM">'>
+	))		
+11	((	VGNF	
+11.1	cesina	VM	<fs af='ceVyyi,v,any,any,any,,ina,ina'>
+	))		
+12	((	NP	
+12.1	porAtaMwo	NN	<fs af='porAtaM,n,,sg,,,wo,wo'>
+	))		
+13	((	NP	
+13.1	Iyana	PRP	<fs af='Iyana,pn,,sg,,d,0,0'>|<fs af='Iyana,pn,,sg,,o,ti,ti'>
+	))		
+14	((	NP	
+14.1	xeSavyApwaM	NN	<fs af='xeSavyApwaM,n,,sg,,d,0,0'>
+	))		
+15	((	RBP	
+15.1	gA	RB	<fs af='gA,adv,,,,,0,0_avy'>
+	))		
+16	((	NP	
+16.1	maMci	JJ	<fs af='maMci,adj,,,,,0,0_adj'>
+16.2	prAmuKyawa	NN	<fs af='prAmuKyawa,n,,sg,,d,0,0'>|<fs af='prAmuKyawa,n,,sg,,o,ti,ti'>
+	))		
+17	((	VGF	
+17.1	saMpAxiMcAru	VM	<fs af='saMpAxiMcu,v,fm,pl,3,,A,A'>
+17.2	.	SYM	<fs af='&dot;,punc,,,,,,'>
+	))		
+</Sentence>			

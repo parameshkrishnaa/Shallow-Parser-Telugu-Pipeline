@@ -1,0 +1,48 @@
+## 
+This file lists the changes done on PC_DATA when we worked on teltamilmt system
+-Parameshwari K.
+Note:: The changes are taken place after the discussion and approval from Prof. G. Uma Maheshwar Rao.
+##
+
+
+============================================================================================================
+Date		Name of the file					Patch
+============================================================================================================
+18/01/11	cn_nOkaru.p			"nOkarulni" is added as a spell varied word in line no: 117
+
+12/12/11	fn_imp.p			all 'mani' endings chged to manu
+
+31/01/12	fn_dur_*.p			all "wuMx" is changed as "waMx" becoz avuwuMxo is {wA_o}/ *{wunn_o}
+
+09/02/12	fn_past*.p			added a variation for valasiMxi	as vAlsiMxi
+		
+		fn_past.p; fn_fut.p		added variations for mu$ as M$
+
+		fn_fut*.p			added variation for koVnu as koVnnAmu/kunnAmu
+
+		cpr_*.p				added vatiation for lopaliki as loki
+
+		cn_*.p				line:61 and 160  are appended respectively 59 and 158. And 61 and 160 'kalla/keVlla' forms 						are introduced, alike feature_value is changed
+
+22/03/12	cpr_axi.p			changed in pl slot cahnged as  yoVkka and obl;  line no: 115,116 into 116, 115
+		cpr_exi.p
+		cpr_ixi.p
+		cpr_wamaru.p
+
+03/05/12	cn_guddu.p	gudla/guddula
+
+05/06/12	cn_kalcar.p 	added the variation with vowel ending as kalcaru with all forms in the pdgm.
+
+06/06/12	peVttini is changed to peVtteVni/peVtteVnu
+		peVttivi is changed to peVtteVvi/peVtteVvu
+		becoz gArini<gAreV,n,ni> analysis is wrong. 
+
+07/06/12	4 files are added in pc_data for clitics with pronoun .
+		-rwxr-xr-x. 1 teltamilmt teltamilmt 358 Jun  7 16:08 emp1_wAmu.p
+		-rwxr-xr-x. 1 teltamilmt teltamilmt 466 Jun  7 16:13 emp1_vAlYlu.p
+		-rwxr-xr-x. 1 teltamilmt teltamilmt 305 Jun  7 16:18 emp1_mIru.p
+		-rwxr-xr-x. 1 teltamilmt teltamilmt 305 Jun  7 16:20 emp1_memu.p
+
+07082012	nf_pt_adjl_pcpl.p 		introduced new forms with the inflection of vb_inawaruvAwa line no. 20th etc.
+						as variants to vb_inAka/vb_Aka
+

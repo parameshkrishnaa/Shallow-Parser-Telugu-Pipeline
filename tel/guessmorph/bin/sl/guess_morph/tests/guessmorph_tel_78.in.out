@@ -1,0 +1,24 @@
+<Sentence id="1">			
+1	((	NP	
+1.1	rAjapuwrulu	NN	<fs af='rAjapuwrudu,n,,pl,,d,0,0'>|<fs af='rAjapuwrudu,n,,pl,,,vu,vu'>
+	))		
+2	((	VGNF	
+2.1	elina	VM	<fs af='elu,v,any,any,any,,ina,ina'>
+	))		
+3	((	NP	
+3.1	mevAra	NN	<fs af='mevAra,unk,,,,,,' poslcat="NM">
+	))		
+4	((	NP	
+4.1	rAjyAniki	NN	<fs af='rAjyaM,n,,sg,,,ki,ki'>
+	))		
+5	((	NP	
+5.1	uxayapUr	NN	<fs af='uxayapUr,n,,sg,,d,0,0'>|<fs af='uxayapUr,n,,sg,,o,ti,ti'>
+	))		
+6	((	NP	
+6.1	rAjaXAnigA	NN	<fs af='rAjaXAni,n,,sg,,,gA,gA'>
+	))		
+7	((	VGF	
+7.1	uMdexi	VM	<fs af='uMdu,v,,sg,,,e_axi,e_axi_0' deri_cat=pn>
+7.2	.	SYM	<fs af='&dot;,punc,,,,,,'>
+	))		
+</Sentence>			

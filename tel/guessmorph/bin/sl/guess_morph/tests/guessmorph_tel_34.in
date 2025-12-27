@@ -1,0 +1,46 @@
+<Sentence id="1">
+1	((	NP	
+1.1	SrI	NNP	<fs af='SrI,n,,sg,,d,0,0'>|<fs af='SrI,n,,sg,,o,ti,ti'>
+	))		
+2	((	NP	
+2.1	kutuMba	NN	<fs af='kutuMbaM,n,,sg,,o,ti,'>
+2.2	saByulaku	NN	<fs af='saByudu,n,,pl,,,ki,ki'>|<fs af='saByudu,n,,pl,,,ki,ki'>
+	))		
+3	((	NP	
+3.1	viRayaM	NN	<fs af='viRayaM,n,,sg,,d,0,0'>|<fs af='viRayaM,n,,sg,,d,0,0'>
+	))		
+4	((	VGNF	
+4.1	weVliyakuMdA	VM	<fs af='weVliyu,v,any,any,any,,akuMdA,akuMdA'>
+	))		
+5	((	NP	
+5.1	jAgrawwa	NN	<fs af='jAgrawwa,n,,sg,,d,0,0'>|<fs af='jAgrawwa,n,,sg,,o,ti,ti'>
+	))		
+6	((	VGF	
+6.1	paduwU	VM	<fs af='padu,v,any,any,any,,wU,wU'>|<fs af='padu,v,any,any,any,,wU,wU'>|<fs af='pattu,v,any,any,any,,wU,wU'>
+6.2	,	SYM	<fs af='&comma;,punc,,,,,,'>
+	))		
+7	((	NP	
+7.1	wanu	PRP	<fs af='wanu,pn,fm,sg,3,d,0,0'>|<fs af='wAnu,pn,,sg,,d,0,0'>
+	))		
+8	((	VGNF	
+8.1	premiMcina	VM	<fs af='premiMcu,v,any,any,any,,ina,ina'>
+	))		
+9	((	NP	
+9.1	SrI	NNP	<fs af='SrI,n,,sg,,d,0,0'>|<fs af='SrI,n,,sg,,o,ti,ti'>
+9.2	ceVlleVlu	NN	<fs af='ceVlleVlu,n,,sg,,d,0,0'>|<fs af='ceVlleV,n,,pl,,d,0,0'>|<fs af='ceVlleV,n,,pl,,,vu,vu'>
+	))		
+10	((	NP	
+10.1	meGanaku	NN	<fs af='meGana,n,,sg,,,ki,ki'>
+10.2	mAwrame	PSP	<fs af='mAwrame,avy,,,,,,' poslcat="NM">|<fs af='mAwramu,avy,,,,,e,e_avy' poslcat="NM">|<fs af='mAwraM,avy,,,,,e,e_avy' poslcat="NM">
+	))		
+11	((	NP	
+11.1	sUrya	NN	<fs af='sUryaM,n,,sg,,o,ti,ti'>|<fs af='sUryudu,n,,sg,,o,ti,ti'>|<fs af='sUryudu,n,,sg,,o,ti,ti'>
+	))		
+12	((	VGF	
+12.1	jarigiMxi	VM	<fs af='jarugu,v,fn,sg,3,,A,A'>
+	))		
+13	((	VGF	
+13.1	ceVbuwAdu	VM	<fs af='ceVppu,v,m,sg,3,,wA,wA'>
+13.2	.	SYM	<fs af='&dot;,punc,,,,,,'>
+	))		
+</Sentence>

@@ -1,0 +1,9 @@
+<Sentence id="1">			
+1	((	NP	
+1.1	vi.	NN	<fs af='vi.,unk,,,,,,' poslcat="NM">
+	))		
+2	((	NP	
+2.1	yal	NN	<fs af='yal,n,,sg,,d,0,0'>|<fs af='yal,n,,sg,,o,ti,ti'>
+2.2	.	SYM	<fs af='&dot;,punc,,,,,,'>
+	))		
+</Sentence>			

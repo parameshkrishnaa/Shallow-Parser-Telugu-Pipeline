@@ -1,0 +1,9 @@
+<Sentence id="1">
+1	mA	PRP	<fs af='memu,pn,any,pl,1,o,ti,ti'>
+2	snehiwudu	NN	<fs af='snehiwudu,n,,sg,,d,0,0'>|<fs af='snehiwa,adj,,,,,vAdu,vAdu_adj'>
+3	maMci	JJ	<fs af='maMci,adj,,,,,0,0_adj'>
+4	kaWalu	NN	<fs af='kaWa,nst,,pl,,d,0,0'>
+5	rAya	NN	<fs af='rAyi,v,any,any,any,,an,an'>
+6	galadu	VM	<fs af='galadu,avy,,,,,,'>|<fs af='gala,v,m,sg,3,,wA,wA'>|<fs af='gala,v,m,sg,3,,A,A'>
+7	.	SYM	<fs af='&dot;,punc,,,,,,'>
+</Sentence>

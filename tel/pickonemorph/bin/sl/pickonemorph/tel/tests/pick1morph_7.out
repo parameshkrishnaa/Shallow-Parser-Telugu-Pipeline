@@ -1,0 +1,35 @@
+<Sentence id="1">
+1	((	NP	
+1.1	cEnAlo	NNP	<fs af='cEnA,n,,sg,,,lo,lo'>
+	))		
+2	((	NP	
+2.1	cakkeVra	NN	<fs af='cakkeVra,n,,sg,,d,0,0'>
+2.2	vyAXi	NN	<fs af='vyAXi,n,,sg,,d,0,0'>
+2.3	valana	PSP	<fs af='valana,avy,,,,,0,0_avy' poslcat="NM">
+	))		
+3	((	VGNF	
+3.1	saMkramiMce	VM	<fs af='saMkramiMcu,v,any,any,any,,e,e'>
+	))		
+4	((	NP	
+4.1	samasyala	NN	<fs af='samasya,n,,pl,,o,ti,ti'>
+	))		
+5	((	NP	
+5.1	pariRkArAniki	NN	<fs af='pariRkAraM,n,,sg,,,ki,ki'>
+	))		
+6	((	NP	
+6.1	wayAru	NN	<fs af='wayAru,n,,sg,,d,0,0'>
+	))		
+7	((	VGNF	
+7.1	cese	VM	<fs af='ceVyyi,v,any,any,any,,e,e'>
+	))		
+8	((	NP	
+8.1	maMxulalo	NN	<fs af='maMxu,n,,pl,,,lo,lo'>
+	))		
+9	((	NP	
+9.1	gummadini	NN	<fs af='gummadi,n,,sg,,,nu,nu'>
+	))		
+10	((	VGF	
+10.1	vAduwunnAru	VM	<fs af='vAdu,v,fm,pl,3,,wunn,wunn'>
+10.2	.	SYM	<fs af='&dot;,punc,,,,,,'>
+	))		
+</Sentence>

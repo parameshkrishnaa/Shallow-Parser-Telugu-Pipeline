@@ -1,0 +1,12 @@
+<Sentence id="1">			
+1	araviMx	NNP	<fs af='araviMx,n,,sg,,d,0,0'>|<fs af='araviMx,n,,sg,,d,0,0'>|<fs af='araviMx,n,,sg,,o,ti,ti'>|<fs af='araviMx,n,,sg,,o,ti,ti'>
+2	kejrivAl	NNP	<fs af='kejrivAl,unk,,,,,,'>
+3	BArawIya	NNP	<fs af='BArawIya,adj,,,,,0,0_adj'>|<fs af='BArawIyaM,n,,sg,,o,ti,ti'>|<fs af='BArawIyudu,n,,sg,,o,ti,ti'>
+4	sAmAjikavewwa	NN	<fs af='sAmAjikavewwa,unk,,,,,,'>
+5	mariyu	CC	<fs af='mariyu,avy,,,,,0,0_avy'>
+6	rAjakIya	NN	<fs af='rAjakIya,adj,,,,,0,0_adj'>|<fs af='rAjakIyaM,n,,sg,,o,ti,ti'>|<fs af='rAjakIyudu,n,,sg,,o,ti,ti'>
+7	nAyakudu	NN	<fs af='nAyakudu,n,,sg,,d,0,0'>|<fs af='nAyakudu,n,,sg,,d,0,0'>|<fs af='nAyaka,adj,,,,,vAdu,vAdu_adj'>
+8	.	SYM	<fs af='&dot;,punc,,,,,,'>
+</Sentence>			
+<Sentence id="2">			
+</Sentence>			

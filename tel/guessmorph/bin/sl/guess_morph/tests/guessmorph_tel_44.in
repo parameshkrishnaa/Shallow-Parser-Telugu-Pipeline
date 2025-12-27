@@ -1,0 +1,42 @@
+<Sentence id="1">
+1	((	NP	
+1.1	oVkko	QO	<fs af='oVkko,n,,sg,,d,0,0'>|<fs af='oVkko,n,,sg,,o,ti,ti'>
+1.2	pAta	NN	<fs af='pAta,n,,sg,,d,0,0'>|<fs af='pAta,n,,sg,,o,ti,ti'>
+	))		
+2	((	NP	
+2.1	oVkkoVkkariwo	NN	<fs af='oVkkoVkkaru,pn,,pl,,,wo,wo' poslcat="NM">
+	))		
+3	((	VGF	
+3.1	rAyiMcinA	VM	<fs af='rAyiMcu,v,any,any,any,,inA,inA'>
+3.2	,	SYM	<fs af='&comma;,punc,,,,,,'>
+	))		
+4	((	NP	
+4.1	maMci	JJ	<fs af='maMci,adj,,,,,0,0_adj'>
+4.2	loVkeRans	NN	<fs af='loVkeRans,n,,sg,,d,0,0'>|<fs af='loVkeRans,n,,sg,,o,ti,ti'>
+4.3	lo	PSP	<fs af='lo,avy,,,,,,' poslcat="NM">|<fs af='la,avy,,,,,o,o_avy' poslcat="NM">
+	))		
+5	((	NP	
+5.1	bAgA	INTF	<fs af='bAgA,avy,,,,,0,0_avy'>
+5.2	ciwrIkariMcinAwaman	NN	<fs af='ciwrIkariMcinAwaman,unk,,,,,,' poslcat="NM">
+	))		
+6	((	NP	
+6.1	saMgIwaM	NN	<fs af='saMgIwaM,n,,sg,,d,0,0'>
+6.2	lo	PSP	<fs af='lo,avy,,,,,,' poslcat="NM">|<fs af='la,avy,,,,,o,o_avy' poslcat="NM">
+	))		
+7	((	NP	
+7.1	pAtalu	NN	<fs af='pAta,n,,pl,,d,0,0'>|<fs af='pAta,n,,pl,,,vu,vu'>
+	))		
+8	((	NP	
+8.1	iMkAswa	QF	<fs af='iMkAswa,n,,sg,,d,0,0'>|<fs af='iMkAswa,n,,sg,,o,ti,ti'>
+	))		
+9	((	VGNF	
+9.1	bAguMte	VM	<fs af='bAguMdu,v,any,any,any,,we,we'>
+	))		
+10	((	NP	
+10.1	sinimAki	NN	<fs af='sinimA,n,,sg,,,ki,ki'>
+	))		
+11	((	VGF	
+11.1	upakariMcevi	VM	<fs af='upakariMcu,v,any,any,any,,e_avi,e_axi_0'>
+11.2	.	SYM	<fs af='&dot;,punc,,,,,,'>
+	))		
+</Sentence>

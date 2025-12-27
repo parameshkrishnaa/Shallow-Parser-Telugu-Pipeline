@@ -1,0 +1,23 @@
+<Sentence id="1">			
+1	((	BLK	
+1.1	kAni	RP	<fs af='kAni,avy,,,,,,'>|<fs af='kAni,avy,,,,,0,0_avy'>
+	))		
+2	((	NP	
+2.1	praswuwaM	NN	<fs af='praswuwaM,n,,sg,,d,0,0'>
+	))		
+3	((	NP	
+3.1	22	QC	<fs af='22,num,,,,,,'>
+3.2	mAwrame	PSP	<fs af='mAwrame,avy,,,,,,' poslcat="NM">'>|<fs af='mAwramu,avy,,,,,e,e_avy' poslcat="NM">'>
+	))		
+4	((	VGNF	
+4.1	ceVppukoxagina	VM	<fs af='ceVppu,v,any,any,any,,koVn_a_xagu_ina,koVn_a_xagu_ina'>
+	))		
+5	((	NP	
+5.1	aMwa	QF	<fs af='aMwaM,n,,sg,,o,ti,ti'>
+5.2	varaku	PSP	<fs af='varaku,avy,,,,,,' poslcat="NM">'>|<fs af='varaku,adv,,,,,0,0_adv' poslcat="NM">'>
+	))		
+6	((	VGF	
+6.1	punaruxXariMcabadinAyi	VM	<fs af='punaruxXariMcu,v,n,pl,3,,a_badu_A,a_badu_A'>
+6.2	.	SYM	<fs af='&dot;,punc,,,,,,'>
+	))		
+</Sentence>			

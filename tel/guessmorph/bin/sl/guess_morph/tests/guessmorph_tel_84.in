@@ -1,0 +1,49 @@
+<Sentence id="1">
+1	((	RBP	
+1.1	alAge	RB	<fs af='alAge,adv,,,,,0,0_avy'>
+1.2	,	SYM	<fs af='&comma;,punc,,,,,,'>
+	))		
+2	((	NP	
+2.1	aktobar	NN	<fs af='aktobar,n,,sg,,d,0,0'>|<fs af='aktobar,n,,sg,,o,ti,ti'>
+	))		
+3	((	NP	
+3.1	2014	QC	<fs af='2014,num,,,,,,'>
+3.2	lo	PSP	<fs af='lo,avy,,,,,,' poslcat="NM">|<fs af='la,avy,,,,,o,o_avy' poslcat="NM">
+	))		
+4	((	NP	
+4.1	reVno	NNP	<fs af='reV,n,,sg,,,ni,ni'>|<fs af='reVn,n,,sg,,d,0,0'>|<fs af='reVn,n,,sg,,o,ti,ti'>|<fs af='reV,n,,sg,,,nu,nu'>
+	))		
+5	((	NP	
+5.1	iMdiyA	NNP	<fs af='iMdiyA,n,,sg,,d,0,0'>|<fs af='iMdiyA,n,,sg,,d,0,0'>|<fs af='iMdiyA,n,,sg,,o,ti,ti'>|<fs af='iMdiyA,n,,sg,,o,ti,ti'>
+	))		
+6	((	NP	
+6.1	59	QC	<fs af='59,num,,,,,,'>
+6.2	pals	NN	<fs af='pals,n,,sg,,d,0,0'>|<fs af='pals,n,,sg,,o,ti,ti'>
+	))		
+7	((	NP	
+7.1	kArlanu	NN	<fs af='kAr,n,,pl,,,ni,ni'>|<fs af='kAri,n,,pl,,,ni,ni'>
+	))		
+8	((	NP	
+8.1	uwpawwi	NN	<fs af='uwpawwi,n,,sg,,d,0,0'>|<fs af='uwpawwi,n,,sg,,o,ti,ti'>
+	))		
+9	((	VGNF	
+9.1	cesina	VM	<fs af='ceVyyi,v,any,any,any,,ina,ina'>
+	))		
+10	((	NP	
+10.1	warvAwa	NST	<fs af='warvAwa,adv,,,,,0,0_adv'>
+	))		
+11	((	NP	
+11.1	I	DEM	<fs af='I,avy,,,,,,' poslcat="NM">|<fs af='I,avy,,,,,,' poslcat="NM">
+11.2	modal	NN	<fs af='modal,n,,sg,,d,0,0'>|<fs af='modal,n,,sg,,o,ti,ti'>
+	))		
+12	((	NP	
+12.1	uwpawwini	NN	<fs af='uwpawwi,n,,sg,,,ni,ni'>|<fs af='uwpawwi,n,,sg,,,nu,nu'>
+	))		
+13	((	VGNF	
+13.1	nilipivesinatlu	VM	<fs af='nilupu,v,any,any,any,,i_veVyyi_ina_atlu,i_veVyyi_ina_atlu'>
+	))		
+14	((	VGF	
+14.1	weVluswoMxi	VM	<fs af='weVluvu,v,fn,sg,3,,wunn,wunn'>
+14.2	.	SYM	<fs af='&dot;,punc,,,,,,'>
+	))		
+</Sentence>

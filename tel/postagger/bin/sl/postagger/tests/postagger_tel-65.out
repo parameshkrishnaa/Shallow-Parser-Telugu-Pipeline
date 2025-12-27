@@ -1,0 +1,13 @@
+<Sentence id="1">			
+1	ixi	PRP	<fs af='ixi,pn,fn,sg,3,d,0,0'>
+2	BAraw	NNP	<fs af='BAraw,n,,sg,,d,0,0'>|<fs af='BAraw,n,,sg,,o,ti,ti'>
+3	waraPuna	NN	<fs af='waraPuna,n,,sg,,d,0,0'>|<fs af='waraPuna,n,,sg,,o,ti,ti'>
+4	vandelo	NN	<fs af='vandelo,unk,,,,,,'>
+5	reVMdo	QO	<fs af='reVMdo,adj,,,,,0,0_adj'>|<fs af='reVMdu,n,,sg,,,0,0_o'>|<fs af='reVMdu,num,,,,,ava,ava' deri_cat='n'>
+6	awyuwwama	NN	<fs af='awyuwwama,adj,,,,,0,0_adj'>|<fs af='awyuwwamaM,n,,sg,,o,ti,ti'>|<fs af='awyuwwamudu,n,,sg,,o,ti,ti'>
+7	vyakwigawa	NN	<fs af='vyakwigawaM,n,,sg,,o,ti,ti'>
+8	skoru	NN	<fs af='skoru,n,,sg,,d,0,0'>|<fs af='skoru,n,,sg,,o,ti,ti'>|<fs af='skor,n,,sg,,d,0,0'>|<fs af='skor,n,,sg,,o,ti,ti'>
+9	.	SYM	<fs af='&dot;,punc,,,,,,'>
+</Sentence>			
+<Sentence id="2">			
+</Sentence>			

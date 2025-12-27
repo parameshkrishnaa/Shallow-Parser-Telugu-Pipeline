@@ -1,0 +1,22 @@
+<Sentence id="1">
+1	((	BLK	
+1.1	I	DEM	<fs af='I,avy,,,,,,' poslcat="NM">|<fs af='I,avy,,,,,,' poslcat="NM">
+	))		
+2	((	NP	
+2.1	vaMweVna	JJ	<fs af='vaMweVna,n,,sg,,o,ti,ti' poslcat="NM">|<fs af='vaMweVna,n,,sg,,d,0,0' poslcat="NM">
+2.2	panulanu	NN	<fs af='pani,n,,pl,,,ni,ni'>
+	))		
+3	((	NP	
+3.1	girdar	NN	<fs af='girdar,unk,,,,,,' poslcat="NM">
+	))		
+4	((	NP	
+4.1	paxxawilo	NN	<fs af='paxxawi,n,,sg,,,lo,lo'>
+	))		
+5	((	VGNF	
+5.1	cepattanunnatlu	VM	<fs af='cepattu,v,any,any,any,,a_uMdu_ina_atlu,a_uMdu_ina_atlu'>
+	))		
+6	((	VGF	
+6.1	weVlipAru	VM	<fs af='weVlupu,v,fm,pl,3,,A,A'>
+6.2	.	SYM	<fs af='&dot;,punc,,,,,,'>
+	))		
+</Sentence>

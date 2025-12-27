@@ -1,0 +1,12 @@
+<Sentence id="1">			
+1	ulAn	NN	<fs af='ulAn,unk,,,,,,'>
+2	bawor	NN	<fs af='bawor,unk,,,,,,'>
+3	xIni	PRP	<fs af='ixi,pn,fn,sg,3,o,ti,ti'>
+4	rAjaXAni	NN	<fs af='rAjaXAni,n,,sg,,d,0,0'>|<fs af='rAjaXAni,n,,sg,,o,ti,ti'>
+5	mariyu	CC	<fs af='mariyu,avy,,,,,0,0_avy'>
+6	awipeVxxa	JJ	<fs af='awipeVxxa,adj,,,,,0,0_adj'>
+7	nagaramUnu	NN	<fs af='nagaraM,n,,sg,,,0,0_V'>
+8	.	SYM	<fs af='&dot;,punc,,,,,,'>
+</Sentence>			
+<Sentence id="2">			
+</Sentence>			

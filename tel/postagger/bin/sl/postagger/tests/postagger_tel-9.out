@@ -1,0 +1,12 @@
+<Sentence id="1">			
+1	gummadi	NN	<fs af='gummadi,n,,sg,,d,0,0'>|<fs af='gummadi,n,,sg,,o,ti,ti'>
+2	viwwanAlu	NN	<fs af='viwwanaM,n,,pl,,d,0,0'>|<fs af='viwwanaM,n,,pl,,,vu,vu'>
+3	winadaM	VM	<fs af='winu,v,any,any,any,,adaM,adaM'>
+4	valana	PSP	<fs af='valana,avy,,,,,0,0_avy'>|<fs af='vala,n,,sg,,,na,na'>
+5	malabaxXakaM	NN	<fs af='malabaxXakaM,n,,sg,,d,0,0'>
+6	nivAraNa	NN	<fs af='nivAraNa,n,,sg,,d,0,0'>|<fs af='nivAraNa,n,,sg,,o,ti,ti'>|<fs af='nivAraNaM,n,,sg,,o,ti,ti'>
+7	avuwuMxi	VM	<fs af='avvu,v,fn,sg,3,,wA,wA'>
+8	.	SYM	<fs af='&dot;,punc,,,,,,'>
+</Sentence>			
+<Sentence id="2">			
+</Sentence>			

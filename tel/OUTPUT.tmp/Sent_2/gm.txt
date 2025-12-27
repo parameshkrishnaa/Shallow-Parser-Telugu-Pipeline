@@ -1,0 +1,12 @@
+<Sentence id="1">
+1	((	NP
+1.1	nenu	PRP	<fs af='nenu,pn,,sg,,,0,0'>
+	))
+2	((	NP
+2.1	ikkada	NST	<fs af='ikkada,adv,n,,,,0,0_adv'>|<fs af='ikkada,n,n,sg,,,0,0,' case_name=Nom>'>
+	))
+3	((	VGF
+3.1	unnAnu	VM	<fs af='uMdu,v,,sg,1,,A,A,' Tense=Pst>
+3.2	.	SYM	<fs af='&dot;,punc,,,,,,'>
+	))
+</Sentence>

@@ -1,0 +1,42 @@
+<Sentence id="1">			
+1	((	NP	
+1.1	mAs	NN	<fs af='mAs,n,,sg,,d,0,0'>|<fs af='mAs,n,,sg,,o,ti,ti'>
+	))		
+2	((	NP	
+2.1	ciwrAla	NN	<fs af='ciwraM,n,,pl,,o,ti,'>
+2.2	hIro	NN	<fs af='hIro,n,,sg,,d,0,0'>|<fs af='hIro,n,,sg,,o,ti,ti'>
+	))		
+3	((	NP	
+3.1	raviweja	NNP	<fs af='raviweja,n,,sg,,d,0,0'>|<fs af='raviweja,n,,sg,,o,ti,ti'>
+3.2	wo	PSP	<fs af='wo,avy,,,,,0,0_avy' poslcat="NM">
+	))		
+4	((	NP	
+4.1	PlAp	NN	<fs af='PlAp,n,,sg,,d,0,0'>|<fs af='PlAp,n,,sg,,o,ti,ti'>
+	))		
+5	((	NP	
+5.1	ciwrAla	NN	<fs af='ciwraM,n,,pl,,o,ti,'>
+5.2	xarSakulu	NN	<fs af='xarSakudu,n,,pl,,d,0,0'>|<fs af='xarSakudu,n,,pl,,d,0,0'>
+	))		
+6	((	VGNF	
+6.1	nirmiMcina	VM	<fs af='nirmiMcu,v,any,any,any,,ina,ina'>
+	))		
+7	((	NP	
+7.1	I	DEM	<fs af='I,avy,,,,,,' poslcat="NM">'>|<fs af='I,avy,,,,,,' poslcat="NM">'>
+7.2	ciwraM	NN	<fs af='ciwraM,n,,sg,,d,0,0'>
+7.3	patla	PSP	<fs af='patla,avy,,,,,0,0_avy' poslcat="NM">'>|<fs af='patla,avy,,,,,0,0_avy' poslcat="NM">'>
+	))		
+8	((	NP	
+8.1	moVxati	NST	<fs af='moVxata,nst,,,,,yoVkka,yoVkka_adv'>
+8.2	nuMdI	PSP	<fs af='nuMdi,avy,,,,,V,V_avy' poslcat="NM">
+	))		
+9	((	NP	
+9.1	aMxariki	PRP	<fs af='aMxaru,pn,,pl,,,ki,ki'>
+	))		
+10	((	NP	
+10.1	saMxehAlu	NN	<fs af='saMxehaM,n,,pl,,d,0,0'>|<fs af='saMxehaM,n,,pl,,,vu,vu'>
+	))		
+11	((	VGF	
+11.1	unnAyi	VM	<fs af='uMdu,v,n,pl,3,,A,A'>
+11.2	.	SYM	<fs af='&dot;,punc,,,,,,'>
+	))		
+</Sentence>			

@@ -1,0 +1,31 @@
+<Sentence id="1">			
+1	((	NP	
+1.1	ugAxi	NN	<fs af='ugAxi,n,,sg,,o,0,0'>|<fs af='ugAxi,n,,sg,,o,0,ti'>
+1.2	nAtiki	PSP	<fs af='nAtiki,psp,,,,,0,'>
+	))		
+2	((	NP	
+2.1	prajalaku	NN	<fs af='prajalu,n,,pl,,,ki,ki'>|<fs af='praja,n,,pl,,,ki,ki'>
+	))		
+3	((	NP	
+3.1	aMxubAtuloki	NN	<fs af='aMxubAtu,n,,sg,,,lopalaki,lopalaki'>
+	))		
+4	((	VGNF	
+4.1	weVcceMxuku	VM	<fs af='we,v,any,any,any,,e_eMxuku,e_eMxuku'>
+	))		
+5	((	NP	
+5.1	meVtro	NN	<fs af='meVtro,n,,sg,,d,0,0'>|<fs af='meVtro,n,,sg,,o,ti,ti'>
+	))		
+6	((	NP	
+6.1	rElu	NN	<fs af='rElu,n,,sg,,d,0,0'>|<fs af='rEl,n,,sg,,d,0,0'>
+	))		
+7	((	NP	
+7.1	aXikArulu	NN	<fs af='aXikAri,n,,pl,,d,0,0'>|<fs af='aXikAri,n,,pl,,,vu,vu'>
+	))		
+8	((	NP	
+8.1	prayawnAlu	NN	<fs af='prayawnaM,n,,pl,,d,0,0'>|<fs af='prayawnaM,n,,pl,,,vu,vu'>
+	))		
+9	((	VGF	
+9.1	ceswunnAru	VM	<fs af='ceVyyi,v,fm,pl,3,,wunn,wunn'>
+9.2	.	SYM	<fs af='&dot;,punc,,,,,,'>
+	))		
+</Sentence>			

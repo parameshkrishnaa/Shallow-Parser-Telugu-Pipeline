@@ -1,0 +1,70 @@
+
+R1: NP(({%NN})) JJP(({$a%JJ<root="vaMti",num="$n",pers="$p",cm="vi">})) => NP(({%NN}+{$a%JJ<root="vaMti",lcat="adj",num="$n",per="$p",cm="vi">}))
+R2: NP~1(({$a%NST<root="maXya",lcat="$c",gend="$g",num="$n",pers="$p",cm="0">})) NP~2(({%NN})) => NP~2((+{$a%NST<root="maXya",lcat="$c",gend="$g",num="$n",pers="$p",cm="0">}{%NN}))
+R3: NP~1(({%NN<case="o">})) NP~2(({$a%NST<root="vaxxa",lcat="$c",gend="$g",num="$n",pers="$p",cm="0">})) => NP~1(({%NN<case="o">}+{$a%NST<root="vaxxa",lcat="$c",gend="$g",num="$n",pers="$p",cm="0">}))
+R4: VGNF(({$b%VM<root="$c",lcat="v",gend="$w",num="$h",$pers="$t",tam="an",suff="$s">})) VGF(({%VM<root="gala",tam="a">}{%SYM})) => VGF((+{$b%VM<root="$c",lcat="v",gend="$w",num="$h",$pers="$t",tam="an",suff="$s">}{%VAUX<root="gala",tam="a">}{%SYM}))
+R5: NP~1(({%QC})) NP~2(({va%NN<root="va">})) => NP~1(({%QC<cm="va">}))
+R6: NP~1(({%NN<cm="$a._A">})) NP~2(({$b%NN<root="$c",lcat="n",gend="$g",num="pl",pers="$p",case="$f",cm="$t",suff="$s">})) => NP~1(({%NN<cm="$a._A">}+{$b%NN<root="$c",lcat="n",gend="$g",num="pl",pers="$p",case="$f",cm="$t",suff="$s">}))
+R7: VGNF(({$b%VM<root="$c",lcat="v",gend="$w",num="$h",$pers="$t",tam="i",suff="$s">})) VGF(({%VM<root="uMdu",tam="A">}{%SYM})) => VGF((+{$b%VM<root="$c",lcat="v",gend="$w",num="$h",$pers="$t",tam="i",suff="$s">}{%VAUX<root="uMdu",tam="A">}{%SYM}))
+
+##R9: NP~1(({$a%NN<root="$r",lcat="n",gend="$g",num="$n",pers="$p",cm="ti",suff="ti">})) NP~2(({%NN<cat="n",cm="0">})) => NP~2((+{$a%NN<root="$r",lcat="n",gend="$g",num="$n",pers="$p",case="o",cm="ti",suff="ti">}{%NN<cat="n",cm="0">}))
+
+##R8: NP~1(({$a%NN<root="$r",lcat="n",gend="$g",num="$n",pers="$p",case="o",cm="ti",suff="ti">})) NP~2(({%NN<cat="adj">})) NP~3(({$b%NN<root="$e",lcat="n",gend="$t",num="$y",pers="$o",cm="$j",suff="$i">})) => NP~2((+{$a%NN<root="$r",lcat="n",gend="$g",num="$n",pers="$p",case="o",cm="ti",suff="ti">}{%JJ<cat="adj">}+{$b%NN<root="$e",lcat="n",gend="$t",num="$y",pers="$o",cm="$j",suff="$i">})) 
+
+R8: NP~1(({$q%NN<root="$a",lcat="n",gend="$g",num="$n",pers="$p",cm="ti">})) NP~2(({$x%NN<root="$r",lcat="adj">})) NP~3(({$b%NN<root="$e",cat="n",gend="$t",num="$y",pers="$o",cm="$j",suff="$i">})) => NP~3((+{$q%NN<root="$a",lcat="n",gend="$g",num="$n",pers="$p",cm="0">}+{$x%NN<root="$r",lcat="adj",cm="0",tam="0">}{$b%NN<root="$e",cat="n",gend="$t",num="$y",pers="$o",cm="$j",tam="$j">}))
+
+R10: NP~1(({%NN}{%JJ})) NP~2(({$a%NN<root="$r",lcat="n",gend="$g",num="$n",pers="$p",cm="$c",suff="$s">})) => NP~1(({%NN}{%JJ}{$a%NN<root="$r",lcat="n",gend="$g",num="$n",pers="$p",cm="$c",suff="$s">}))
+
+R11: NP~1(({%NN<case="o">})) NP~2(({$a%NST<root="waruvAwa",lcat="$c",gend="$g",num="$n",pers="$p",cm="0">})) => NP~1(({%NN<case="o">}+{$a%NST<root="waruvAwa",lcat="$c",gend="$g",num="$n",pers="$p",cm="0">}))
+
+R12: NP(({%JJ}{%NN})) FRAGP(({$a%PSP<root="$r",lcat="$c",cm="$k">})) => NP(({%JJ}{%NN}+{$a%PSP<root="$r",lcat="$c",cm="$k">}))
+
+R13: NP(({%QC})) FRAGP(({$a%PSP<root="$r",lcat="$c",cm="$k">})) => NP(({%QC}+{$a%PSP<root="$r",lcat="$c",cm="$k">}))
+
+R14: NP(({%NN})) RBP(({paraMgA%RB<root="paraMgA",lcat="adv",cm="0">})) => NP(({%NN}+{paraMgA%PSP<root="paraMgA",lcat="psp",cm="0">})) 
+
+#1       ((      VGF
+#1.1     ayinA   VM      <fs af='avvu,v,any,any,any,,inA,inA'>
+#1.2     gAni    VAUX    <fs af='gAni,avy,,,,,0,0_avy'>|<fs af='gAdu,n,,sg,,o,ti,ti'>|<fs af='gAdu,pn,,sg,,o,ti,ti'>|<fs af='gaM,n,,sg,,o,ti,ti'>
+#       ))
+
+R15: VGF(({ayinA%VM<root="avvu",lcat="v",gend="$g",num="$n",pers="$p",tam="inA">}{gAni%VAUX<root="gAni",lcat="avy">})) => +RBP(({ayinA%RB<root="avvu",lcat="v",gend="$g",num="$n",pers="$p",tam="inA">})) +BLK(({gAni%RP<root="gAni",lcat="avy">})) 
+
+#R16: NP~1(({%QC}{%NN<cat="n">})) NP~2(({$a%NN<root="$r",lcat="n",gend="$g",num="$n",pers="$p",cm="$c",suff="$s">})) => NP~1({%QC}{%NN<cat="n">}(+{$a%NN<root="$r",lcat="n",gend="$g",num="$n",pers="$p",case="o",cm="$c",suff="$s">}))
+
+R17: NP~1(({%QC}{%NN<cat="adj">})) NP~2(({$a%NN<root="$r",lcat="n",gend="$g",num="$n",pers="$p",cm="$c",suff="$s">})) => NP~1({%QC}{%JJ<cat="adj">}(+{$a%NN<root="$r",lcat="n",gend="$g",num="$n",pers="$p",case="o",cm="$c",suff="$s">}))
+
+R18: NP~1(({%JJ}{%NN<cat="adj">})) NP~2(({$a%NNP<root="$r",lcat="n",gend="$g",num="$n",pers="$p",cm="$c",suff="$s">})) => NP~1(({%JJ}{%JJ}+{$a%NNP<root="$r",lcat="n",gend="$g",num="$n",pers="$p",cm="$c",suff="$s">}))
+
+R19: NP~1(({%JJ}{%NN<cat="adj">})) NP~2(({$a%NN<root="$r",lcat="n",gend="$g",num="$n",pers="$p",cm="$c",suff="$s">})) => NP~1(({%JJ}{%JJ}+{$a%NN<root="$r",lcat="n",gend="$g",num="$n",pers="$p",cm="$c",suff="$s">}))
+
+R11: NP~1(({%NN<cm="0">})) NP~2(({$a%NST<root="$b",lcat="$c",gend="$g",num="$n",pers="$p",cm="0">})) => NP~1(({%NN<case="o",cm="0">}+{$a%PSP<root="$b",lcat="psp",gend="$g",num="$n",pers="$p",cm="0">}))
+R11: NP~1(({%NNP<cm="0">})) NP~2(({$a%NST<root="$b",lcat="$c",gend="$g",num="$n",pers="$p",cm="0">})) => NP~1(({%NNP<case="o",cm="0">}+{$a%PSP<root="$b",lcat="psp",gend="$g",num="$n",pers="$p",cm="0">}))
+R11: NP~1(({%PRP<cm="0">})) NP~2(({$a%NST<root="$b",lcat="$c",gend="$g",num="$n",pers="$p",cm="0">})) => NP~1(({%PRP<case="o",cm="0">}+{$a%PSP<root="$b",lcat="psp",gend="$g",num="$n",pers="$p",cm="0">}))
+
+R11: NP~1(({$a%NST})) NP~2(({$b%NN<root="$b",lcat="$c",gend="$g",num="$n",pers="$p",case="$f",cm="gA">})) => NP~1(({$a%JJ}+{$b%NN<root="$b",lcat="$c",gend="$g",num="$n",pers="$p",case="$f",cm="gA">}))
+
+#R120: VGNF(({%VM<lcat="v",tam="ina">})) NP(({%PRP<root="vAru",lcat="pn",gend="fm",num="pl",pers="3">}{$s%SYM<root="$p",lcat="punc">})) => VGNF(({%VM<lcat="v",gend="fm",num="pl",pers="3",tam="ina_vAru">}+{$s%SYM<root="$p",lcat="punc">}))
+
+R1228650: VGNF(({%VM<lcat="v",tam="ina">})) NP(({%PRP<root="vAru",lcat="pn",gend="fm",num="pl",pers="3">}{$s%SYM<root="$p",lcat="punc">})) => VGNF(({%VM<lcat="v",gend="fm",num="pl",pers="3",tam="ina_vAru">}+{$s%SYM<root="$p",lcat="punc">}))
+R1228651: VGNF(({%VM<lcat="v",tam="ina">})) NP(({%PRP<root="vAlYlu",lcat="pn",gend="fm",num="pl",pers="3">}{$s%SYM<root="$pc",lcat="punc">})) => VGNF(({%VM<lcat="v",gend="fm",num="pl",pers="3",tam="ina_vAlYlu">}+{$s%SYM<root="$pc",lcat="punc">}))
+R1228652: VGNF(({%VM<lcat="v",tam="ina">})) NP(({%PRP<root="vAdu",lcat="pn",gend="m",num="sg",pers="3">}{$s%SYM<root="$pc",lcat="punc">})) => VGNF(({%VM<lcat="v",gend="m",num="sg",pers="3",tam="ina_vAdu">}+{$s%SYM<root="$pc",lcat="punc">}))
+R1228653: VGNF(({%VM<lcat="v",tam="ina">})) NP(({%PRP<root="Ayana",lcat="pn",gend="m",num="sg",pers="3">}{$s%SYM<root="$pc",lcat="punc">})) => VGNF(({%VM<lcat="v",gend="m",num="sg",pers="3",tam="ina_Ayana">}+{$s%SYM<root="$pc",lcat="punc">}))
+R1228654: VGNF(({%VM<lcat="v",tam="ina">})) NP(({%PRP<root="AmeV",lcat="pn",gend="f",num="sg",pers="3">}{$s%SYM<root="$pc",lcat="punc">})) => VGNF(({%VM<lcat="v",gend="f",num="sg",pers="3",tam="ina_AmeV">}+{$s%SYM<root="$pc",lcat="punc">}))
+R1228655: VGNF(({%VM<lcat="v",tam="e">})) NP(({%PRP<root="vAru",lcat="pn",gend="fm",num="pl",pers="3">}{$s%SYM<root="$pc",lcat="punc">})) => VGNF(({%VM<lcat="v",gend="fm",num="pl",pers="3",tam="e_vAru">}+{$s%SYM<root="$pc",lcat="punc">}))
+R1228656: VGNF(({%VM<lcat="v",tam="e">})) NP(({%PRP<root="vAlYlu",lcat="pn",gend="fm",num="pl",pers="3">}{$s%SYM<root="$pc",lcat="punc">})) => VGNF(({%VM<lcat="v",gend="fm",num="pl",pers="3",tam="e_vAlYlu">}+{$s%SYM<root="$pc",lcat="punc">}))
+R1228657: VGNF(({%VM<lcat="v",tam="e">})) NP(({%PRP<root="vAdu",lcat="pn",gend="m",num="sg",pers="3">}{$s%SYM<root="$pc",lcat="punc">})) => VGNF(({%VM<lcat="v",gend="m",num="sg",pers="3",tam="e_vAdu">}+{$s%SYM<root="$pc",lcat="punc">}))
+R1228658: VGNF(({%VM<lcat="v",tam="e">})) NP(({%PRP<root="Ayana",lcat="pn",gend="m",num="sg",pers="3">}{$s%SYM<root="$pc",lcat="punc">})) => VGNF(({%VM<lcat="v",gend="m",num="sg",pers="3",tam="e_Ayana">}+{$s%SYM<root="$pc",lcat="punc">}))
+R1228659: VGNF(({%VM<lcat="v",tam="e">})) NP(({%PRP<root="AmeV",lcat="pn",gend="f",num="sg",pers="3">}{$s%SYM<root="$pc",lcat="punc">})) => VGNF(({%VM<lcat="v",gend="f",num="sg",pers="3",tam="e_AmeV">}+{$s%SYM<root="$pc",lcat="punc">}))
+1228660: VGNF(({%VM<lcat="v",tam="ani">})) NP(({%PRP<root="vAru",lcat="pn",gend="fm",num="pl",pers="3">}{$s%SYM<root="$pc",lcat="punc">})) => VGNF(({%VM<lcat="v",gend="fm",num="pl",pers="3",tam="ani_vAru">}+{$s%SYM<root="$pc",lcat="punc">}))
+R1228661: VGNF(({%VM<lcat="v",tam="ani">})) NP(({%PRP<root="vAlYlu",lcat="pn",gend="fm",num="pl",pers="3">}{$s%SYM<root="$pc",lcat="punc">})) => VGNF(({%VM<lcat="v",gend="fm",num="pl",pers="3",tam="ani_vAlYlu">}+{$s%SYM<root="$pc",lcat="punc">}))
+R1228662: VGNF(({%VM<lcat="v",tam="ani">})) NP(({%PRP<root="vAdu",lcat="pn",gend="m",num="sg",pers="3">}{$s%SYM<root="$pc",lcat="punc">})) => VGNF(({%VM<lcat="v",gend="m",num="sg",pers="3",tam="ani_vAdu">}+{$s%SYM<root="$pc",lcat="punc">}))
+R1228663: VGNF(({%VM<lcat="v",tam="ani">})) NP(({%PRP<root="Ayana",lcat="pn",gend="m",num="sg",pers="3">}{$s%SYM<root="$pc",lcat="punc">})) => VGNF(({%VM<lcat="v",gend="m",num="sg",pers="3",tam="ani_Ayana">}+{$s%SYM<root="$pc",lcat="punc">}))
+R1228664: VGNF(({%VM<lcat="v",tam="ani">})) NP(({%PRP<root="AmeV",lcat="pn",gend="f",num="sg",pers="3">}{$s%SYM<root="$pc",lcat="punc">})) => VGNF(({%VM<lcat="v",gend="f",num="sg",pers="3",tam="ani_AmeV">}+{$s%SYM<root="$pc",lcat="punc">}))
+1228670: VGNF(({%VM<lcat="v",tam="wunna">})) NP(({%PRP<root="vAru",lcat="pn",gend="fm",num="pl",pers="3">}{$s%SYM<root="$pc",lcat="punc">})) => VGNF(({%VM<lcat="v",gend="fm",num="pl",pers="3",tam="wunna_vAru">}+{$s%SYM<root="$pc",lcat="punc">}))
+R1228671: VGNF(({%VM<lcat="v",tam="wunna">})) NP(({%PRP<root="vAlYlu",lcat="pn",gend="fm",num="pl",pers="3">}{$s%SYM<root="$pc",lcat="punc">})) => VGNF(({%VM<lcat="v",gend="fm",num="pl",pers="3",tam="wunna_vAlYlu">}+{$s%SYM<root="$pc",lcat="punc">}))
+R1228672: VGNF(({%VM<lcat="v",tam="wunna">})) NP(({%PRP<root="vAdu",lcat="pn",gend="m",num="sg",pers="3">}{$s%SYM<root="$pc",lcat="punc">})) => VGNF(({%VM<lcat="v",gend="m",num="sg",pers="3",tam="wunna_vAdu">}+{$s%SYM<root="$pc",lcat="punc">}))
+R1228673: VGNF(({%VM<lcat="v",tam="wunna">})) NP(({%PRP<root="Ayana",lcat="pn",gend="m",num="sg",pers="3">}{$s%SYM<root="$pc",lcat="punc">})) => VGNF(({%VM<lcat="v",gend="m",num="sg",pers="3",tam="wunna_Ayana">}+{$s%SYM<root="$pc",lcat="punc">}))
+R1228674: VGNF(({%VM<lcat="v",tam="wunna">})) NP(({%PRP<root="AmeV",lcat="pn",gend="f",num="sg",pers="3">}{$s%SYM<root="$pc",lcat="punc">})) => VGNF(({%VM<lcat="v",gend="f",num="sg",pers="3",tam="wunna_AmeV">}+{$s%SYM<root="$pc",lcat="punc">}))
+
+R1228675: VGNF(({$b%VM<root="$c",lcat="v",gend="$w",num="$h",$pers="$t",tam="ani",suff="$s">})) VGF(({%VM<root="gala",tam="a">}{%SYM})) => VGF((+{$b%VM<root="$c",lcat="v",gend="$w",num="$h",$pers="$t",tam="an",suff="$s">}{%VAUX<root="gala",tam="a">}{%SYM}))

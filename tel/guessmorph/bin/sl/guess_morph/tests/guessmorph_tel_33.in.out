@@ -1,0 +1,66 @@
+<Sentence id="1">			
+1	((	NP	
+1.1	vAtiwo	PRP	<fs af='axi,pn,fn,pl,3,,wo,wo'>
+1.2	pAtu	PSP	<fs af='pAtu,n,,sg,,d,0,0' poslcat="NM">'>|<fs af='pAtu,n,,sg,,d,0,0' poslcat="NM">'>
+	))		
+2	((	NP	
+2.1	iMxulo	PRP	<fs af='iMxulo,avy,,,,,,' poslcat="NM">'>|<fs af='iMxulo,avy,,,,,,' poslcat="NM">'>
+	))		
+3	((	NP	
+3.1	hIro	NN	<fs af='hIro,n,,sg,,d,0,0'>|<fs af='hIro,n,,sg,,o,ti,ti'>
+	))		
+4	((	NP	
+4.1	kaMtEnar	NN	<fs af='kaMtEnar,n,,sg,,d,0,0'>|<fs af='kaMtEnar,n,,sg,,o,ti,ti'>
+	))		
+5	((	NP	
+5.1	pE	NST	<fs af='pE,adv,,,,,0,0_adv'>|<fs af='pE,nst,,,,,yoVkka,yoVkka_adv'>
+	))		
+6	((	NP	
+6.1	bEk	NN	<fs af='bEk,n,,sg,,d,0,0'>|<fs af='bEk,n,,sg,,o,ti,ti'>
+	))		
+7	((	VGF	
+7.1	nadapadaM	VM	<fs af='nadapu,v,any,any,any,,adaM,adaM'>|<fs af='nadupu,v,any,any,any,,adaM,adaM'>
+7.2	,	SYM	<fs af='&comma;,punc,,,,,,'>
+	))		
+8	((	NP	
+8.1	getu	NN	<fs af='getu,n,,sg,,d,0,0'>|<fs af='getu,n,,sg,,o,ti,ti'>
+	))		
+9	((	NP	
+9.1	pE	NST	<fs af='pE,adv,,,,,0,0_adv'>|<fs af='pE,nst,,,,,yoVkka,yoVkka_adv'>
+9.2	nuMdi	PSP	<fs af='nuMdi,avy,,,,,0,0_avy' poslcat="NM">
+	))		
+10	((	NP	
+10.1	bEk	NN	<fs af='bEk,n,,sg,,d,0,0'>|<fs af='bEk,n,,sg,,o,ti,ti'>
+10.2	wo	PSP	<fs af='wo,avy,,,,,0,0_avy' poslcat="NM">
+	))		
+11	((	NP	
+11.1	jaMp	NN	<fs af='jaMp,n,,sg,,d,0,0'>|<fs af='jaMp,n,,sg,,o,ti,ti'>
+	))		
+12	((	VGNN	
+12.1	ceyadaM	VM	<fs af='ceVyyi,v,any,any,any,,adaM,adaM'>
+	))		
+13	((	NP	
+13.1	vaMti	JJ	<fs af='vaMti,adj,,,,,0,0_adj'>
+13.2	kanal	NN	<fs af='kanal,n,,sg,,d,0,0'>|<fs af='kanal,n,,sg,,o,ti,ti'>
+	))		
+14	((	NP	
+14.1	kannan	NN	<fs af='kannan,n,,sg,,d,0,0'>|<fs af='kannan,n,,sg,,o,ti,ti'>
+	))		
+15	((	NP	
+15.1	speVRal	NN	<fs af='speVRal,n,,sg,,d,0,0'>|<fs af='speVRal,n,,sg,,o,ti,ti'>
+	))		
+16	((	NP	
+16.1	vinyAsAlu	NN	<fs af='vinyAsaM,n,,pl,,d,0,0'>|<fs af='vinyAsaM,n,,pl,,,vu,vu'>
+16.2	kUdA	PSP	<fs af='kUdA,avy,,,,,0,0_avy' poslcat="NM">'>|<fs af='kUdu,v,any,any,any,,i_A,i_A' poslcat="NM">'>
+	))		
+17	((	VGNF	
+17.1	cesi	VM	<fs af='ceVyyi,v,any,any,any,,i,i'>
+	))		
+18	((	NP	
+18.1	cirAku	NN	<fs af='cirAku,n,,sg,,d,0,0'>|<fs af='cirAku,n,,sg,,o,ti,ti'>
+	))		
+19	((	VGF	
+19.1	kaligiMcAdu	VM	<fs af='kaligiMcu,v,m,sg,3,,A,A'>
+19.2	.	SYM	<fs af='&dot;,punc,,,,,,'>
+	))		
+</Sentence>			

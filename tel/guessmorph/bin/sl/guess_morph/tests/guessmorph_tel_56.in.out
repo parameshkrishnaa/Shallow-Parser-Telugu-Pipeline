@@ -1,0 +1,63 @@
+<Sentence id="1">			
+1	((	NP	
+1.1	rElve	NN	<fs af='rElve,n,,sg,,d,0,0'>|<fs af='rElve,n,,sg,,o,ti,ti'>
+	))		
+2	((	NP	
+2.1	lEnlu	NN	<fs af='lEn,n,,pl,,d,0,0'>|<fs af='lEn,n,,pl,,,vu,vu'>
+	))		
+3	((	VGNF	
+3.1	unna	VM	<fs af='uMdu,v,any,any,any,,ina,ina'>
+	))		
+4	((	NP	
+4.1	prAMwAllo	NN	<fs af='prAMwaM,n,,pl,,,lo,lo'>
+	))		
+5	((	NP	
+5.1	meVtro	NN	<fs af='meVtro,n,,sg,,d,0,0'>|<fs af='meVtro,n,,sg,,o,ti,ti'>
+	))		
+6	((	NP	
+6.1	kAridAr	NN	<fs af='kAridAr,unk,,,,,,' poslcat="NM">
+6.2	kosaM	PSP	<fs af='kosaM,avy,,,,,0,0_avy' poslcat="NM">'>|<fs af='kosaM,avy,,,,,0,0_avy' poslcat="NM">'>
+	))		
+7	((	VGNF	
+7.1	nirmiMcanunna	VM	<fs af='nirmiMcu,v,any,any,any,,a_uMdu_ina,a_uMdu_ina'>
+	))		
+8	((	NP	
+8.1	rodovar	NN	<fs af='rodovar,unk,,,,,,' poslcat="NM">
+	))		
+9	((	NP	
+9.1	bridji	NN	<fs af='bridji,n,,sg,,d,0,0'>|<fs af='bridji,n,,sg,,o,ti,ti'>
+	))		
+10	((	NP	
+10.1	laku	NN	<fs af='laku,avy,,,,,0,0_avy' poslcat="NM">
+	))		
+11	((	VGNF	
+11.1	saMbaMXiMci	VM	<fs af='saMbaMXiMcu,v,any,any,any,,i,i'>
+	))		
+12	((	NP	
+12.1	hExarAbAx	NNP	<fs af='hExarAbAx,n,,sg,,d,0,0'>|<fs af='hExarAbAx,n,,sg,,o,ti,ti'>
+	))		
+13	((	NP	
+13.1	meVtro	NN	<fs af='meVtro,n,,sg,,d,0,0'>|<fs af='meVtro,n,,sg,,o,ti,ti'>
+	))		
+14	((	NP	
+14.1	rElu	NN	<fs af='rElu,n,,sg,,d,0,0'>|<fs af='rEl,n,,sg,,d,0,0'>
+	))		
+15	((	NP	
+15.1	kotlalo	NN	<fs af='kot,n,,pl,,,lo,lo'>|<fs af='kot,n,,pl,,,lo,lo'>
+	))		
+16	((	NP	
+16.1	xakRiNa	NN	<fs af='xakRiNaM,n,,sg,,o,ti,ti'>|<fs af='xakRiNudu,n,,sg,,o,ti,ti'>
+	))		
+17	((	NP	
+17.1	maXya	NST	<fs af='maXya,adv,,,,,0,'>
+17.2	rElveku	NN	<fs af='rElve,n,,sg,,,ki,ki'>
+	))		
+18	((	NP	
+18.1	CArjIlanu	NN	<fs af='CArjI,n,,pl,,,ni,ni'>
+	))		
+19	((	VGF	
+19.1	ceVlliMcAlsi	VM	<fs af='ceVlliMcu,v,any,any,any,,Alasi,Alasi'>
+19.2	uMdexi	VAUX	<fs af='uMdu,v,,sg,,,e_axi,e_axi_0' deri_cat=pn poslcat="NM">
+19.3	.	SYM	<fs af='&dot;,punc,,,,,,'>
+	))		
+</Sentence>			

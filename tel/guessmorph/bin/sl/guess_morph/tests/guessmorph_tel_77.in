@@ -1,0 +1,26 @@
+<Sentence id="1">
+1	((	NP	
+1.1	2012	QC	<fs af='2012,num,,,,,,'>
+1.2	lo	PSP	<fs af='lo,avy,,,,,,' poslcat="NM">|<fs af='la,avy,,,,,o,o_avy' poslcat="NM">
+	))		
+2	((	NP	
+2.1	Am	NN	<fs af='Am,unk,,,,,,' poslcat="NM">
+	))		
+3	((	NP	
+3.1	AxmI	NN	<fs af='AxmI,unk,,,,,,' poslcat="NM">
+	))		
+4	((	NP	
+4.1	pArtI	NN	<fs af='pArtI,n,,sg,,d,0,0'>|<fs af='pArtI,n,,sg,,o,ti,ti'>
+	))		
+5	((	BLK	
+5.1	ane	UT	<fs af='ane,avy,,,,,,'>|<fs af='ani,avy,,,,,e,e_avy'>|<fs af='ani,avy,,,,,e,e_avy'>
+	))		
+6	((	NP	
+6.1	rAjakIya	JJ	<fs af='rAjakIya,adj,,,,,0,0_adj'>
+6.2	pArtIni	NN	<fs af='pArtI,n,,sg,,,ni,ni'>
+	))		
+7	((	VGF	
+7.1	sWApiMcAru	VM	<fs af='sWApiMcu,v,fm,pl,3,,A,A'>
+7.2	.	SYM	<fs af='&dot;,punc,,,,,,'>
+	))		
+</Sentence>

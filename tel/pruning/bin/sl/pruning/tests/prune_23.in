@@ -1,0 +1,13 @@
+<Sentence id="1">
+1	((	NP	
+1.1	iMxulo	PRP	<fs af='iMxulo,avy,,,,,,'>|<fs af='iMxulo,avy,,,,,,'>
+	))		
+2	((	NP	
+2.1	BAgame	NN	<fs af='BAgaM,n,,sg,,,0,0_e'>
+	))		
+3	((	NP	
+3.1	puttagoVdugulu	NN	<fs af='puttagoVdugu,n,,pl,,d,0,0'>|<fs af='puttagoVdugu,n,,pl,,,vu,vu'>
+3.2	.	SYM	<fs af='&dot;,punc,,,,,,'>
+	))		
+</Sentence>
+

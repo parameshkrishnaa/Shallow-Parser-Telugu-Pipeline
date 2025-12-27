@@ -1,0 +1,36 @@
+<Sentence id="1">
+1	((	NP	
+1.1	xIniki	PRP	<fs af='ixi,pn,fn,sg,3,,ki,ki'>
+	))		
+2	((	NP	
+2.1	eVllalu	NN	<fs af='eVlla,n,,pl,,d,0,0'>|<fs af='eVlla,n,,pl,,,vu,vu'>
+	))		
+3	((	NP	
+3.1	uwwarAna	NN	<fs af='uwwaraM,n,,sg,,,na,na'>
+	))		
+4	((	NP	
+4.1	raRyA	NNP	<fs af='raRyA,n,,sg,,d,0,0'>|<fs af='raRyA,n,,sg,,o,ti,ti'>
+4.2	,	SYM	<fs af='&comma;,punc,,,,,,'>
+	))		
+5	((	NP	
+5.1	xakRiNaM	NN	<fs af='xakRiNaM,n,,sg,,d,0,0'>
+5.2	,	SYM	<fs af='&comma;,punc,,,,,,'>
+	))		
+6	((	NP	
+6.1	wUrpu	NN	<fs af='wUrpu,n,,sg,,d,0,0'>|<fs af='wUrpu,n,,sg,,o,ti,ti'>
+	))		
+7	((	CCP	
+7.1	mariyu	CC	<fs af='mariyu,avy,,,,,0,0_avy'>
+	))		
+8	((	NP	
+8.1	padamaralalo	NN	<fs af='padamara,n,,pl,,,lo,lo'>
+	))		
+9	((	NP	
+9.1	cEnA	JJ	<fs af='cEnA,n,,sg,,d,0,0' poslcat="NM">|<fs af='cEnA,n,,sg,,o,ti,ti' poslcat="NM">|<fs af='cEnu,n,,sg,,,0,0_A' poslcat="NM">
+9.2	xeSAlu	NN	<fs af='xeSaM,n,,pl,,d,0,0'>|<fs af='xeSaM,n,,pl,,,vu,vu'>
+	))		
+10	((	VGF	
+10.1	unnAyi	VM	<fs af='uMdu,v,n,pl,3,,A,A'>
+10.2	.	SYM	<fs af='&dot;,punc,,,,,,'>
+	))		
+</Sentence>

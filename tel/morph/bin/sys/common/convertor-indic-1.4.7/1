@@ -1,0 +1,30 @@
+<Sentence id="1">			
+1	((	NP	<fs af='கேவலம்,n,,sg,,d,0,0' head="கேவலம்"  name='1'>
+1.1	கேவலம்	NN	<fs af='கேவலம்,n,,sg,,d,0,0' name="கேவலம்">
+	))		
+2	((	RBP	<fs af='ஹாயிகா,avy,,,,,0,0_avy' head="ஹாயிா"  name='2'  poslcat="NM">
+2.1	ஹாஷிகா	RB	<fs af='ஹாஷிகா,avy,,,,,0,0_avy' name="ஹாயிா"  poslcat="NM">
+	))		
+3	((	NP	<fs af='ஜீவிதம்,n,,sg,,,நு,nu' vpos="vib1"  head="ஜீவிதாந்நி"  name='3'>
+3.1	ஜீவிதாந்நி	NN	<fs af='ஜீவிதம்,n,,sg,,,நு,nu' name="ஜீவிதாந்நி">
+	))		
+4	((	VGNF	<fs af='பு,v,any,any,any,,அம்,adaM' head="பம்"  name='4'>
+4.1	கழி	VM	<fs af='^@kalYYi,v,any,any,any,,அம்,adaM' name="பம்">
+	))		
+5	((	VGNF	<fs af='வச்சு,v,any,any,any,,தே,we' head="வஸ்தே"  name='5'>
+5.1	தெரி	VM	<fs af='^@weVri,v,any,any,any,,தே,we' name="வஸ்தே">
+	))		
+6	((	VGNF	<fs af='சாலு,v,,sg,2,,ஆஜ்ஞார்,AjFArWa' head="சாலு"  name='6'>
+6.1	சாலு	VM	<fs af='சாலு,v,,sg,2,,ஆஜ்ஞார்,AjFArWa' name="சாலு">
+	))		
+7	((	VGNF	<fs af='அநு,v,fm,pl,3,,துந்ந்,wunn' head="அம்டுந்நாரு"  name='7'>
+7.1	அம்டுந்நாரு	VM	<fs af='அநு,v,fm,pl,3,,துந்ந்,wunn' name="அம்டுந்நாரு">
+	))		
+8	((	NP	<fs af='மாநஸிக,n,,sg,,d,0,0' head="மாநஸிக"  name='8'>
+8.1	மனோதத்துவ	NN	<fs af='^@manYowawwuva,n,,sg,,d,0,0' name="மாநஸிக">
+	))		
+9	((	NP	<fs af='வை்யநிபுணுு,n,,pl,,d,0,0' head="வை்யநிபுணுலு"  name='9'>
+9.1	வல்லுநர்	NN	<fs af='^@vallunar,n,,pl,,d,0,0' name="வை்யநிபுணுலு">
+9.2	.	SYM	<fs af='&dot;,punc,,,,,,'>
+	))		
+</Sentence>

@@ -1,0 +1,86 @@
+090610	PC_DATA		Paradigm:add_gUdu.p
+line no-12:: gUdunU/gUdinU/gUtinI
+line no-18:: gUdukI/gUtikI
+These two lines are changed. U-->I/front Vowels
+
+080610	PC_DATA		ArWaM' is added along with kosaM in noun paradigm by Ravikanth, parameshwari
+			'rakRaNArXaM' as an entry in dict is blocked.
+
+010410	feature_value	line no: 460-471, hortative shd be in 1p,pl form
+
+
+180210	dict.9 	NewEntry
+		sWAnikudu
+		Delete :"kriwaMnAdu","2","gUdu","n","xxxx","ravi-paramesh-170210"
+
+190210	dict.9 NewEntry
+		"bodo","2","kalcar","n","xxxx","paramesh-190210"
+200210	dict.9 NewEntry
+		"paryAtakudu","2","snehiwudu","n","xxxx","paramesh-200210"
+
+020310	dict.9	129 words are added
+
+090310	dict.9	100 words are added	(Ravi_pandey020310)
+
+260310  dict.9	68 words are added	(Ravi_pandey_090310)
+
+260310  dict.9	32 words are added	(Ravi_pandey_110310)
+
+070910	"anAmaka","1","kota","n","anAmaka","d_hsa_skt" is deleted from the dict.
+
+311010	dict.1  line no: 2850 is deleted 
+		"an","2","kalcar","n","@an","gur"
+	becoz it contradicts with "anni" analysis
+
+	6s	anni	QF	<fs af='anni,pn,,pl,,d,0,0'>|<fs af='an,n,,sg,,d,ni,ni'>|<fs af='aMwa,n,,pl,,d,0,0'>|<fs af='aMwa,n,,pl,,d,vu,vu'>
+
+221210	Deleted the entry from dict.1
+	"avasaramavvu","3","avvu","v","1.jarUrawa_pada/AvaSyakawA_ho/2.%%mOkZA_mila","d1_smtsh_rajini"
+
+250511	"SreRTa" pdgm into 3 noun pdgm as
+	SreRtudu -snehiwudu pdgm
+	SreRturAlu - velu pdgm
+	SreRtaM - puswakaM pdgm
+	2970 entries are added.	
+
+071211	Entry deleted, becoz it conflicts with velu+pl.
+"velYlu","3","pAlu","n","1.jada{ba.}/mUla{ba.}","d1_rajini_gur"
+
+131211	Entry deleted becoz it conflicts with repo=>repu+o
+dict.7:"repa","1","kota","n","@repa","Prop"
+
+280112	Entry deleted becoz 
+	prblm with 'o' "oV","1","peVtteV","n","1.oV/weVlugu_varNamAlA_kA_paMxrahavAz_varNa/2.hrasva_o","d1_gur"
+	prblm with 'nAlugoxi=nAlugu+avaxi""nAlugo","2","rikRA","n","1.cOWA","d1"
+	"reVMdo","3","rikRA","n","1.xUsarA/anya","d1_rajini"
+
+090212	dict.nefw is created for Named entities and foreign words
+
+210312  "kri","1","gaxi","n","kri","d_for_rajini" is deleted
+	"maMci","3","gaxi","n","1.%%acCA/BalA/neka/suMxara","d1_ramesh_gur_adj_rajini" is deleted becoz maMci as adj analysis has 2b picked.
+	deleted:: becoz conflicts with 'wo' casemarker.
+	"wa","2","kota","n","1.+wa/weVlugu_varNamAlA_kA_aTArahavAz_vyaMjana","d2_amba"
+	"du","3","meVxadu","n","kA_jiwanA","d_gur_sandhi"
+	"cIkatigAM","2","puswakaM","n","1.rAhu","d2"
+
+050612	deleted:: "pan","1","kalcar","n","pan","d_for"
+
+060612	deleted:"ixxarU","3","kAgA","avy","1.xono_BI{loga}","d1"
+		"jalAl","1","kalcar","n","jalAl","d_for"; conflict with jalaM
+120612  deleted: "carcil","1","kalcar","n","carcil","d_for" becoz it conflicts with
+10	carcilu	unk	<fs af='carcil,n,,sg,,d,0,0'>|<fs af='carcil,n,,sg,,d,0,0'>|<fs af='carcil,n,,sg,,o,ti,ti'>|<fs af='carcil,n,,sg,,o,ti,ti'>|<fs af='carci,n,,pl,,d,0,0'>|<fs af='carci,n,,pl,,,vu,vu'>
+
+230612	deleted: "it","1","kalcar","n","@it","d_iM_ramesha"
+	because 20	ituvEpu	unk	<fs af='it,n,,sg,,,vEpu,vEpu'>|<fs af='it,n,,sg,,,vEpu,vEpu'>
+
+250612	deleted::"ca","1","kota","n","ca","gurao-220808"
+	because 23	ceVxurugA	unk	<fs af='ca,n,,sg,,,keVxurugA,keVxurugA'>
+
+-----------------------------------------------------------------------------------------------------------------------------
+030712	deleted: dict.7:"rAs","1","kalcar","n","rAs","d_for"
+	because 5	rAsulugA	unk	<fs af='rAs,n,,pl,,,gA,gA'>|<fs af='rAsi,n,,pl,,,gA,gA'>
+
+	deleted: dict.9:"xevudunnAda","1","kota","n","xevudunnAda","d_guess"
+	because 1	xevudunnAdA	unk	<fs af='xevudunnAda,n,,sg,,,0_A,0_A'>|<fs af='xevudunnAda,n,,sg,,,0,0_V'>
+
+130712	"ceVppavaccu","3","vaccu","v","1.kaha_saka/bola_saka","d1"

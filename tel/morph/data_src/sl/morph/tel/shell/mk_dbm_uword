@@ -1,0 +1,2 @@
+perl create_dbm_uword.pl GDBM ../../../../../data_bin/sl/morph/tel/uword < ../dict/uword.dic
+chmod 644 ../../../../../data_bin/sl/morph/tel/uword

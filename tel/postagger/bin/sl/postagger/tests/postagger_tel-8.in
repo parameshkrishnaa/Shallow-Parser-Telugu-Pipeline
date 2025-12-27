@@ -1,0 +1,10 @@
+1	proVstet	unk	<fs af='proVstet,n,,sg,,d,0,0'>|<fs af='proVstet,n,,sg,,o,ti,ti'>
+2	graMWula	unk	<fs af='graMWi,n,,pl,,o,ti,ti'>
+3	vApunu	unk	<fs af='vApu,n,,sg,,,nu,nu'>|<fs af='vApu,n,,sg,,,ni,ni'>
+4	waggiMcadAniki	unk	<fs af='waggiMcu,v,,sg,,,adaM_ki,adaM_ki' deri_cat='n'>
+5	vExya	unk	<fs af='vExya,adj,,,,,0,0_adj'>|<fs af='vExyaM,n,,sg,,o,ti,ti'>|<fs af='vExyudu,n,,sg,,o,ti,ti'>
+6	paraMgA	unk	<fs af='paraMgA,avy,,,,,0,0_avy'>|<fs af='paraM,n,,sg,,,gA,gA'>
+7	gummadi	unk	<fs af='gummadi,n,,sg,,d,0,0'>|<fs af='gummadi,n,,sg,,o,ti,ti'>
+8	kAya	unk	<fs af='kAya,n,,sg,,d,0,0'>|<fs af='kAya,n,,sg,,o,ti,ti'>|<fs af='kAyaM,n,,sg,,o,ti,ti'>|<fs af='kAyi,v,any,any,any,,an,an'>
+9	saripowuMxi	unk	<fs af='saripo,v,fn,sg,3,,wA,wA'>|<fs af='saripo,v,fn,sg,3,,wA,wA'>
+10	.	unk	<fs af='&dot;,punc,,,,,,'>

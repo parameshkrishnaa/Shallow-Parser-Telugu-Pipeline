@@ -1,0 +1,28 @@
+<Sentence id="1">
+1	((	NP	
+1.1	15	QC	<fs af='15,num,,,,,,'>
+1.2	vaMxala	NN	<fs af='vaMxa,n,,pl,,o,ti,ti'>
+	))		
+2	((	NP	
+2.1	elYla	NN	<fs af='edu,n,,pl,,o,ti,ti'>|<fs af='edu,n,,pl,,o,ti,ti'>
+2.2	nuMdi	PSP	<fs af='nuMdi,avy,,,,,0,0_avy'>
+	))		
+3	((	NP	
+3.1	wirumala	NNP	<fs af='wirumala,n,,sg,,d,0,0'>|<fs af='wirumala,n,,sg,,d,0,0'>|<fs af='wirumala,n,,sg,,o,ti,ti'>|<fs af='wirumala,n,,sg,,o,ti,ti'>
+3.2	,	SYM	<fs af='&comma;,punc,,,,,,'>
+	))		
+4	((	NP	
+4.1	pAlakula	NN	<fs af='pAlakudu,n,,pl,,o,ti,ti'>|<fs af='pAlakudu,n,,pl,,o,ti,ti'>|<fs af='pAlak,n,,pl,,o,ti,ti'>
+	))		
+5	((	NP	
+5.1	AxaraNaku	NN	<fs af='AxaraNa,n,,sg,,,ki,ki'>
+	))		
+6	((	VGNF	
+6.1	nocukuMtU	VM	<fs af='nocu,v,any,any,any,,koVn_wU,koVn_wU'>
+	))		
+7	((	VGF	
+7.1	uMxi	VM	<fs af='uMdu,v,fn,sg,3,,A,A'>
+7.2	.	SYM	<fs af='&dot;,punc,,,,,,'>
+	))		
+</Sentence>
+

@@ -1,0 +1,21 @@
+1	BAraw	unk	<fs af='BAraw,n,,sg,,d,0,0'>|<fs af='BAraw,n,,sg,,o,ti,ti'>
+2	-	unk	<fs af='&minus;,punc,,,,,,'>
+3	e	unk	<fs af='e,avy,,,,,,'>|<fs af='e,avy,,,,,,'>|<fs af='e,adj,,,,,0,0_adj'>
+4	waraPuna	unk	<fs af='waraPuna,n,,sg,,d,0,0'>|<fs af='waraPuna,n,,sg,,o,ti,ti'>
+5	AduwU	unk	<fs af='Adu,v,any,any,any,,wU,wU'>
+6	pAkiswAn	unk	<fs af='pAkiswAn,n,,sg,,d,0,0'>|<fs af='pAkiswAn,n,,sg,,o,ti,ti'>
+7	-	unk	<fs af='&minus;,punc,,,,,,'>
+8	e	unk	<fs af='e,avy,,,,,,'>|<fs af='e,avy,,,,,,'>|<fs af='e,adj,,,,,0,0_adj'>
+9	pE	unk	<fs af='pE,adj,,,,,0,0_adj'>|<fs af='pE,n,,sg,,d,0,0'>|<fs af='pE,n,,sg,,o,ti,ti'>
+10	seVMcarIlu	unk	<fs af='seVMcarIlu,unk,,,,,,'>
+11	sAXiMci	unk	<fs af='sAXiMcu,v,any,any,any,,i,i'>
+12	wana	unk	<fs af='wana,avy,,,,,0,0_avy'>|<fs af='wAnu,pn,,sg,,o,ti,ti'>
+13	prawiBanu	unk	<fs af='prawiBa,n,,sg,,,nu,nu'>|<fs af='prawiBa,n,,sg,,,ni,ni'>
+14	veVlladiMci	unk	<fs af='veVlladiMcu,v,any,any,any,,i,i'>
+15	axe	unk	<fs af='axe,avy,,,,,0,0_avy'>|<fs af='axi,pn,fn,sg,3,,0,0_e'>
+16	saMvawsaraMlo	unk	<fs af='saMvawsaraM,n,,sg,,,lo,lo'>
+17	BArawa	unk	<fs af='BArawaM,n,,sg,,o,ti,ti'>
+18	jattulo	unk	<fs af='jattu,n,,pl,,,0,0_o'>|<fs af='jattu,n,,sg,,,lo,lo'>
+19	sWAnaM	unk	<fs af='sWAnaM,n,,sg,,d,0,0'>
+20	saMpAxiMcAdu	unk	<fs af='saMpAxiMcu,v,m,sg,3,,A,A'>
+21	.	unk	<fs af='&dot;,punc,,,,,,'>

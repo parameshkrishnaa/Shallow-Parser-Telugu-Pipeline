@@ -1,0 +1,9 @@
+<Sentence id="1">
+1	((	NP	
+1.1	ixi	PRP	<fs af='ixi,pn,fn,sg,3,d,0,0'>
+	))		
+2	((	NP	
+2.1	sahajaM	NN	<fs af='sahajaM,n,,sg,,d,0,0'>
+2.2	.	SYM	<fs af='&dot;,punc,,,,,,'>
+	))		
+</Sentence>

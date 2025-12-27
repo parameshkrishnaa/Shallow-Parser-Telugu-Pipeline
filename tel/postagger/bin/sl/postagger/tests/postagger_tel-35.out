@@ -1,0 +1,21 @@
+<Sentence id="1">			
+1	samAcAra	NN	<fs af='samAcAraM,n,,sg,,o,ti,ti'>
+2	hakku	NN	<fs af='hakku,n,,sg,,d,0,0'>|<fs af='hakku,n,,sg,,o,ti,ti'>
+3	cattaM	NN	<fs af='cattaM,n,,sg,,d,0,0'>|<fs af='cattaM,n,,sg,,d,0,0'>
+4	wIsukurAvataM	VM	<fs af='wIsukuvaccu,v,any,any,any,,adaM,adaM'>
+5	mariyu	CC	<fs af='mariyu,avy,,,,,0,0_avy'>
+6	pexavAri	NN	<fs af='pexa,n,,pl,,,vAru,vAru_obl' deri_cat='pn'>
+7	sWomawa	NN	<fs af='sWomawa,unk,,,,,,'>
+8	peVMcadAniki	VM	<fs af='peVMcu,v,,sg,,,adaM_ki,adaM_ki'>
+9	cesina	VM	<fs af='ceVyyi,v,any,any,any,,ina,ina'>
+10	kqRiki	NN	<fs af='kqRi,n,,sg,,,ki,ki'>
+11	2006	QC	<fs af='2006,num,,,,,,'>
+12	lo	PSP	<fs af='lo,avy,,,,,,'>|<fs af='la,avy,,,,,o,o_avy'>
+13	rAman	NNP	<fs af='rAman,n,,sg,,d,0,0'>|<fs af='rAman,n,,sg,,o,ti,ti'>
+14	meVgaseVse	VM	<fs af='meVgaseVse,unk,,,,,,'>
+15	puraskAraM	NN	<fs af='puraskAraM,n,,sg,,d,0,0'>
+16	laBiMciMxi	VM	<fs af='laBiMcu,v,fn,sg,3,,A,A'>
+17	.	SYM	<fs af='&dot;,punc,,,,,,'>
+</Sentence>			
+<Sentence id="2">			
+</Sentence>			

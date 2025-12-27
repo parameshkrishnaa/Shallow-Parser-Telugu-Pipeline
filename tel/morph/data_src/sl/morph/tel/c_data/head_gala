@@ -1,0 +1,3 @@
+#include "derived_const.h"
+#include "../../../../src/sl/morph/tel/headers/struct.h"
+struct suff_info gala_inf_vrb_ar[SIZEOF_gala_inf]={

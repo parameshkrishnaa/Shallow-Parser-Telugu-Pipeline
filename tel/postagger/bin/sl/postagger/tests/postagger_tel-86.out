@@ -1,0 +1,12 @@
+<Sentence id="1">			
+1	kejrivAl	NNP	<fs af='kejrivAl,unk,,,,,,'>
+2	DillIki	NN	<fs af='DillI,n,,sg,,,ki,ki'>
+3	muKyamaMwrigA	RB	<fs af='muKyamaMwri,n,,sg,,,gA,gA'>
+4	panicesina	VM	<fs af='paniceVyyi,v,any,any,any,,ina,ina'>
+5	vArilo	PRP	<fs af='vAru,pn,fm,pl,3,,lo,lo'>
+6	awyaMwa	INTF	<fs af='awyaMwa,avy,,,,,,'>|<fs af='awyaMwaM,n,,sg,,o,ti,ti'>
+7	pinnavayaskudu	NN	<fs af='pinnavayaskudu,unk,,,,,,'>
+8	.	SYM	<fs af='&dot;,punc,,,,,,'>
+</Sentence>			
+<Sentence id="2">			
+</Sentence>			

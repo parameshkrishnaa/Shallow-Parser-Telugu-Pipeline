@@ -1,0 +1,10 @@
+<Sentence id="1">			
+1	rakwaMloni	NN	<fs af='rakwaM,n,,sg,,,loni,loni'>
+2	glUkoj	NN	<fs af='glUkoj,n,,sg,,d,0,0'>|<fs af='glUkoj,n,,sg,,d,0,0'>|<fs af='glUkoj,n,,sg,,o,ti,ti'>|<fs af='glUkoj,n,,sg,,o,ti,ti'>
+3	nu	PSP	<fs af='nu,avy,,,,,0,0_avy'>
+4	bAgA	INTF	<fs af='bAgA,avy,,,,,0,0_avy'>|<fs af='bAgu,n,,sg,,,0,0_A'>
+5	waggiswuMxi	VM	<fs af='waggiMcu,v,fn,sg,3,,wA,wA'>
+6	.	SYM	<fs af='&dot;,punc,,,,,,'>
+</Sentence>			
+<Sentence id="2">			
+</Sentence>			

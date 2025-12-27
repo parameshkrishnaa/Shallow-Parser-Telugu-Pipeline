@@ -1,0 +1,9 @@
+<Sentence id="1">
+1	annaM	NN	<fs af='annaM,n,,sg,,d,0,0'>
+2	wini	VM	<fs af='winu,v,any,any,any,,i,i'>
+3	sujAwa	NNP	<fs af='sujAwa,n,,sg,,d,0,0'>|<fs af='sujAwa,n,,sg,,o,ti,ti'>
+4	nixrapoyiMxi	VM	<fs af='nixrapo,v,fn,sg,3,,A,A'>
+5	.	SYM	<fs af='&dot;,punc,,,,,,'>
+</Sentence>
+<Sentence id="2">
+</Sentence>

@@ -1,0 +1,10 @@
+<Sentence id="1">			
+1	aneka	JJ	<fs af='aneka,adj,,,,,0,0_adj'>|<fs af='anekaM,n,,sg,,o,ti,ti'>
+2	rAjamaMxirAlu	NN	<fs af='rAjamaMxiraM,rAjamaMxiraM,,pl,,d,0,0' deri_cat='n'>|<fs af='rAjamaMxiraM,rAjamaMxiraM,,pl,,,vu,vu' deri_cat='n'>
+3	vilAsavaMwamEna	JJ	<fs af='vilAsavaMwaM,n,,sg,,,Ena,Ena'>
+4	vasawigqhAlugA	RB	<fs af='vasawigqhaM,n,,pl,,,gA,gA'>
+5	mArcabaddAyi	VM	<fs af='mArcu,v,n,pl,3,,a_badu_A,a_badu_A'>
+6	.	SYM	<fs af='&dot;,punc,,,,,,'>
+</Sentence>			
+<Sentence id="2">			
+</Sentence>			

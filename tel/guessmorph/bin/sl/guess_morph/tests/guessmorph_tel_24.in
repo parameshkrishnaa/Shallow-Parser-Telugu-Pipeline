@@ -1,0 +1,14 @@
+<Sentence id="1">
+1	((	NP	
+1.1	itIvala	NST	<fs af='itIvala,adv,,,,,0,0_adv'>
+	))		
+2	((	NP	
+2.1	ciwrAla	NN	<fs af='ciwraM,n,,pl,,o,ti,'>
+2.2	aMxaMgA	NN	<fs af='aMxaM,n,,sg,,,gA,gA'>
+2.3	kUdA	PSP	<fs af='kUdA,avy,,,,,0,0_avy' poslcat="NM">|<fs af='kUdu,v,any,any,any,,i_A,i_A' poslcat="NM">|<fs af='kUdu,n,,sg,,,0,0_A' poslcat="NM">
+	))		
+3	((	VGF	
+3.1	kanipiMcAdu	VM	<fs af='kanipiMcu,v,m,sg,3,,A,A'>
+3.2	.	SYM	<fs af='&dot;,punc,,,,,,'>
+	))		
+</Sentence>

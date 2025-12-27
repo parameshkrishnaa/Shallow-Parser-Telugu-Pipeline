@@ -1,0 +1,47 @@
+<Sentence id="1">
+1	((	NP	
+1.1	sumAru	NN	<fs af='sumAru,avy,,,,,0,0_avy' poslcat="NM">|<fs af='sumAru,avy,,,,,0,0_avy' poslcat="NM">
+	))		
+2	((	NP	
+2.1	8	QC	<fs af='8,num,,,,,,'>
+	))		
+3	((	JJP	
+3.1	caxarapu	JJ	<fs af='caxaraM,n,,sg,,o,ti,ti' poslcat="NM">
+	))		
+4	((	NP	
+4.1	mElYla	NN	<fs af='mElu,n,,pl,,o,ti,ti'>
+	))		
+5	((	BLK	
+5.1	aMte	UT	<fs af='aMte,avy,,,,,,'>|<fs af='aMta,avy,,,,,e,e_avy'>
+	))		
+6	((	NP	
+6.1	21	QC	<fs af='21,num,,,,,,'>
+6.2	caxarapu	NN	<fs af='caxaraM,n,,sg,,o,ti,ti'>
+	))		
+7	((	NP	
+7.1	kilo	QF	<fs af='kilo,n,,sg,,d,0,0'>|<fs af='kilo,n,,sg,,o,ti,ti'>
+	))		
+8	((	NP	
+8.1	mItarla	JJ	<fs af='mItar,n,,pl,,o,ti,ti' poslcat="NM">
+8.2	viswIrNaM	NN	<fs af='viswIrNaM,n,,sg,,d,0,0'>|<fs af='viswIrNaM,n,,sg,,d,0,0'>
+8.3	lo	PSP	<fs af='lo,avy,,,,,,' poslcat="NM">|<fs af='la,avy,,,,,o,o_avy' poslcat="NM">
+	))		
+9	((	NP	
+9.1	80	QC	<fs af='80,num,,,,,,'>
+9.2	ki	NN	<fs af='ki,avy,,,,,0,0_avy' poslcat="NM">
+	))		
+10	((	RBP	
+10.1	pEgA	RB	<fs af='pEgA,adv,,,,,0,0_avy'>
+	))		
+11	((	NP	
+11.1	hiMxU	NNP	<fs af='hiMxU,n,,sg,,d,0,0'>|<fs af='hiMxU,n,,sg,,o,ti,ti'>
+	))		
+12	((	NP	
+12.1	xevAlayAlu	NN	<fs af='xevAlayaM,n,,pl,,d,0,0'>|<fs af='xevAlayaM,n,,pl,,d,0,0'>|<fs af='xevAlayaM,n,,pl,,,vu,vu'>|<fs af='xevAlayaM,n,,pl,,,vu,vu'>
+	))		
+13	((	VGF	
+13.1	parucukoVni	VM	<fs af='paruvu,v,any,any,any,,koVn_i,koVn_i'>
+13.2	unnAyi	VAUX	<fs af='uMdu,v,n,pl,3,,A,A' poslcat="NM">
+13.3	.	SYM	<fs af='&dot;,punc,,,,,,'>
+	))		
+</Sentence>

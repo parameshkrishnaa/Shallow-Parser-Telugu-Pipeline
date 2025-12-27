@@ -1,0 +1,14 @@
+<Sentence id="1">
+1	((	NP	
+1.1	aneka	JJ	<fs af='aneka,adj,,,,,0,0_adj'>
+1.2	rAjamaMxirAlu	NN	<fs af='rAjamaMxiraM,rAjamaMxiraM,,pl,,d,0,0' deri_cat=n poslcat="NM">|<fs af='rAjamaMxiraM,rAjamaMxiraM,,pl,,,vu,vu' deri_cat=n poslcat="NM">
+	))		
+2	((	NP	
+2.1	vilAsavaMwamEna	JJ	<fs af='vilAsavaMwaM,n,,sg,,,Ena,Ena' poslcat="NM">
+2.2	vasawigqhAlugA	NN	<fs af='vasawigqhaM,n,,pl,,,gA,gA'>
+	))		
+3	((	VGF	
+3.1	mArcabaddAyi	VM	<fs af='mArcu,v,n,pl,3,,a_badu_A,a_badu_A'>
+3.2	.	SYM	<fs af='&dot;,punc,,,,,,'>
+	))		
+</Sentence>

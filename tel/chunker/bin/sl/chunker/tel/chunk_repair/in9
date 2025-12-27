@@ -1,0 +1,17 @@
+<Sentence id="1">
+1	((	NP	
+1.1	cEnA	NNP	<fs af='cEnA,n,,sg,,d,0,0'>|<fs af='cEnA,n,,sg,,o,ti,ti'>|<fs af='cEnu,n,,sg,,,0,0_A'>
+	))		
+2	((	NP	
+2.1	muMxu	NST	<fs af='muMxu,adv,,,,,0,0_adv'>|<fs af='muMxu,n,,sg,,d,0,0'>|<fs af='muMxu,n,,sg,,o,ti,ti'>
+	))		
+3	((	NP	
+3.1	oVka	JJ	<fs af='oVka,adj,,,,,0,0_adj'>
+3.2	samasya	NN	<fs af='samasya,n,,sg,,d,0,0'>|<fs af='samasya,n,,sg,,o,ti,ti'>
+	))		
+4	((	VGF	
+4.1	uMxi	VM	<fs af='uMdu,v,fn,sg,3,,A,A'>
+4.2	.	SYM	<fs af='&dot;,punc,,,,,,'>
+	))		
+</Sentence>
+

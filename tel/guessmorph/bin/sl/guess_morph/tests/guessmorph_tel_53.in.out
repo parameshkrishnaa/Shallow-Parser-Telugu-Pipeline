@@ -1,0 +1,45 @@
+<Sentence id="1">			
+1	((	NP	
+1.1	itIvale	NST	<fs af='itIvala,nst,,,,,0_e,0_e_adv'>
+	))		
+2	((	JJP	
+2.1	o	JJ	<fs af='o,avy,,,,,,'>|<fs af='o,avy,,,,,0,0_avy'>
+	))		
+3	((	NP	
+3.1	pramuKa	JJ	<fs af='pramuKa,adj,,,,,0,0_adj'>|<fs af='pramuKaM,n,,sg,,o,ti,ti'>
+3.2	hIro	NN	<fs af='hIro,n,,sg,,d,0,0'>|<fs af='hIro,n,,sg,,o,ti,ti'>
+	))		
+4	((	NP	
+4.1	RUtiMglo	NN	<fs af='RUtiMg,n,,sg,,,lo,lo'>
+	))		
+5	((	NP	
+5.1	I	DEM	<fs af='I,avy,,,,,,' poslcat="NM">'>|<fs af='I,avy,,,,,,' poslcat="NM">'>
+5.2	viRayaM	NN	<fs af='viRayaM,n,,sg,,d,0,0'>|<fs af='viRayaM,n,,sg,,d,0,0'>
+	))		
+6	((	NP	
+6.1	carcaku	NN	<fs af='carca,n,,sg,,,ki,ki'>
+	))		
+7	((	VGNF	
+7.1	vaccina	VM	<fs af='vaccu,v,any,any,any,,ina,ina'>
+	))		
+8	((	NP	
+8.1	appudu	NST	<fs af='appudu,adv,,,,,0,0_adv'>
+	))		
+9	((	NP	
+9.1	mUrAri	NN	<fs af='mUrAri,n,,sg,,d,0,0'>|<fs af='mUrAri,n,,sg,,o,ti,ti'>
+	))		
+10	((	NP	
+10.1	puswakaM	NN	<fs af='puswakaM,n,,sg,,d,0,0'>
+10.2	guriMci	PSP	<fs af='guriMci,avy,,,,,0,0_avy' poslcat="NM">
+	))		
+11	((	NP	
+11.1	eVvaru	WQ	<fs af='eVvaru,pn,fm,pl,3,d,0,0'>|<fs af='eVvaru,pn,fm,pl,3,,vu,vu'>
+	))		
+12	((	VGF	
+12.1	pattiMcukuMtAru	VM	<fs af='pattiMcuko,v,fm,pl,3,,wA,wA'>
+	))		
+13	((	NP	
+13.1	aMdI	NN	<fs af='aMdI,n,,sg,,d,0,0'>|<fs af='aMdI,n,,sg,,o,ti,ti'>
+13.2	.	SYM	<fs af='&dot;,punc,,,,,,'>
+	))		
+</Sentence>			

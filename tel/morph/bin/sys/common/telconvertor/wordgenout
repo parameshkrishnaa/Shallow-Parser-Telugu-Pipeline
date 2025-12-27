@@ -1,0 +1,16 @@
+1	((	NP	<fs af='wanu,pn,any,sg,3,o,@,' head='isa'>
+1.1	wanu	DEM	<fs af='wanu,pn,any,sg,3,o,@,' name=isa>
+	))		
+2	((	NP	<fs af='illu,n,m,sg,,d,0_lo,' head='Gara'>
+2.1	illu	NN	<fs af='illu,n,m,sg,3,d,0,' name=Gara>
+2.2	lo	PSP	<fs af='lo,psp,m,sg,3,,,'>
+	))		
+3	((	NP	<fs af='nenu,pn,any,pl,1,o,@,' head='hama'>
+3.1	nenu	PRP	<fs af='nenu,pn,any,pl,1,o,@,' name=hama>
+	))		
+4	((	VGF	<fs af='vasiMcu,v,m,pl,1,,a_uMdu_wA,wA' head='rahawe'>
+4.1	vasiMca	VM	<fs af='vasiMcu,v,m,pl,any,,a,wA' name=rahawe>
+4.2	uMdu	VAUX	<fs af='uMdu,v,m,sg,3,,,'>
+4.3	wA	VAUX	<fs af='wA,v,m,pl,1,,,'>
+4.4	.	SYM	<fs af='.,punc,m,sg,3,,,' poslcat=NM>
+	))		

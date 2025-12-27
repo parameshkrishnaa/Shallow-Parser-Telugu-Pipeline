@@ -1,0 +1,32 @@
+<Sentence id="1">
+1	((	NP	
+1.1	gawa	NN	<fs af='gawaM,n,,sg,,o,ti,ti'>|<fs af='gawaM,n,,sg,,o,ti,ti'>|<fs af='gawudu,n,,sg,,o,ti,ti'>
+	))		
+2	((	NP	
+2.1	koVMwa	QF	<fs af='koVMwa,pn,,sg,,d,0,0' poslcat="NM">|<fs af='koVMwa,pn,,sg,,d,0,0' deri_cat=n poslcat="NM">|<fs af='koVMwa,pn,,sg,,o,ti,ti' deri_cat=n poslcat="NM">
+2.2	kAlaMgA	NN	<fs af='kAlaM,n,,sg,,,gA,gA'>
+	))		
+3	((	NP	
+3.1	I	DEM	<fs af='I,avy,,,,,,' poslcat="NM">|<fs af='I,avy,,,,,,' poslcat="NM">
+3.2	modalYla	NN	<fs af='modalYla,unk,,,,,,' poslcat="NM">
+	))		
+4	((	NP	
+4.1	ammakAlu	NN	<fs af='ammakaM,n,,pl,,d,0,0'>|<fs af='ammakaM,n,,pl,,,vu,vu'>
+	))		
+5	((	RBP	
+5.1	wakkuvagA	RB	<fs af='wakkuva,n,,sg,,,gA,gA' poslcat="NM">|<fs af='wakkuva,adj,,,,,gA,gA_adj' poslcat="NM">
+	))		
+6	((	VGNF	
+6.1	uMdatame	VM	<fs af='uMdu,v,,sg,,,adaM_0,adaM_0_e' deri_cat=n>
+	))		
+7	((	NP	
+7.1	iMxuku	PRP	<fs af='iMxuku,avy,,,,,,' poslcat="NM">
+	))		
+8	((	NP	
+8.1	kAraNamani	NN	<fs af='kAraNaM,n,,sg,,,0_ani,0_ani'>
+	))		
+9	((	VGF	
+9.1	weVluswoMxi	VM	<fs af='weVluvu,v,fn,sg,3,,wunn,wunn'>
+9.2	.	SYM	<fs af='&dot;,punc,,,,,,'>
+	))		
+</Sentence>

@@ -1,0 +1,19 @@
+<Sentence id="1">
+1	((	NP	
+1.1	moVxata	NST	<fs af='moVxata,adv,,,,,0,0_adv'>
+	))		
+2	((	NP	
+2.1	BArawIya	JJ	<fs af='BArawIya,adj,,,,,0,0_adj'>
+2.2	reVveVnyU	NN	<fs af='reVveVnyU,n,,sg,,d,0,0'>|<fs af='reVveVnyU,n,,sg,,d,0,0'>|<fs af='reVveVnyU,n,,sg,,o,ti,ti'>|<fs af='reVveVnyU,n,,sg,,o,ti,ti'>
+	))		
+3	((	NP	
+3.1	sarvIsulo	NN	<fs af='sarvIsu,n,,pl,,,0,0_o'>|<fs af='sarvIsu,n,,sg,,,lo,lo'>|<fs af='sarvIs,n,,sg,,,lo,lo'>|<fs af='sarvIs,n,,sg,,,lo,lo'>
+	))		
+4	((	NP	
+4.1	koVMwakAlaM	NN	<fs af='koVMwakAlaM,n,,sg,,d,0,0'>
+	))		
+5	((	VGF	
+5.1	paniceSAru	VM	<fs af='paniceVyyi,v,fm,pl,3,,A,A'>
+5.2	.	SYM	<fs af='&dot;,punc,,,,,,'>
+	))		
+</Sentence>

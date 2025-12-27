@@ -1,0 +1,20 @@
+<Sentence id="1">
+1	((	NP	
+1.1	ixi	PRP	<fs af='ixi,pn,fn,sg,3,d,0,0'>
+	))		
+2	((	NP	
+2.1	hiMxuvula	NN	<fs af='hiMxuvu,n,,pl,,o,ti,ti'>
+	))		
+3	((	NP	
+3.1	edu	QC	<fs af='edu,n,,sg,,d,0,0'>|<fs af='edu,n,,sg,,o,ti,ti'>|<fs af='edu,n,,sg,,d,0,0'>|<fs af='edu,n,,sg,,o,ti,ti'>
+3.2	paviwra	NN	<fs af='paviwra,adj,,,,,0,0_adj'>|<fs af='paviwraM,n,,sg,,o,ti,ti'>
+	))		
+4	((	NP	
+4.1	nagarAlalo	NN	<fs af='nagaraM,n,,pl,,,lo,lo'>
+	))		
+5	((	NP	
+5.1	oVkati	QC	<fs af='oVkati,n,,sg,,d,0,0'>|<fs af='oVkati,n,,sg,,o,ti,ti'>
+5.2	.	SYM	<fs af='&dot;,punc,,,,,,'>
+	))		
+</Sentence>
+

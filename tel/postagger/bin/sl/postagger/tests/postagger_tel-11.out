@@ -1,0 +1,13 @@
+<Sentence id="1">			
+1	waracU	NN	<fs af='waracU,avy,,,,,,'>
+2	gummadini	NN	<fs af='gummadi,n,,sg,,,nu,nu'>|<fs af='gummadi,n,,sg,,,ni,ni'>
+3	wIsukovadaM	VM	<fs af='wIsuko,v,any,any,any,,adaM,adaM'>|<fs af='wIsuko,v,any,any,any,,adaM,adaM'>
+4	valana	PSP	<fs af='valana,avy,,,,,0,0_avy'>|<fs af='vala,n,,sg,,,na,na'>
+5	gyAstrik	NN	<fs af='gyAstrik,n,,sg,,d,0,0'>|<fs af='gyAstrik,n,,sg,,o,ti,ti'>
+6	nuMci	PSP	<fs af='nuMci,avy,,,,,0,0_avy'>
+7	upaSamanaM	NN	<fs af='upaSamanaM,n,,sg,,d,0,0'>
+8	laBiswuMxi	VM	<fs af='laBiMcu,v,fn,sg,3,,wA,wA'>
+9	.	SYM	<fs af='&dot;,punc,,,,,,'>
+</Sentence>			
+<Sentence id="2">			
+</Sentence>			

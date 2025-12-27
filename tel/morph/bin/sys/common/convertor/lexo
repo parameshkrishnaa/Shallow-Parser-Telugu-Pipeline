@@ -1,0 +1,31 @@
+1	((	SSF	
+1.1	((	NP	<fs af='கிருஷ்ணன்,n,,sg,,,இந்த,I' head='க்qஷ்ணா'  vpos='vib1'  name='1'>
+1.1.1	கிருஷ்ணன்	NNP	<fs af='கிருஷ்ணன்,n,,sg,,,இந்த,I' name='க்qஷ்ணா'  TYPE='LOCATION'  SUBTYPE_1='PLACE'>
+	))		
+1.2	((	NP	<fs af='நதி,n,,sg,,d,0,0' head='நதி'  name='2'>
+1.2.1	நதி	NN	<fs af='நதி,n,,sg,,d,0,0' name='நதி'>
+	))		
+1.3	((	NP	<fs af='கீழே,n,,sg,,d,0,0' head='திகுவ'  name='3'>
+1.3.1	கீழே	NN	<fs af='கீழே,n,,sg,,d,0,0' name='திகுவ'>
+	))		
+1.4	((	NP	<fs af='பகுதி,n,,sg,,,இல்,lo' vpos='vib1'  head='பாகம்லோ'  name='4'>
+1.4.1	பகுதி	NN	<fs af='பகுதி,n,,sg,,,இல்,lo' name='பாகம்லோ'>
+	))		
+1.5	((	NP	<fs af='சித்தூர்,n,,sg,,d,@0_వరకు,0' head='சித்தூரு'  vpos='vib1_2'  name='5'>
+1.5.1	சித்தூர்	NNP	<fs af='சித்தூர்,n,,sg,,d,0,0' name='சித்தூரு'  TYPE='LOCATION'  SUBTYPE_1='PLACE'>
+	))		
+1.6	((	NP	<fs af='பெயர்,n,,pl,,,ஓடு,wo' vpos='vib2'  head='பேர்லதோ'  name='6'>
+1.6.1	பலவகை	JJ	<fs af='பலவகை,n,,sg,,o,0,ti' poslcat='NM'>
+1.6.2	பெயர்	NN	<fs af='பெயர்,n,,pl,,,ஓடு,wo' name='பேர்லதோ'>
+	))		
+1.7	((	NP	<fs af='குன்று,n,,pl,,d,0,0' head='கொம்டலு'  name='7'>
+1.7.1	இந்த	DEM	<fs af='இந்த,avy,,,,,,' poslcat='NM'>
+1.7.2	குன்று	NN	<fs af='குன்று,n,,pl,,d,0,0' name='கொம்டலு'>
+	))		
+1.8	((	VGF	<fs af='கூறு,v,n,pl,3,,அ_படு_கின்ற்_உள்,a_badu_wU_uMdu_A' head='பிலவபடுதுந்நாயி'  name='8'>
+1.8.1	கூறு	VM	<fs af='கூறு,v,n,pl,3,,அ_படு_கின்ற்_உள்,a_badu_wU_uMdu_A' name='பிலவபடுதுந்நாயி'>
+1.8.2	.	SYM	<fs af='.,punc,,,,,,' poslcat='NM'>
+	))		
+	))		
+</Sentence>
+

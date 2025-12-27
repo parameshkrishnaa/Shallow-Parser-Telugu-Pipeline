@@ -1,0 +1,44 @@
+<Sentence id="1">			
+1	((	NP	
+1.1	SrIXar	NNP	<fs af='SrIXar,n,,sg,,d,0,0'>|<fs af='SrIXar,n,,sg,,o,ti,ti'>
+	))		
+2	((	NP	
+2.1	sIpAna	NN	<fs af='sIpAna,unk,,,,,,' poslcat="NM">
+	))		
+3	((	NP	
+3.1	saM	NN	<fs af='saM,avy,,,,,,' poslcat="NM">
+	))		
+4	((	NP	
+4.1	BARaNalu	NN	<fs af='BARaNa,n,,pl,,d,0,0'>|<fs af='BARaNa,n,,pl,,,vu,vu'>
+4.2	,	SYM	<fs af='&comma;,punc,,,,,,'>
+	))		
+5	((	NP	
+5.1	sarveR	NNP	<fs af='sarveR,n,,sg,,d,0,0'>|<fs af='sarveR,n,,sg,,o,ti,ti'>
+	))		
+6	((	NP	
+6.1	murAri	NN	<fs af='murAri,n,,sg,,d,0,0'>|<fs af='murAri,n,,sg,,o,ti,ti'>
+	))		
+7	((	NP	
+7.1	Poto	NN	<fs af='Poto,n,,sg,,d,0,0'>|<fs af='Poto,n,,sg,,o,ti,ti'>
+	))		
+8	((	NP	
+8.1	grAPi	NN	<fs af='grAPi,unk,,,,,,' poslcat="NM">
+8.2	,	SYM	<fs af=',UDP,unk,,,,,' poslcat="NM">
+	))		
+9	((	NP	
+9.1	gOwaM	NN	<fs af='gOwaM,n,,sg,,d,0,0'>
+	))		
+10	((	NP	
+10.1	rAju	NN	<fs af='rAju,n,,sg,,d,0,0'>|<fs af='rAju,n,,sg,,o,ti,ti'>
+	))		
+11	((	NP	
+11.1	eVditiMg	NN	<fs af='eVditiMg,n,,sg,,d,0,0'>|<fs af='eVditiMg,n,,sg,,o,ti,ti'>
+	))		
+12	((	NP	
+12.1	bAgu	NN	<fs af='bAgu,n,,sg,,d,0,0'>|<fs af='bAgu,n,,sg,,o,ti,ti'>
+	))		
+13	((	VGF	
+13.1	unnAyi	VM	<fs af='uMdu,v,n,pl,3,,A,A'>
+13.2	.	SYM	<fs af='&dot;,punc,,,,,,'>
+	))		
+</Sentence>			

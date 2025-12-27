@@ -1,0 +1,17 @@
+<Sentence id="1">			
+1	ixi	PRP	<fs af='ixi,pn,fn,sg,3,d,0,0'>
+2	rARtra	NN	<fs af='rARtraM,n,,sg,,o,ti,ti'>
+3	rAjaXAni	NN	<fs af='rAjaXAni,n,,sg,,d,0,0'>|<fs af='rAjaXAni,n,,sg,,o,ti,ti'>
+4	agu	NN	<fs af='agu,adj,,,,,0,0_adj'>|<fs af='avvu,v,any,any,any,,e,e'>
+5	hExarAbAxunaku	NN	<fs af='hExarAbAxu,n,,sg,,,ki,ki'>|<fs af='hExarAbAx,n,,sg,,,ki,ki'>
+6	uwwara	NN	<fs af='uwwaraM,n,,sg,,o,ti,ti'>
+7	xiSalo	NN	<fs af='xiSa,n,,pl,,,0,0_o'>|<fs af='xiSa,n,,sg,,,lo,lo'>
+8	157	QC	<fs af='157,num,,,,,,'>
+9	ki.	NN	<fs af='ki.,unk,,,,,,'>
+10	mi	NN	<fs af='mi,unk,,,,,,'>
+11	xUraMlo	NN	<fs af='xUraM,n,,sg,,,lo,lo'>
+12	unnaxi	VM	<fs af='unna,adj,,,,,xi,xi_adj'>|<fs af='unna,adj,,,,,xi,xi_adj'>
+13	.	SYM	<fs af='&dot;,punc,,,,,,'>
+</Sentence>			
+<Sentence id="2">			
+</Sentence>			

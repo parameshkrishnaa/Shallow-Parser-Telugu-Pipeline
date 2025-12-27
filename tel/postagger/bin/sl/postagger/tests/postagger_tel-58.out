@@ -1,0 +1,10 @@
+<Sentence id="1">			
+1	ixi	PRP	<fs af='ixi,pn,fn,sg,3,d,0,0'>
+2	wUrpuAsiyA	NN	<fs af='wUrpuAsiyA,unk,,,,,,'>
+3	mariyu	CC	<fs af='mariyu,avy,,,,,0,0_avy'>
+4	maXyAsiyAlo	NN	<fs af='maXyAsiyAlo,unk,,,,,,'>
+5	unnaxi	VM	<fs af='unna,adj,,,,,xi,xi_adj'>|<fs af='unna,adj,,,,,xi,xi_adj'>
+6	.	SYM	<fs af='&dot;,punc,,,,,,'>
+</Sentence>			
+<Sentence id="2">			
+</Sentence>			

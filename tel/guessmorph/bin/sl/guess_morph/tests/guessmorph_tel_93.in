@@ -1,0 +1,15 @@
+<Sentence id="1">
+1	((	NP	
+1.1	xAnini	PRP	<fs af='axi,pn,fn,sg,3,,ni,ni'>|<fs af='axi,pn,fn,sg,3,,nu,nu'>
+	))		
+2	((	NP	
+2.1	eVvaru	WQ	<fs af='eVvaru,pn,fm,pl,3,d,0,0'>|<fs af='eVvaru,pn,fm,pl,3,,vu,vu'>
+	))		
+3	((	VGF	
+3.1	viSvasiMcalexu	VM	<fs af='viSvasiMcu,v,any,any,any,,a_lexu,a_lexu'>
+	))		
+4	((	VGF	
+4.1	annAru	VM	<fs af='anu,v,fm,pl,3,,A,A'>
+4.2	.	SYM	<fs af='&dot;,punc,,,,,,'>
+	))		
+</Sentence>

@@ -1,0 +1,15 @@
+<Sentence id="1">			
+1	praswuwaM	NN	<fs af='praswuwaM,n,,sg,,d,0,0'>
+2	puttagoVdugula	NN	<fs af='puttagoVdugu,n,,pl,,o,ti,ti'>
+3	kUralu	NN	<fs af='kUra,n,,pl,,d,0,0'>|<fs af='kUra,n,,pl,,,vu,vu'>
+4	itu	NST	<fs af='itu,avy,,,,,0,0_avy'>
+5	palleVllo	NN	<fs af='palleV,n,,pl,,,lo,lo'>
+6	,	SYM	<fs af='&comma;,punc,,,,,,'>
+7	mahAnagarAlloni	NNP	<fs af='mahAnagaraM,n,,pl,,,loni,loni'>
+8	nakRawrahotalYlalo	NN	<fs af='nakRawrahotalu,n,,pl,,,lo,lo'>
+9	xarSanaM	NN	<fs af='xarSanaM,n,,sg,,d,0,0'>
+10	iswAyi	VM	<fs af='ivvu,v,n,pl,3,,wA,wA'>
+11	.	SYM	<fs af='&dot;,punc,,,,,,'>
+</Sentence>			
+<Sentence id="2">			
+</Sentence>			

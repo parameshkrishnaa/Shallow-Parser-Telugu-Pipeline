@@ -1,0 +1,45 @@
+<Sentence id="1">
+1	((	NP	
+1.1	ixi	PRP	<fs af='ixi,pn,fn,sg,3,d,0,0'>
+	))		
+2	((	NP	
+2.1	BArawaxeSaMlo	NNP	<fs af='BArawaxeSaM,n,,sg,,,lo,lo'>
+	))		
+3	((	NP	
+3.1	peVxxa	JJ	<fs af='peVxxa,adj,,,,,0,0_adj'>
+3.2	rARtraM	NN	<fs af='rARtraM,n,,sg,,d,0,0'>
+	))		
+4	((	FRAGP	
+4.1	mAwrame	PSP	<fs af='mAwrame,avy,,,,,,'>|<fs af='mAwramu,avy,,,,,e,e_avy'>|<fs af='mAwraM,avy,,,,,e,e_avy'>
+	))		
+5	((	VGF	
+5.1	kAxu	VM	<fs af='kAxu,avy,,,,,0,0_avy'>|<fs af='avvu,v,fn,sg,3,,a,a'>
+	))		
+6	((	NP	
+6.1	prapaMcaMlone	NN	<fs af='prapaMcaM,n,,sg,,,lo,lo_e'>
+	))		
+7	((	NP	
+7.1	janABA	NN	<fs af='janABA,n,,sg,,d,0,0'>|<fs af='janABA,n,,sg,,o,ti,ti'>
+	))		
+8	((	RBP	
+8.1	paraMgA	RB	<fs af='paraMgA,adv,,,,,0,0_avy'>|<fs af='paraM,n,,sg,,,gA,gA'>
+	))		
+9	((	VGNN	
+9.1	uwwarapraxeSkaMte	VM	<fs af='uwwarapraxeS,n,,sg,,,kaMteV,kaMteV'>|<fs af='uwwarapraxeS,n,,sg,,,kaMteV,kaMteV'>
+	))		
+10	((	NP	
+10.1	peVxxa	JJ	<fs af='peVxxa,adj,,,,,0,0_adj'>
+10.2	xeSAlu	NN	<fs af='xeSaM,n,,pl,,d,0,0'>|<fs af='xeSaM,n,,pl,,,vu,vu'>
+	))		
+11	((	NP	
+11.1	5	QC	<fs af='5,num,,,,,,'>
+	))		
+12	((	FRAGP	
+12.1	mAwrame	PSP	<fs af='mAwrame,avy,,,,,,'>|<fs af='mAwramu,avy,,,,,e,e_avy'>|<fs af='mAwraM,avy,,,,,e,e_avy'>
+	))		
+13	((	VGF	
+13.1	unnAyi	VM	<fs af='uMdu,v,n,pl,3,,A,A'>
+13.2	.	SYM	<fs af='&dot;,punc,,,,,,'>
+	))		
+</Sentence>
+

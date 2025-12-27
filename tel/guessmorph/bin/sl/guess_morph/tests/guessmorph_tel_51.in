@@ -1,0 +1,38 @@
+<Sentence id="1">
+1	((	NP	
+1.1	boVmmarillu	NN	<fs af='boVmmarillu,n,,sg,,d,0,0'>
+	))		
+2	((	NP	
+2.1	pawAkaM	NN	<fs af='pawAkaM,n,,sg,,d,0,0'>
+	))		
+3	((	NP	
+3.1	pE	NST	<fs af='pE,adv,,,,,0,0_adv'>|<fs af='pE,nst,,,,,yoVkka,yoVkka_adv'>
+	))		
+4	((	NP	
+4.1	guNaSeKar	NN	<fs af='guNaSeKar,unk,,,,,,' poslcat="NM">
+	))		
+5	((	NP	
+5.1	xarSakawvaM	NN	<fs af='xarSakawvaM,n,,sg,,d,0,0'>
+5.2	lo	PSP	<fs af='lo,avy,,,,,,' poslcat="NM">|<fs af='la,avy,,,,,o,o_avy' poslcat="NM">
+	))		
+6	((	NP	
+6.1	vE.	PRP	<fs af='vE.,unk,,,,,,' poslcat="NM">
+	))		
+7	((	NP	
+7.1	vi.	NN	<fs af='vi.,unk,,,,,,' poslcat="NM">
+	))		
+8	((	NP	
+8.1	yas.	NN	<fs af='yas.,unk,,,,,,' poslcat="NM">
+	))		
+9	((	NP	
+9.1	cOxari	NN	<fs af='cOxari,n,,sg,,d,0,0'>|<fs af='cOxari,n,,sg,,d,0,0'>|<fs af='cOxari,n,,sg,,o,ti,ti'>|<fs af='cOxari,n,,sg,,o,ti,ti'>
+	))		
+10	((	NP	
+10.1	I	DEM	<fs af='I,avy,,,,,,' poslcat="NM">|<fs af='I,avy,,,,,,' poslcat="NM">
+10.2	ciwrAnni	NN	<fs af='ciwraM,n,,sg,,,nu,nu'>|<fs af='ciwraM,n,,sg,,,ni,ni'>
+	))		
+11	((	VGF	
+11.1	nirmiMcAru	VM	<fs af='nirmiMcu,v,fm,pl,3,,A,A'>
+11.2	.	SYM	<fs af='&dot;,punc,,,,,,'>
+	))		
+</Sentence>

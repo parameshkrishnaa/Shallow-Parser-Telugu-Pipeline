@@ -1,0 +1,15 @@
+<Sentence id="1">			
+1	((	NP	
+1.1	eVMwa	WQ	<fs af='eVMwa,pn,,sg,,d,0,0'>
+	))		
+2	((	VGNF	
+2.1	prayawniMcinA	VM	<fs af='prayawniMcu,v,any,any,any,,inA,inA'>
+	))		
+3	((	NP	
+3.1	saPalaM	NN	<fs af='saPalaM,n,,sg,,d,0,0'>
+	))		
+4	((	VGF	
+4.1	kAleru	VM	<fs af='avvu,v,fm,pl,3,,a_le_a,a_le_a'>|<fs af='avvu,v,fm,pl,3,,a_gala_a,a_gala_a'>
+4.2	.	SYM	<fs af='&dot;,punc,,,,,,'>
+	))		
+</Sentence>			

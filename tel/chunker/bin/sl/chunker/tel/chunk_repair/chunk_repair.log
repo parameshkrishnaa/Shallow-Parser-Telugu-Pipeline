@@ -1,0 +1,1862 @@
+21:02:14:03:00:59[INFO ] chunk_repair.pl-90    : ##ENTERING LOAD RULE FUNC
+
+21:02:14:03:00:59[INFO ] load.pl-497   : RULE:,R1: NP(({%NN})) JJP(({$a%JJ<root="vaMti",num="$n",pers="$p",cm="vi">})) => NP(({%NN}+{$a%JJ<root="vaMti",lcat="adj",num="$n",per="$p",cm="vi">}))
+,
+21:02:14:03:00:59[INFO ] load.pl-204   : LHS::NP(({%NN})) JJP(({$a%JJ<root="vaMti",num="$n",pers="$p",cm="vi">})) ::
+21:02:14:03:00:59[INFO ] load.pl-206   : Number of Chunks:NP(({%NN})) JJP(({$a%JJ<root="vaMti",num="$n",pers="$p",cm="vi">}))
+21:02:14:03:00:59[INFO ] load.pl-229   : LHS:Chunk_tag--NP~
+21:02:14:03:00:59[INFO ] load.pl-230   : Value--{%NN})) and ~
+21:02:14:03:00:59[INFO ] load.pl-243   : word-{%NN
+21:02:14:03:00:59[INFO ] load.pl-256   : Word Var-,Word-,Pos-NN,Fs-
+21:02:14:03:00:59[INFO ] load.pl-243   : word-))
+21:02:14:03:00:59[INFO ] load.pl-273   : Headvalue:0 start 0 end 0
+21:02:14:03:00:59[INFO ] load.pl-229   : LHS:Chunk_tag--JJP~
+21:02:14:03:00:59[INFO ] load.pl-230   : Value--{$a%JJ<root="vaMti",num="$n",pers="$p",cm="vi">})) and ~
+21:02:14:03:00:59[INFO ] load.pl-243   : word-{$a%JJ<root="vaMti",num="$n",pers="$p",cm="vi">
+21:02:14:03:00:59[INFO ] load.pl-256   : Word Var-,Word-$a,Pos-JJ,Fs-<root="vaMti",num="$n",pers="$p",cm="vi">
+21:02:14:03:00:59[INFO ] load.pl-243   : word-))
+21:02:14:03:00:59[INFO ] load.pl-273   : Headvalue:0 start 0 end 0
+21:02:14:03:00:59[INFO ] load.pl-283   : Parsing RHS
+21:02:14:03:00:59[INFO ] load.pl-303   : RHS:Chunk_tag-NP~
+21:02:14:03:00:59[INFO ] load.pl-307   : Value--1  2 NP 3  4  5 (( 6 {%NN}+{$a%JJ<root="vaMti",lcat="adj",num="$n",per="$p",cm="vi">}))
+21:02:14:03:00:59[INFO ] load.pl-345   : Word Var-,Word-,Pos-NN,Fs-
+21:02:14:03:00:59[INFO ] load.pl-335   : Add child
+21:02:14:03:00:59[INFO ] load.pl-345   : Word Var-,Word-$a,Pos-JJ,Fs-<root="vaMti",lcat="adj",num="$n",per="$p",cm="vi">
+21:02:14:03:00:59[INFO ] load.pl-389   : ###Number of Rules: 1,
+21:02:14:03:00:59[INFO ] load.pl-447   : Dropping:JJP~
+21:02:14:03:00:59[INFO ] load.pl-497   : RULE:,R2: NP~1(({$a%NST<root="maXya",lcat="$c",gend="$g",num="$n",pers="$p",cm="0">})) NP~2(({%NN})) => NP~2((+{$a%NST<root="maXya",lcat="$c",gend="$g",num="$n",pers="$p",cm="0">}{%NN}))
+,
+21:02:14:03:00:59[INFO ] load.pl-204   : LHS::NP~1(({$a%NST<root="maXya",lcat="$c",gend="$g",num="$n",pers="$p",cm="0">})) NP~2(({%NN})) ::
+21:02:14:03:00:59[INFO ] load.pl-206   : Number of Chunks:NP~1(({$a%NST<root="maXya",lcat="$c",gend="$g",num="$n",pers="$p",cm="0">})) NP~2(({%NN}))
+21:02:14:03:00:59[INFO ] load.pl-229   : LHS:Chunk_tag--NP~1
+21:02:14:03:00:59[INFO ] load.pl-230   : Value--{$a%NST<root="maXya",lcat="$c",gend="$g",num="$n",pers="$p",cm="0">})) and ~
+21:02:14:03:00:59[INFO ] load.pl-243   : word-{$a%NST<root="maXya",lcat="$c",gend="$g",num="$n",pers="$p",cm="0">
+21:02:14:03:00:59[INFO ] load.pl-256   : Word Var-,Word-$a,Pos-NST,Fs-<root="maXya",lcat="$c",gend="$g",num="$n",pers="$p",cm="0">
+21:02:14:03:00:59[INFO ] load.pl-243   : word-))
+21:02:14:03:00:59[INFO ] load.pl-273   : Headvalue:0 start 0 end 0
+21:02:14:03:00:59[INFO ] load.pl-229   : LHS:Chunk_tag--NP~2
+21:02:14:03:00:59[INFO ] load.pl-230   : Value--{%NN})) and ~
+21:02:14:03:00:59[INFO ] load.pl-243   : word-{%NN
+21:02:14:03:00:59[INFO ] load.pl-256   : Word Var-,Word-,Pos-NN,Fs-
+21:02:14:03:00:59[INFO ] load.pl-243   : word-))
+21:02:14:03:00:59[INFO ] load.pl-273   : Headvalue:0 start 0 end 0
+21:02:14:03:00:59[INFO ] load.pl-283   : Parsing RHS
+21:02:14:03:00:59[INFO ] load.pl-303   : RHS:Chunk_tag-NP~2
+21:02:14:03:00:59[INFO ] load.pl-307   : Value--1  2 NP 3 2 4  5 (( 6 +{$a%NST<root="maXya",lcat="$c",gend="$g",num="$n",pers="$p",cm="0">}{%NN}))
+21:02:14:03:00:59[INFO ] load.pl-335   : Add child
+21:02:14:03:00:59[INFO ] load.pl-345   : Word Var-,Word-$a,Pos-NST,Fs-<root="maXya",lcat="$c",gend="$g",num="$n",pers="$p",cm="0">
+21:02:14:03:00:59[INFO ] load.pl-345   : Word Var-,Word-,Pos-NN,Fs-
+21:02:14:03:00:59[INFO ] load.pl-389   : ###Number of Rules: 2,
+21:02:14:03:00:59[INFO ] load.pl-447   : Dropping:NP~1
+21:02:14:03:00:59[INFO ] load.pl-497   : RULE:,R3: NP~1(({%NN<case="o">})) NP~2(({$a%NST<root="vaxxa",lcat="$c",gend="$g",num="$n",pers="$p",cm="0">})) => NP~1(({%NN<case="o">}+{$a%NST<root="vaxxa",lcat="$c",gend="$g",num="$n",pers="$p",cm="0">}))
+,
+21:02:14:03:00:59[INFO ] load.pl-204   : LHS::NP~1(({%NN<case="o">})) NP~2(({$a%NST<root="vaxxa",lcat="$c",gend="$g",num="$n",pers="$p",cm="0">})) ::
+21:02:14:03:00:59[INFO ] load.pl-206   : Number of Chunks:NP~1(({%NN<case="o">})) NP~2(({$a%NST<root="vaxxa",lcat="$c",gend="$g",num="$n",pers="$p",cm="0">}))
+21:02:14:03:00:59[INFO ] load.pl-229   : LHS:Chunk_tag--NP~1
+21:02:14:03:00:59[INFO ] load.pl-230   : Value--{%NN<case="o">})) and ~
+21:02:14:03:00:59[INFO ] load.pl-243   : word-{%NN<case="o">
+21:02:14:03:00:59[INFO ] load.pl-256   : Word Var-,Word-,Pos-NN,Fs-<case="o">
+21:02:14:03:00:59[INFO ] load.pl-243   : word-))
+21:02:14:03:00:59[INFO ] load.pl-273   : Headvalue:0 start 0 end 0
+21:02:14:03:00:59[INFO ] load.pl-229   : LHS:Chunk_tag--NP~2
+21:02:14:03:00:59[INFO ] load.pl-230   : Value--{$a%NST<root="vaxxa",lcat="$c",gend="$g",num="$n",pers="$p",cm="0">})) and ~
+21:02:14:03:00:59[INFO ] load.pl-243   : word-{$a%NST<root="vaxxa",lcat="$c",gend="$g",num="$n",pers="$p",cm="0">
+21:02:14:03:00:59[INFO ] load.pl-256   : Word Var-,Word-$a,Pos-NST,Fs-<root="vaxxa",lcat="$c",gend="$g",num="$n",pers="$p",cm="0">
+21:02:14:03:00:59[INFO ] load.pl-243   : word-))
+21:02:14:03:00:59[INFO ] load.pl-273   : Headvalue:0 start 0 end 0
+21:02:14:03:00:59[INFO ] load.pl-283   : Parsing RHS
+21:02:14:03:00:59[INFO ] load.pl-303   : RHS:Chunk_tag-NP~1
+21:02:14:03:00:59[INFO ] load.pl-307   : Value--1  2 NP 3 1 4  5 (( 6 {%NN<case="o">}+{$a%NST<root="vaxxa",lcat="$c",gend="$g",num="$n",pers="$p",cm="0">}))
+21:02:14:03:00:59[INFO ] load.pl-345   : Word Var-,Word-,Pos-NN,Fs-<case="o">
+21:02:14:03:00:59[INFO ] load.pl-335   : Add child
+21:02:14:03:00:59[INFO ] load.pl-345   : Word Var-,Word-$a,Pos-NST,Fs-<root="vaxxa",lcat="$c",gend="$g",num="$n",pers="$p",cm="0">
+21:02:14:03:00:59[INFO ] load.pl-389   : ###Number of Rules: 3,
+21:02:14:03:00:59[INFO ] load.pl-447   : Dropping:NP~2
+21:02:14:03:00:59[INFO ] load.pl-497   : RULE:,R4: VGNF(({$b%VM<root="$c",lcat="v",gend="$w",num="$h",$pers="$t",tam="an",suff="$s">})) VGF(({%VM<root="gala",tam="a">}{%SYM})) => VGF((+{$b%VM<root="$c",lcat="v",gend="$w",num="$h",$pers="$t",tam="an",suff="$s">}{%VAUX<root="gala",tam="a">}{%SYM}))
+,
+21:02:14:03:00:59[INFO ] load.pl-204   : LHS::VGNF(({$b%VM<root="$c",lcat="v",gend="$w",num="$h",$pers="$t",tam="an",suff="$s">})) VGF(({%VM<root="gala",tam="a">}{%SYM})) ::
+21:02:14:03:00:59[INFO ] load.pl-206   : Number of Chunks:VGNF(({$b%VM<root="$c",lcat="v",gend="$w",num="$h",$pers="$t",tam="an",suff="$s">})) VGF(({%VM<root="gala",tam="a">}{%SYM}))
+21:02:14:03:00:59[INFO ] load.pl-229   : LHS:Chunk_tag--VGNF~
+21:02:14:03:00:59[INFO ] load.pl-230   : Value--{$b%VM<root="$c",lcat="v",gend="$w",num="$h",$pers="$t",tam="an",suff="$s">})) and ~
+21:02:14:03:00:59[INFO ] load.pl-243   : word-{$b%VM<root="$c",lcat="v",gend="$w",num="$h",$pers="$t",tam="an",suff="$s">
+21:02:14:03:00:59[INFO ] load.pl-256   : Word Var-,Word-$b,Pos-VM,Fs-<root="$c",lcat="v",gend="$w",num="$h",$pers="$t",tam="an",suff="$s">
+21:02:14:03:00:59[INFO ] load.pl-243   : word-))
+21:02:14:03:00:59[INFO ] load.pl-273   : Headvalue:0 start 0 end 0
+21:02:14:03:00:59[INFO ] load.pl-229   : LHS:Chunk_tag--VGF~
+21:02:14:03:00:59[INFO ] load.pl-230   : Value--{%VM<root="gala",tam="a">}{%SYM})) and ~
+21:02:14:03:00:59[INFO ] load.pl-243   : word-{%VM<root="gala",tam="a">
+21:02:14:03:00:59[INFO ] load.pl-256   : Word Var-,Word-,Pos-VM,Fs-<root="gala",tam="a">
+21:02:14:03:00:59[INFO ] load.pl-243   : word-{%SYM
+21:02:14:03:00:59[INFO ] load.pl-256   : Word Var-,Word-,Pos-SYM,Fs-
+21:02:14:03:00:59[INFO ] load.pl-243   : word-))
+21:02:14:03:00:59[INFO ] load.pl-273   : Headvalue:0 start 0 end 0
+21:02:14:03:00:59[INFO ] load.pl-283   : Parsing RHS
+21:02:14:03:00:59[INFO ] load.pl-303   : RHS:Chunk_tag-VGF~
+21:02:14:03:00:59[INFO ] load.pl-307   : Value--1  2 VGF 3  4  5 (( 6 +{$b%VM<root="$c",lcat="v",gend="$w",num="$h",$pers="$t",tam="an",suff="$s">}{%VAUX<root="gala",tam="a">}{%SYM}))
+21:02:14:03:00:59[INFO ] load.pl-335   : Add child
+21:02:14:03:00:59[INFO ] load.pl-345   : Word Var-,Word-$b,Pos-VM,Fs-<root="$c",lcat="v",gend="$w",num="$h",$pers="$t",tam="an",suff="$s">
+21:02:14:03:00:59[INFO ] load.pl-345   : Word Var-,Word-,Pos-VAUX,Fs-<root="gala",tam="a">
+21:02:14:03:00:59[INFO ] load.pl-345   : Word Var-,Word-,Pos-SYM,Fs-
+21:02:14:03:00:59[INFO ] load.pl-389   : ###Number of Rules: 4,
+21:02:14:03:00:59[INFO ] load.pl-447   : Dropping:VGNF~
+21:02:14:03:00:59[INFO ] load.pl-497   : RULE:,R5: NP~1(({%QC})) NP~2(({va%NN<root="va">})) => NP~1(({%QC<cm="va">}))
+,
+21:02:14:03:00:59[INFO ] load.pl-204   : LHS::NP~1(({%QC})) NP~2(({va%NN<root="va">})) ::
+21:02:14:03:00:59[INFO ] load.pl-206   : Number of Chunks:NP~1(({%QC})) NP~2(({va%NN<root="va">}))
+21:02:14:03:00:59[INFO ] load.pl-229   : LHS:Chunk_tag--NP~1
+21:02:14:03:00:59[INFO ] load.pl-230   : Value--{%QC})) and ~
+21:02:14:03:00:59[INFO ] load.pl-243   : word-{%QC
+21:02:14:03:00:59[INFO ] load.pl-256   : Word Var-,Word-,Pos-QC,Fs-
+21:02:14:03:00:59[INFO ] load.pl-243   : word-))
+21:02:14:03:00:59[INFO ] load.pl-273   : Headvalue:0 start 0 end 0
+21:02:14:03:00:59[INFO ] load.pl-229   : LHS:Chunk_tag--NP~2
+21:02:14:03:00:59[INFO ] load.pl-230   : Value--{va%NN<root="va">})) and ~
+21:02:14:03:00:59[INFO ] load.pl-243   : word-{va%NN<root="va">
+21:02:14:03:00:59[INFO ] load.pl-256   : Word Var-,Word-va,Pos-NN,Fs-<root="va">
+21:02:14:03:00:59[INFO ] load.pl-243   : word-))
+21:02:14:03:00:59[INFO ] load.pl-273   : Headvalue:0 start 0 end 0
+21:02:14:03:00:59[INFO ] load.pl-283   : Parsing RHS
+21:02:14:03:00:59[INFO ] load.pl-303   : RHS:Chunk_tag-NP~1
+21:02:14:03:00:59[INFO ] load.pl-307   : Value--1  2 NP 3 1 4  5 (( 6 {%QC<cm="va">}))
+21:02:14:03:00:59[INFO ] load.pl-345   : Word Var-,Word-,Pos-QC,Fs-<cm="va">
+21:02:14:03:00:59[INFO ] load.pl-389   : ###Number of Rules: 5,
+21:02:14:03:00:59[INFO ] load.pl-447   : Dropping:NP~2
+21:02:14:03:00:59[INFO ] load.pl-497   : RULE:,R6: NP~1(({%NN<cm="$a._A">})) NP~2(({$b%NN<root="$c",lcat="n",gend="$g",num="pl",pers="$p",case="$f",cm="$t",suff="$s">})) => NP~1(({%NN<cm="$a._A">}+{$b%NN<root="$c",lcat="n",gend="$g",num="pl",pers="$p",case="$f",cm="$t",suff="$s">}))
+,
+21:02:14:03:00:59[INFO ] load.pl-204   : LHS::NP~1(({%NN<cm="$a._A">})) NP~2(({$b%NN<root="$c",lcat="n",gend="$g",num="pl",pers="$p",case="$f",cm="$t",suff="$s">})) ::
+21:02:14:03:00:59[INFO ] load.pl-206   : Number of Chunks:NP~1(({%NN<cm="$a._A">})) NP~2(({$b%NN<root="$c",lcat="n",gend="$g",num="pl",pers="$p",case="$f",cm="$t",suff="$s">}))
+21:02:14:03:00:59[INFO ] load.pl-229   : LHS:Chunk_tag--NP~1
+21:02:14:03:00:59[INFO ] load.pl-230   : Value--{%NN<cm="$a._A">})) and ~
+21:02:14:03:00:59[INFO ] load.pl-243   : word-{%NN<cm="$a._A">
+21:02:14:03:00:59[INFO ] load.pl-256   : Word Var-,Word-,Pos-NN,Fs-<cm="$a._A">
+21:02:14:03:00:59[INFO ] load.pl-243   : word-))
+21:02:14:03:00:59[INFO ] load.pl-273   : Headvalue:0 start 0 end 0
+21:02:14:03:00:59[INFO ] load.pl-229   : LHS:Chunk_tag--NP~2
+21:02:14:03:00:59[INFO ] load.pl-230   : Value--{$b%NN<root="$c",lcat="n",gend="$g",num="pl",pers="$p",case="$f",cm="$t",suff="$s">})) and ~
+21:02:14:03:00:59[INFO ] load.pl-243   : word-{$b%NN<root="$c",lcat="n",gend="$g",num="pl",pers="$p",case="$f",cm="$t",suff="$s">
+21:02:14:03:00:59[INFO ] load.pl-256   : Word Var-,Word-$b,Pos-NN,Fs-<root="$c",lcat="n",gend="$g",num="pl",pers="$p",case="$f",cm="$t",suff="$s">
+21:02:14:03:00:59[INFO ] load.pl-243   : word-))
+21:02:14:03:00:59[INFO ] load.pl-273   : Headvalue:0 start 0 end 0
+21:02:14:03:00:59[INFO ] load.pl-283   : Parsing RHS
+21:02:14:03:00:59[INFO ] load.pl-303   : RHS:Chunk_tag-NP~1
+21:02:14:03:00:59[INFO ] load.pl-307   : Value--1  2 NP 3 1 4  5 (( 6 {%NN<cm="$a._A">}+{$b%NN<root="$c",lcat="n",gend="$g",num="pl",pers="$p",case="$f",cm="$t",suff="$s">}))
+21:02:14:03:00:59[INFO ] load.pl-345   : Word Var-,Word-,Pos-NN,Fs-<cm="$a._A">
+21:02:14:03:00:59[INFO ] load.pl-335   : Add child
+21:02:14:03:00:59[INFO ] load.pl-345   : Word Var-,Word-$b,Pos-NN,Fs-<root="$c",lcat="n",gend="$g",num="pl",pers="$p",case="$f",cm="$t",suff="$s">
+21:02:14:03:00:59[INFO ] load.pl-389   : ###Number of Rules: 6,
+21:02:14:03:00:59[INFO ] load.pl-447   : Dropping:NP~2
+21:02:14:03:00:59[INFO ] load.pl-497   : RULE:,R7: VGNF(({$b%VM<root="$c",lcat="v",gend="$w",num="$h",$pers="$t",tam="i",suff="$s">})) VGF(({%VM<root="uMdu",tam="A">}{%SYM})) => VGF((+{$b%VM<root="$c",lcat="v",gend="$w",num="$h",$pers="$t",tam="i",suff="$s">}{%VAUX<root="uMdu",tam="A">}{%SYM}))
+,
+21:02:14:03:00:59[INFO ] load.pl-204   : LHS::VGNF(({$b%VM<root="$c",lcat="v",gend="$w",num="$h",$pers="$t",tam="i",suff="$s">})) VGF(({%VM<root="uMdu",tam="A">}{%SYM})) ::
+21:02:14:03:00:59[INFO ] load.pl-206   : Number of Chunks:VGNF(({$b%VM<root="$c",lcat="v",gend="$w",num="$h",$pers="$t",tam="i",suff="$s">})) VGF(({%VM<root="uMdu",tam="A">}{%SYM}))
+21:02:14:03:00:59[INFO ] load.pl-229   : LHS:Chunk_tag--VGNF~
+21:02:14:03:00:59[INFO ] load.pl-230   : Value--{$b%VM<root="$c",lcat="v",gend="$w",num="$h",$pers="$t",tam="i",suff="$s">})) and ~
+21:02:14:03:00:59[INFO ] load.pl-243   : word-{$b%VM<root="$c",lcat="v",gend="$w",num="$h",$pers="$t",tam="i",suff="$s">
+21:02:14:03:00:59[INFO ] load.pl-256   : Word Var-,Word-$b,Pos-VM,Fs-<root="$c",lcat="v",gend="$w",num="$h",$pers="$t",tam="i",suff="$s">
+21:02:14:03:00:59[INFO ] load.pl-243   : word-))
+21:02:14:03:00:59[INFO ] load.pl-273   : Headvalue:0 start 0 end 0
+21:02:14:03:00:59[INFO ] load.pl-229   : LHS:Chunk_tag--VGF~
+21:02:14:03:00:59[INFO ] load.pl-230   : Value--{%VM<root="uMdu",tam="A">}{%SYM})) and ~
+21:02:14:03:00:59[INFO ] load.pl-243   : word-{%VM<root="uMdu",tam="A">
+21:02:14:03:00:59[INFO ] load.pl-256   : Word Var-,Word-,Pos-VM,Fs-<root="uMdu",tam="A">
+21:02:14:03:00:59[INFO ] load.pl-243   : word-{%SYM
+21:02:14:03:00:59[INFO ] load.pl-256   : Word Var-,Word-,Pos-SYM,Fs-
+21:02:14:03:00:59[INFO ] load.pl-243   : word-))
+21:02:14:03:00:59[INFO ] load.pl-273   : Headvalue:0 start 0 end 0
+21:02:14:03:00:59[INFO ] load.pl-283   : Parsing RHS
+21:02:14:03:00:59[INFO ] load.pl-303   : RHS:Chunk_tag-VGF~
+21:02:14:03:00:59[INFO ] load.pl-307   : Value--1  2 VGF 3  4  5 (( 6 +{$b%VM<root="$c",lcat="v",gend="$w",num="$h",$pers="$t",tam="i",suff="$s">}{%VAUX<root="uMdu",tam="A">}{%SYM}))
+21:02:14:03:00:59[INFO ] load.pl-335   : Add child
+21:02:14:03:00:59[INFO ] load.pl-345   : Word Var-,Word-$b,Pos-VM,Fs-<root="$c",lcat="v",gend="$w",num="$h",$pers="$t",tam="i",suff="$s">
+21:02:14:03:00:59[INFO ] load.pl-345   : Word Var-,Word-,Pos-VAUX,Fs-<root="uMdu",tam="A">
+21:02:14:03:00:59[INFO ] load.pl-345   : Word Var-,Word-,Pos-SYM,Fs-
+21:02:14:03:00:59[INFO ] load.pl-389   : ###Number of Rules: 7,
+21:02:14:03:00:59[INFO ] load.pl-447   : Dropping:VGNF~
+21:02:14:03:00:59[INFO ] load.pl-497   : RULE:,R8: NP~1(({$q%NN<root="$a",lcat="n",gend="$g",num="$n",pers="$p",cm="ti">})) NP~2(({$x%NN<root="$r",lcat="adj">})) NP~3(({$b%NN<root="$e",cat="n",gend="$t",num="$y",pers="$o",cm="$j",suff="$i">})) => NP~3((+{$q%NN<root="$a",lcat="n",gend="$g",num="$n",pers="$p",cm="0">}+{$x%NN<root="$r",lcat="adj",cm="0",tam="0">}{$b%NN<root="$e",cat="n",gend="$t",num="$y",pers="$o",cm="$j",tam="$j">}))
+,
+21:02:14:03:00:59[INFO ] load.pl-204   : LHS::NP~1(({$q%NN<root="$a",lcat="n",gend="$g",num="$n",pers="$p",cm="ti">})) NP~2(({$x%NN<root="$r",lcat="adj">})) NP~3(({$b%NN<root="$e",cat="n",gend="$t",num="$y",pers="$o",cm="$j",suff="$i">})) ::
+21:02:14:03:00:59[INFO ] load.pl-206   : Number of Chunks:NP~1(({$q%NN<root="$a",lcat="n",gend="$g",num="$n",pers="$p",cm="ti">})) NP~2(({$x%NN<root="$r",lcat="adj">})) NP~3(({$b%NN<root="$e",cat="n",gend="$t",num="$y",pers="$o",cm="$j",suff="$i">}))
+21:02:14:03:00:59[INFO ] load.pl-229   : LHS:Chunk_tag--NP~1
+21:02:14:03:00:59[INFO ] load.pl-230   : Value--{$q%NN<root="$a",lcat="n",gend="$g",num="$n",pers="$p",cm="ti">})) and ~
+21:02:14:03:00:59[INFO ] load.pl-243   : word-{$q%NN<root="$a",lcat="n",gend="$g",num="$n",pers="$p",cm="ti">
+21:02:14:03:00:59[INFO ] load.pl-256   : Word Var-,Word-$q,Pos-NN,Fs-<root="$a",lcat="n",gend="$g",num="$n",pers="$p",cm="ti">
+21:02:14:03:00:59[INFO ] load.pl-243   : word-))
+21:02:14:03:00:59[INFO ] load.pl-273   : Headvalue:0 start 0 end 0
+21:02:14:03:00:59[INFO ] load.pl-229   : LHS:Chunk_tag--NP~2
+21:02:14:03:00:59[INFO ] load.pl-230   : Value--{$x%NN<root="$r",lcat="adj">})) and ~
+21:02:14:03:00:59[INFO ] load.pl-243   : word-{$x%NN<root="$r",lcat="adj">
+21:02:14:03:00:59[INFO ] load.pl-256   : Word Var-,Word-$x,Pos-NN,Fs-<root="$r",lcat="adj">
+21:02:14:03:00:59[INFO ] load.pl-243   : word-))
+21:02:14:03:00:59[INFO ] load.pl-273   : Headvalue:0 start 0 end 0
+21:02:14:03:00:59[INFO ] load.pl-229   : LHS:Chunk_tag--NP~3
+21:02:14:03:00:59[INFO ] load.pl-230   : Value--{$b%NN<root="$e",cat="n",gend="$t",num="$y",pers="$o",cm="$j",suff="$i">})) and ~
+21:02:14:03:00:59[INFO ] load.pl-243   : word-{$b%NN<root="$e",cat="n",gend="$t",num="$y",pers="$o",cm="$j",suff="$i">
+21:02:14:03:00:59[INFO ] load.pl-256   : Word Var-,Word-$b,Pos-NN,Fs-<root="$e",cat="n",gend="$t",num="$y",pers="$o",cm="$j",suff="$i">
+21:02:14:03:00:59[INFO ] load.pl-243   : word-))
+21:02:14:03:00:59[INFO ] load.pl-273   : Headvalue:0 start 0 end 0
+21:02:14:03:00:59[INFO ] load.pl-283   : Parsing RHS
+21:02:14:03:00:59[INFO ] load.pl-303   : RHS:Chunk_tag-NP~3
+21:02:14:03:00:59[INFO ] load.pl-307   : Value--1  2 NP 3 3 4  5 (( 6 +{$q%NN<root="$a",lcat="n",gend="$g",num="$n",pers="$p",cm="0">}+{$x%NN<root="$r",lcat="adj",cm="0",tam="0">}{$b%NN<root="$e",cat="n",gend="$t",num="$y",pers="$o",cm="$j",tam="$j">}))
+21:02:14:03:00:59[INFO ] load.pl-335   : Add child
+21:02:14:03:00:59[INFO ] load.pl-345   : Word Var-,Word-$q,Pos-NN,Fs-<root="$a",lcat="n",gend="$g",num="$n",pers="$p",cm="0">
+21:02:14:03:00:59[INFO ] load.pl-335   : Add child
+21:02:14:03:00:59[INFO ] load.pl-345   : Word Var-,Word-$x,Pos-NN,Fs-<root="$r",lcat="adj",cm="0",tam="0">
+21:02:14:03:00:59[INFO ] load.pl-345   : Word Var-,Word-$b,Pos-NN,Fs-<root="$e",cat="n",gend="$t",num="$y",pers="$o",cm="$j",tam="$j">
+21:02:14:03:00:59[INFO ] load.pl-389   : ###Number of Rules: 8,
+21:02:14:03:00:59[INFO ] load.pl-447   : Dropping:NP~1
+21:02:14:03:00:59[INFO ] load.pl-447   : Dropping:NP~2
+21:02:14:03:00:59[INFO ] load.pl-497   : RULE:,R10: NP~1(({%NN}{%JJ})) NP~2(({$a%NN<root="$r",lcat="n",gend="$g",num="$n",pers="$p",cm="$c",suff="$s">})) => NP~1(({%NN}{%JJ}{$a%NN<root="$r",lcat="n",gend="$g",num="$n",pers="$p",cm="$c",suff="$s">}))
+,
+21:02:14:03:00:59[INFO ] load.pl-204   : LHS::NP~1(({%NN}{%JJ})) NP~2(({$a%NN<root="$r",lcat="n",gend="$g",num="$n",pers="$p",cm="$c",suff="$s">})) ::
+21:02:14:03:00:59[INFO ] load.pl-206   : Number of Chunks:NP~1(({%NN}{%JJ})) NP~2(({$a%NN<root="$r",lcat="n",gend="$g",num="$n",pers="$p",cm="$c",suff="$s">}))
+21:02:14:03:00:59[INFO ] load.pl-229   : LHS:Chunk_tag--NP~1
+21:02:14:03:00:59[INFO ] load.pl-230   : Value--{%NN}{%JJ})) and ~
+21:02:14:03:00:59[INFO ] load.pl-243   : word-{%NN
+21:02:14:03:00:59[INFO ] load.pl-256   : Word Var-,Word-,Pos-NN,Fs-
+21:02:14:03:00:59[INFO ] load.pl-243   : word-{%JJ
+21:02:14:03:00:59[INFO ] load.pl-256   : Word Var-,Word-,Pos-JJ,Fs-
+21:02:14:03:00:59[INFO ] load.pl-243   : word-))
+21:02:14:03:00:59[INFO ] load.pl-273   : Headvalue:0 start 0 end 0
+21:02:14:03:00:59[INFO ] load.pl-229   : LHS:Chunk_tag--NP~2
+21:02:14:03:00:59[INFO ] load.pl-230   : Value--{$a%NN<root="$r",lcat="n",gend="$g",num="$n",pers="$p",cm="$c",suff="$s">})) and ~
+21:02:14:03:00:59[INFO ] load.pl-243   : word-{$a%NN<root="$r",lcat="n",gend="$g",num="$n",pers="$p",cm="$c",suff="$s">
+21:02:14:03:00:59[INFO ] load.pl-256   : Word Var-,Word-$a,Pos-NN,Fs-<root="$r",lcat="n",gend="$g",num="$n",pers="$p",cm="$c",suff="$s">
+21:02:14:03:00:59[INFO ] load.pl-243   : word-))
+21:02:14:03:00:59[INFO ] load.pl-273   : Headvalue:0 start 0 end 0
+21:02:14:03:00:59[INFO ] load.pl-283   : Parsing RHS
+21:02:14:03:00:59[INFO ] load.pl-303   : RHS:Chunk_tag-NP~1
+21:02:14:03:00:59[INFO ] load.pl-307   : Value--1  2 NP 3 1 4  5 (( 6 {%NN}{%JJ}{$a%NN<root="$r",lcat="n",gend="$g",num="$n",pers="$p",cm="$c",suff="$s">}))
+21:02:14:03:00:59[INFO ] load.pl-345   : Word Var-,Word-,Pos-NN,Fs-
+21:02:14:03:00:59[INFO ] load.pl-345   : Word Var-,Word-,Pos-JJ,Fs-
+21:02:14:03:00:59[INFO ] load.pl-345   : Word Var-,Word-$a,Pos-NN,Fs-<root="$r",lcat="n",gend="$g",num="$n",pers="$p",cm="$c",suff="$s">
+21:02:14:03:00:59[INFO ] load.pl-389   : ###Number of Rules: 9,
+21:02:14:03:00:59[INFO ] load.pl-447   : Dropping:NP~2
+21:02:14:03:00:59[INFO ] load.pl-497   : RULE:,R11: NP~1(({%NN<case="o">})) NP~2(({$a%NST<root="waruvAwa",lcat="$c",gend="$g",num="$n",pers="$p",cm="0">})) => NP~1(({%NN<case="o">}+{$a%NST<root="waruvAwa",lcat="$c",gend="$g",num="$n",pers="$p",cm="0">}))
+,
+21:02:14:03:00:59[INFO ] load.pl-204   : LHS::NP~1(({%NN<case="o">})) NP~2(({$a%NST<root="waruvAwa",lcat="$c",gend="$g",num="$n",pers="$p",cm="0">})) ::
+21:02:14:03:00:59[INFO ] load.pl-206   : Number of Chunks:NP~1(({%NN<case="o">})) NP~2(({$a%NST<root="waruvAwa",lcat="$c",gend="$g",num="$n",pers="$p",cm="0">}))
+21:02:14:03:00:59[INFO ] load.pl-229   : LHS:Chunk_tag--NP~1
+21:02:14:03:00:59[INFO ] load.pl-230   : Value--{%NN<case="o">})) and ~
+21:02:14:03:00:59[INFO ] load.pl-243   : word-{%NN<case="o">
+21:02:14:03:00:59[INFO ] load.pl-256   : Word Var-,Word-,Pos-NN,Fs-<case="o">
+21:02:14:03:00:59[INFO ] load.pl-243   : word-))
+21:02:14:03:00:59[INFO ] load.pl-273   : Headvalue:0 start 0 end 0
+21:02:14:03:00:59[INFO ] load.pl-229   : LHS:Chunk_tag--NP~2
+21:02:14:03:00:59[INFO ] load.pl-230   : Value--{$a%NST<root="waruvAwa",lcat="$c",gend="$g",num="$n",pers="$p",cm="0">})) and ~
+21:02:14:03:00:59[INFO ] load.pl-243   : word-{$a%NST<root="waruvAwa",lcat="$c",gend="$g",num="$n",pers="$p",cm="0">
+21:02:14:03:00:59[INFO ] load.pl-256   : Word Var-,Word-$a,Pos-NST,Fs-<root="waruvAwa",lcat="$c",gend="$g",num="$n",pers="$p",cm="0">
+21:02:14:03:00:59[INFO ] load.pl-243   : word-))
+21:02:14:03:00:59[INFO ] load.pl-273   : Headvalue:0 start 0 end 0
+21:02:14:03:00:59[INFO ] load.pl-283   : Parsing RHS
+21:02:14:03:00:59[INFO ] load.pl-303   : RHS:Chunk_tag-NP~1
+21:02:14:03:00:59[INFO ] load.pl-307   : Value--1  2 NP 3 1 4  5 (( 6 {%NN<case="o">}+{$a%NST<root="waruvAwa",lcat="$c",gend="$g",num="$n",pers="$p",cm="0">}))
+21:02:14:03:00:59[INFO ] load.pl-345   : Word Var-,Word-,Pos-NN,Fs-<case="o">
+21:02:14:03:00:59[INFO ] load.pl-335   : Add child
+21:02:14:03:00:59[INFO ] load.pl-345   : Word Var-,Word-$a,Pos-NST,Fs-<root="waruvAwa",lcat="$c",gend="$g",num="$n",pers="$p",cm="0">
+21:02:14:03:00:59[INFO ] load.pl-389   : ###Number of Rules: 10,
+21:02:14:03:00:59[INFO ] load.pl-447   : Dropping:NP~2
+21:02:14:03:00:59[INFO ] load.pl-497   : RULE:,R12: NP(({%JJ}{%NN})) FRAGP(({$a%PSP<root="$r",lcat="$c",cm="$k">})) => NP(({%JJ}{%NN}+{$a%PSP<root="$r",lcat="$c",cm="$k">}))
+,
+21:02:14:03:00:59[INFO ] load.pl-204   : LHS::NP(({%JJ}{%NN})) FRAGP(({$a%PSP<root="$r",lcat="$c",cm="$k">})) ::
+21:02:14:03:00:59[INFO ] load.pl-206   : Number of Chunks:NP(({%JJ}{%NN})) FRAGP(({$a%PSP<root="$r",lcat="$c",cm="$k">}))
+21:02:14:03:00:59[INFO ] load.pl-229   : LHS:Chunk_tag--NP~
+21:02:14:03:00:59[INFO ] load.pl-230   : Value--{%JJ}{%NN})) and ~
+21:02:14:03:00:59[INFO ] load.pl-243   : word-{%JJ
+21:02:14:03:00:59[INFO ] load.pl-256   : Word Var-,Word-,Pos-JJ,Fs-
+21:02:14:03:00:59[INFO ] load.pl-243   : word-{%NN
+21:02:14:03:00:59[INFO ] load.pl-256   : Word Var-,Word-,Pos-NN,Fs-
+21:02:14:03:00:59[INFO ] load.pl-243   : word-))
+21:02:14:03:00:59[INFO ] load.pl-273   : Headvalue:0 start 0 end 0
+21:02:14:03:00:59[INFO ] load.pl-229   : LHS:Chunk_tag--FRAGP~
+21:02:14:03:00:59[INFO ] load.pl-230   : Value--{$a%PSP<root="$r",lcat="$c",cm="$k">})) and ~
+21:02:14:03:00:59[INFO ] load.pl-243   : word-{$a%PSP<root="$r",lcat="$c",cm="$k">
+21:02:14:03:00:59[INFO ] load.pl-256   : Word Var-,Word-$a,Pos-PSP,Fs-<root="$r",lcat="$c",cm="$k">
+21:02:14:03:00:59[INFO ] load.pl-243   : word-))
+21:02:14:03:00:59[INFO ] load.pl-273   : Headvalue:0 start 0 end 0
+21:02:14:03:00:59[INFO ] load.pl-283   : Parsing RHS
+21:02:14:03:00:59[INFO ] load.pl-303   : RHS:Chunk_tag-NP~
+21:02:14:03:00:59[INFO ] load.pl-307   : Value--1  2 NP 3  4  5 (( 6 {%JJ}{%NN}+{$a%PSP<root="$r",lcat="$c",cm="$k">}))
+21:02:14:03:00:59[INFO ] load.pl-345   : Word Var-,Word-,Pos-JJ,Fs-
+21:02:14:03:00:59[INFO ] load.pl-345   : Word Var-,Word-,Pos-NN,Fs-
+21:02:14:03:00:59[INFO ] load.pl-335   : Add child
+21:02:14:03:00:59[INFO ] load.pl-345   : Word Var-,Word-$a,Pos-PSP,Fs-<root="$r",lcat="$c",cm="$k">
+21:02:14:03:00:59[INFO ] load.pl-389   : ###Number of Rules: 11,
+21:02:14:03:00:59[INFO ] load.pl-447   : Dropping:FRAGP~
+21:02:14:03:00:59[INFO ] load.pl-497   : RULE:,R13: NP(({%QC})) FRAGP(({$a%PSP<root="$r",lcat="$c",cm="$k">})) => NP(({%QC}+{$a%PSP<root="$r",lcat="$c",cm="$k">}))
+,
+21:02:14:03:00:59[INFO ] load.pl-204   : LHS::NP(({%QC})) FRAGP(({$a%PSP<root="$r",lcat="$c",cm="$k">})) ::
+21:02:14:03:00:59[INFO ] load.pl-206   : Number of Chunks:NP(({%QC})) FRAGP(({$a%PSP<root="$r",lcat="$c",cm="$k">}))
+21:02:14:03:00:59[INFO ] load.pl-229   : LHS:Chunk_tag--NP~
+21:02:14:03:00:59[INFO ] load.pl-230   : Value--{%QC})) and ~
+21:02:14:03:00:59[INFO ] load.pl-243   : word-{%QC
+21:02:14:03:00:59[INFO ] load.pl-256   : Word Var-,Word-,Pos-QC,Fs-
+21:02:14:03:00:59[INFO ] load.pl-243   : word-))
+21:02:14:03:00:59[INFO ] load.pl-273   : Headvalue:0 start 0 end 0
+21:02:14:03:00:59[INFO ] load.pl-229   : LHS:Chunk_tag--FRAGP~
+21:02:14:03:00:59[INFO ] load.pl-230   : Value--{$a%PSP<root="$r",lcat="$c",cm="$k">})) and ~
+21:02:14:03:00:59[INFO ] load.pl-243   : word-{$a%PSP<root="$r",lcat="$c",cm="$k">
+21:02:14:03:00:59[INFO ] load.pl-256   : Word Var-,Word-$a,Pos-PSP,Fs-<root="$r",lcat="$c",cm="$k">
+21:02:14:03:00:59[INFO ] load.pl-243   : word-))
+21:02:14:03:00:59[INFO ] load.pl-273   : Headvalue:0 start 0 end 0
+21:02:14:03:00:59[INFO ] load.pl-283   : Parsing RHS
+21:02:14:03:00:59[INFO ] load.pl-303   : RHS:Chunk_tag-NP~
+21:02:14:03:00:59[INFO ] load.pl-307   : Value--1  2 NP 3  4  5 (( 6 {%QC}+{$a%PSP<root="$r",lcat="$c",cm="$k">}))
+21:02:14:03:00:59[INFO ] load.pl-345   : Word Var-,Word-,Pos-QC,Fs-
+21:02:14:03:00:59[INFO ] load.pl-335   : Add child
+21:02:14:03:00:59[INFO ] load.pl-345   : Word Var-,Word-$a,Pos-PSP,Fs-<root="$r",lcat="$c",cm="$k">
+21:02:14:03:00:59[INFO ] load.pl-389   : ###Number of Rules: 12,
+21:02:14:03:00:59[INFO ] load.pl-447   : Dropping:FRAGP~
+21:02:14:03:00:59[INFO ] load.pl-497   : RULE:,R14: NP(({%NN})) RBP(({paraMgA%RB<root="paraMgA",lcat="adv",cm="0">})) => NP(({%NN}+{paraMgA%PSP<root="paraMgA",lcat="psp",cm="0">})) 
+,
+21:02:14:03:00:59[INFO ] load.pl-204   : LHS::NP(({%NN})) RBP(({paraMgA%RB<root="paraMgA",lcat="adv",cm="0">})) ::
+21:02:14:03:00:59[INFO ] load.pl-206   : Number of Chunks:NP(({%NN})) RBP(({paraMgA%RB<root="paraMgA",lcat="adv",cm="0">}))
+21:02:14:03:00:59[INFO ] load.pl-229   : LHS:Chunk_tag--NP~
+21:02:14:03:00:59[INFO ] load.pl-230   : Value--{%NN})) and ~
+21:02:14:03:00:59[INFO ] load.pl-243   : word-{%NN
+21:02:14:03:00:59[INFO ] load.pl-256   : Word Var-,Word-,Pos-NN,Fs-
+21:02:14:03:00:59[INFO ] load.pl-243   : word-))
+21:02:14:03:00:59[INFO ] load.pl-273   : Headvalue:0 start 0 end 0
+21:02:14:03:00:59[INFO ] load.pl-229   : LHS:Chunk_tag--RBP~
+21:02:14:03:00:59[INFO ] load.pl-230   : Value--{paraMgA%RB<root="paraMgA",lcat="adv",cm="0">})) and ~
+21:02:14:03:00:59[INFO ] load.pl-243   : word-{paraMgA%RB<root="paraMgA",lcat="adv",cm="0">
+21:02:14:03:00:59[INFO ] load.pl-256   : Word Var-,Word-paraMgA,Pos-RB,Fs-<root="paraMgA",lcat="adv",cm="0">
+21:02:14:03:00:59[INFO ] load.pl-243   : word-))
+21:02:14:03:00:59[INFO ] load.pl-273   : Headvalue:0 start 0 end 0
+21:02:14:03:00:59[INFO ] load.pl-283   : Parsing RHS
+21:02:14:03:00:59[INFO ] load.pl-303   : RHS:Chunk_tag-NP~
+21:02:14:03:00:59[INFO ] load.pl-307   : Value--1  2 NP 3  4  5 (( 6 {%NN}+{paraMgA%PSP<root="paraMgA",lcat="psp",cm="0">}))
+21:02:14:03:00:59[INFO ] load.pl-345   : Word Var-,Word-,Pos-NN,Fs-
+21:02:14:03:00:59[INFO ] load.pl-335   : Add child
+21:02:14:03:00:59[INFO ] load.pl-345   : Word Var-,Word-paraMgA,Pos-PSP,Fs-<root="paraMgA",lcat="psp",cm="0">
+21:02:14:03:00:59[INFO ] load.pl-389   : ###Number of Rules: 13,
+21:02:14:03:00:59[INFO ] load.pl-447   : Dropping:RBP~
+21:02:14:03:00:59[INFO ] load.pl-497   : RULE:,R15: VGF(({ayinA%VM<root="avvu",lcat="v",gend="$g",num="$n",pers="$p",tam="inA">}{gAni%VAUX<root="gAni",lcat="avy">})) => +RBP(({ayinA%RB<root="avvu",lcat="v",gend="$g",num="$n",pers="$p",tam="inA">})) +BLK(({gAni%RP<root="gAni",lcat="avy">})) 
+,
+21:02:14:03:00:59[INFO ] load.pl-204   : LHS::VGF(({ayinA%VM<root="avvu",lcat="v",gend="$g",num="$n",pers="$p",tam="inA">}{gAni%VAUX<root="gAni",lcat="avy">})) ::
+21:02:14:03:00:59[INFO ] load.pl-206   : Number of Chunks:VGF(({ayinA%VM<root="avvu",lcat="v",gend="$g",num="$n",pers="$p",tam="inA">}{gAni%VAUX<root="gAni",lcat="avy">}))
+21:02:14:03:00:59[INFO ] load.pl-229   : LHS:Chunk_tag--VGF~
+21:02:14:03:00:59[INFO ] load.pl-230   : Value--{ayinA%VM<root="avvu",lcat="v",gend="$g",num="$n",pers="$p",tam="inA">}{gAni%VAUX<root="gAni",lcat="avy">})) and ~
+21:02:14:03:00:59[INFO ] load.pl-243   : word-{ayinA%VM<root="avvu",lcat="v",gend="$g",num="$n",pers="$p",tam="inA">
+21:02:14:03:00:59[INFO ] load.pl-256   : Word Var-,Word-ayinA,Pos-VM,Fs-<root="avvu",lcat="v",gend="$g",num="$n",pers="$p",tam="inA">
+21:02:14:03:00:59[INFO ] load.pl-243   : word-{gAni%VAUX<root="gAni",lcat="avy">
+21:02:14:03:00:59[INFO ] load.pl-256   : Word Var-,Word-gAni,Pos-VAUX,Fs-<root="gAni",lcat="avy">
+21:02:14:03:00:59[INFO ] load.pl-243   : word-))
+21:02:14:03:00:59[INFO ] load.pl-273   : Headvalue:0 start 0 end 0
+21:02:14:03:00:59[INFO ] load.pl-283   : Parsing RHS
+21:02:14:03:00:59[INFO ] load.pl-303   : RHS:Chunk_tag-RBP~
+21:02:14:03:00:59[INFO ] load.pl-307   : Value--1 + 2 RBP 3  4  5 (( 6 {ayinA%RB<root="avvu",lcat="v",gend="$g",num="$n",pers="$p",tam="inA">}))
+21:02:14:03:00:59[INFO ] load.pl-345   : Word Var-,Word-ayinA,Pos-RB,Fs-<root="avvu",lcat="v",gend="$g",num="$n",pers="$p",tam="inA">
+21:02:14:03:00:59[INFO ] load.pl-303   : RHS:Chunk_tag-BLK~
+21:02:14:03:00:59[INFO ] load.pl-307   : Value--1 + 2 BLK 3  4  5 (( 6 {gAni%RP<root="gAni",lcat="avy">}))
+21:02:14:03:00:59[INFO ] load.pl-345   : Word Var-,Word-gAni,Pos-RP,Fs-<root="gAni",lcat="avy">
+21:02:14:03:00:59[INFO ] load.pl-389   : ###Number of Rules: 14,
+21:02:14:03:00:59[INFO ] load.pl-447   : Dropping:VGF~
+21:02:14:03:00:59[INFO ] load.pl-497   : RULE:,R17: NP~1(({%QC}{%NN<cat="adj">})) NP~2(({$a%NN<root="$r",lcat="n",gend="$g",num="$n",pers="$p",cm="$c",suff="$s">})) => NP~1({%QC}{%JJ<cat="adj">}(+{$a%NN<root="$r",lcat="n",gend="$g",num="$n",pers="$p",case="o",cm="$c",suff="$s">}))
+,
+21:02:14:03:00:59[INFO ] load.pl-204   : LHS::NP~1(({%QC}{%NN<cat="adj">})) NP~2(({$a%NN<root="$r",lcat="n",gend="$g",num="$n",pers="$p",cm="$c",suff="$s">})) ::
+21:02:14:03:00:59[INFO ] load.pl-206   : Number of Chunks:NP~1(({%QC}{%NN<cat="adj">})) NP~2(({$a%NN<root="$r",lcat="n",gend="$g",num="$n",pers="$p",cm="$c",suff="$s">}))
+21:02:14:03:00:59[INFO ] load.pl-229   : LHS:Chunk_tag--NP~1
+21:02:14:03:00:59[INFO ] load.pl-230   : Value--{%QC}{%NN<cat="adj">})) and ~
+21:02:14:03:00:59[INFO ] load.pl-243   : word-{%QC
+21:02:14:03:00:59[INFO ] load.pl-256   : Word Var-,Word-,Pos-QC,Fs-
+21:02:14:03:00:59[INFO ] load.pl-243   : word-{%NN<cat="adj">
+21:02:14:03:00:59[INFO ] load.pl-256   : Word Var-,Word-,Pos-NN,Fs-<cat="adj">
+21:02:14:03:00:59[INFO ] load.pl-243   : word-))
+21:02:14:03:00:59[INFO ] load.pl-273   : Headvalue:0 start 0 end 0
+21:02:14:03:00:59[INFO ] load.pl-229   : LHS:Chunk_tag--NP~2
+21:02:14:03:00:59[INFO ] load.pl-230   : Value--{$a%NN<root="$r",lcat="n",gend="$g",num="$n",pers="$p",cm="$c",suff="$s">})) and ~
+21:02:14:03:00:59[INFO ] load.pl-243   : word-{$a%NN<root="$r",lcat="n",gend="$g",num="$n",pers="$p",cm="$c",suff="$s">
+21:02:14:03:00:59[INFO ] load.pl-256   : Word Var-,Word-$a,Pos-NN,Fs-<root="$r",lcat="n",gend="$g",num="$n",pers="$p",cm="$c",suff="$s">
+21:02:14:03:00:59[INFO ] load.pl-243   : word-))
+21:02:14:03:00:59[INFO ] load.pl-273   : Headvalue:0 start 0 end 0
+21:02:14:03:00:59[INFO ] load.pl-283   : Parsing RHS
+21:02:14:03:00:59[INFO ] load.pl-303   : RHS:Chunk_tag-NP~1
+21:02:14:03:00:59[INFO ] load.pl-307   : Value--1  2 NP 3 1 4  5  6 ({%QC}{%JJ<cat="adj">}(+{$a%NN<root="$r",lcat="n",gend="$g",num="$n",pers="$p",case="o",cm="$c",suff="$s">}))
+21:02:14:03:00:59[INFO ] load.pl-345   : Word Var-,Word-,Pos-QC,Fs-
+21:02:14:03:00:59[INFO ] load.pl-345   : Word Var-,Word-,Pos-JJ,Fs-<cat="adj">
+21:02:14:03:00:59[INFO ] load.pl-335   : Add child
+21:02:14:03:00:59[INFO ] load.pl-345   : Word Var-,Word-$a,Pos-NN,Fs-<root="$r",lcat="n",gend="$g",num="$n",pers="$p",case="o",cm="$c",suff="$s">
+21:02:14:03:00:59[INFO ] load.pl-389   : ###Number of Rules: 15,
+21:02:14:03:00:59[INFO ] load.pl-447   : Dropping:NP~2
+21:02:14:03:00:59[INFO ] load.pl-497   : RULE:,R18: NP~1(({%JJ}{%NN<cat="adj">})) NP~2(({$a%NNP<root="$r",lcat="n",gend="$g",num="$n",pers="$p",cm="$c",suff="$s">})) => NP~1(({%JJ}{%JJ}+{$a%NNP<root="$r",lcat="n",gend="$g",num="$n",pers="$p",cm="$c",suff="$s">}))
+,
+21:02:14:03:00:59[INFO ] load.pl-204   : LHS::NP~1(({%JJ}{%NN<cat="adj">})) NP~2(({$a%NNP<root="$r",lcat="n",gend="$g",num="$n",pers="$p",cm="$c",suff="$s">})) ::
+21:02:14:03:00:59[INFO ] load.pl-206   : Number of Chunks:NP~1(({%JJ}{%NN<cat="adj">})) NP~2(({$a%NNP<root="$r",lcat="n",gend="$g",num="$n",pers="$p",cm="$c",suff="$s">}))
+21:02:14:03:00:59[INFO ] load.pl-229   : LHS:Chunk_tag--NP~1
+21:02:14:03:00:59[INFO ] load.pl-230   : Value--{%JJ}{%NN<cat="adj">})) and ~
+21:02:14:03:00:59[INFO ] load.pl-243   : word-{%JJ
+21:02:14:03:00:59[INFO ] load.pl-256   : Word Var-,Word-,Pos-JJ,Fs-
+21:02:14:03:00:59[INFO ] load.pl-243   : word-{%NN<cat="adj">
+21:02:14:03:00:59[INFO ] load.pl-256   : Word Var-,Word-,Pos-NN,Fs-<cat="adj">
+21:02:14:03:00:59[INFO ] load.pl-243   : word-))
+21:02:14:03:00:59[INFO ] load.pl-273   : Headvalue:0 start 0 end 0
+21:02:14:03:00:59[INFO ] load.pl-229   : LHS:Chunk_tag--NP~2
+21:02:14:03:00:59[INFO ] load.pl-230   : Value--{$a%NNP<root="$r",lcat="n",gend="$g",num="$n",pers="$p",cm="$c",suff="$s">})) and ~
+21:02:14:03:00:59[INFO ] load.pl-243   : word-{$a%NNP<root="$r",lcat="n",gend="$g",num="$n",pers="$p",cm="$c",suff="$s">
+21:02:14:03:00:59[INFO ] load.pl-256   : Word Var-,Word-$a,Pos-NNP,Fs-<root="$r",lcat="n",gend="$g",num="$n",pers="$p",cm="$c",suff="$s">
+21:02:14:03:00:59[INFO ] load.pl-243   : word-))
+21:02:14:03:00:59[INFO ] load.pl-273   : Headvalue:0 start 0 end 0
+21:02:14:03:00:59[INFO ] load.pl-283   : Parsing RHS
+21:02:14:03:00:59[INFO ] load.pl-303   : RHS:Chunk_tag-NP~1
+21:02:14:03:00:59[INFO ] load.pl-307   : Value--1  2 NP 3 1 4  5 (( 6 {%JJ}{%JJ}+{$a%NNP<root="$r",lcat="n",gend="$g",num="$n",pers="$p",cm="$c",suff="$s">}))
+21:02:14:03:00:59[INFO ] load.pl-345   : Word Var-,Word-,Pos-JJ,Fs-
+21:02:14:03:00:59[INFO ] load.pl-345   : Word Var-,Word-,Pos-JJ,Fs-
+21:02:14:03:00:59[INFO ] load.pl-335   : Add child
+21:02:14:03:00:59[INFO ] load.pl-345   : Word Var-,Word-$a,Pos-NNP,Fs-<root="$r",lcat="n",gend="$g",num="$n",pers="$p",cm="$c",suff="$s">
+21:02:14:03:00:59[INFO ] load.pl-389   : ###Number of Rules: 16,
+21:02:14:03:00:59[INFO ] load.pl-447   : Dropping:NP~2
+21:02:14:03:00:59[INFO ] load.pl-497   : RULE:,R19: NP~1(({%JJ}{%NN<cat="adj">})) NP~2(({$a%NN<root="$r",lcat="n",gend="$g",num="$n",pers="$p",cm="$c",suff="$s">})) => NP~1(({%JJ}{%JJ}+{$a%NN<root="$r",lcat="n",gend="$g",num="$n",pers="$p",cm="$c",suff="$s">}))
+,
+21:02:14:03:00:59[INFO ] load.pl-204   : LHS::NP~1(({%JJ}{%NN<cat="adj">})) NP~2(({$a%NN<root="$r",lcat="n",gend="$g",num="$n",pers="$p",cm="$c",suff="$s">})) ::
+21:02:14:03:00:59[INFO ] load.pl-206   : Number of Chunks:NP~1(({%JJ}{%NN<cat="adj">})) NP~2(({$a%NN<root="$r",lcat="n",gend="$g",num="$n",pers="$p",cm="$c",suff="$s">}))
+21:02:14:03:00:59[INFO ] load.pl-229   : LHS:Chunk_tag--NP~1
+21:02:14:03:00:59[INFO ] load.pl-230   : Value--{%JJ}{%NN<cat="adj">})) and ~
+21:02:14:03:00:59[INFO ] load.pl-243   : word-{%JJ
+21:02:14:03:00:59[INFO ] load.pl-256   : Word Var-,Word-,Pos-JJ,Fs-
+21:02:14:03:00:59[INFO ] load.pl-243   : word-{%NN<cat="adj">
+21:02:14:03:00:59[INFO ] load.pl-256   : Word Var-,Word-,Pos-NN,Fs-<cat="adj">
+21:02:14:03:00:59[INFO ] load.pl-243   : word-))
+21:02:14:03:00:59[INFO ] load.pl-273   : Headvalue:0 start 0 end 0
+21:02:14:03:00:59[INFO ] load.pl-229   : LHS:Chunk_tag--NP~2
+21:02:14:03:00:59[INFO ] load.pl-230   : Value--{$a%NN<root="$r",lcat="n",gend="$g",num="$n",pers="$p",cm="$c",suff="$s">})) and ~
+21:02:14:03:00:59[INFO ] load.pl-243   : word-{$a%NN<root="$r",lcat="n",gend="$g",num="$n",pers="$p",cm="$c",suff="$s">
+21:02:14:03:00:59[INFO ] load.pl-256   : Word Var-,Word-$a,Pos-NN,Fs-<root="$r",lcat="n",gend="$g",num="$n",pers="$p",cm="$c",suff="$s">
+21:02:14:03:00:59[INFO ] load.pl-243   : word-))
+21:02:14:03:00:59[INFO ] load.pl-273   : Headvalue:0 start 0 end 0
+21:02:14:03:00:59[INFO ] load.pl-283   : Parsing RHS
+21:02:14:03:00:59[INFO ] load.pl-303   : RHS:Chunk_tag-NP~1
+21:02:14:03:00:59[INFO ] load.pl-307   : Value--1  2 NP 3 1 4  5 (( 6 {%JJ}{%JJ}+{$a%NN<root="$r",lcat="n",gend="$g",num="$n",pers="$p",cm="$c",suff="$s">}))
+21:02:14:03:00:59[INFO ] load.pl-345   : Word Var-,Word-,Pos-JJ,Fs-
+21:02:14:03:00:59[INFO ] load.pl-345   : Word Var-,Word-,Pos-JJ,Fs-
+21:02:14:03:00:59[INFO ] load.pl-335   : Add child
+21:02:14:03:00:59[INFO ] load.pl-345   : Word Var-,Word-$a,Pos-NN,Fs-<root="$r",lcat="n",gend="$g",num="$n",pers="$p",cm="$c",suff="$s">
+21:02:14:03:00:59[INFO ] load.pl-389   : ###Number of Rules: 17,
+21:02:14:03:00:59[INFO ] load.pl-447   : Dropping:NP~2
+21:02:14:03:00:59[INFO ] load.pl-497   : RULE:,R11: NP~1(({%NN<cm="0">})) NP~2(({$a%NST<root="$b",lcat="$c",gend="$g",num="$n",pers="$p",cm="0">})) => NP~1(({%NN<case="o",cm="0">}+{$a%PSP<root="$b",lcat="psp",gend="$g",num="$n",pers="$p",cm="0">}))
+,
+21:02:14:03:00:59[INFO ] load.pl-204   : LHS::NP~1(({%NN<cm="0">})) NP~2(({$a%NST<root="$b",lcat="$c",gend="$g",num="$n",pers="$p",cm="0">})) ::
+21:02:14:03:00:59[INFO ] load.pl-206   : Number of Chunks:NP~1(({%NN<cm="0">})) NP~2(({$a%NST<root="$b",lcat="$c",gend="$g",num="$n",pers="$p",cm="0">}))
+21:02:14:03:00:59[INFO ] load.pl-229   : LHS:Chunk_tag--NP~1
+21:02:14:03:00:59[INFO ] load.pl-230   : Value--{%NN<cm="0">})) and ~
+21:02:14:03:00:59[INFO ] load.pl-243   : word-{%NN<cm="0">
+21:02:14:03:00:59[INFO ] load.pl-256   : Word Var-,Word-,Pos-NN,Fs-<cm="0">
+21:02:14:03:00:59[INFO ] load.pl-243   : word-))
+21:02:14:03:00:59[INFO ] load.pl-273   : Headvalue:0 start 0 end 0
+21:02:14:03:00:59[INFO ] load.pl-229   : LHS:Chunk_tag--NP~2
+21:02:14:03:00:59[INFO ] load.pl-230   : Value--{$a%NST<root="$b",lcat="$c",gend="$g",num="$n",pers="$p",cm="0">})) and ~
+21:02:14:03:00:59[INFO ] load.pl-243   : word-{$a%NST<root="$b",lcat="$c",gend="$g",num="$n",pers="$p",cm="0">
+21:02:14:03:00:59[INFO ] load.pl-256   : Word Var-,Word-$a,Pos-NST,Fs-<root="$b",lcat="$c",gend="$g",num="$n",pers="$p",cm="0">
+21:02:14:03:00:59[INFO ] load.pl-243   : word-))
+21:02:14:03:00:59[INFO ] load.pl-273   : Headvalue:0 start 0 end 0
+21:02:14:03:00:59[INFO ] load.pl-283   : Parsing RHS
+21:02:14:03:00:59[INFO ] load.pl-303   : RHS:Chunk_tag-NP~1
+21:02:14:03:00:59[INFO ] load.pl-307   : Value--1  2 NP 3 1 4  5 (( 6 {%NN<case="o",cm="0">}+{$a%PSP<root="$b",lcat="psp",gend="$g",num="$n",pers="$p",cm="0">}))
+21:02:14:03:00:59[INFO ] load.pl-345   : Word Var-,Word-,Pos-NN,Fs-<case="o",cm="0">
+21:02:14:03:00:59[INFO ] load.pl-335   : Add child
+21:02:14:03:00:59[INFO ] load.pl-345   : Word Var-,Word-$a,Pos-PSP,Fs-<root="$b",lcat="psp",gend="$g",num="$n",pers="$p",cm="0">
+21:02:14:03:00:59[INFO ] load.pl-389   : ###Number of Rules: 18,
+21:02:14:03:00:59[INFO ] load.pl-447   : Dropping:NP~2
+21:02:14:03:00:59[INFO ] load.pl-497   : RULE:,R11: NP~1(({%NNP<cm="0">})) NP~2(({$a%NST<root="$b",lcat="$c",gend="$g",num="$n",pers="$p",cm="0">})) => NP~1(({%NNP<case="o",cm="0">}+{$a%PSP<root="$b",lcat="psp",gend="$g",num="$n",pers="$p",cm="0">}))
+,
+21:02:14:03:00:59[INFO ] load.pl-204   : LHS::NP~1(({%NNP<cm="0">})) NP~2(({$a%NST<root="$b",lcat="$c",gend="$g",num="$n",pers="$p",cm="0">})) ::
+21:02:14:03:00:59[INFO ] load.pl-206   : Number of Chunks:NP~1(({%NNP<cm="0">})) NP~2(({$a%NST<root="$b",lcat="$c",gend="$g",num="$n",pers="$p",cm="0">}))
+21:02:14:03:00:59[INFO ] load.pl-229   : LHS:Chunk_tag--NP~1
+21:02:14:03:00:59[INFO ] load.pl-230   : Value--{%NNP<cm="0">})) and ~
+21:02:14:03:00:59[INFO ] load.pl-243   : word-{%NNP<cm="0">
+21:02:14:03:00:59[INFO ] load.pl-256   : Word Var-,Word-,Pos-NNP,Fs-<cm="0">
+21:02:14:03:00:59[INFO ] load.pl-243   : word-))
+21:02:14:03:00:59[INFO ] load.pl-273   : Headvalue:0 start 0 end 0
+21:02:14:03:00:59[INFO ] load.pl-229   : LHS:Chunk_tag--NP~2
+21:02:14:03:00:59[INFO ] load.pl-230   : Value--{$a%NST<root="$b",lcat="$c",gend="$g",num="$n",pers="$p",cm="0">})) and ~
+21:02:14:03:00:59[INFO ] load.pl-243   : word-{$a%NST<root="$b",lcat="$c",gend="$g",num="$n",pers="$p",cm="0">
+21:02:14:03:00:59[INFO ] load.pl-256   : Word Var-,Word-$a,Pos-NST,Fs-<root="$b",lcat="$c",gend="$g",num="$n",pers="$p",cm="0">
+21:02:14:03:00:59[INFO ] load.pl-243   : word-))
+21:02:14:03:00:59[INFO ] load.pl-273   : Headvalue:0 start 0 end 0
+21:02:14:03:00:59[INFO ] load.pl-283   : Parsing RHS
+21:02:14:03:00:59[INFO ] load.pl-303   : RHS:Chunk_tag-NP~1
+21:02:14:03:00:59[INFO ] load.pl-307   : Value--1  2 NP 3 1 4  5 (( 6 {%NNP<case="o",cm="0">}+{$a%PSP<root="$b",lcat="psp",gend="$g",num="$n",pers="$p",cm="0">}))
+21:02:14:03:00:59[INFO ] load.pl-345   : Word Var-,Word-,Pos-NNP,Fs-<case="o",cm="0">
+21:02:14:03:00:59[INFO ] load.pl-335   : Add child
+21:02:14:03:00:59[INFO ] load.pl-345   : Word Var-,Word-$a,Pos-PSP,Fs-<root="$b",lcat="psp",gend="$g",num="$n",pers="$p",cm="0">
+21:02:14:03:00:59[INFO ] load.pl-389   : ###Number of Rules: 19,
+21:02:14:03:00:59[INFO ] load.pl-447   : Dropping:NP~2
+21:02:14:03:00:59[INFO ] load.pl-497   : RULE:,R11: NP~1(({%PRP<cm="0">})) NP~2(({$a%NST<root="$b",lcat="$c",gend="$g",num="$n",pers="$p",cm="0">})) => NP~1(({%PRP<case="o",cm="0">}+{$a%PSP<root="$b",lcat="psp",gend="$g",num="$n",pers="$p",cm="0">}))
+,
+21:02:14:03:00:59[INFO ] load.pl-204   : LHS::NP~1(({%PRP<cm="0">})) NP~2(({$a%NST<root="$b",lcat="$c",gend="$g",num="$n",pers="$p",cm="0">})) ::
+21:02:14:03:00:59[INFO ] load.pl-206   : Number of Chunks:NP~1(({%PRP<cm="0">})) NP~2(({$a%NST<root="$b",lcat="$c",gend="$g",num="$n",pers="$p",cm="0">}))
+21:02:14:03:00:59[INFO ] load.pl-229   : LHS:Chunk_tag--NP~1
+21:02:14:03:00:59[INFO ] load.pl-230   : Value--{%PRP<cm="0">})) and ~
+21:02:14:03:00:59[INFO ] load.pl-243   : word-{%PRP<cm="0">
+21:02:14:03:00:59[INFO ] load.pl-256   : Word Var-,Word-,Pos-PRP,Fs-<cm="0">
+21:02:14:03:00:59[INFO ] load.pl-243   : word-))
+21:02:14:03:00:59[INFO ] load.pl-273   : Headvalue:0 start 0 end 0
+21:02:14:03:00:59[INFO ] load.pl-229   : LHS:Chunk_tag--NP~2
+21:02:14:03:00:59[INFO ] load.pl-230   : Value--{$a%NST<root="$b",lcat="$c",gend="$g",num="$n",pers="$p",cm="0">})) and ~
+21:02:14:03:00:59[INFO ] load.pl-243   : word-{$a%NST<root="$b",lcat="$c",gend="$g",num="$n",pers="$p",cm="0">
+21:02:14:03:00:59[INFO ] load.pl-256   : Word Var-,Word-$a,Pos-NST,Fs-<root="$b",lcat="$c",gend="$g",num="$n",pers="$p",cm="0">
+21:02:14:03:00:59[INFO ] load.pl-243   : word-))
+21:02:14:03:00:59[INFO ] load.pl-273   : Headvalue:0 start 0 end 0
+21:02:14:03:00:59[INFO ] load.pl-283   : Parsing RHS
+21:02:14:03:00:59[INFO ] load.pl-303   : RHS:Chunk_tag-NP~1
+21:02:14:03:00:59[INFO ] load.pl-307   : Value--1  2 NP 3 1 4  5 (( 6 {%PRP<case="o",cm="0">}+{$a%PSP<root="$b",lcat="psp",gend="$g",num="$n",pers="$p",cm="0">}))
+21:02:14:03:00:59[INFO ] load.pl-345   : Word Var-,Word-,Pos-PRP,Fs-<case="o",cm="0">
+21:02:14:03:00:59[INFO ] load.pl-335   : Add child
+21:02:14:03:00:59[INFO ] load.pl-345   : Word Var-,Word-$a,Pos-PSP,Fs-<root="$b",lcat="psp",gend="$g",num="$n",pers="$p",cm="0">
+21:02:14:03:00:59[INFO ] load.pl-389   : ###Number of Rules: 20,
+21:02:14:03:00:59[INFO ] load.pl-447   : Dropping:NP~2
+21:02:14:03:00:59[INFO ] load.pl-497   : RULE:,R11: NP~1(({$a%NST})) NP~2(({$b%NN<root="$b",lcat="$c",gend="$g",num="$n",pers="$p",case="$f",cm="gA">})) => NP~1(({$a%JJ}+{$b%NN<root="$b",lcat="$c",gend="$g",num="$n",pers="$p",case="$f",cm="gA">}))
+,
+21:02:14:03:00:59[INFO ] load.pl-204   : LHS::NP~1(({$a%NST})) NP~2(({$b%NN<root="$b",lcat="$c",gend="$g",num="$n",pers="$p",case="$f",cm="gA">})) ::
+21:02:14:03:00:59[INFO ] load.pl-206   : Number of Chunks:NP~1(({$a%NST})) NP~2(({$b%NN<root="$b",lcat="$c",gend="$g",num="$n",pers="$p",case="$f",cm="gA">}))
+21:02:14:03:00:59[INFO ] load.pl-229   : LHS:Chunk_tag--NP~1
+21:02:14:03:00:59[INFO ] load.pl-230   : Value--{$a%NST})) and ~
+21:02:14:03:00:59[INFO ] load.pl-243   : word-{$a%NST
+21:02:14:03:00:59[INFO ] load.pl-256   : Word Var-,Word-$a,Pos-NST,Fs-
+21:02:14:03:00:59[INFO ] load.pl-243   : word-))
+21:02:14:03:00:59[INFO ] load.pl-273   : Headvalue:0 start 0 end 0
+21:02:14:03:00:59[INFO ] load.pl-229   : LHS:Chunk_tag--NP~2
+21:02:14:03:00:59[INFO ] load.pl-230   : Value--{$b%NN<root="$b",lcat="$c",gend="$g",num="$n",pers="$p",case="$f",cm="gA">})) and ~
+21:02:14:03:00:59[INFO ] load.pl-243   : word-{$b%NN<root="$b",lcat="$c",gend="$g",num="$n",pers="$p",case="$f",cm="gA">
+21:02:14:03:00:59[INFO ] load.pl-256   : Word Var-,Word-$b,Pos-NN,Fs-<root="$b",lcat="$c",gend="$g",num="$n",pers="$p",case="$f",cm="gA">
+21:02:14:03:00:59[INFO ] load.pl-243   : word-))
+21:02:14:03:00:59[INFO ] load.pl-273   : Headvalue:0 start 0 end 0
+21:02:14:03:00:59[INFO ] load.pl-283   : Parsing RHS
+21:02:14:03:00:59[INFO ] load.pl-303   : RHS:Chunk_tag-NP~1
+21:02:14:03:00:59[INFO ] load.pl-307   : Value--1  2 NP 3 1 4  5 (( 6 {$a%JJ}+{$b%NN<root="$b",lcat="$c",gend="$g",num="$n",pers="$p",case="$f",cm="gA">}))
+21:02:14:03:00:59[INFO ] load.pl-345   : Word Var-,Word-$a,Pos-JJ,Fs-
+21:02:14:03:00:59[INFO ] load.pl-335   : Add child
+21:02:14:03:00:59[INFO ] load.pl-345   : Word Var-,Word-$b,Pos-NN,Fs-<root="$b",lcat="$c",gend="$g",num="$n",pers="$p",case="$f",cm="gA">
+21:02:14:03:00:59[INFO ] load.pl-389   : ###Number of Rules: 21,
+21:02:14:03:00:59[INFO ] load.pl-447   : Dropping:NP~2
+21:02:14:03:00:59[INFO ] load.pl-497   : RULE:,R1228650: VGNF(({%VM<lcat="v",tam="ina">})) NP(({%PRP<root="vAru",lcat="pn",gend="fm",num="pl",pers="3">}{$s%SYM<root="$p",lcat="punc">})) => VGNF(({%VM<lcat="v",gend="fm",num="pl",pers="3",tam="ina_vAru">}+{$s%SYM<root="$p",lcat="punc">}))
+,
+21:02:14:03:00:59[INFO ] load.pl-204   : LHS::VGNF(({%VM<lcat="v",tam="ina">})) NP(({%PRP<root="vAru",lcat="pn",gend="fm",num="pl",pers="3">}{$s%SYM<root="$p",lcat="punc">})) ::
+21:02:14:03:00:59[INFO ] load.pl-206   : Number of Chunks:VGNF(({%VM<lcat="v",tam="ina">})) NP(({%PRP<root="vAru",lcat="pn",gend="fm",num="pl",pers="3">}{$s%SYM<root="$p",lcat="punc">}))
+21:02:14:03:00:59[INFO ] load.pl-229   : LHS:Chunk_tag--VGNF~
+21:02:14:03:00:59[INFO ] load.pl-230   : Value--{%VM<lcat="v",tam="ina">})) and ~
+21:02:14:03:00:59[INFO ] load.pl-243   : word-{%VM<lcat="v",tam="ina">
+21:02:14:03:00:59[INFO ] load.pl-256   : Word Var-,Word-,Pos-VM,Fs-<lcat="v",tam="ina">
+21:02:14:03:00:59[INFO ] load.pl-243   : word-))
+21:02:14:03:00:59[INFO ] load.pl-273   : Headvalue:0 start 0 end 0
+21:02:14:03:00:59[INFO ] load.pl-229   : LHS:Chunk_tag--NP~
+21:02:14:03:00:59[INFO ] load.pl-230   : Value--{%PRP<root="vAru",lcat="pn",gend="fm",num="pl",pers="3">}{$s%SYM<root="$p",lcat="punc">})) and ~
+21:02:14:03:00:59[INFO ] load.pl-243   : word-{%PRP<root="vAru",lcat="pn",gend="fm",num="pl",pers="3">
+21:02:14:03:00:59[INFO ] load.pl-256   : Word Var-,Word-,Pos-PRP,Fs-<root="vAru",lcat="pn",gend="fm",num="pl",pers="3">
+21:02:14:03:00:59[INFO ] load.pl-243   : word-{$s%SYM<root="$p",lcat="punc">
+21:02:14:03:00:59[INFO ] load.pl-256   : Word Var-,Word-$s,Pos-SYM,Fs-<root="$p",lcat="punc">
+21:02:14:03:00:59[INFO ] load.pl-243   : word-))
+21:02:14:03:00:59[INFO ] load.pl-273   : Headvalue:0 start 0 end 0
+21:02:14:03:00:59[INFO ] load.pl-283   : Parsing RHS
+21:02:14:03:00:59[INFO ] load.pl-303   : RHS:Chunk_tag-VGNF~
+21:02:14:03:00:59[INFO ] load.pl-307   : Value--1  2 VGNF 3  4  5 (( 6 {%VM<lcat="v",gend="fm",num="pl",pers="3",tam="ina_vAru">}+{$s%SYM<root="$p",lcat="punc">}))
+21:02:14:03:00:59[INFO ] load.pl-345   : Word Var-,Word-,Pos-VM,Fs-<lcat="v",gend="fm",num="pl",pers="3",tam="ina_vAru">
+21:02:14:03:00:59[INFO ] load.pl-335   : Add child
+21:02:14:03:00:59[INFO ] load.pl-345   : Word Var-,Word-$s,Pos-SYM,Fs-<root="$p",lcat="punc">
+21:02:14:03:00:59[INFO ] load.pl-389   : ###Number of Rules: 22,
+21:02:14:03:00:59[INFO ] load.pl-447   : Dropping:NP~
+21:02:14:03:00:59[INFO ] load.pl-497   : RULE:,R1228651: VGNF(({%VM<lcat="v",tam="ina">})) NP(({%PRP<root="vAlYlu",lcat="pn",gend="fm",num="pl",pers="3">}{$s%SYM<root="$pc",lcat="punc">})) => VGNF(({%VM<lcat="v",gend="fm",num="pl",pers="3",tam="ina_vAlYlu">}+{$s%SYM<root="$pc",lcat="punc">}))
+,
+21:02:14:03:00:59[INFO ] load.pl-204   : LHS::VGNF(({%VM<lcat="v",tam="ina">})) NP(({%PRP<root="vAlYlu",lcat="pn",gend="fm",num="pl",pers="3">}{$s%SYM<root="$pc",lcat="punc">})) ::
+21:02:14:03:00:59[INFO ] load.pl-206   : Number of Chunks:VGNF(({%VM<lcat="v",tam="ina">})) NP(({%PRP<root="vAlYlu",lcat="pn",gend="fm",num="pl",pers="3">}{$s%SYM<root="$pc",lcat="punc">}))
+21:02:14:03:00:59[INFO ] load.pl-229   : LHS:Chunk_tag--VGNF~
+21:02:14:03:00:59[INFO ] load.pl-230   : Value--{%VM<lcat="v",tam="ina">})) and ~
+21:02:14:03:00:59[INFO ] load.pl-243   : word-{%VM<lcat="v",tam="ina">
+21:02:14:03:00:59[INFO ] load.pl-256   : Word Var-,Word-,Pos-VM,Fs-<lcat="v",tam="ina">
+21:02:14:03:00:59[INFO ] load.pl-243   : word-))
+21:02:14:03:00:59[INFO ] load.pl-273   : Headvalue:0 start 0 end 0
+21:02:14:03:00:59[INFO ] load.pl-229   : LHS:Chunk_tag--NP~
+21:02:14:03:00:59[INFO ] load.pl-230   : Value--{%PRP<root="vAlYlu",lcat="pn",gend="fm",num="pl",pers="3">}{$s%SYM<root="$pc",lcat="punc">})) and ~
+21:02:14:03:00:59[INFO ] load.pl-243   : word-{%PRP<root="vAlYlu",lcat="pn",gend="fm",num="pl",pers="3">
+21:02:14:03:00:59[INFO ] load.pl-256   : Word Var-,Word-,Pos-PRP,Fs-<root="vAlYlu",lcat="pn",gend="fm",num="pl",pers="3">
+21:02:14:03:00:59[INFO ] load.pl-243   : word-{$s%SYM<root="$pc",lcat="punc">
+21:02:14:03:00:59[INFO ] load.pl-256   : Word Var-,Word-$s,Pos-SYM,Fs-<root="$pc",lcat="punc">
+21:02:14:03:00:59[INFO ] load.pl-243   : word-))
+21:02:14:03:00:59[INFO ] load.pl-273   : Headvalue:0 start 0 end 0
+21:02:14:03:00:59[INFO ] load.pl-283   : Parsing RHS
+21:02:14:03:00:59[INFO ] load.pl-303   : RHS:Chunk_tag-VGNF~
+21:02:14:03:00:59[INFO ] load.pl-307   : Value--1  2 VGNF 3  4  5 (( 6 {%VM<lcat="v",gend="fm",num="pl",pers="3",tam="ina_vAlYlu">}+{$s%SYM<root="$pc",lcat="punc">}))
+21:02:14:03:00:59[INFO ] load.pl-345   : Word Var-,Word-,Pos-VM,Fs-<lcat="v",gend="fm",num="pl",pers="3",tam="ina_vAlYlu">
+21:02:14:03:00:59[INFO ] load.pl-335   : Add child
+21:02:14:03:00:59[INFO ] load.pl-345   : Word Var-,Word-$s,Pos-SYM,Fs-<root="$pc",lcat="punc">
+21:02:14:03:00:59[INFO ] load.pl-389   : ###Number of Rules: 23,
+21:02:14:03:00:59[INFO ] load.pl-447   : Dropping:NP~
+21:02:14:03:00:59[INFO ] load.pl-497   : RULE:,R1228652: VGNF(({%VM<lcat="v",tam="ina">})) NP(({%PRP<root="vAdu",lcat="pn",gend="m",num="sg",pers="3">}{$s%SYM<root="$pc",lcat="punc">})) => VGNF(({%VM<lcat="v",gend="m",num="sg",pers="3",tam="ina_vAdu">}+{$s%SYM<root="$pc",lcat="punc">}))
+,
+21:02:14:03:00:59[INFO ] load.pl-204   : LHS::VGNF(({%VM<lcat="v",tam="ina">})) NP(({%PRP<root="vAdu",lcat="pn",gend="m",num="sg",pers="3">}{$s%SYM<root="$pc",lcat="punc">})) ::
+21:02:14:03:00:59[INFO ] load.pl-206   : Number of Chunks:VGNF(({%VM<lcat="v",tam="ina">})) NP(({%PRP<root="vAdu",lcat="pn",gend="m",num="sg",pers="3">}{$s%SYM<root="$pc",lcat="punc">}))
+21:02:14:03:00:59[INFO ] load.pl-229   : LHS:Chunk_tag--VGNF~
+21:02:14:03:00:59[INFO ] load.pl-230   : Value--{%VM<lcat="v",tam="ina">})) and ~
+21:02:14:03:00:59[INFO ] load.pl-243   : word-{%VM<lcat="v",tam="ina">
+21:02:14:03:00:59[INFO ] load.pl-256   : Word Var-,Word-,Pos-VM,Fs-<lcat="v",tam="ina">
+21:02:14:03:00:59[INFO ] load.pl-243   : word-))
+21:02:14:03:00:59[INFO ] load.pl-273   : Headvalue:0 start 0 end 0
+21:02:14:03:00:59[INFO ] load.pl-229   : LHS:Chunk_tag--NP~
+21:02:14:03:00:59[INFO ] load.pl-230   : Value--{%PRP<root="vAdu",lcat="pn",gend="m",num="sg",pers="3">}{$s%SYM<root="$pc",lcat="punc">})) and ~
+21:02:14:03:00:59[INFO ] load.pl-243   : word-{%PRP<root="vAdu",lcat="pn",gend="m",num="sg",pers="3">
+21:02:14:03:00:59[INFO ] load.pl-256   : Word Var-,Word-,Pos-PRP,Fs-<root="vAdu",lcat="pn",gend="m",num="sg",pers="3">
+21:02:14:03:00:59[INFO ] load.pl-243   : word-{$s%SYM<root="$pc",lcat="punc">
+21:02:14:03:00:59[INFO ] load.pl-256   : Word Var-,Word-$s,Pos-SYM,Fs-<root="$pc",lcat="punc">
+21:02:14:03:00:59[INFO ] load.pl-243   : word-))
+21:02:14:03:00:59[INFO ] load.pl-273   : Headvalue:0 start 0 end 0
+21:02:14:03:00:59[INFO ] load.pl-283   : Parsing RHS
+21:02:14:03:00:59[INFO ] load.pl-303   : RHS:Chunk_tag-VGNF~
+21:02:14:03:00:59[INFO ] load.pl-307   : Value--1  2 VGNF 3  4  5 (( 6 {%VM<lcat="v",gend="m",num="sg",pers="3",tam="ina_vAdu">}+{$s%SYM<root="$pc",lcat="punc">}))
+21:02:14:03:00:59[INFO ] load.pl-345   : Word Var-,Word-,Pos-VM,Fs-<lcat="v",gend="m",num="sg",pers="3",tam="ina_vAdu">
+21:02:14:03:00:59[INFO ] load.pl-335   : Add child
+21:02:14:03:00:59[INFO ] load.pl-345   : Word Var-,Word-$s,Pos-SYM,Fs-<root="$pc",lcat="punc">
+21:02:14:03:00:59[INFO ] load.pl-389   : ###Number of Rules: 24,
+21:02:14:03:00:59[INFO ] load.pl-447   : Dropping:NP~
+21:02:14:03:00:59[INFO ] load.pl-497   : RULE:,R1228653: VGNF(({%VM<lcat="v",tam="ina">})) NP(({%PRP<root="Ayana",lcat="pn",gend="m",num="sg",pers="3">}{$s%SYM<root="$pc",lcat="punc">})) => VGNF(({%VM<lcat="v",gend="m",num="sg",pers="3",tam="ina_Ayana">}+{$s%SYM<root="$pc",lcat="punc">}))
+,
+21:02:14:03:00:59[INFO ] load.pl-204   : LHS::VGNF(({%VM<lcat="v",tam="ina">})) NP(({%PRP<root="Ayana",lcat="pn",gend="m",num="sg",pers="3">}{$s%SYM<root="$pc",lcat="punc">})) ::
+21:02:14:03:00:59[INFO ] load.pl-206   : Number of Chunks:VGNF(({%VM<lcat="v",tam="ina">})) NP(({%PRP<root="Ayana",lcat="pn",gend="m",num="sg",pers="3">}{$s%SYM<root="$pc",lcat="punc">}))
+21:02:14:03:00:59[INFO ] load.pl-229   : LHS:Chunk_tag--VGNF~
+21:02:14:03:00:59[INFO ] load.pl-230   : Value--{%VM<lcat="v",tam="ina">})) and ~
+21:02:14:03:00:59[INFO ] load.pl-243   : word-{%VM<lcat="v",tam="ina">
+21:02:14:03:00:59[INFO ] load.pl-256   : Word Var-,Word-,Pos-VM,Fs-<lcat="v",tam="ina">
+21:02:14:03:00:59[INFO ] load.pl-243   : word-))
+21:02:14:03:00:59[INFO ] load.pl-273   : Headvalue:0 start 0 end 0
+21:02:14:03:00:59[INFO ] load.pl-229   : LHS:Chunk_tag--NP~
+21:02:14:03:00:59[INFO ] load.pl-230   : Value--{%PRP<root="Ayana",lcat="pn",gend="m",num="sg",pers="3">}{$s%SYM<root="$pc",lcat="punc">})) and ~
+21:02:14:03:00:59[INFO ] load.pl-243   : word-{%PRP<root="Ayana",lcat="pn",gend="m",num="sg",pers="3">
+21:02:14:03:00:59[INFO ] load.pl-256   : Word Var-,Word-,Pos-PRP,Fs-<root="Ayana",lcat="pn",gend="m",num="sg",pers="3">
+21:02:14:03:00:59[INFO ] load.pl-243   : word-{$s%SYM<root="$pc",lcat="punc">
+21:02:14:03:00:59[INFO ] load.pl-256   : Word Var-,Word-$s,Pos-SYM,Fs-<root="$pc",lcat="punc">
+21:02:14:03:00:59[INFO ] load.pl-243   : word-))
+21:02:14:03:00:59[INFO ] load.pl-273   : Headvalue:0 start 0 end 0
+21:02:14:03:00:59[INFO ] load.pl-283   : Parsing RHS
+21:02:14:03:00:59[INFO ] load.pl-303   : RHS:Chunk_tag-VGNF~
+21:02:14:03:00:59[INFO ] load.pl-307   : Value--1  2 VGNF 3  4  5 (( 6 {%VM<lcat="v",gend="m",num="sg",pers="3",tam="ina_Ayana">}+{$s%SYM<root="$pc",lcat="punc">}))
+21:02:14:03:00:59[INFO ] load.pl-345   : Word Var-,Word-,Pos-VM,Fs-<lcat="v",gend="m",num="sg",pers="3",tam="ina_Ayana">
+21:02:14:03:00:59[INFO ] load.pl-335   : Add child
+21:02:14:03:00:59[INFO ] load.pl-345   : Word Var-,Word-$s,Pos-SYM,Fs-<root="$pc",lcat="punc">
+21:02:14:03:00:59[INFO ] load.pl-389   : ###Number of Rules: 25,
+21:02:14:03:00:59[INFO ] load.pl-447   : Dropping:NP~
+21:02:14:03:00:59[INFO ] load.pl-497   : RULE:,R1228654: VGNF(({%VM<lcat="v",tam="ina">})) NP(({%PRP<root="AmeV",lcat="pn",gend="f",num="sg",pers="3">}{$s%SYM<root="$pc",lcat="punc">})) => VGNF(({%VM<lcat="v",gend="f",num="sg",pers="3",tam="ina_AmeV">}+{$s%SYM<root="$pc",lcat="punc">}))
+,
+21:02:14:03:00:59[INFO ] load.pl-204   : LHS::VGNF(({%VM<lcat="v",tam="ina">})) NP(({%PRP<root="AmeV",lcat="pn",gend="f",num="sg",pers="3">}{$s%SYM<root="$pc",lcat="punc">})) ::
+21:02:14:03:00:59[INFO ] load.pl-206   : Number of Chunks:VGNF(({%VM<lcat="v",tam="ina">})) NP(({%PRP<root="AmeV",lcat="pn",gend="f",num="sg",pers="3">}{$s%SYM<root="$pc",lcat="punc">}))
+21:02:14:03:00:59[INFO ] load.pl-229   : LHS:Chunk_tag--VGNF~
+21:02:14:03:00:59[INFO ] load.pl-230   : Value--{%VM<lcat="v",tam="ina">})) and ~
+21:02:14:03:00:59[INFO ] load.pl-243   : word-{%VM<lcat="v",tam="ina">
+21:02:14:03:00:59[INFO ] load.pl-256   : Word Var-,Word-,Pos-VM,Fs-<lcat="v",tam="ina">
+21:02:14:03:00:59[INFO ] load.pl-243   : word-))
+21:02:14:03:00:59[INFO ] load.pl-273   : Headvalue:0 start 0 end 0
+21:02:14:03:00:59[INFO ] load.pl-229   : LHS:Chunk_tag--NP~
+21:02:14:03:00:59[INFO ] load.pl-230   : Value--{%PRP<root="AmeV",lcat="pn",gend="f",num="sg",pers="3">}{$s%SYM<root="$pc",lcat="punc">})) and ~
+21:02:14:03:00:59[INFO ] load.pl-243   : word-{%PRP<root="AmeV",lcat="pn",gend="f",num="sg",pers="3">
+21:02:14:03:00:59[INFO ] load.pl-256   : Word Var-,Word-,Pos-PRP,Fs-<root="AmeV",lcat="pn",gend="f",num="sg",pers="3">
+21:02:14:03:00:59[INFO ] load.pl-243   : word-{$s%SYM<root="$pc",lcat="punc">
+21:02:14:03:00:59[INFO ] load.pl-256   : Word Var-,Word-$s,Pos-SYM,Fs-<root="$pc",lcat="punc">
+21:02:14:03:00:59[INFO ] load.pl-243   : word-))
+21:02:14:03:00:59[INFO ] load.pl-273   : Headvalue:0 start 0 end 0
+21:02:14:03:00:59[INFO ] load.pl-283   : Parsing RHS
+21:02:14:03:00:59[INFO ] load.pl-303   : RHS:Chunk_tag-VGNF~
+21:02:14:03:00:59[INFO ] load.pl-307   : Value--1  2 VGNF 3  4  5 (( 6 {%VM<lcat="v",gend="f",num="sg",pers="3",tam="ina_AmeV">}+{$s%SYM<root="$pc",lcat="punc">}))
+21:02:14:03:00:59[INFO ] load.pl-345   : Word Var-,Word-,Pos-VM,Fs-<lcat="v",gend="f",num="sg",pers="3",tam="ina_AmeV">
+21:02:14:03:00:59[INFO ] load.pl-335   : Add child
+21:02:14:03:00:59[INFO ] load.pl-345   : Word Var-,Word-$s,Pos-SYM,Fs-<root="$pc",lcat="punc">
+21:02:14:03:00:59[INFO ] load.pl-389   : ###Number of Rules: 26,
+21:02:14:03:00:59[INFO ] load.pl-447   : Dropping:NP~
+21:02:14:03:00:59[INFO ] load.pl-497   : RULE:,R1228655: VGNF(({%VM<lcat="v",tam="e">})) NP(({%PRP<root="vAru",lcat="pn",gend="fm",num="pl",pers="3">}{$s%SYM<root="$pc",lcat="punc">})) => VGNF(({%VM<lcat="v",gend="fm",num="pl",pers="3",tam="e_vAru">}+{$s%SYM<root="$pc",lcat="punc">}))
+,
+21:02:14:03:00:59[INFO ] load.pl-204   : LHS::VGNF(({%VM<lcat="v",tam="e">})) NP(({%PRP<root="vAru",lcat="pn",gend="fm",num="pl",pers="3">}{$s%SYM<root="$pc",lcat="punc">})) ::
+21:02:14:03:00:59[INFO ] load.pl-206   : Number of Chunks:VGNF(({%VM<lcat="v",tam="e">})) NP(({%PRP<root="vAru",lcat="pn",gend="fm",num="pl",pers="3">}{$s%SYM<root="$pc",lcat="punc">}))
+21:02:14:03:00:59[INFO ] load.pl-229   : LHS:Chunk_tag--VGNF~
+21:02:14:03:00:59[INFO ] load.pl-230   : Value--{%VM<lcat="v",tam="e">})) and ~
+21:02:14:03:00:59[INFO ] load.pl-243   : word-{%VM<lcat="v",tam="e">
+21:02:14:03:00:59[INFO ] load.pl-256   : Word Var-,Word-,Pos-VM,Fs-<lcat="v",tam="e">
+21:02:14:03:00:59[INFO ] load.pl-243   : word-))
+21:02:14:03:00:59[INFO ] load.pl-273   : Headvalue:0 start 0 end 0
+21:02:14:03:00:59[INFO ] load.pl-229   : LHS:Chunk_tag--NP~
+21:02:14:03:00:59[INFO ] load.pl-230   : Value--{%PRP<root="vAru",lcat="pn",gend="fm",num="pl",pers="3">}{$s%SYM<root="$pc",lcat="punc">})) and ~
+21:02:14:03:00:59[INFO ] load.pl-243   : word-{%PRP<root="vAru",lcat="pn",gend="fm",num="pl",pers="3">
+21:02:14:03:00:59[INFO ] load.pl-256   : Word Var-,Word-,Pos-PRP,Fs-<root="vAru",lcat="pn",gend="fm",num="pl",pers="3">
+21:02:14:03:00:59[INFO ] load.pl-243   : word-{$s%SYM<root="$pc",lcat="punc">
+21:02:14:03:00:59[INFO ] load.pl-256   : Word Var-,Word-$s,Pos-SYM,Fs-<root="$pc",lcat="punc">
+21:02:14:03:00:59[INFO ] load.pl-243   : word-))
+21:02:14:03:00:59[INFO ] load.pl-273   : Headvalue:0 start 0 end 0
+21:02:14:03:00:59[INFO ] load.pl-283   : Parsing RHS
+21:02:14:03:00:59[INFO ] load.pl-303   : RHS:Chunk_tag-VGNF~
+21:02:14:03:00:59[INFO ] load.pl-307   : Value--1  2 VGNF 3  4  5 (( 6 {%VM<lcat="v",gend="fm",num="pl",pers="3",tam="e_vAru">}+{$s%SYM<root="$pc",lcat="punc">}))
+21:02:14:03:00:59[INFO ] load.pl-345   : Word Var-,Word-,Pos-VM,Fs-<lcat="v",gend="fm",num="pl",pers="3",tam="e_vAru">
+21:02:14:03:00:59[INFO ] load.pl-335   : Add child
+21:02:14:03:00:59[INFO ] load.pl-345   : Word Var-,Word-$s,Pos-SYM,Fs-<root="$pc",lcat="punc">
+21:02:14:03:00:59[INFO ] load.pl-389   : ###Number of Rules: 27,
+21:02:14:03:00:59[INFO ] load.pl-447   : Dropping:NP~
+21:02:14:03:00:59[INFO ] load.pl-497   : RULE:,R1228656: VGNF(({%VM<lcat="v",tam="e">})) NP(({%PRP<root="vAlYlu",lcat="pn",gend="fm",num="pl",pers="3">}{$s%SYM<root="$pc",lcat="punc">})) => VGNF(({%VM<lcat="v",gend="fm",num="pl",pers="3",tam="e_vAlYlu">}+{$s%SYM<root="$pc",lcat="punc">}))
+,
+21:02:14:03:00:59[INFO ] load.pl-204   : LHS::VGNF(({%VM<lcat="v",tam="e">})) NP(({%PRP<root="vAlYlu",lcat="pn",gend="fm",num="pl",pers="3">}{$s%SYM<root="$pc",lcat="punc">})) ::
+21:02:14:03:00:59[INFO ] load.pl-206   : Number of Chunks:VGNF(({%VM<lcat="v",tam="e">})) NP(({%PRP<root="vAlYlu",lcat="pn",gend="fm",num="pl",pers="3">}{$s%SYM<root="$pc",lcat="punc">}))
+21:02:14:03:00:59[INFO ] load.pl-229   : LHS:Chunk_tag--VGNF~
+21:02:14:03:00:59[INFO ] load.pl-230   : Value--{%VM<lcat="v",tam="e">})) and ~
+21:02:14:03:00:59[INFO ] load.pl-243   : word-{%VM<lcat="v",tam="e">
+21:02:14:03:00:59[INFO ] load.pl-256   : Word Var-,Word-,Pos-VM,Fs-<lcat="v",tam="e">
+21:02:14:03:00:59[INFO ] load.pl-243   : word-))
+21:02:14:03:00:59[INFO ] load.pl-273   : Headvalue:0 start 0 end 0
+21:02:14:03:00:59[INFO ] load.pl-229   : LHS:Chunk_tag--NP~
+21:02:14:03:00:59[INFO ] load.pl-230   : Value--{%PRP<root="vAlYlu",lcat="pn",gend="fm",num="pl",pers="3">}{$s%SYM<root="$pc",lcat="punc">})) and ~
+21:02:14:03:00:59[INFO ] load.pl-243   : word-{%PRP<root="vAlYlu",lcat="pn",gend="fm",num="pl",pers="3">
+21:02:14:03:00:59[INFO ] load.pl-256   : Word Var-,Word-,Pos-PRP,Fs-<root="vAlYlu",lcat="pn",gend="fm",num="pl",pers="3">
+21:02:14:03:00:59[INFO ] load.pl-243   : word-{$s%SYM<root="$pc",lcat="punc">
+21:02:14:03:00:59[INFO ] load.pl-256   : Word Var-,Word-$s,Pos-SYM,Fs-<root="$pc",lcat="punc">
+21:02:14:03:00:59[INFO ] load.pl-243   : word-))
+21:02:14:03:00:59[INFO ] load.pl-273   : Headvalue:0 start 0 end 0
+21:02:14:03:00:59[INFO ] load.pl-283   : Parsing RHS
+21:02:14:03:00:59[INFO ] load.pl-303   : RHS:Chunk_tag-VGNF~
+21:02:14:03:00:59[INFO ] load.pl-307   : Value--1  2 VGNF 3  4  5 (( 6 {%VM<lcat="v",gend="fm",num="pl",pers="3",tam="e_vAlYlu">}+{$s%SYM<root="$pc",lcat="punc">}))
+21:02:14:03:00:59[INFO ] load.pl-345   : Word Var-,Word-,Pos-VM,Fs-<lcat="v",gend="fm",num="pl",pers="3",tam="e_vAlYlu">
+21:02:14:03:00:59[INFO ] load.pl-335   : Add child
+21:02:14:03:00:59[INFO ] load.pl-345   : Word Var-,Word-$s,Pos-SYM,Fs-<root="$pc",lcat="punc">
+21:02:14:03:00:59[INFO ] load.pl-389   : ###Number of Rules: 28,
+21:02:14:03:00:59[INFO ] load.pl-447   : Dropping:NP~
+21:02:14:03:00:59[INFO ] load.pl-497   : RULE:,R1228657: VGNF(({%VM<lcat="v",tam="e">})) NP(({%PRP<root="vAdu",lcat="pn",gend="m",num="sg",pers="3">}{$s%SYM<root="$pc",lcat="punc">})) => VGNF(({%VM<lcat="v",gend="m",num="sg",pers="3",tam="e_vAdu">}+{$s%SYM<root="$pc",lcat="punc">}))
+,
+21:02:14:03:00:59[INFO ] load.pl-204   : LHS::VGNF(({%VM<lcat="v",tam="e">})) NP(({%PRP<root="vAdu",lcat="pn",gend="m",num="sg",pers="3">}{$s%SYM<root="$pc",lcat="punc">})) ::
+21:02:14:03:00:59[INFO ] load.pl-206   : Number of Chunks:VGNF(({%VM<lcat="v",tam="e">})) NP(({%PRP<root="vAdu",lcat="pn",gend="m",num="sg",pers="3">}{$s%SYM<root="$pc",lcat="punc">}))
+21:02:14:03:00:59[INFO ] load.pl-229   : LHS:Chunk_tag--VGNF~
+21:02:14:03:00:59[INFO ] load.pl-230   : Value--{%VM<lcat="v",tam="e">})) and ~
+21:02:14:03:00:59[INFO ] load.pl-243   : word-{%VM<lcat="v",tam="e">
+21:02:14:03:00:59[INFO ] load.pl-256   : Word Var-,Word-,Pos-VM,Fs-<lcat="v",tam="e">
+21:02:14:03:00:59[INFO ] load.pl-243   : word-))
+21:02:14:03:00:59[INFO ] load.pl-273   : Headvalue:0 start 0 end 0
+21:02:14:03:00:59[INFO ] load.pl-229   : LHS:Chunk_tag--NP~
+21:02:14:03:00:59[INFO ] load.pl-230   : Value--{%PRP<root="vAdu",lcat="pn",gend="m",num="sg",pers="3">}{$s%SYM<root="$pc",lcat="punc">})) and ~
+21:02:14:03:00:59[INFO ] load.pl-243   : word-{%PRP<root="vAdu",lcat="pn",gend="m",num="sg",pers="3">
+21:02:14:03:00:59[INFO ] load.pl-256   : Word Var-,Word-,Pos-PRP,Fs-<root="vAdu",lcat="pn",gend="m",num="sg",pers="3">
+21:02:14:03:00:59[INFO ] load.pl-243   : word-{$s%SYM<root="$pc",lcat="punc">
+21:02:14:03:00:59[INFO ] load.pl-256   : Word Var-,Word-$s,Pos-SYM,Fs-<root="$pc",lcat="punc">
+21:02:14:03:00:59[INFO ] load.pl-243   : word-))
+21:02:14:03:00:59[INFO ] load.pl-273   : Headvalue:0 start 0 end 0
+21:02:14:03:00:59[INFO ] load.pl-283   : Parsing RHS
+21:02:14:03:00:59[INFO ] load.pl-303   : RHS:Chunk_tag-VGNF~
+21:02:14:03:00:59[INFO ] load.pl-307   : Value--1  2 VGNF 3  4  5 (( 6 {%VM<lcat="v",gend="m",num="sg",pers="3",tam="e_vAdu">}+{$s%SYM<root="$pc",lcat="punc">}))
+21:02:14:03:00:59[INFO ] load.pl-345   : Word Var-,Word-,Pos-VM,Fs-<lcat="v",gend="m",num="sg",pers="3",tam="e_vAdu">
+21:02:14:03:00:59[INFO ] load.pl-335   : Add child
+21:02:14:03:00:59[INFO ] load.pl-345   : Word Var-,Word-$s,Pos-SYM,Fs-<root="$pc",lcat="punc">
+21:02:14:03:00:59[INFO ] load.pl-389   : ###Number of Rules: 29,
+21:02:14:03:00:59[INFO ] load.pl-447   : Dropping:NP~
+21:02:14:03:00:59[INFO ] load.pl-497   : RULE:,R1228658: VGNF(({%VM<lcat="v",tam="e">})) NP(({%PRP<root="Ayana",lcat="pn",gend="m",num="sg",pers="3">}{$s%SYM<root="$pc",lcat="punc">})) => VGNF(({%VM<lcat="v",gend="m",num="sg",pers="3",tam="e_Ayana">}+{$s%SYM<root="$pc",lcat="punc">}))
+,
+21:02:14:03:00:59[INFO ] load.pl-204   : LHS::VGNF(({%VM<lcat="v",tam="e">})) NP(({%PRP<root="Ayana",lcat="pn",gend="m",num="sg",pers="3">}{$s%SYM<root="$pc",lcat="punc">})) ::
+21:02:14:03:00:59[INFO ] load.pl-206   : Number of Chunks:VGNF(({%VM<lcat="v",tam="e">})) NP(({%PRP<root="Ayana",lcat="pn",gend="m",num="sg",pers="3">}{$s%SYM<root="$pc",lcat="punc">}))
+21:02:14:03:00:59[INFO ] load.pl-229   : LHS:Chunk_tag--VGNF~
+21:02:14:03:00:59[INFO ] load.pl-230   : Value--{%VM<lcat="v",tam="e">})) and ~
+21:02:14:03:00:59[INFO ] load.pl-243   : word-{%VM<lcat="v",tam="e">
+21:02:14:03:00:59[INFO ] load.pl-256   : Word Var-,Word-,Pos-VM,Fs-<lcat="v",tam="e">
+21:02:14:03:00:59[INFO ] load.pl-243   : word-))
+21:02:14:03:00:59[INFO ] load.pl-273   : Headvalue:0 start 0 end 0
+21:02:14:03:00:59[INFO ] load.pl-229   : LHS:Chunk_tag--NP~
+21:02:14:03:00:59[INFO ] load.pl-230   : Value--{%PRP<root="Ayana",lcat="pn",gend="m",num="sg",pers="3">}{$s%SYM<root="$pc",lcat="punc">})) and ~
+21:02:14:03:00:59[INFO ] load.pl-243   : word-{%PRP<root="Ayana",lcat="pn",gend="m",num="sg",pers="3">
+21:02:14:03:00:59[INFO ] load.pl-256   : Word Var-,Word-,Pos-PRP,Fs-<root="Ayana",lcat="pn",gend="m",num="sg",pers="3">
+21:02:14:03:00:59[INFO ] load.pl-243   : word-{$s%SYM<root="$pc",lcat="punc">
+21:02:14:03:00:59[INFO ] load.pl-256   : Word Var-,Word-$s,Pos-SYM,Fs-<root="$pc",lcat="punc">
+21:02:14:03:00:59[INFO ] load.pl-243   : word-))
+21:02:14:03:00:59[INFO ] load.pl-273   : Headvalue:0 start 0 end 0
+21:02:14:03:00:59[INFO ] load.pl-283   : Parsing RHS
+21:02:14:03:00:59[INFO ] load.pl-303   : RHS:Chunk_tag-VGNF~
+21:02:14:03:00:59[INFO ] load.pl-307   : Value--1  2 VGNF 3  4  5 (( 6 {%VM<lcat="v",gend="m",num="sg",pers="3",tam="e_Ayana">}+{$s%SYM<root="$pc",lcat="punc">}))
+21:02:14:03:00:59[INFO ] load.pl-345   : Word Var-,Word-,Pos-VM,Fs-<lcat="v",gend="m",num="sg",pers="3",tam="e_Ayana">
+21:02:14:03:00:59[INFO ] load.pl-335   : Add child
+21:02:14:03:00:59[INFO ] load.pl-345   : Word Var-,Word-$s,Pos-SYM,Fs-<root="$pc",lcat="punc">
+21:02:14:03:00:59[INFO ] load.pl-389   : ###Number of Rules: 30,
+21:02:14:03:00:59[INFO ] load.pl-447   : Dropping:NP~
+21:02:14:03:00:59[INFO ] load.pl-497   : RULE:,R1228659: VGNF(({%VM<lcat="v",tam="e">})) NP(({%PRP<root="AmeV",lcat="pn",gend="f",num="sg",pers="3">}{$s%SYM<root="$pc",lcat="punc">})) => VGNF(({%VM<lcat="v",gend="f",num="sg",pers="3",tam="e_AmeV">}+{$s%SYM<root="$pc",lcat="punc">}))
+,
+21:02:14:03:00:59[INFO ] load.pl-204   : LHS::VGNF(({%VM<lcat="v",tam="e">})) NP(({%PRP<root="AmeV",lcat="pn",gend="f",num="sg",pers="3">}{$s%SYM<root="$pc",lcat="punc">})) ::
+21:02:14:03:00:59[INFO ] load.pl-206   : Number of Chunks:VGNF(({%VM<lcat="v",tam="e">})) NP(({%PRP<root="AmeV",lcat="pn",gend="f",num="sg",pers="3">}{$s%SYM<root="$pc",lcat="punc">}))
+21:02:14:03:00:59[INFO ] load.pl-229   : LHS:Chunk_tag--VGNF~
+21:02:14:03:00:59[INFO ] load.pl-230   : Value--{%VM<lcat="v",tam="e">})) and ~
+21:02:14:03:00:59[INFO ] load.pl-243   : word-{%VM<lcat="v",tam="e">
+21:02:14:03:00:59[INFO ] load.pl-256   : Word Var-,Word-,Pos-VM,Fs-<lcat="v",tam="e">
+21:02:14:03:00:59[INFO ] load.pl-243   : word-))
+21:02:14:03:00:59[INFO ] load.pl-273   : Headvalue:0 start 0 end 0
+21:02:14:03:00:59[INFO ] load.pl-229   : LHS:Chunk_tag--NP~
+21:02:14:03:00:59[INFO ] load.pl-230   : Value--{%PRP<root="AmeV",lcat="pn",gend="f",num="sg",pers="3">}{$s%SYM<root="$pc",lcat="punc">})) and ~
+21:02:14:03:00:59[INFO ] load.pl-243   : word-{%PRP<root="AmeV",lcat="pn",gend="f",num="sg",pers="3">
+21:02:14:03:00:59[INFO ] load.pl-256   : Word Var-,Word-,Pos-PRP,Fs-<root="AmeV",lcat="pn",gend="f",num="sg",pers="3">
+21:02:14:03:00:59[INFO ] load.pl-243   : word-{$s%SYM<root="$pc",lcat="punc">
+21:02:14:03:00:59[INFO ] load.pl-256   : Word Var-,Word-$s,Pos-SYM,Fs-<root="$pc",lcat="punc">
+21:02:14:03:00:59[INFO ] load.pl-243   : word-))
+21:02:14:03:00:59[INFO ] load.pl-273   : Headvalue:0 start 0 end 0
+21:02:14:03:00:59[INFO ] load.pl-283   : Parsing RHS
+21:02:14:03:00:59[INFO ] load.pl-303   : RHS:Chunk_tag-VGNF~
+21:02:14:03:00:59[INFO ] load.pl-307   : Value--1  2 VGNF 3  4  5 (( 6 {%VM<lcat="v",gend="f",num="sg",pers="3",tam="e_AmeV">}+{$s%SYM<root="$pc",lcat="punc">}))
+21:02:14:03:00:59[INFO ] load.pl-345   : Word Var-,Word-,Pos-VM,Fs-<lcat="v",gend="f",num="sg",pers="3",tam="e_AmeV">
+21:02:14:03:00:59[INFO ] load.pl-335   : Add child
+21:02:14:03:00:59[INFO ] load.pl-345   : Word Var-,Word-$s,Pos-SYM,Fs-<root="$pc",lcat="punc">
+21:02:14:03:00:59[INFO ] load.pl-389   : ###Number of Rules: 31,
+21:02:14:03:00:59[INFO ] load.pl-447   : Dropping:NP~
+21:02:14:03:00:59[INFO ] load.pl-497   : RULE:,R1228661: VGNF(({%VM<lcat="v",tam="ani">})) NP(({%PRP<root="vAlYlu",lcat="pn",gend="fm",num="pl",pers="3">}{$s%SYM<root="$pc",lcat="punc">})) => VGNF(({%VM<lcat="v",gend="fm",num="pl",pers="3",tam="ani_vAlYlu">}+{$s%SYM<root="$pc",lcat="punc">}))
+,
+21:02:14:03:00:59[INFO ] load.pl-204   : LHS::VGNF(({%VM<lcat="v",tam="ani">})) NP(({%PRP<root="vAlYlu",lcat="pn",gend="fm",num="pl",pers="3">}{$s%SYM<root="$pc",lcat="punc">})) ::
+21:02:14:03:00:59[INFO ] load.pl-206   : Number of Chunks:VGNF(({%VM<lcat="v",tam="ani">})) NP(({%PRP<root="vAlYlu",lcat="pn",gend="fm",num="pl",pers="3">}{$s%SYM<root="$pc",lcat="punc">}))
+21:02:14:03:00:59[INFO ] load.pl-229   : LHS:Chunk_tag--VGNF~
+21:02:14:03:00:59[INFO ] load.pl-230   : Value--{%VM<lcat="v",tam="ani">})) and ~
+21:02:14:03:00:59[INFO ] load.pl-243   : word-{%VM<lcat="v",tam="ani">
+21:02:14:03:00:59[INFO ] load.pl-256   : Word Var-,Word-,Pos-VM,Fs-<lcat="v",tam="ani">
+21:02:14:03:00:59[INFO ] load.pl-243   : word-))
+21:02:14:03:00:59[INFO ] load.pl-273   : Headvalue:0 start 0 end 0
+21:02:14:03:00:59[INFO ] load.pl-229   : LHS:Chunk_tag--NP~
+21:02:14:03:00:59[INFO ] load.pl-230   : Value--{%PRP<root="vAlYlu",lcat="pn",gend="fm",num="pl",pers="3">}{$s%SYM<root="$pc",lcat="punc">})) and ~
+21:02:14:03:00:59[INFO ] load.pl-243   : word-{%PRP<root="vAlYlu",lcat="pn",gend="fm",num="pl",pers="3">
+21:02:14:03:00:59[INFO ] load.pl-256   : Word Var-,Word-,Pos-PRP,Fs-<root="vAlYlu",lcat="pn",gend="fm",num="pl",pers="3">
+21:02:14:03:00:59[INFO ] load.pl-243   : word-{$s%SYM<root="$pc",lcat="punc">
+21:02:14:03:00:59[INFO ] load.pl-256   : Word Var-,Word-$s,Pos-SYM,Fs-<root="$pc",lcat="punc">
+21:02:14:03:00:59[INFO ] load.pl-243   : word-))
+21:02:14:03:00:59[INFO ] load.pl-273   : Headvalue:0 start 0 end 0
+21:02:14:03:00:59[INFO ] load.pl-283   : Parsing RHS
+21:02:14:03:00:59[INFO ] load.pl-303   : RHS:Chunk_tag-VGNF~
+21:02:14:03:00:59[INFO ] load.pl-307   : Value--1  2 VGNF 3  4  5 (( 6 {%VM<lcat="v",gend="fm",num="pl",pers="3",tam="ani_vAlYlu">}+{$s%SYM<root="$pc",lcat="punc">}))
+21:02:14:03:00:59[INFO ] load.pl-345   : Word Var-,Word-,Pos-VM,Fs-<lcat="v",gend="fm",num="pl",pers="3",tam="ani_vAlYlu">
+21:02:14:03:00:59[INFO ] load.pl-335   : Add child
+21:02:14:03:00:59[INFO ] load.pl-345   : Word Var-,Word-$s,Pos-SYM,Fs-<root="$pc",lcat="punc">
+21:02:14:03:00:59[INFO ] load.pl-389   : ###Number of Rules: 32,
+21:02:14:03:00:59[INFO ] load.pl-447   : Dropping:NP~
+21:02:14:03:00:59[INFO ] load.pl-497   : RULE:,R1228662: VGNF(({%VM<lcat="v",tam="ani">})) NP(({%PRP<root="vAdu",lcat="pn",gend="m",num="sg",pers="3">}{$s%SYM<root="$pc",lcat="punc">})) => VGNF(({%VM<lcat="v",gend="m",num="sg",pers="3",tam="ani_vAdu">}+{$s%SYM<root="$pc",lcat="punc">}))
+,
+21:02:14:03:00:59[INFO ] load.pl-204   : LHS::VGNF(({%VM<lcat="v",tam="ani">})) NP(({%PRP<root="vAdu",lcat="pn",gend="m",num="sg",pers="3">}{$s%SYM<root="$pc",lcat="punc">})) ::
+21:02:14:03:00:59[INFO ] load.pl-206   : Number of Chunks:VGNF(({%VM<lcat="v",tam="ani">})) NP(({%PRP<root="vAdu",lcat="pn",gend="m",num="sg",pers="3">}{$s%SYM<root="$pc",lcat="punc">}))
+21:02:14:03:00:59[INFO ] load.pl-229   : LHS:Chunk_tag--VGNF~
+21:02:14:03:00:59[INFO ] load.pl-230   : Value--{%VM<lcat="v",tam="ani">})) and ~
+21:02:14:03:00:59[INFO ] load.pl-243   : word-{%VM<lcat="v",tam="ani">
+21:02:14:03:00:59[INFO ] load.pl-256   : Word Var-,Word-,Pos-VM,Fs-<lcat="v",tam="ani">
+21:02:14:03:00:59[INFO ] load.pl-243   : word-))
+21:02:14:03:00:59[INFO ] load.pl-273   : Headvalue:0 start 0 end 0
+21:02:14:03:00:59[INFO ] load.pl-229   : LHS:Chunk_tag--NP~
+21:02:14:03:00:59[INFO ] load.pl-230   : Value--{%PRP<root="vAdu",lcat="pn",gend="m",num="sg",pers="3">}{$s%SYM<root="$pc",lcat="punc">})) and ~
+21:02:14:03:00:59[INFO ] load.pl-243   : word-{%PRP<root="vAdu",lcat="pn",gend="m",num="sg",pers="3">
+21:02:14:03:00:59[INFO ] load.pl-256   : Word Var-,Word-,Pos-PRP,Fs-<root="vAdu",lcat="pn",gend="m",num="sg",pers="3">
+21:02:14:03:00:59[INFO ] load.pl-243   : word-{$s%SYM<root="$pc",lcat="punc">
+21:02:14:03:00:59[INFO ] load.pl-256   : Word Var-,Word-$s,Pos-SYM,Fs-<root="$pc",lcat="punc">
+21:02:14:03:00:59[INFO ] load.pl-243   : word-))
+21:02:14:03:00:59[INFO ] load.pl-273   : Headvalue:0 start 0 end 0
+21:02:14:03:00:59[INFO ] load.pl-283   : Parsing RHS
+21:02:14:03:00:59[INFO ] load.pl-303   : RHS:Chunk_tag-VGNF~
+21:02:14:03:00:59[INFO ] load.pl-307   : Value--1  2 VGNF 3  4  5 (( 6 {%VM<lcat="v",gend="m",num="sg",pers="3",tam="ani_vAdu">}+{$s%SYM<root="$pc",lcat="punc">}))
+21:02:14:03:00:59[INFO ] load.pl-345   : Word Var-,Word-,Pos-VM,Fs-<lcat="v",gend="m",num="sg",pers="3",tam="ani_vAdu">
+21:02:14:03:00:59[INFO ] load.pl-335   : Add child
+21:02:14:03:00:59[INFO ] load.pl-345   : Word Var-,Word-$s,Pos-SYM,Fs-<root="$pc",lcat="punc">
+21:02:14:03:00:59[INFO ] load.pl-389   : ###Number of Rules: 33,
+21:02:14:03:00:59[INFO ] load.pl-447   : Dropping:NP~
+21:02:14:03:00:59[INFO ] load.pl-497   : RULE:,R1228663: VGNF(({%VM<lcat="v",tam="ani">})) NP(({%PRP<root="Ayana",lcat="pn",gend="m",num="sg",pers="3">}{$s%SYM<root="$pc",lcat="punc">})) => VGNF(({%VM<lcat="v",gend="m",num="sg",pers="3",tam="ani_Ayana">}+{$s%SYM<root="$pc",lcat="punc">}))
+,
+21:02:14:03:00:59[INFO ] load.pl-204   : LHS::VGNF(({%VM<lcat="v",tam="ani">})) NP(({%PRP<root="Ayana",lcat="pn",gend="m",num="sg",pers="3">}{$s%SYM<root="$pc",lcat="punc">})) ::
+21:02:14:03:00:59[INFO ] load.pl-206   : Number of Chunks:VGNF(({%VM<lcat="v",tam="ani">})) NP(({%PRP<root="Ayana",lcat="pn",gend="m",num="sg",pers="3">}{$s%SYM<root="$pc",lcat="punc">}))
+21:02:14:03:00:59[INFO ] load.pl-229   : LHS:Chunk_tag--VGNF~
+21:02:14:03:00:59[INFO ] load.pl-230   : Value--{%VM<lcat="v",tam="ani">})) and ~
+21:02:14:03:00:59[INFO ] load.pl-243   : word-{%VM<lcat="v",tam="ani">
+21:02:14:03:00:59[INFO ] load.pl-256   : Word Var-,Word-,Pos-VM,Fs-<lcat="v",tam="ani">
+21:02:14:03:00:59[INFO ] load.pl-243   : word-))
+21:02:14:03:00:59[INFO ] load.pl-273   : Headvalue:0 start 0 end 0
+21:02:14:03:00:59[INFO ] load.pl-229   : LHS:Chunk_tag--NP~
+21:02:14:03:00:59[INFO ] load.pl-230   : Value--{%PRP<root="Ayana",lcat="pn",gend="m",num="sg",pers="3">}{$s%SYM<root="$pc",lcat="punc">})) and ~
+21:02:14:03:00:59[INFO ] load.pl-243   : word-{%PRP<root="Ayana",lcat="pn",gend="m",num="sg",pers="3">
+21:02:14:03:00:59[INFO ] load.pl-256   : Word Var-,Word-,Pos-PRP,Fs-<root="Ayana",lcat="pn",gend="m",num="sg",pers="3">
+21:02:14:03:00:59[INFO ] load.pl-243   : word-{$s%SYM<root="$pc",lcat="punc">
+21:02:14:03:00:59[INFO ] load.pl-256   : Word Var-,Word-$s,Pos-SYM,Fs-<root="$pc",lcat="punc">
+21:02:14:03:00:59[INFO ] load.pl-243   : word-))
+21:02:14:03:00:59[INFO ] load.pl-273   : Headvalue:0 start 0 end 0
+21:02:14:03:00:59[INFO ] load.pl-283   : Parsing RHS
+21:02:14:03:00:59[INFO ] load.pl-303   : RHS:Chunk_tag-VGNF~
+21:02:14:03:00:59[INFO ] load.pl-307   : Value--1  2 VGNF 3  4  5 (( 6 {%VM<lcat="v",gend="m",num="sg",pers="3",tam="ani_Ayana">}+{$s%SYM<root="$pc",lcat="punc">}))
+21:02:14:03:00:59[INFO ] load.pl-345   : Word Var-,Word-,Pos-VM,Fs-<lcat="v",gend="m",num="sg",pers="3",tam="ani_Ayana">
+21:02:14:03:00:59[INFO ] load.pl-335   : Add child
+21:02:14:03:00:59[INFO ] load.pl-345   : Word Var-,Word-$s,Pos-SYM,Fs-<root="$pc",lcat="punc">
+21:02:14:03:00:59[INFO ] load.pl-389   : ###Number of Rules: 34,
+21:02:14:03:00:59[INFO ] load.pl-447   : Dropping:NP~
+21:02:14:03:00:59[INFO ] load.pl-497   : RULE:,R1228664: VGNF(({%VM<lcat="v",tam="ani">})) NP(({%PRP<root="AmeV",lcat="pn",gend="f",num="sg",pers="3">}{$s%SYM<root="$pc",lcat="punc">})) => VGNF(({%VM<lcat="v",gend="f",num="sg",pers="3",tam="ani_AmeV">}+{$s%SYM<root="$pc",lcat="punc">}))
+,
+21:02:14:03:00:59[INFO ] load.pl-204   : LHS::VGNF(({%VM<lcat="v",tam="ani">})) NP(({%PRP<root="AmeV",lcat="pn",gend="f",num="sg",pers="3">}{$s%SYM<root="$pc",lcat="punc">})) ::
+21:02:14:03:00:59[INFO ] load.pl-206   : Number of Chunks:VGNF(({%VM<lcat="v",tam="ani">})) NP(({%PRP<root="AmeV",lcat="pn",gend="f",num="sg",pers="3">}{$s%SYM<root="$pc",lcat="punc">}))
+21:02:14:03:00:59[INFO ] load.pl-229   : LHS:Chunk_tag--VGNF~
+21:02:14:03:00:59[INFO ] load.pl-230   : Value--{%VM<lcat="v",tam="ani">})) and ~
+21:02:14:03:00:59[INFO ] load.pl-243   : word-{%VM<lcat="v",tam="ani">
+21:02:14:03:00:59[INFO ] load.pl-256   : Word Var-,Word-,Pos-VM,Fs-<lcat="v",tam="ani">
+21:02:14:03:00:59[INFO ] load.pl-243   : word-))
+21:02:14:03:00:59[INFO ] load.pl-273   : Headvalue:0 start 0 end 0
+21:02:14:03:00:59[INFO ] load.pl-229   : LHS:Chunk_tag--NP~
+21:02:14:03:00:59[INFO ] load.pl-230   : Value--{%PRP<root="AmeV",lcat="pn",gend="f",num="sg",pers="3">}{$s%SYM<root="$pc",lcat="punc">})) and ~
+21:02:14:03:00:59[INFO ] load.pl-243   : word-{%PRP<root="AmeV",lcat="pn",gend="f",num="sg",pers="3">
+21:02:14:03:00:59[INFO ] load.pl-256   : Word Var-,Word-,Pos-PRP,Fs-<root="AmeV",lcat="pn",gend="f",num="sg",pers="3">
+21:02:14:03:00:59[INFO ] load.pl-243   : word-{$s%SYM<root="$pc",lcat="punc">
+21:02:14:03:00:59[INFO ] load.pl-256   : Word Var-,Word-$s,Pos-SYM,Fs-<root="$pc",lcat="punc">
+21:02:14:03:00:59[INFO ] load.pl-243   : word-))
+21:02:14:03:00:59[INFO ] load.pl-273   : Headvalue:0 start 0 end 0
+21:02:14:03:00:59[INFO ] load.pl-283   : Parsing RHS
+21:02:14:03:00:59[INFO ] load.pl-303   : RHS:Chunk_tag-VGNF~
+21:02:14:03:00:59[INFO ] load.pl-307   : Value--1  2 VGNF 3  4  5 (( 6 {%VM<lcat="v",gend="f",num="sg",pers="3",tam="ani_AmeV">}+{$s%SYM<root="$pc",lcat="punc">}))
+21:02:14:03:00:59[INFO ] load.pl-345   : Word Var-,Word-,Pos-VM,Fs-<lcat="v",gend="f",num="sg",pers="3",tam="ani_AmeV">
+21:02:14:03:00:59[INFO ] load.pl-335   : Add child
+21:02:14:03:00:59[INFO ] load.pl-345   : Word Var-,Word-$s,Pos-SYM,Fs-<root="$pc",lcat="punc">
+21:02:14:03:00:59[INFO ] load.pl-389   : ###Number of Rules: 35,
+21:02:14:03:00:59[INFO ] load.pl-447   : Dropping:NP~
+21:02:14:03:00:59[INFO ] load.pl-497   : RULE:,R1228671: VGNF(({%VM<lcat="v",tam="wunna">})) NP(({%PRP<root="vAlYlu",lcat="pn",gend="fm",num="pl",pers="3">}{$s%SYM<root="$pc",lcat="punc">})) => VGNF(({%VM<lcat="v",gend="fm",num="pl",pers="3",tam="wunna_vAlYlu">}+{$s%SYM<root="$pc",lcat="punc">}))
+,
+21:02:14:03:00:59[INFO ] load.pl-204   : LHS::VGNF(({%VM<lcat="v",tam="wunna">})) NP(({%PRP<root="vAlYlu",lcat="pn",gend="fm",num="pl",pers="3">}{$s%SYM<root="$pc",lcat="punc">})) ::
+21:02:14:03:00:59[INFO ] load.pl-206   : Number of Chunks:VGNF(({%VM<lcat="v",tam="wunna">})) NP(({%PRP<root="vAlYlu",lcat="pn",gend="fm",num="pl",pers="3">}{$s%SYM<root="$pc",lcat="punc">}))
+21:02:14:03:00:59[INFO ] load.pl-229   : LHS:Chunk_tag--VGNF~
+21:02:14:03:00:59[INFO ] load.pl-230   : Value--{%VM<lcat="v",tam="wunna">})) and ~
+21:02:14:03:00:59[INFO ] load.pl-243   : word-{%VM<lcat="v",tam="wunna">
+21:02:14:03:00:59[INFO ] load.pl-256   : Word Var-,Word-,Pos-VM,Fs-<lcat="v",tam="wunna">
+21:02:14:03:00:59[INFO ] load.pl-243   : word-))
+21:02:14:03:00:59[INFO ] load.pl-273   : Headvalue:0 start 0 end 0
+21:02:14:03:00:59[INFO ] load.pl-229   : LHS:Chunk_tag--NP~
+21:02:14:03:00:59[INFO ] load.pl-230   : Value--{%PRP<root="vAlYlu",lcat="pn",gend="fm",num="pl",pers="3">}{$s%SYM<root="$pc",lcat="punc">})) and ~
+21:02:14:03:00:59[INFO ] load.pl-243   : word-{%PRP<root="vAlYlu",lcat="pn",gend="fm",num="pl",pers="3">
+21:02:14:03:00:59[INFO ] load.pl-256   : Word Var-,Word-,Pos-PRP,Fs-<root="vAlYlu",lcat="pn",gend="fm",num="pl",pers="3">
+21:02:14:03:00:59[INFO ] load.pl-243   : word-{$s%SYM<root="$pc",lcat="punc">
+21:02:14:03:00:59[INFO ] load.pl-256   : Word Var-,Word-$s,Pos-SYM,Fs-<root="$pc",lcat="punc">
+21:02:14:03:00:59[INFO ] load.pl-243   : word-))
+21:02:14:03:00:59[INFO ] load.pl-273   : Headvalue:0 start 0 end 0
+21:02:14:03:00:59[INFO ] load.pl-283   : Parsing RHS
+21:02:14:03:00:59[INFO ] load.pl-303   : RHS:Chunk_tag-VGNF~
+21:02:14:03:00:59[INFO ] load.pl-307   : Value--1  2 VGNF 3  4  5 (( 6 {%VM<lcat="v",gend="fm",num="pl",pers="3",tam="wunna_vAlYlu">}+{$s%SYM<root="$pc",lcat="punc">}))
+21:02:14:03:00:59[INFO ] load.pl-345   : Word Var-,Word-,Pos-VM,Fs-<lcat="v",gend="fm",num="pl",pers="3",tam="wunna_vAlYlu">
+21:02:14:03:00:59[INFO ] load.pl-335   : Add child
+21:02:14:03:00:59[INFO ] load.pl-345   : Word Var-,Word-$s,Pos-SYM,Fs-<root="$pc",lcat="punc">
+21:02:14:03:00:59[INFO ] load.pl-389   : ###Number of Rules: 36,
+21:02:14:03:00:59[INFO ] load.pl-447   : Dropping:NP~
+21:02:14:03:00:59[INFO ] load.pl-497   : RULE:,R1228672: VGNF(({%VM<lcat="v",tam="wunna">})) NP(({%PRP<root="vAdu",lcat="pn",gend="m",num="sg",pers="3">}{$s%SYM<root="$pc",lcat="punc">})) => VGNF(({%VM<lcat="v",gend="m",num="sg",pers="3",tam="wunna_vAdu">}+{$s%SYM<root="$pc",lcat="punc">}))
+,
+21:02:14:03:00:59[INFO ] load.pl-204   : LHS::VGNF(({%VM<lcat="v",tam="wunna">})) NP(({%PRP<root="vAdu",lcat="pn",gend="m",num="sg",pers="3">}{$s%SYM<root="$pc",lcat="punc">})) ::
+21:02:14:03:00:59[INFO ] load.pl-206   : Number of Chunks:VGNF(({%VM<lcat="v",tam="wunna">})) NP(({%PRP<root="vAdu",lcat="pn",gend="m",num="sg",pers="3">}{$s%SYM<root="$pc",lcat="punc">}))
+21:02:14:03:00:59[INFO ] load.pl-229   : LHS:Chunk_tag--VGNF~
+21:02:14:03:00:59[INFO ] load.pl-230   : Value--{%VM<lcat="v",tam="wunna">})) and ~
+21:02:14:03:00:59[INFO ] load.pl-243   : word-{%VM<lcat="v",tam="wunna">
+21:02:14:03:00:59[INFO ] load.pl-256   : Word Var-,Word-,Pos-VM,Fs-<lcat="v",tam="wunna">
+21:02:14:03:00:59[INFO ] load.pl-243   : word-))
+21:02:14:03:00:59[INFO ] load.pl-273   : Headvalue:0 start 0 end 0
+21:02:14:03:00:59[INFO ] load.pl-229   : LHS:Chunk_tag--NP~
+21:02:14:03:00:59[INFO ] load.pl-230   : Value--{%PRP<root="vAdu",lcat="pn",gend="m",num="sg",pers="3">}{$s%SYM<root="$pc",lcat="punc">})) and ~
+21:02:14:03:00:59[INFO ] load.pl-243   : word-{%PRP<root="vAdu",lcat="pn",gend="m",num="sg",pers="3">
+21:02:14:03:00:59[INFO ] load.pl-256   : Word Var-,Word-,Pos-PRP,Fs-<root="vAdu",lcat="pn",gend="m",num="sg",pers="3">
+21:02:14:03:00:59[INFO ] load.pl-243   : word-{$s%SYM<root="$pc",lcat="punc">
+21:02:14:03:00:59[INFO ] load.pl-256   : Word Var-,Word-$s,Pos-SYM,Fs-<root="$pc",lcat="punc">
+21:02:14:03:00:59[INFO ] load.pl-243   : word-))
+21:02:14:03:00:59[INFO ] load.pl-273   : Headvalue:0 start 0 end 0
+21:02:14:03:00:59[INFO ] load.pl-283   : Parsing RHS
+21:02:14:03:00:59[INFO ] load.pl-303   : RHS:Chunk_tag-VGNF~
+21:02:14:03:00:59[INFO ] load.pl-307   : Value--1  2 VGNF 3  4  5 (( 6 {%VM<lcat="v",gend="m",num="sg",pers="3",tam="wunna_vAdu">}+{$s%SYM<root="$pc",lcat="punc">}))
+21:02:14:03:00:59[INFO ] load.pl-345   : Word Var-,Word-,Pos-VM,Fs-<lcat="v",gend="m",num="sg",pers="3",tam="wunna_vAdu">
+21:02:14:03:00:59[INFO ] load.pl-335   : Add child
+21:02:14:03:00:59[INFO ] load.pl-345   : Word Var-,Word-$s,Pos-SYM,Fs-<root="$pc",lcat="punc">
+21:02:14:03:00:59[INFO ] load.pl-389   : ###Number of Rules: 37,
+21:02:14:03:00:59[INFO ] load.pl-447   : Dropping:NP~
+21:02:14:03:00:59[INFO ] load.pl-497   : RULE:,R1228673: VGNF(({%VM<lcat="v",tam="wunna">})) NP(({%PRP<root="Ayana",lcat="pn",gend="m",num="sg",pers="3">}{$s%SYM<root="$pc",lcat="punc">})) => VGNF(({%VM<lcat="v",gend="m",num="sg",pers="3",tam="wunna_Ayana">}+{$s%SYM<root="$pc",lcat="punc">}))
+,
+21:02:14:03:00:59[INFO ] load.pl-204   : LHS::VGNF(({%VM<lcat="v",tam="wunna">})) NP(({%PRP<root="Ayana",lcat="pn",gend="m",num="sg",pers="3">}{$s%SYM<root="$pc",lcat="punc">})) ::
+21:02:14:03:00:59[INFO ] load.pl-206   : Number of Chunks:VGNF(({%VM<lcat="v",tam="wunna">})) NP(({%PRP<root="Ayana",lcat="pn",gend="m",num="sg",pers="3">}{$s%SYM<root="$pc",lcat="punc">}))
+21:02:14:03:00:59[INFO ] load.pl-229   : LHS:Chunk_tag--VGNF~
+21:02:14:03:00:59[INFO ] load.pl-230   : Value--{%VM<lcat="v",tam="wunna">})) and ~
+21:02:14:03:00:59[INFO ] load.pl-243   : word-{%VM<lcat="v",tam="wunna">
+21:02:14:03:00:59[INFO ] load.pl-256   : Word Var-,Word-,Pos-VM,Fs-<lcat="v",tam="wunna">
+21:02:14:03:00:59[INFO ] load.pl-243   : word-))
+21:02:14:03:00:59[INFO ] load.pl-273   : Headvalue:0 start 0 end 0
+21:02:14:03:00:59[INFO ] load.pl-229   : LHS:Chunk_tag--NP~
+21:02:14:03:00:59[INFO ] load.pl-230   : Value--{%PRP<root="Ayana",lcat="pn",gend="m",num="sg",pers="3">}{$s%SYM<root="$pc",lcat="punc">})) and ~
+21:02:14:03:00:59[INFO ] load.pl-243   : word-{%PRP<root="Ayana",lcat="pn",gend="m",num="sg",pers="3">
+21:02:14:03:00:59[INFO ] load.pl-256   : Word Var-,Word-,Pos-PRP,Fs-<root="Ayana",lcat="pn",gend="m",num="sg",pers="3">
+21:02:14:03:00:59[INFO ] load.pl-243   : word-{$s%SYM<root="$pc",lcat="punc">
+21:02:14:03:00:59[INFO ] load.pl-256   : Word Var-,Word-$s,Pos-SYM,Fs-<root="$pc",lcat="punc">
+21:02:14:03:00:59[INFO ] load.pl-243   : word-))
+21:02:14:03:00:59[INFO ] load.pl-273   : Headvalue:0 start 0 end 0
+21:02:14:03:00:59[INFO ] load.pl-283   : Parsing RHS
+21:02:14:03:00:59[INFO ] load.pl-303   : RHS:Chunk_tag-VGNF~
+21:02:14:03:00:59[INFO ] load.pl-307   : Value--1  2 VGNF 3  4  5 (( 6 {%VM<lcat="v",gend="m",num="sg",pers="3",tam="wunna_Ayana">}+{$s%SYM<root="$pc",lcat="punc">}))
+21:02:14:03:00:59[INFO ] load.pl-345   : Word Var-,Word-,Pos-VM,Fs-<lcat="v",gend="m",num="sg",pers="3",tam="wunna_Ayana">
+21:02:14:03:00:59[INFO ] load.pl-335   : Add child
+21:02:14:03:00:59[INFO ] load.pl-345   : Word Var-,Word-$s,Pos-SYM,Fs-<root="$pc",lcat="punc">
+21:02:14:03:00:59[INFO ] load.pl-389   : ###Number of Rules: 38,
+21:02:14:03:00:59[INFO ] load.pl-447   : Dropping:NP~
+21:02:14:03:00:59[INFO ] load.pl-497   : RULE:,R1228674: VGNF(({%VM<lcat="v",tam="wunna">})) NP(({%PRP<root="AmeV",lcat="pn",gend="f",num="sg",pers="3">}{$s%SYM<root="$pc",lcat="punc">})) => VGNF(({%VM<lcat="v",gend="f",num="sg",pers="3",tam="wunna_AmeV">}+{$s%SYM<root="$pc",lcat="punc">}))
+,
+21:02:14:03:00:59[INFO ] load.pl-204   : LHS::VGNF(({%VM<lcat="v",tam="wunna">})) NP(({%PRP<root="AmeV",lcat="pn",gend="f",num="sg",pers="3">}{$s%SYM<root="$pc",lcat="punc">})) ::
+21:02:14:03:00:59[INFO ] load.pl-206   : Number of Chunks:VGNF(({%VM<lcat="v",tam="wunna">})) NP(({%PRP<root="AmeV",lcat="pn",gend="f",num="sg",pers="3">}{$s%SYM<root="$pc",lcat="punc">}))
+21:02:14:03:00:59[INFO ] load.pl-229   : LHS:Chunk_tag--VGNF~
+21:02:14:03:00:59[INFO ] load.pl-230   : Value--{%VM<lcat="v",tam="wunna">})) and ~
+21:02:14:03:00:59[INFO ] load.pl-243   : word-{%VM<lcat="v",tam="wunna">
+21:02:14:03:00:59[INFO ] load.pl-256   : Word Var-,Word-,Pos-VM,Fs-<lcat="v",tam="wunna">
+21:02:14:03:00:59[INFO ] load.pl-243   : word-))
+21:02:14:03:00:59[INFO ] load.pl-273   : Headvalue:0 start 0 end 0
+21:02:14:03:00:59[INFO ] load.pl-229   : LHS:Chunk_tag--NP~
+21:02:14:03:00:59[INFO ] load.pl-230   : Value--{%PRP<root="AmeV",lcat="pn",gend="f",num="sg",pers="3">}{$s%SYM<root="$pc",lcat="punc">})) and ~
+21:02:14:03:00:59[INFO ] load.pl-243   : word-{%PRP<root="AmeV",lcat="pn",gend="f",num="sg",pers="3">
+21:02:14:03:00:59[INFO ] load.pl-256   : Word Var-,Word-,Pos-PRP,Fs-<root="AmeV",lcat="pn",gend="f",num="sg",pers="3">
+21:02:14:03:00:59[INFO ] load.pl-243   : word-{$s%SYM<root="$pc",lcat="punc">
+21:02:14:03:00:59[INFO ] load.pl-256   : Word Var-,Word-$s,Pos-SYM,Fs-<root="$pc",lcat="punc">
+21:02:14:03:00:59[INFO ] load.pl-243   : word-))
+21:02:14:03:00:59[INFO ] load.pl-273   : Headvalue:0 start 0 end 0
+21:02:14:03:00:59[INFO ] load.pl-283   : Parsing RHS
+21:02:14:03:00:59[INFO ] load.pl-303   : RHS:Chunk_tag-VGNF~
+21:02:14:03:00:59[INFO ] load.pl-307   : Value--1  2 VGNF 3  4  5 (( 6 {%VM<lcat="v",gend="f",num="sg",pers="3",tam="wunna_AmeV">}+{$s%SYM<root="$pc",lcat="punc">}))
+21:02:14:03:00:59[INFO ] load.pl-345   : Word Var-,Word-,Pos-VM,Fs-<lcat="v",gend="f",num="sg",pers="3",tam="wunna_AmeV">
+21:02:14:03:00:59[INFO ] load.pl-335   : Add child
+21:02:14:03:00:59[INFO ] load.pl-345   : Word Var-,Word-$s,Pos-SYM,Fs-<root="$pc",lcat="punc">
+21:02:14:03:00:59[INFO ] load.pl-389   : ###Number of Rules: 39,
+21:02:14:03:00:59[INFO ] load.pl-447   : Dropping:NP~
+21:02:14:03:00:59[INFO ] chunk_repair.pl-93    : ##OUT OF LOAD RULE FUNC
+21:02:14:03:00:59[INFO ] chunk_repair.pl-129   : ##ENTERING RULE MATCH func
+
+21:02:14:03:00:59[INFO ] rule_match.pl-41    : RULE AT-NP
+21:02:14:03:00:59[INFO ] rule_match.pl-42    : Rule No--1
+21:02:14:03:00:59[INFO ] rule_match.pl-43    : Pos in Rule--,1
+21:02:14:03:00:59[INFO ] rule_match.pl-44    : Rule Chunk Tag:,NP
+21:02:14:03:00:59[INFO ] rule_match.pl-328   : Word::pUrvaMyoVkka ::Pos::NN ::Fs::
+21:02:14:03:00:59[INFO ] rule_match.pl-330   : Part Flag Val=1
+21:02:14:03:00:59[INFO ] rule_match.pl-328   : Word::/ ::Pos::SYM ::Fs::
+21:02:14:03:00:59[INFO ] rule_match.pl-330   : Part Flag Val=1
+21:02:14:03:00:59[INFO ] rule_match.pl-343   : Flag Val=1
+21:02:14:03:00:59[INFO ] rule_match.pl-41    : RULE AT-NP
+21:02:14:03:00:59[INFO ] rule_match.pl-42    : Rule No--1
+21:02:14:03:00:59[INFO ] rule_match.pl-43    : Pos in Rule--,2
+21:02:14:03:00:59[INFO ] rule_match.pl-44    : Rule Chunk Tag:,JJP
+21:02:14:03:00:59[INFO ] rule_match.pl-41    : RULE AT-NP
+21:02:14:03:00:59[INFO ] rule_match.pl-42    : Rule No--2
+21:02:14:03:00:59[INFO ] rule_match.pl-43    : Pos in Rule--,1
+21:02:14:03:00:59[INFO ] rule_match.pl-44    : Rule Chunk Tag:,NP
+21:02:14:03:00:59[INFO ] rule_match.pl-51    : DROP NP
+21:02:14:03:00:59[INFO ] rule_match.pl-328   : Word::pUrvaMyoVkka ::Pos::NN ::Fs::
+21:02:14:03:00:59[INFO ] rule_match.pl-198   : Variable:$p Value:
+21:02:14:03:00:59[INFO ] rule_match.pl-198   : Variable:$n Value:sg
+21:02:14:03:00:59[INFO ] rule_match.pl-198   : Variable:$a Value:pUrvaMyoVkka
+21:02:14:03:00:59[INFO ] rule_match.pl-290   : Input Value and Rule Value :NST and NN Don't Match
+21:02:14:03:00:59[INFO ] rule_match.pl-330   : Part Flag Val=0
+21:02:14:03:00:59[INFO ] rule_match.pl-41    : RULE AT-NP
+21:02:14:03:00:59[INFO ] rule_match.pl-42    : Rule No--3
+21:02:14:03:00:59[INFO ] rule_match.pl-43    : Pos in Rule--,1
+21:02:14:03:00:59[INFO ] rule_match.pl-44    : Rule Chunk Tag:,NP
+21:02:14:03:00:59[INFO ] rule_match.pl-328   : Word::pUrvaMyoVkka ::Pos::NN ::Fs::
+21:02:14:03:00:59[INFO ] rule_match.pl-290   : Input Value and Rule Value :o and  Don't Match
+21:02:14:03:00:59[INFO ] rule_match.pl-330   : Part Flag Val=0
+21:02:14:03:00:59[INFO ] rule_match.pl-41    : RULE AT-NP
+21:02:14:03:00:59[INFO ] rule_match.pl-42    : Rule No--4
+21:02:14:03:00:59[INFO ] rule_match.pl-43    : Pos in Rule--,1
+21:02:14:03:00:59[INFO ] rule_match.pl-44    : Rule Chunk Tag:,VGNF
+21:02:14:03:00:59[INFO ] rule_match.pl-41    : RULE AT-NP
+21:02:14:03:00:59[INFO ] rule_match.pl-42    : Rule No--5
+21:02:14:03:00:59[INFO ] rule_match.pl-43    : Pos in Rule--,1
+21:02:14:03:00:59[INFO ] rule_match.pl-44    : Rule Chunk Tag:,NP
+21:02:14:03:00:59[INFO ] rule_match.pl-328   : Word::pUrvaMyoVkka ::Pos::NN ::Fs::
+21:02:14:03:00:59[INFO ] rule_match.pl-290   : Input Value and Rule Value :QC and NN Don't Match
+21:02:14:03:00:59[INFO ] rule_match.pl-330   : Part Flag Val=0
+21:02:14:03:00:59[INFO ] rule_match.pl-41    : RULE AT-NP
+21:02:14:03:00:59[INFO ] rule_match.pl-42    : Rule No--6
+21:02:14:03:00:59[INFO ] rule_match.pl-43    : Pos in Rule--,1
+21:02:14:03:00:59[INFO ] rule_match.pl-44    : Rule Chunk Tag:,NP
+21:02:14:03:00:59[INFO ] rule_match.pl-328   : Word::pUrvaMyoVkka ::Pos::NN ::Fs::
+21:02:14:03:00:59[INFO ] rule_match.pl-290   : Input Value and Rule Value :$a._A and yoVkka Don't Match
+21:02:14:03:00:59[INFO ] rule_match.pl-330   : Part Flag Val=0
+21:02:14:03:00:59[INFO ] rule_match.pl-41    : RULE AT-NP
+21:02:14:03:00:59[INFO ] rule_match.pl-42    : Rule No--7
+21:02:14:03:00:59[INFO ] rule_match.pl-43    : Pos in Rule--,1
+21:02:14:03:00:59[INFO ] rule_match.pl-44    : Rule Chunk Tag:,VGNF
+21:02:14:03:00:59[INFO ] rule_match.pl-41    : RULE AT-NP
+21:02:14:03:00:59[INFO ] rule_match.pl-42    : Rule No--8
+21:02:14:03:00:59[INFO ] rule_match.pl-43    : Pos in Rule--,1
+21:02:14:03:00:59[INFO ] rule_match.pl-44    : Rule Chunk Tag:,NP
+21:02:14:03:00:59[INFO ] rule_match.pl-51    : DROP NP
+21:02:14:03:00:59[INFO ] rule_match.pl-328   : Word::pUrvaMyoVkka ::Pos::NN ::Fs::
+21:02:14:03:00:59[INFO ] rule_match.pl-198   : Variable:$p Value:
+21:02:14:03:00:59[INFO ] rule_match.pl-198   : Variable:$n Value:sg
+21:02:14:03:00:59[INFO ] rule_match.pl-198   : Variable:$q Value:pUrvaMyoVkka
+21:02:14:03:00:59[INFO ] rule_match.pl-198   : Variable:$a Value:pUrvaM
+21:02:14:03:00:59[INFO ] rule_match.pl-290   : Input Value and Rule Value :ti and yoVkka Don't Match
+21:02:14:03:00:59[INFO ] rule_match.pl-330   : Part Flag Val=0
+21:02:14:03:00:59[INFO ] rule_match.pl-41    : RULE AT-NP
+21:02:14:03:00:59[INFO ] rule_match.pl-42    : Rule No--10
+21:02:14:03:00:59[INFO ] rule_match.pl-43    : Pos in Rule--,1
+21:02:14:03:00:59[INFO ] rule_match.pl-44    : Rule Chunk Tag:,NP
+21:02:14:03:00:59[INFO ] rule_match.pl-328   : Word::pUrvaMyoVkka ::Pos::NN ::Fs::
+21:02:14:03:00:59[INFO ] rule_match.pl-330   : Part Flag Val=1
+21:02:14:03:00:59[INFO ] rule_match.pl-328   : Word::/ ::Pos::SYM ::Fs::
+21:02:14:03:00:59[INFO ] rule_match.pl-290   : Input Value and Rule Value :JJ and SYM Don't Match
+21:02:14:03:00:59[INFO ] rule_match.pl-330   : Part Flag Val=0
+21:02:14:03:00:59[INFO ] rule_match.pl-41    : RULE AT-NP
+21:02:14:03:00:59[INFO ] rule_match.pl-42    : Rule No--11
+21:02:14:03:00:59[INFO ] rule_match.pl-43    : Pos in Rule--,1
+21:02:14:03:00:59[INFO ] rule_match.pl-44    : Rule Chunk Tag:,NP
+21:02:14:03:00:59[INFO ] rule_match.pl-328   : Word::pUrvaMyoVkka ::Pos::NN ::Fs::
+21:02:14:03:00:59[INFO ] rule_match.pl-290   : Input Value and Rule Value :o and  Don't Match
+21:02:14:03:00:59[INFO ] rule_match.pl-330   : Part Flag Val=0
+21:02:14:03:00:59[INFO ] rule_match.pl-41    : RULE AT-NP
+21:02:14:03:00:59[INFO ] rule_match.pl-42    : Rule No--12
+21:02:14:03:00:59[INFO ] rule_match.pl-43    : Pos in Rule--,1
+21:02:14:03:00:59[INFO ] rule_match.pl-44    : Rule Chunk Tag:,NP
+21:02:14:03:00:59[INFO ] rule_match.pl-328   : Word::pUrvaMyoVkka ::Pos::NN ::Fs::
+21:02:14:03:00:59[INFO ] rule_match.pl-290   : Input Value and Rule Value :JJ and NN Don't Match
+21:02:14:03:00:59[INFO ] rule_match.pl-330   : Part Flag Val=0
+21:02:14:03:00:59[INFO ] rule_match.pl-41    : RULE AT-NP
+21:02:14:03:00:59[INFO ] rule_match.pl-42    : Rule No--13
+21:02:14:03:00:59[INFO ] rule_match.pl-43    : Pos in Rule--,1
+21:02:14:03:00:59[INFO ] rule_match.pl-44    : Rule Chunk Tag:,NP
+21:02:14:03:00:59[INFO ] rule_match.pl-328   : Word::pUrvaMyoVkka ::Pos::NN ::Fs::
+21:02:14:03:00:59[INFO ] rule_match.pl-290   : Input Value and Rule Value :QC and NN Don't Match
+21:02:14:03:00:59[INFO ] rule_match.pl-330   : Part Flag Val=0
+21:02:14:03:00:59[INFO ] rule_match.pl-41    : RULE AT-NP
+21:02:14:03:00:59[INFO ] rule_match.pl-42    : Rule No--14
+21:02:14:03:00:59[INFO ] rule_match.pl-43    : Pos in Rule--,1
+21:02:14:03:00:59[INFO ] rule_match.pl-44    : Rule Chunk Tag:,NP
+21:02:14:03:00:59[INFO ] rule_match.pl-328   : Word::pUrvaMyoVkka ::Pos::NN ::Fs::
+21:02:14:03:00:59[INFO ] rule_match.pl-330   : Part Flag Val=1
+21:02:14:03:00:59[INFO ] rule_match.pl-328   : Word::/ ::Pos::SYM ::Fs::
+21:02:14:03:00:59[INFO ] rule_match.pl-330   : Part Flag Val=1
+21:02:14:03:00:59[INFO ] rule_match.pl-343   : Flag Val=1
+21:02:14:03:00:59[INFO ] rule_match.pl-41    : RULE AT-NP
+21:02:14:03:00:59[INFO ] rule_match.pl-42    : Rule No--14
+21:02:14:03:00:59[INFO ] rule_match.pl-43    : Pos in Rule--,2
+21:02:14:03:00:59[INFO ] rule_match.pl-44    : Rule Chunk Tag:,RBP
+21:02:14:03:00:59[INFO ] rule_match.pl-41    : RULE AT-NP
+21:02:14:03:00:59[INFO ] rule_match.pl-42    : Rule No--15
+21:02:14:03:00:59[INFO ] rule_match.pl-43    : Pos in Rule--,1
+21:02:14:03:00:59[INFO ] rule_match.pl-44    : Rule Chunk Tag:,VGF
+21:02:14:03:00:59[INFO ] rule_match.pl-41    : RULE AT-NP
+21:02:14:03:00:59[INFO ] rule_match.pl-42    : Rule No--17
+21:02:14:03:00:59[INFO ] rule_match.pl-43    : Pos in Rule--,1
+21:02:14:03:00:59[INFO ] rule_match.pl-44    : Rule Chunk Tag:,NP
+21:02:14:03:00:59[INFO ] rule_match.pl-328   : Word::pUrvaMyoVkka ::Pos::NN ::Fs::
+21:02:14:03:00:59[INFO ] rule_match.pl-290   : Input Value and Rule Value :QC and NN Don't Match
+21:02:14:03:00:59[INFO ] rule_match.pl-330   : Part Flag Val=0
+21:02:14:03:00:59[INFO ] rule_match.pl-41    : RULE AT-NP
+21:02:14:03:00:59[INFO ] rule_match.pl-42    : Rule No--18
+21:02:14:03:00:59[INFO ] rule_match.pl-43    : Pos in Rule--,1
+21:02:14:03:00:59[INFO ] rule_match.pl-44    : Rule Chunk Tag:,NP
+21:02:14:03:00:59[INFO ] rule_match.pl-328   : Word::pUrvaMyoVkka ::Pos::NN ::Fs::
+21:02:14:03:00:59[INFO ] rule_match.pl-290   : Input Value and Rule Value :JJ and NN Don't Match
+21:02:14:03:00:59[INFO ] rule_match.pl-330   : Part Flag Val=0
+21:02:14:03:00:59[INFO ] rule_match.pl-41    : RULE AT-NP
+21:02:14:03:00:59[INFO ] rule_match.pl-42    : Rule No--19
+21:02:14:03:00:59[INFO ] rule_match.pl-43    : Pos in Rule--,1
+21:02:14:03:00:59[INFO ] rule_match.pl-44    : Rule Chunk Tag:,NP
+21:02:14:03:00:59[INFO ] rule_match.pl-328   : Word::pUrvaMyoVkka ::Pos::NN ::Fs::
+21:02:14:03:00:59[INFO ] rule_match.pl-290   : Input Value and Rule Value :JJ and NN Don't Match
+21:02:14:03:00:59[INFO ] rule_match.pl-330   : Part Flag Val=0
+21:02:14:03:00:59[INFO ] rule_match.pl-41    : RULE AT-NP
+21:02:14:03:00:59[INFO ] rule_match.pl-42    : Rule No--11
+21:02:14:03:00:59[INFO ] rule_match.pl-43    : Pos in Rule--,1
+21:02:14:03:00:59[INFO ] rule_match.pl-44    : Rule Chunk Tag:,NP
+21:02:14:03:00:59[INFO ] rule_match.pl-328   : Word::pUrvaMyoVkka ::Pos::NN ::Fs::
+21:02:14:03:00:59[INFO ] rule_match.pl-290   : Input Value and Rule Value :0 and yoVkka Don't Match
+21:02:14:03:00:59[INFO ] rule_match.pl-330   : Part Flag Val=0
+21:02:14:03:00:59[INFO ] rule_match.pl-41    : RULE AT-NP
+21:02:14:03:00:59[INFO ] rule_match.pl-42    : Rule No--11
+21:02:14:03:00:59[INFO ] rule_match.pl-43    : Pos in Rule--,1
+21:02:14:03:00:59[INFO ] rule_match.pl-44    : Rule Chunk Tag:,NP
+21:02:14:03:00:59[INFO ] rule_match.pl-328   : Word::pUrvaMyoVkka ::Pos::NN ::Fs::
+21:02:14:03:00:59[INFO ] rule_match.pl-290   : Input Value and Rule Value :NNP and NN Don't Match
+21:02:14:03:00:59[INFO ] rule_match.pl-330   : Part Flag Val=0
+21:02:14:03:00:59[INFO ] rule_match.pl-41    : RULE AT-NP
+21:02:14:03:00:59[INFO ] rule_match.pl-42    : Rule No--11
+21:02:14:03:00:59[INFO ] rule_match.pl-43    : Pos in Rule--,1
+21:02:14:03:00:59[INFO ] rule_match.pl-44    : Rule Chunk Tag:,NP
+21:02:14:03:00:59[INFO ] rule_match.pl-328   : Word::pUrvaMyoVkka ::Pos::NN ::Fs::
+21:02:14:03:00:59[INFO ] rule_match.pl-290   : Input Value and Rule Value :PRP and NN Don't Match
+21:02:14:03:00:59[INFO ] rule_match.pl-330   : Part Flag Val=0
+21:02:14:03:00:59[INFO ] rule_match.pl-41    : RULE AT-NP
+21:02:14:03:00:59[INFO ] rule_match.pl-42    : Rule No--11
+21:02:14:03:00:59[INFO ] rule_match.pl-43    : Pos in Rule--,1
+21:02:14:03:00:59[INFO ] rule_match.pl-44    : Rule Chunk Tag:,NP
+21:02:14:03:00:59[INFO ] rule_match.pl-328   : Word::pUrvaMyoVkka ::Pos::NN ::Fs::
+21:02:14:03:00:59[INFO ] rule_match.pl-198   : Variable:$a Value:pUrvaMyoVkka
+21:02:14:03:00:59[INFO ] rule_match.pl-290   : Input Value and Rule Value :NST and NN Don't Match
+21:02:14:03:00:59[INFO ] rule_match.pl-330   : Part Flag Val=0
+21:02:14:03:00:59[INFO ] rule_match.pl-41    : RULE AT-NP
+21:02:14:03:00:59[INFO ] rule_match.pl-42    : Rule No--1228650
+21:02:14:03:00:59[INFO ] rule_match.pl-43    : Pos in Rule--,1
+21:02:14:03:00:59[INFO ] rule_match.pl-44    : Rule Chunk Tag:,VGNF
+21:02:14:03:00:59[INFO ] rule_match.pl-41    : RULE AT-NP
+21:02:14:03:00:59[INFO ] rule_match.pl-42    : Rule No--1228651
+21:02:14:03:00:59[INFO ] rule_match.pl-43    : Pos in Rule--,1
+21:02:14:03:00:59[INFO ] rule_match.pl-44    : Rule Chunk Tag:,VGNF
+21:02:14:03:00:59[INFO ] rule_match.pl-41    : RULE AT-NP
+21:02:14:03:00:59[INFO ] rule_match.pl-42    : Rule No--1228652
+21:02:14:03:00:59[INFO ] rule_match.pl-43    : Pos in Rule--,1
+21:02:14:03:00:59[INFO ] rule_match.pl-44    : Rule Chunk Tag:,VGNF
+21:02:14:03:00:59[INFO ] rule_match.pl-41    : RULE AT-NP
+21:02:14:03:00:59[INFO ] rule_match.pl-42    : Rule No--1228653
+21:02:14:03:00:59[INFO ] rule_match.pl-43    : Pos in Rule--,1
+21:02:14:03:00:59[INFO ] rule_match.pl-44    : Rule Chunk Tag:,VGNF
+21:02:14:03:00:59[INFO ] rule_match.pl-41    : RULE AT-NP
+21:02:14:03:00:59[INFO ] rule_match.pl-42    : Rule No--1228654
+21:02:14:03:00:59[INFO ] rule_match.pl-43    : Pos in Rule--,1
+21:02:14:03:00:59[INFO ] rule_match.pl-44    : Rule Chunk Tag:,VGNF
+21:02:14:03:00:59[INFO ] rule_match.pl-41    : RULE AT-NP
+21:02:14:03:00:59[INFO ] rule_match.pl-42    : Rule No--1228655
+21:02:14:03:00:59[INFO ] rule_match.pl-43    : Pos in Rule--,1
+21:02:14:03:00:59[INFO ] rule_match.pl-44    : Rule Chunk Tag:,VGNF
+21:02:14:03:00:59[INFO ] rule_match.pl-41    : RULE AT-NP
+21:02:14:03:00:59[INFO ] rule_match.pl-42    : Rule No--1228656
+21:02:14:03:00:59[INFO ] rule_match.pl-43    : Pos in Rule--,1
+21:02:14:03:00:59[INFO ] rule_match.pl-44    : Rule Chunk Tag:,VGNF
+21:02:14:03:00:59[INFO ] rule_match.pl-41    : RULE AT-NP
+21:02:14:03:00:59[INFO ] rule_match.pl-42    : Rule No--1228657
+21:02:14:03:00:59[INFO ] rule_match.pl-43    : Pos in Rule--,1
+21:02:14:03:00:59[INFO ] rule_match.pl-44    : Rule Chunk Tag:,VGNF
+21:02:14:03:00:59[INFO ] rule_match.pl-41    : RULE AT-NP
+21:02:14:03:00:59[INFO ] rule_match.pl-42    : Rule No--1228658
+21:02:14:03:00:59[INFO ] rule_match.pl-43    : Pos in Rule--,1
+21:02:14:03:00:59[INFO ] rule_match.pl-44    : Rule Chunk Tag:,VGNF
+21:02:14:03:00:59[INFO ] rule_match.pl-41    : RULE AT-NP
+21:02:14:03:00:59[INFO ] rule_match.pl-42    : Rule No--1228659
+21:02:14:03:00:59[INFO ] rule_match.pl-43    : Pos in Rule--,1
+21:02:14:03:00:59[INFO ] rule_match.pl-44    : Rule Chunk Tag:,VGNF
+21:02:14:03:00:59[INFO ] rule_match.pl-41    : RULE AT-NP
+21:02:14:03:00:59[INFO ] rule_match.pl-42    : Rule No--1228661
+21:02:14:03:00:59[INFO ] rule_match.pl-43    : Pos in Rule--,1
+21:02:14:03:00:59[INFO ] rule_match.pl-44    : Rule Chunk Tag:,VGNF
+21:02:14:03:00:59[INFO ] rule_match.pl-41    : RULE AT-NP
+21:02:14:03:00:59[INFO ] rule_match.pl-42    : Rule No--1228662
+21:02:14:03:00:59[INFO ] rule_match.pl-43    : Pos in Rule--,1
+21:02:14:03:00:59[INFO ] rule_match.pl-44    : Rule Chunk Tag:,VGNF
+21:02:14:03:00:59[INFO ] rule_match.pl-41    : RULE AT-NP
+21:02:14:03:00:59[INFO ] rule_match.pl-42    : Rule No--1228663
+21:02:14:03:00:59[INFO ] rule_match.pl-43    : Pos in Rule--,1
+21:02:14:03:00:59[INFO ] rule_match.pl-44    : Rule Chunk Tag:,VGNF
+21:02:14:03:00:59[INFO ] rule_match.pl-41    : RULE AT-NP
+21:02:14:03:00:59[INFO ] rule_match.pl-42    : Rule No--1228664
+21:02:14:03:00:59[INFO ] rule_match.pl-43    : Pos in Rule--,1
+21:02:14:03:00:59[INFO ] rule_match.pl-44    : Rule Chunk Tag:,VGNF
+21:02:14:03:00:59[INFO ] rule_match.pl-41    : RULE AT-NP
+21:02:14:03:00:59[INFO ] rule_match.pl-42    : Rule No--1228671
+21:02:14:03:00:59[INFO ] rule_match.pl-43    : Pos in Rule--,1
+21:02:14:03:00:59[INFO ] rule_match.pl-44    : Rule Chunk Tag:,VGNF
+21:02:14:03:00:59[INFO ] rule_match.pl-41    : RULE AT-NP
+21:02:14:03:00:59[INFO ] rule_match.pl-42    : Rule No--1228672
+21:02:14:03:00:59[INFO ] rule_match.pl-43    : Pos in Rule--,1
+21:02:14:03:00:59[INFO ] rule_match.pl-44    : Rule Chunk Tag:,VGNF
+21:02:14:03:00:59[INFO ] rule_match.pl-41    : RULE AT-NP
+21:02:14:03:00:59[INFO ] rule_match.pl-42    : Rule No--1228673
+21:02:14:03:00:59[INFO ] rule_match.pl-43    : Pos in Rule--,1
+21:02:14:03:00:59[INFO ] rule_match.pl-44    : Rule Chunk Tag:,VGNF
+21:02:14:03:00:59[INFO ] rule_match.pl-41    : RULE AT-NP
+21:02:14:03:00:59[INFO ] rule_match.pl-42    : Rule No--1228674
+21:02:14:03:00:59[INFO ] rule_match.pl-43    : Pos in Rule--,1
+21:02:14:03:00:59[INFO ] rule_match.pl-44    : Rule Chunk Tag:,VGNF
+21:02:14:03:00:59[INFO ] rule_match.pl-41    : RULE AT-NP
+21:02:14:03:00:59[INFO ] rule_match.pl-42    : Rule No--1
+21:02:14:03:00:59[INFO ] rule_match.pl-43    : Pos in Rule--,1
+21:02:14:03:00:59[INFO ] rule_match.pl-44    : Rule Chunk Tag:,NP
+21:02:14:03:00:59[INFO ] rule_match.pl-328   : Word::moVxatilo ::Pos::NST ::Fs::
+21:02:14:03:00:59[INFO ] rule_match.pl-290   : Input Value and Rule Value :NN and NST Don't Match
+21:02:14:03:00:59[INFO ] rule_match.pl-330   : Part Flag Val=0
+21:02:14:03:00:59[INFO ] rule_match.pl-41    : RULE AT-NP
+21:02:14:03:00:59[INFO ] rule_match.pl-42    : Rule No--2
+21:02:14:03:00:59[INFO ] rule_match.pl-43    : Pos in Rule--,1
+21:02:14:03:00:59[INFO ] rule_match.pl-44    : Rule Chunk Tag:,NP
+21:02:14:03:00:59[INFO ] rule_match.pl-51    : DROP NP
+21:02:14:03:00:59[INFO ] rule_match.pl-328   : Word::moVxatilo ::Pos::NST ::Fs::
+21:02:14:03:00:59[INFO ] rule_match.pl-198   : Variable:$p Value:
+21:02:14:03:00:59[INFO ] rule_match.pl-198   : Variable:$n Value:
+21:02:14:03:00:59[INFO ] rule_match.pl-198   : Variable:$a Value:moVxatilo
+21:02:14:03:00:59[INFO ] rule_match.pl-290   : Input Value and Rule Value :maXya and moVxata Don't Match
+21:02:14:03:00:59[INFO ] rule_match.pl-330   : Part Flag Val=0
+21:02:14:03:00:59[INFO ] rule_match.pl-41    : RULE AT-NP
+21:02:14:03:00:59[INFO ] rule_match.pl-42    : Rule No--3
+21:02:14:03:00:59[INFO ] rule_match.pl-43    : Pos in Rule--,1
+21:02:14:03:00:59[INFO ] rule_match.pl-44    : Rule Chunk Tag:,NP
+21:02:14:03:00:59[INFO ] rule_match.pl-328   : Word::moVxatilo ::Pos::NST ::Fs::
+21:02:14:03:00:59[INFO ] rule_match.pl-290   : Input Value and Rule Value :NN and NST Don't Match
+21:02:14:03:00:59[INFO ] rule_match.pl-330   : Part Flag Val=0
+21:02:14:03:00:59[INFO ] rule_match.pl-41    : RULE AT-NP
+21:02:14:03:00:59[INFO ] rule_match.pl-42    : Rule No--4
+21:02:14:03:00:59[INFO ] rule_match.pl-43    : Pos in Rule--,1
+21:02:14:03:00:59[INFO ] rule_match.pl-44    : Rule Chunk Tag:,VGNF
+21:02:14:03:00:59[INFO ] rule_match.pl-41    : RULE AT-NP
+21:02:14:03:00:59[INFO ] rule_match.pl-42    : Rule No--5
+21:02:14:03:00:59[INFO ] rule_match.pl-43    : Pos in Rule--,1
+21:02:14:03:00:59[INFO ] rule_match.pl-44    : Rule Chunk Tag:,NP
+21:02:14:03:00:59[INFO ] rule_match.pl-328   : Word::moVxatilo ::Pos::NST ::Fs::
+21:02:14:03:00:59[INFO ] rule_match.pl-290   : Input Value and Rule Value :QC and NST Don't Match
+21:02:14:03:00:59[INFO ] rule_match.pl-330   : Part Flag Val=0
+21:02:14:03:00:59[INFO ] rule_match.pl-41    : RULE AT-NP
+21:02:14:03:00:59[INFO ] rule_match.pl-42    : Rule No--6
+21:02:14:03:00:59[INFO ] rule_match.pl-43    : Pos in Rule--,1
+21:02:14:03:00:59[INFO ] rule_match.pl-44    : Rule Chunk Tag:,NP
+21:02:14:03:00:59[INFO ] rule_match.pl-328   : Word::moVxatilo ::Pos::NST ::Fs::
+21:02:14:03:00:59[INFO ] rule_match.pl-290   : Input Value and Rule Value :NN and NST Don't Match
+21:02:14:03:00:59[INFO ] rule_match.pl-330   : Part Flag Val=0
+21:02:14:03:00:59[INFO ] rule_match.pl-41    : RULE AT-NP
+21:02:14:03:00:59[INFO ] rule_match.pl-42    : Rule No--7
+21:02:14:03:00:59[INFO ] rule_match.pl-43    : Pos in Rule--,1
+21:02:14:03:00:59[INFO ] rule_match.pl-44    : Rule Chunk Tag:,VGNF
+21:02:14:03:00:59[INFO ] rule_match.pl-41    : RULE AT-NP
+21:02:14:03:00:59[INFO ] rule_match.pl-42    : Rule No--8
+21:02:14:03:00:59[INFO ] rule_match.pl-43    : Pos in Rule--,1
+21:02:14:03:00:59[INFO ] rule_match.pl-44    : Rule Chunk Tag:,NP
+21:02:14:03:00:59[INFO ] rule_match.pl-51    : DROP NP
+21:02:14:03:00:59[INFO ] rule_match.pl-328   : Word::moVxatilo ::Pos::NST ::Fs::
+21:02:14:03:00:59[INFO ] rule_match.pl-198   : Variable:$p Value:
+21:02:14:03:00:59[INFO ] rule_match.pl-198   : Variable:$n Value:
+21:02:14:03:00:59[INFO ] rule_match.pl-198   : Variable:$q Value:moVxatilo
+21:02:14:03:00:59[INFO ] rule_match.pl-290   : Input Value and Rule Value :NN and NST Don't Match
+21:02:14:03:00:59[INFO ] rule_match.pl-330   : Part Flag Val=0
+21:02:14:03:00:59[INFO ] rule_match.pl-41    : RULE AT-NP
+21:02:14:03:00:59[INFO ] rule_match.pl-42    : Rule No--10
+21:02:14:03:00:59[INFO ] rule_match.pl-43    : Pos in Rule--,1
+21:02:14:03:00:59[INFO ] rule_match.pl-44    : Rule Chunk Tag:,NP
+21:02:14:03:00:59[INFO ] rule_match.pl-328   : Word::moVxatilo ::Pos::NST ::Fs::
+21:02:14:03:00:59[INFO ] rule_match.pl-290   : Input Value and Rule Value :NN and NST Don't Match
+21:02:14:03:00:59[INFO ] rule_match.pl-330   : Part Flag Val=0
+21:02:14:03:00:59[INFO ] rule_match.pl-41    : RULE AT-NP
+21:02:14:03:00:59[INFO ] rule_match.pl-42    : Rule No--11
+21:02:14:03:00:59[INFO ] rule_match.pl-43    : Pos in Rule--,1
+21:02:14:03:00:59[INFO ] rule_match.pl-44    : Rule Chunk Tag:,NP
+21:02:14:03:00:59[INFO ] rule_match.pl-328   : Word::moVxatilo ::Pos::NST ::Fs::
+21:02:14:03:00:59[INFO ] rule_match.pl-290   : Input Value and Rule Value :NN and NST Don't Match
+21:02:14:03:00:59[INFO ] rule_match.pl-330   : Part Flag Val=0
+21:02:14:03:00:59[INFO ] rule_match.pl-41    : RULE AT-NP
+21:02:14:03:00:59[INFO ] rule_match.pl-42    : Rule No--12
+21:02:14:03:00:59[INFO ] rule_match.pl-43    : Pos in Rule--,1
+21:02:14:03:00:59[INFO ] rule_match.pl-44    : Rule Chunk Tag:,NP
+21:02:14:03:00:59[INFO ] rule_match.pl-328   : Word::moVxatilo ::Pos::NST ::Fs::
+21:02:14:03:00:59[INFO ] rule_match.pl-290   : Input Value and Rule Value :JJ and NST Don't Match
+21:02:14:03:00:59[INFO ] rule_match.pl-330   : Part Flag Val=0
+21:02:14:03:00:59[INFO ] rule_match.pl-41    : RULE AT-NP
+21:02:14:03:00:59[INFO ] rule_match.pl-42    : Rule No--13
+21:02:14:03:00:59[INFO ] rule_match.pl-43    : Pos in Rule--,1
+21:02:14:03:00:59[INFO ] rule_match.pl-44    : Rule Chunk Tag:,NP
+21:02:14:03:00:59[INFO ] rule_match.pl-328   : Word::moVxatilo ::Pos::NST ::Fs::
+21:02:14:03:00:59[INFO ] rule_match.pl-290   : Input Value and Rule Value :QC and NST Don't Match
+21:02:14:03:00:59[INFO ] rule_match.pl-330   : Part Flag Val=0
+21:02:14:03:00:59[INFO ] rule_match.pl-41    : RULE AT-NP
+21:02:14:03:00:59[INFO ] rule_match.pl-42    : Rule No--14
+21:02:14:03:00:59[INFO ] rule_match.pl-43    : Pos in Rule--,1
+21:02:14:03:00:59[INFO ] rule_match.pl-44    : Rule Chunk Tag:,NP
+21:02:14:03:00:59[INFO ] rule_match.pl-328   : Word::moVxatilo ::Pos::NST ::Fs::
+21:02:14:03:00:59[INFO ] rule_match.pl-290   : Input Value and Rule Value :NN and NST Don't Match
+21:02:14:03:00:59[INFO ] rule_match.pl-330   : Part Flag Val=0
+21:02:14:03:00:59[INFO ] rule_match.pl-41    : RULE AT-NP
+21:02:14:03:00:59[INFO ] rule_match.pl-42    : Rule No--15
+21:02:14:03:00:59[INFO ] rule_match.pl-43    : Pos in Rule--,1
+21:02:14:03:00:59[INFO ] rule_match.pl-44    : Rule Chunk Tag:,VGF
+21:02:14:03:00:59[INFO ] rule_match.pl-41    : RULE AT-NP
+21:02:14:03:00:59[INFO ] rule_match.pl-42    : Rule No--17
+21:02:14:03:00:59[INFO ] rule_match.pl-43    : Pos in Rule--,1
+21:02:14:03:00:59[INFO ] rule_match.pl-44    : Rule Chunk Tag:,NP
+21:02:14:03:00:59[INFO ] rule_match.pl-328   : Word::moVxatilo ::Pos::NST ::Fs::
+21:02:14:03:00:59[INFO ] rule_match.pl-290   : Input Value and Rule Value :QC and NST Don't Match
+21:02:14:03:00:59[INFO ] rule_match.pl-330   : Part Flag Val=0
+21:02:14:03:00:59[INFO ] rule_match.pl-41    : RULE AT-NP
+21:02:14:03:00:59[INFO ] rule_match.pl-42    : Rule No--18
+21:02:14:03:00:59[INFO ] rule_match.pl-43    : Pos in Rule--,1
+21:02:14:03:00:59[INFO ] rule_match.pl-44    : Rule Chunk Tag:,NP
+21:02:14:03:00:59[INFO ] rule_match.pl-328   : Word::moVxatilo ::Pos::NST ::Fs::
+21:02:14:03:00:59[INFO ] rule_match.pl-290   : Input Value and Rule Value :JJ and NST Don't Match
+21:02:14:03:00:59[INFO ] rule_match.pl-330   : Part Flag Val=0
+21:02:14:03:00:59[INFO ] rule_match.pl-41    : RULE AT-NP
+21:02:14:03:00:59[INFO ] rule_match.pl-42    : Rule No--19
+21:02:14:03:00:59[INFO ] rule_match.pl-43    : Pos in Rule--,1
+21:02:14:03:00:59[INFO ] rule_match.pl-44    : Rule Chunk Tag:,NP
+21:02:14:03:00:59[INFO ] rule_match.pl-328   : Word::moVxatilo ::Pos::NST ::Fs::
+21:02:14:03:00:59[INFO ] rule_match.pl-290   : Input Value and Rule Value :JJ and NST Don't Match
+21:02:14:03:00:59[INFO ] rule_match.pl-330   : Part Flag Val=0
+21:02:14:03:00:59[INFO ] rule_match.pl-41    : RULE AT-NP
+21:02:14:03:00:59[INFO ] rule_match.pl-42    : Rule No--11
+21:02:14:03:00:59[INFO ] rule_match.pl-43    : Pos in Rule--,1
+21:02:14:03:00:59[INFO ] rule_match.pl-44    : Rule Chunk Tag:,NP
+21:02:14:03:00:59[INFO ] rule_match.pl-328   : Word::moVxatilo ::Pos::NST ::Fs::
+21:02:14:03:00:59[INFO ] rule_match.pl-290   : Input Value and Rule Value :NN and NST Don't Match
+21:02:14:03:00:59[INFO ] rule_match.pl-330   : Part Flag Val=0
+21:02:14:03:00:59[INFO ] rule_match.pl-41    : RULE AT-NP
+21:02:14:03:00:59[INFO ] rule_match.pl-42    : Rule No--11
+21:02:14:03:00:59[INFO ] rule_match.pl-43    : Pos in Rule--,1
+21:02:14:03:00:59[INFO ] rule_match.pl-44    : Rule Chunk Tag:,NP
+21:02:14:03:00:59[INFO ] rule_match.pl-328   : Word::moVxatilo ::Pos::NST ::Fs::
+21:02:14:03:00:59[INFO ] rule_match.pl-290   : Input Value and Rule Value :NNP and NST Don't Match
+21:02:14:03:00:59[INFO ] rule_match.pl-330   : Part Flag Val=0
+21:02:14:03:00:59[INFO ] rule_match.pl-41    : RULE AT-NP
+21:02:14:03:00:59[INFO ] rule_match.pl-42    : Rule No--11
+21:02:14:03:00:59[INFO ] rule_match.pl-43    : Pos in Rule--,1
+21:02:14:03:00:59[INFO ] rule_match.pl-44    : Rule Chunk Tag:,NP
+21:02:14:03:00:59[INFO ] rule_match.pl-328   : Word::moVxatilo ::Pos::NST ::Fs::
+21:02:14:03:00:59[INFO ] rule_match.pl-290   : Input Value and Rule Value :PRP and NST Don't Match
+21:02:14:03:00:59[INFO ] rule_match.pl-330   : Part Flag Val=0
+21:02:14:03:00:59[INFO ] rule_match.pl-41    : RULE AT-NP
+21:02:14:03:00:59[INFO ] rule_match.pl-42    : Rule No--11
+21:02:14:03:00:59[INFO ] rule_match.pl-43    : Pos in Rule--,1
+21:02:14:03:00:59[INFO ] rule_match.pl-44    : Rule Chunk Tag:,NP
+21:02:14:03:00:59[INFO ] rule_match.pl-328   : Word::moVxatilo ::Pos::NST ::Fs::
+21:02:14:03:00:59[INFO ] rule_match.pl-198   : Variable:$a Value:moVxatilo
+21:02:14:03:00:59[INFO ] rule_match.pl-330   : Part Flag Val=1
+21:02:14:03:00:59[INFO ] rule_match.pl-343   : Flag Val=1
+21:02:14:03:00:59[INFO ] rule_match.pl-41    : RULE AT-NP
+21:02:14:03:00:59[INFO ] rule_match.pl-42    : Rule No--11
+21:02:14:03:00:59[INFO ] rule_match.pl-43    : Pos in Rule--,2
+21:02:14:03:00:59[INFO ] rule_match.pl-44    : Rule Chunk Tag:,NP
+21:02:14:03:00:59[INFO ] rule_match.pl-51    : DROP NP
+21:02:14:03:00:59[INFO ] rule_match.pl-328   : Word::krikeVt ::Pos::NN ::Fs::
+21:02:14:03:00:59[INFO ] rule_match.pl-198   : Variable:$n Value:sg
+21:02:14:03:00:59[INFO ] rule_match.pl-290   : Input Value and Rule Value :gA and 0 Don't Match
+21:02:14:03:00:59[INFO ] rule_match.pl-330   : Part Flag Val=0
+21:02:14:03:00:59[INFO ] rule_match.pl-41    : RULE AT-NP
+21:02:14:03:00:59[INFO ] rule_match.pl-42    : Rule No--1228650
+21:02:14:03:00:59[INFO ] rule_match.pl-43    : Pos in Rule--,1
+21:02:14:03:00:59[INFO ] rule_match.pl-44    : Rule Chunk Tag:,VGNF
+21:02:14:03:00:59[INFO ] rule_match.pl-41    : RULE AT-NP
+21:02:14:03:00:59[INFO ] rule_match.pl-42    : Rule No--1228651
+21:02:14:03:00:59[INFO ] rule_match.pl-43    : Pos in Rule--,1
+21:02:14:03:00:59[INFO ] rule_match.pl-44    : Rule Chunk Tag:,VGNF
+21:02:14:03:00:59[INFO ] rule_match.pl-41    : RULE AT-NP
+21:02:14:03:00:59[INFO ] rule_match.pl-42    : Rule No--1228652
+21:02:14:03:00:59[INFO ] rule_match.pl-43    : Pos in Rule--,1
+21:02:14:03:00:59[INFO ] rule_match.pl-44    : Rule Chunk Tag:,VGNF
+21:02:14:03:00:59[INFO ] rule_match.pl-41    : RULE AT-NP
+21:02:14:03:00:59[INFO ] rule_match.pl-42    : Rule No--1228653
+21:02:14:03:00:59[INFO ] rule_match.pl-43    : Pos in Rule--,1
+21:02:14:03:00:59[INFO ] rule_match.pl-44    : Rule Chunk Tag:,VGNF
+21:02:14:03:00:59[INFO ] rule_match.pl-41    : RULE AT-NP
+21:02:14:03:00:59[INFO ] rule_match.pl-42    : Rule No--1228654
+21:02:14:03:00:59[INFO ] rule_match.pl-43    : Pos in Rule--,1
+21:02:14:03:00:59[INFO ] rule_match.pl-44    : Rule Chunk Tag:,VGNF
+21:02:14:03:00:59[INFO ] rule_match.pl-41    : RULE AT-NP
+21:02:14:03:00:59[INFO ] rule_match.pl-42    : Rule No--1228655
+21:02:14:03:00:59[INFO ] rule_match.pl-43    : Pos in Rule--,1
+21:02:14:03:00:59[INFO ] rule_match.pl-44    : Rule Chunk Tag:,VGNF
+21:02:14:03:00:59[INFO ] rule_match.pl-41    : RULE AT-NP
+21:02:14:03:00:59[INFO ] rule_match.pl-42    : Rule No--1228656
+21:02:14:03:00:59[INFO ] rule_match.pl-43    : Pos in Rule--,1
+21:02:14:03:00:59[INFO ] rule_match.pl-44    : Rule Chunk Tag:,VGNF
+21:02:14:03:00:59[INFO ] rule_match.pl-41    : RULE AT-NP
+21:02:14:03:00:59[INFO ] rule_match.pl-42    : Rule No--1228657
+21:02:14:03:00:59[INFO ] rule_match.pl-43    : Pos in Rule--,1
+21:02:14:03:00:59[INFO ] rule_match.pl-44    : Rule Chunk Tag:,VGNF
+21:02:14:03:00:59[INFO ] rule_match.pl-41    : RULE AT-NP
+21:02:14:03:00:59[INFO ] rule_match.pl-42    : Rule No--1228658
+21:02:14:03:00:59[INFO ] rule_match.pl-43    : Pos in Rule--,1
+21:02:14:03:00:59[INFO ] rule_match.pl-44    : Rule Chunk Tag:,VGNF
+21:02:14:03:00:59[INFO ] rule_match.pl-41    : RULE AT-NP
+21:02:14:03:00:59[INFO ] rule_match.pl-42    : Rule No--1228659
+21:02:14:03:00:59[INFO ] rule_match.pl-43    : Pos in Rule--,1
+21:02:14:03:00:59[INFO ] rule_match.pl-44    : Rule Chunk Tag:,VGNF
+21:02:14:03:00:59[INFO ] rule_match.pl-41    : RULE AT-NP
+21:02:14:03:00:59[INFO ] rule_match.pl-42    : Rule No--1228661
+21:02:14:03:00:59[INFO ] rule_match.pl-43    : Pos in Rule--,1
+21:02:14:03:00:59[INFO ] rule_match.pl-44    : Rule Chunk Tag:,VGNF
+21:02:14:03:00:59[INFO ] rule_match.pl-41    : RULE AT-NP
+21:02:14:03:00:59[INFO ] rule_match.pl-42    : Rule No--1228662
+21:02:14:03:00:59[INFO ] rule_match.pl-43    : Pos in Rule--,1
+21:02:14:03:00:59[INFO ] rule_match.pl-44    : Rule Chunk Tag:,VGNF
+21:02:14:03:00:59[INFO ] rule_match.pl-41    : RULE AT-NP
+21:02:14:03:00:59[INFO ] rule_match.pl-42    : Rule No--1228663
+21:02:14:03:00:59[INFO ] rule_match.pl-43    : Pos in Rule--,1
+21:02:14:03:00:59[INFO ] rule_match.pl-44    : Rule Chunk Tag:,VGNF
+21:02:14:03:00:59[INFO ] rule_match.pl-41    : RULE AT-NP
+21:02:14:03:00:59[INFO ] rule_match.pl-42    : Rule No--1228664
+21:02:14:03:00:59[INFO ] rule_match.pl-43    : Pos in Rule--,1
+21:02:14:03:00:59[INFO ] rule_match.pl-44    : Rule Chunk Tag:,VGNF
+21:02:14:03:00:59[INFO ] rule_match.pl-41    : RULE AT-NP
+21:02:14:03:00:59[INFO ] rule_match.pl-42    : Rule No--1228671
+21:02:14:03:00:59[INFO ] rule_match.pl-43    : Pos in Rule--,1
+21:02:14:03:00:59[INFO ] rule_match.pl-44    : Rule Chunk Tag:,VGNF
+21:02:14:03:00:59[INFO ] rule_match.pl-41    : RULE AT-NP
+21:02:14:03:00:59[INFO ] rule_match.pl-42    : Rule No--1228672
+21:02:14:03:00:59[INFO ] rule_match.pl-43    : Pos in Rule--,1
+21:02:14:03:00:59[INFO ] rule_match.pl-44    : Rule Chunk Tag:,VGNF
+21:02:14:03:00:59[INFO ] rule_match.pl-41    : RULE AT-NP
+21:02:14:03:00:59[INFO ] rule_match.pl-42    : Rule No--1228673
+21:02:14:03:00:59[INFO ] rule_match.pl-43    : Pos in Rule--,1
+21:02:14:03:00:59[INFO ] rule_match.pl-44    : Rule Chunk Tag:,VGNF
+21:02:14:03:00:59[INFO ] rule_match.pl-41    : RULE AT-NP
+21:02:14:03:00:59[INFO ] rule_match.pl-42    : Rule No--1228674
+21:02:14:03:00:59[INFO ] rule_match.pl-43    : Pos in Rule--,1
+21:02:14:03:00:59[INFO ] rule_match.pl-44    : Rule Chunk Tag:,VGNF
+21:02:14:03:00:59[INFO ] rule_match.pl-41    : RULE AT-NP
+21:02:14:03:00:59[INFO ] rule_match.pl-42    : Rule No--1
+21:02:14:03:00:59[INFO ] rule_match.pl-43    : Pos in Rule--,1
+21:02:14:03:00:59[INFO ] rule_match.pl-44    : Rule Chunk Tag:,NP
+21:02:14:03:00:59[INFO ] rule_match.pl-328   : Word::krikeVt ::Pos::NN ::Fs::
+21:02:14:03:00:59[INFO ] rule_match.pl-330   : Part Flag Val=1
+21:02:14:03:00:59[INFO ] rule_match.pl-328   : Word::[ ::Pos::SYM ::Fs::
+21:02:14:03:00:59[INFO ] rule_match.pl-330   : Part Flag Val=1
+21:02:14:03:00:59[INFO ] rule_match.pl-343   : Flag Val=1
+21:02:14:03:00:59[INFO ] rule_match.pl-41    : RULE AT-VGF
+21:02:14:03:00:59[INFO ] rule_match.pl-42    : Rule No--1
+21:02:14:03:00:59[INFO ] rule_match.pl-43    : Pos in Rule--,2
+21:02:14:03:00:59[INFO ] rule_match.pl-44    : Rule Chunk Tag:,JJP
+21:02:14:03:00:59[INFO ] rule_match.pl-41    : RULE AT-NP
+21:02:14:03:00:59[INFO ] rule_match.pl-42    : Rule No--2
+21:02:14:03:00:59[INFO ] rule_match.pl-43    : Pos in Rule--,1
+21:02:14:03:00:59[INFO ] rule_match.pl-44    : Rule Chunk Tag:,NP
+21:02:14:03:00:59[INFO ] rule_match.pl-51    : DROP NP
+21:02:14:03:00:59[INFO ] rule_match.pl-328   : Word::krikeVt ::Pos::NN ::Fs::
+21:02:14:03:00:59[INFO ] rule_match.pl-198   : Variable:$n Value:sg
+21:02:14:03:00:59[INFO ] rule_match.pl-198   : Variable:$p Value:
+21:02:14:03:00:59[INFO ] rule_match.pl-198   : Variable:$a Value:krikeVt
+21:02:14:03:00:59[INFO ] rule_match.pl-290   : Input Value and Rule Value :NST and NN Don't Match
+21:02:14:03:00:59[INFO ] rule_match.pl-330   : Part Flag Val=0
+21:02:14:03:00:59[INFO ] rule_match.pl-41    : RULE AT-NP
+21:02:14:03:00:59[INFO ] rule_match.pl-42    : Rule No--3
+21:02:14:03:00:59[INFO ] rule_match.pl-43    : Pos in Rule--,1
+21:02:14:03:00:59[INFO ] rule_match.pl-44    : Rule Chunk Tag:,NP
+21:02:14:03:00:59[INFO ] rule_match.pl-328   : Word::krikeVt ::Pos::NN ::Fs::
+21:02:14:03:00:59[INFO ] rule_match.pl-290   : Input Value and Rule Value :o and d Don't Match
+21:02:14:03:00:59[INFO ] rule_match.pl-330   : Part Flag Val=0
+21:02:14:03:00:59[INFO ] rule_match.pl-41    : RULE AT-NP
+21:02:14:03:00:59[INFO ] rule_match.pl-42    : Rule No--4
+21:02:14:03:00:59[INFO ] rule_match.pl-43    : Pos in Rule--,1
+21:02:14:03:00:59[INFO ] rule_match.pl-44    : Rule Chunk Tag:,VGNF
+21:02:14:03:00:59[INFO ] rule_match.pl-41    : RULE AT-NP
+21:02:14:03:00:59[INFO ] rule_match.pl-42    : Rule No--5
+21:02:14:03:00:59[INFO ] rule_match.pl-43    : Pos in Rule--,1
+21:02:14:03:00:59[INFO ] rule_match.pl-44    : Rule Chunk Tag:,NP
+21:02:14:03:00:59[INFO ] rule_match.pl-328   : Word::krikeVt ::Pos::NN ::Fs::
+21:02:14:03:00:59[INFO ] rule_match.pl-290   : Input Value and Rule Value :QC and NN Don't Match
+21:02:14:03:00:59[INFO ] rule_match.pl-330   : Part Flag Val=0
+21:02:14:03:00:59[INFO ] rule_match.pl-41    : RULE AT-NP
+21:02:14:03:00:59[INFO ] rule_match.pl-42    : Rule No--6
+21:02:14:03:00:59[INFO ] rule_match.pl-43    : Pos in Rule--,1
+21:02:14:03:00:59[INFO ] rule_match.pl-44    : Rule Chunk Tag:,NP
+21:02:14:03:00:59[INFO ] rule_match.pl-328   : Word::krikeVt ::Pos::NN ::Fs::
+21:02:14:03:00:59[INFO ] rule_match.pl-290   : Input Value and Rule Value :$a._A and 0 Don't Match
+21:02:14:03:00:59[INFO ] rule_match.pl-330   : Part Flag Val=0
+21:02:14:03:00:59[INFO ] rule_match.pl-41    : RULE AT-NP
+21:02:14:03:00:59[INFO ] rule_match.pl-42    : Rule No--7
+21:02:14:03:00:59[INFO ] rule_match.pl-43    : Pos in Rule--,1
+21:02:14:03:00:59[INFO ] rule_match.pl-44    : Rule Chunk Tag:,VGNF
+21:02:14:03:00:59[INFO ] rule_match.pl-41    : RULE AT-NP
+21:02:14:03:00:59[INFO ] rule_match.pl-42    : Rule No--8
+21:02:14:03:00:59[INFO ] rule_match.pl-43    : Pos in Rule--,1
+21:02:14:03:00:59[INFO ] rule_match.pl-44    : Rule Chunk Tag:,NP
+21:02:14:03:00:59[INFO ] rule_match.pl-51    : DROP NP
+21:02:14:03:00:59[INFO ] rule_match.pl-328   : Word::krikeVt ::Pos::NN ::Fs::
+21:02:14:03:00:59[INFO ] rule_match.pl-198   : Variable:$n Value:sg
+21:02:14:03:00:59[INFO ] rule_match.pl-290   : Input Value and Rule Value :ti and 0 Don't Match
+21:02:14:03:00:59[INFO ] rule_match.pl-330   : Part Flag Val=0
+21:02:14:03:00:59[INFO ] rule_match.pl-41    : RULE AT-NP
+21:02:14:03:00:59[INFO ] rule_match.pl-42    : Rule No--10
+21:02:14:03:00:59[INFO ] rule_match.pl-43    : Pos in Rule--,1
+21:02:14:03:00:59[INFO ] rule_match.pl-44    : Rule Chunk Tag:,NP
+21:02:14:03:00:59[INFO ] rule_match.pl-328   : Word::krikeVt ::Pos::NN ::Fs::
+21:02:14:03:00:59[INFO ] rule_match.pl-330   : Part Flag Val=1
+21:02:14:03:00:59[INFO ] rule_match.pl-328   : Word::[ ::Pos::SYM ::Fs::
+21:02:14:03:00:59[INFO ] rule_match.pl-290   : Input Value and Rule Value :JJ and SYM Don't Match
+21:02:14:03:00:59[INFO ] rule_match.pl-330   : Part Flag Val=0
+21:02:14:03:00:59[INFO ] rule_match.pl-41    : RULE AT-NP
+21:02:14:03:00:59[INFO ] rule_match.pl-42    : Rule No--11
+21:02:14:03:00:59[INFO ] rule_match.pl-43    : Pos in Rule--,1
+21:02:14:03:00:59[INFO ] rule_match.pl-44    : Rule Chunk Tag:,NP
+21:02:14:03:00:59[INFO ] rule_match.pl-328   : Word::krikeVt ::Pos::NN ::Fs::
+21:02:14:03:00:59[INFO ] rule_match.pl-290   : Input Value and Rule Value :o and d Don't Match
+21:02:14:03:00:59[INFO ] rule_match.pl-330   : Part Flag Val=0
+21:02:14:03:00:59[INFO ] rule_match.pl-41    : RULE AT-NP
+21:02:14:03:00:59[INFO ] rule_match.pl-42    : Rule No--12
+21:02:14:03:00:59[INFO ] rule_match.pl-43    : Pos in Rule--,1
+21:02:14:03:00:59[INFO ] rule_match.pl-44    : Rule Chunk Tag:,NP
+21:02:14:03:00:59[INFO ] rule_match.pl-328   : Word::krikeVt ::Pos::NN ::Fs::
+21:02:14:03:00:59[INFO ] rule_match.pl-290   : Input Value and Rule Value :JJ and NN Don't Match
+21:02:14:03:00:59[INFO ] rule_match.pl-330   : Part Flag Val=0
+21:02:14:03:00:59[INFO ] rule_match.pl-41    : RULE AT-NP
+21:02:14:03:00:59[INFO ] rule_match.pl-42    : Rule No--13
+21:02:14:03:00:59[INFO ] rule_match.pl-43    : Pos in Rule--,1
+21:02:14:03:00:59[INFO ] rule_match.pl-44    : Rule Chunk Tag:,NP
+21:02:14:03:00:59[INFO ] rule_match.pl-328   : Word::krikeVt ::Pos::NN ::Fs::
+21:02:14:03:00:59[INFO ] rule_match.pl-290   : Input Value and Rule Value :QC and NN Don't Match
+21:02:14:03:00:59[INFO ] rule_match.pl-330   : Part Flag Val=0
+21:02:14:03:00:59[INFO ] rule_match.pl-41    : RULE AT-NP
+21:02:14:03:00:59[INFO ] rule_match.pl-42    : Rule No--14
+21:02:14:03:00:59[INFO ] rule_match.pl-43    : Pos in Rule--,1
+21:02:14:03:00:59[INFO ] rule_match.pl-44    : Rule Chunk Tag:,NP
+21:02:14:03:00:59[INFO ] rule_match.pl-328   : Word::krikeVt ::Pos::NN ::Fs::
+21:02:14:03:00:59[INFO ] rule_match.pl-330   : Part Flag Val=1
+21:02:14:03:00:59[INFO ] rule_match.pl-328   : Word::[ ::Pos::SYM ::Fs::
+21:02:14:03:00:59[INFO ] rule_match.pl-330   : Part Flag Val=1
+21:02:14:03:00:59[INFO ] rule_match.pl-343   : Flag Val=1
+21:02:14:03:00:59[INFO ] rule_match.pl-41    : RULE AT-VGF
+21:02:14:03:00:59[INFO ] rule_match.pl-42    : Rule No--14
+21:02:14:03:00:59[INFO ] rule_match.pl-43    : Pos in Rule--,2
+21:02:14:03:00:59[INFO ] rule_match.pl-44    : Rule Chunk Tag:,RBP
+21:02:14:03:00:59[INFO ] rule_match.pl-41    : RULE AT-NP
+21:02:14:03:00:59[INFO ] rule_match.pl-42    : Rule No--15
+21:02:14:03:00:59[INFO ] rule_match.pl-43    : Pos in Rule--,1
+21:02:14:03:00:59[INFO ] rule_match.pl-44    : Rule Chunk Tag:,VGF
+21:02:14:03:00:59[INFO ] rule_match.pl-41    : RULE AT-NP
+21:02:14:03:00:59[INFO ] rule_match.pl-42    : Rule No--17
+21:02:14:03:00:59[INFO ] rule_match.pl-43    : Pos in Rule--,1
+21:02:14:03:00:59[INFO ] rule_match.pl-44    : Rule Chunk Tag:,NP
+21:02:14:03:00:59[INFO ] rule_match.pl-328   : Word::krikeVt ::Pos::NN ::Fs::
+21:02:14:03:00:59[INFO ] rule_match.pl-290   : Input Value and Rule Value :QC and NN Don't Match
+21:02:14:03:00:59[INFO ] rule_match.pl-330   : Part Flag Val=0
+21:02:14:03:00:59[INFO ] rule_match.pl-41    : RULE AT-NP
+21:02:14:03:00:59[INFO ] rule_match.pl-42    : Rule No--18
+21:02:14:03:00:59[INFO ] rule_match.pl-43    : Pos in Rule--,1
+21:02:14:03:00:59[INFO ] rule_match.pl-44    : Rule Chunk Tag:,NP
+21:02:14:03:00:59[INFO ] rule_match.pl-328   : Word::krikeVt ::Pos::NN ::Fs::
+21:02:14:03:00:59[INFO ] rule_match.pl-290   : Input Value and Rule Value :JJ and NN Don't Match
+21:02:14:03:00:59[INFO ] rule_match.pl-330   : Part Flag Val=0
+21:02:14:03:00:59[INFO ] rule_match.pl-41    : RULE AT-NP
+21:02:14:03:00:59[INFO ] rule_match.pl-42    : Rule No--19
+21:02:14:03:00:59[INFO ] rule_match.pl-43    : Pos in Rule--,1
+21:02:14:03:00:59[INFO ] rule_match.pl-44    : Rule Chunk Tag:,NP
+21:02:14:03:00:59[INFO ] rule_match.pl-328   : Word::krikeVt ::Pos::NN ::Fs::
+21:02:14:03:00:59[INFO ] rule_match.pl-290   : Input Value and Rule Value :JJ and NN Don't Match
+21:02:14:03:00:59[INFO ] rule_match.pl-330   : Part Flag Val=0
+21:02:14:03:00:59[INFO ] rule_match.pl-41    : RULE AT-NP
+21:02:14:03:00:59[INFO ] rule_match.pl-42    : Rule No--11
+21:02:14:03:00:59[INFO ] rule_match.pl-43    : Pos in Rule--,1
+21:02:14:03:00:59[INFO ] rule_match.pl-44    : Rule Chunk Tag:,NP
+21:02:14:03:00:59[INFO ] rule_match.pl-328   : Word::krikeVt ::Pos::NN ::Fs::
+21:02:14:03:00:59[INFO ] rule_match.pl-330   : Part Flag Val=1
+21:02:14:03:00:59[INFO ] rule_match.pl-328   : Word::[ ::Pos::SYM ::Fs::
+21:02:14:03:00:59[INFO ] rule_match.pl-330   : Part Flag Val=1
+21:02:14:03:00:59[INFO ] rule_match.pl-343   : Flag Val=1
+21:02:14:03:00:59[INFO ] rule_match.pl-41    : RULE AT-VGF
+21:02:14:03:00:59[INFO ] rule_match.pl-42    : Rule No--11
+21:02:14:03:00:59[INFO ] rule_match.pl-43    : Pos in Rule--,2
+21:02:14:03:00:59[INFO ] rule_match.pl-44    : Rule Chunk Tag:,NP
+21:02:14:03:00:59[INFO ] rule_match.pl-41    : RULE AT-NP
+21:02:14:03:00:59[INFO ] rule_match.pl-42    : Rule No--11
+21:02:14:03:00:59[INFO ] rule_match.pl-43    : Pos in Rule--,1
+21:02:14:03:00:59[INFO ] rule_match.pl-44    : Rule Chunk Tag:,NP
+21:02:14:03:00:59[INFO ] rule_match.pl-328   : Word::krikeVt ::Pos::NN ::Fs::
+21:02:14:03:00:59[INFO ] rule_match.pl-290   : Input Value and Rule Value :NNP and NN Don't Match
+21:02:14:03:00:59[INFO ] rule_match.pl-330   : Part Flag Val=0
+21:02:14:03:00:59[INFO ] rule_match.pl-41    : RULE AT-NP
+21:02:14:03:00:59[INFO ] rule_match.pl-42    : Rule No--11
+21:02:14:03:00:59[INFO ] rule_match.pl-43    : Pos in Rule--,1
+21:02:14:03:00:59[INFO ] rule_match.pl-44    : Rule Chunk Tag:,NP
+21:02:14:03:00:59[INFO ] rule_match.pl-328   : Word::krikeVt ::Pos::NN ::Fs::
+21:02:14:03:00:59[INFO ] rule_match.pl-290   : Input Value and Rule Value :PRP and NN Don't Match
+21:02:14:03:00:59[INFO ] rule_match.pl-330   : Part Flag Val=0
+21:02:14:03:00:59[INFO ] rule_match.pl-41    : RULE AT-NP
+21:02:14:03:00:59[INFO ] rule_match.pl-42    : Rule No--11
+21:02:14:03:00:59[INFO ] rule_match.pl-43    : Pos in Rule--,1
+21:02:14:03:00:59[INFO ] rule_match.pl-44    : Rule Chunk Tag:,NP
+21:02:14:03:00:59[INFO ] rule_match.pl-328   : Word::krikeVt ::Pos::NN ::Fs::
+21:02:14:03:00:59[INFO ] rule_match.pl-198   : Variable:$a Value:krikeVt
+21:02:14:03:00:59[INFO ] rule_match.pl-290   : Input Value and Rule Value :NST and NN Don't Match
+21:02:14:03:00:59[INFO ] rule_match.pl-330   : Part Flag Val=0
+21:02:14:03:00:59[INFO ] rule_match.pl-41    : RULE AT-NP
+21:02:14:03:00:59[INFO ] rule_match.pl-42    : Rule No--1228650
+21:02:14:03:00:59[INFO ] rule_match.pl-43    : Pos in Rule--,1
+21:02:14:03:00:59[INFO ] rule_match.pl-44    : Rule Chunk Tag:,VGNF
+21:02:14:03:00:59[INFO ] rule_match.pl-41    : RULE AT-NP
+21:02:14:03:00:59[INFO ] rule_match.pl-42    : Rule No--1228651
+21:02:14:03:00:59[INFO ] rule_match.pl-43    : Pos in Rule--,1
+21:02:14:03:00:59[INFO ] rule_match.pl-44    : Rule Chunk Tag:,VGNF
+21:02:14:03:00:59[INFO ] rule_match.pl-41    : RULE AT-NP
+21:02:14:03:00:59[INFO ] rule_match.pl-42    : Rule No--1228652
+21:02:14:03:00:59[INFO ] rule_match.pl-43    : Pos in Rule--,1
+21:02:14:03:00:59[INFO ] rule_match.pl-44    : Rule Chunk Tag:,VGNF
+21:02:14:03:00:59[INFO ] rule_match.pl-41    : RULE AT-NP
+21:02:14:03:00:59[INFO ] rule_match.pl-42    : Rule No--1228653
+21:02:14:03:00:59[INFO ] rule_match.pl-43    : Pos in Rule--,1
+21:02:14:03:00:59[INFO ] rule_match.pl-44    : Rule Chunk Tag:,VGNF
+21:02:14:03:00:59[INFO ] rule_match.pl-41    : RULE AT-NP
+21:02:14:03:00:59[INFO ] rule_match.pl-42    : Rule No--1228654
+21:02:14:03:00:59[INFO ] rule_match.pl-43    : Pos in Rule--,1
+21:02:14:03:00:59[INFO ] rule_match.pl-44    : Rule Chunk Tag:,VGNF
+21:02:14:03:00:59[INFO ] rule_match.pl-41    : RULE AT-NP
+21:02:14:03:00:59[INFO ] rule_match.pl-42    : Rule No--1228655
+21:02:14:03:00:59[INFO ] rule_match.pl-43    : Pos in Rule--,1
+21:02:14:03:00:59[INFO ] rule_match.pl-44    : Rule Chunk Tag:,VGNF
+21:02:14:03:00:59[INFO ] rule_match.pl-41    : RULE AT-NP
+21:02:14:03:00:59[INFO ] rule_match.pl-42    : Rule No--1228656
+21:02:14:03:00:59[INFO ] rule_match.pl-43    : Pos in Rule--,1
+21:02:14:03:00:59[INFO ] rule_match.pl-44    : Rule Chunk Tag:,VGNF
+21:02:14:03:00:59[INFO ] rule_match.pl-41    : RULE AT-NP
+21:02:14:03:00:59[INFO ] rule_match.pl-42    : Rule No--1228657
+21:02:14:03:00:59[INFO ] rule_match.pl-43    : Pos in Rule--,1
+21:02:14:03:00:59[INFO ] rule_match.pl-44    : Rule Chunk Tag:,VGNF
+21:02:14:03:00:59[INFO ] rule_match.pl-41    : RULE AT-NP
+21:02:14:03:00:59[INFO ] rule_match.pl-42    : Rule No--1228658
+21:02:14:03:00:59[INFO ] rule_match.pl-43    : Pos in Rule--,1
+21:02:14:03:00:59[INFO ] rule_match.pl-44    : Rule Chunk Tag:,VGNF
+21:02:14:03:00:59[INFO ] rule_match.pl-41    : RULE AT-NP
+21:02:14:03:00:59[INFO ] rule_match.pl-42    : Rule No--1228659
+21:02:14:03:00:59[INFO ] rule_match.pl-43    : Pos in Rule--,1
+21:02:14:03:00:59[INFO ] rule_match.pl-44    : Rule Chunk Tag:,VGNF
+21:02:14:03:00:59[INFO ] rule_match.pl-41    : RULE AT-NP
+21:02:14:03:00:59[INFO ] rule_match.pl-42    : Rule No--1228661
+21:02:14:03:00:59[INFO ] rule_match.pl-43    : Pos in Rule--,1
+21:02:14:03:00:59[INFO ] rule_match.pl-44    : Rule Chunk Tag:,VGNF
+21:02:14:03:00:59[INFO ] rule_match.pl-41    : RULE AT-NP
+21:02:14:03:00:59[INFO ] rule_match.pl-42    : Rule No--1228662
+21:02:14:03:00:59[INFO ] rule_match.pl-43    : Pos in Rule--,1
+21:02:14:03:00:59[INFO ] rule_match.pl-44    : Rule Chunk Tag:,VGNF
+21:02:14:03:00:59[INFO ] rule_match.pl-41    : RULE AT-NP
+21:02:14:03:00:59[INFO ] rule_match.pl-42    : Rule No--1228663
+21:02:14:03:00:59[INFO ] rule_match.pl-43    : Pos in Rule--,1
+21:02:14:03:00:59[INFO ] rule_match.pl-44    : Rule Chunk Tag:,VGNF
+21:02:14:03:00:59[INFO ] rule_match.pl-41    : RULE AT-NP
+21:02:14:03:00:59[INFO ] rule_match.pl-42    : Rule No--1228664
+21:02:14:03:00:59[INFO ] rule_match.pl-43    : Pos in Rule--,1
+21:02:14:03:00:59[INFO ] rule_match.pl-44    : Rule Chunk Tag:,VGNF
+21:02:14:03:00:59[INFO ] rule_match.pl-41    : RULE AT-NP
+21:02:14:03:00:59[INFO ] rule_match.pl-42    : Rule No--1228671
+21:02:14:03:00:59[INFO ] rule_match.pl-43    : Pos in Rule--,1
+21:02:14:03:00:59[INFO ] rule_match.pl-44    : Rule Chunk Tag:,VGNF
+21:02:14:03:00:59[INFO ] rule_match.pl-41    : RULE AT-NP
+21:02:14:03:00:59[INFO ] rule_match.pl-42    : Rule No--1228672
+21:02:14:03:00:59[INFO ] rule_match.pl-43    : Pos in Rule--,1
+21:02:14:03:00:59[INFO ] rule_match.pl-44    : Rule Chunk Tag:,VGNF
+21:02:14:03:00:59[INFO ] rule_match.pl-41    : RULE AT-NP
+21:02:14:03:00:59[INFO ] rule_match.pl-42    : Rule No--1228673
+21:02:14:03:00:59[INFO ] rule_match.pl-43    : Pos in Rule--,1
+21:02:14:03:00:59[INFO ] rule_match.pl-44    : Rule Chunk Tag:,VGNF
+21:02:14:03:00:59[INFO ] rule_match.pl-41    : RULE AT-NP
+21:02:14:03:00:59[INFO ] rule_match.pl-42    : Rule No--1228674
+21:02:14:03:00:59[INFO ] rule_match.pl-43    : Pos in Rule--,1
+21:02:14:03:00:59[INFO ] rule_match.pl-44    : Rule Chunk Tag:,VGNF
+21:02:14:03:00:59[INFO ] rule_match.pl-41    : RULE AT-VGF
+21:02:14:03:00:59[INFO ] rule_match.pl-42    : Rule No--1
+21:02:14:03:00:59[INFO ] rule_match.pl-43    : Pos in Rule--,1
+21:02:14:03:00:59[INFO ] rule_match.pl-44    : Rule Chunk Tag:,NP
+21:02:14:03:00:59[INFO ] rule_match.pl-41    : RULE AT-VGF
+21:02:14:03:00:59[INFO ] rule_match.pl-42    : Rule No--2
+21:02:14:03:00:59[INFO ] rule_match.pl-43    : Pos in Rule--,1
+21:02:14:03:00:59[INFO ] rule_match.pl-44    : Rule Chunk Tag:,NP
+21:02:14:03:00:59[INFO ] rule_match.pl-41    : RULE AT-VGF
+21:02:14:03:00:59[INFO ] rule_match.pl-42    : Rule No--3
+21:02:14:03:00:59[INFO ] rule_match.pl-43    : Pos in Rule--,1
+21:02:14:03:00:59[INFO ] rule_match.pl-44    : Rule Chunk Tag:,NP
+21:02:14:03:00:59[INFO ] rule_match.pl-41    : RULE AT-VGF
+21:02:14:03:00:59[INFO ] rule_match.pl-42    : Rule No--4
+21:02:14:03:00:59[INFO ] rule_match.pl-43    : Pos in Rule--,1
+21:02:14:03:00:59[INFO ] rule_match.pl-44    : Rule Chunk Tag:,VGNF
+21:02:14:03:00:59[INFO ] rule_match.pl-41    : RULE AT-VGF
+21:02:14:03:00:59[INFO ] rule_match.pl-42    : Rule No--5
+21:02:14:03:00:59[INFO ] rule_match.pl-43    : Pos in Rule--,1
+21:02:14:03:00:59[INFO ] rule_match.pl-44    : Rule Chunk Tag:,NP
+21:02:14:03:00:59[INFO ] rule_match.pl-41    : RULE AT-VGF
+21:02:14:03:00:59[INFO ] rule_match.pl-42    : Rule No--6
+21:02:14:03:00:59[INFO ] rule_match.pl-43    : Pos in Rule--,1
+21:02:14:03:00:59[INFO ] rule_match.pl-44    : Rule Chunk Tag:,NP
+21:02:14:03:00:59[INFO ] rule_match.pl-41    : RULE AT-VGF
+21:02:14:03:00:59[INFO ] rule_match.pl-42    : Rule No--7
+21:02:14:03:00:59[INFO ] rule_match.pl-43    : Pos in Rule--,1
+21:02:14:03:00:59[INFO ] rule_match.pl-44    : Rule Chunk Tag:,VGNF
+21:02:14:03:00:59[INFO ] rule_match.pl-41    : RULE AT-VGF
+21:02:14:03:00:59[INFO ] rule_match.pl-42    : Rule No--8
+21:02:14:03:00:59[INFO ] rule_match.pl-43    : Pos in Rule--,1
+21:02:14:03:00:59[INFO ] rule_match.pl-44    : Rule Chunk Tag:,NP
+21:02:14:03:00:59[INFO ] rule_match.pl-41    : RULE AT-VGF
+21:02:14:03:00:59[INFO ] rule_match.pl-42    : Rule No--10
+21:02:14:03:00:59[INFO ] rule_match.pl-43    : Pos in Rule--,1
+21:02:14:03:00:59[INFO ] rule_match.pl-44    : Rule Chunk Tag:,NP
+21:02:14:03:00:59[INFO ] rule_match.pl-41    : RULE AT-VGF
+21:02:14:03:00:59[INFO ] rule_match.pl-42    : Rule No--11
+21:02:14:03:00:59[INFO ] rule_match.pl-43    : Pos in Rule--,1
+21:02:14:03:00:59[INFO ] rule_match.pl-44    : Rule Chunk Tag:,NP
+21:02:14:03:00:59[INFO ] rule_match.pl-41    : RULE AT-VGF
+21:02:14:03:00:59[INFO ] rule_match.pl-42    : Rule No--12
+21:02:14:03:00:59[INFO ] rule_match.pl-43    : Pos in Rule--,1
+21:02:14:03:00:59[INFO ] rule_match.pl-44    : Rule Chunk Tag:,NP
+21:02:14:03:00:59[INFO ] rule_match.pl-41    : RULE AT-VGF
+21:02:14:03:00:59[INFO ] rule_match.pl-42    : Rule No--13
+21:02:14:03:00:59[INFO ] rule_match.pl-43    : Pos in Rule--,1
+21:02:14:03:00:59[INFO ] rule_match.pl-44    : Rule Chunk Tag:,NP
+21:02:14:03:00:59[INFO ] rule_match.pl-41    : RULE AT-VGF
+21:02:14:03:00:59[INFO ] rule_match.pl-42    : Rule No--14
+21:02:14:03:00:59[INFO ] rule_match.pl-43    : Pos in Rule--,1
+21:02:14:03:00:59[INFO ] rule_match.pl-44    : Rule Chunk Tag:,NP
+21:02:14:03:00:59[INFO ] rule_match.pl-41    : RULE AT-VGF
+21:02:14:03:00:59[INFO ] rule_match.pl-42    : Rule No--15
+21:02:14:03:00:59[INFO ] rule_match.pl-43    : Pos in Rule--,1
+21:02:14:03:00:59[INFO ] rule_match.pl-44    : Rule Chunk Tag:,VGF
+21:02:14:03:00:59[INFO ] rule_match.pl-51    : DROP VGF
+21:02:14:03:00:59[INFO ] rule_match.pl-328   : Word::mArcu ::Pos::VM ::Fs::
+21:02:14:03:00:59[INFO ] rule_match.pl-290   : Input Value and Rule Value :inA and AjFArWa Don't Match
+21:02:14:03:00:59[INFO ] rule_match.pl-330   : Part Flag Val=0
+21:02:14:03:00:59[INFO ] rule_match.pl-41    : RULE AT-VGF
+21:02:14:03:00:59[INFO ] rule_match.pl-42    : Rule No--17
+21:02:14:03:00:59[INFO ] rule_match.pl-43    : Pos in Rule--,1
+21:02:14:03:00:59[INFO ] rule_match.pl-44    : Rule Chunk Tag:,NP
+21:02:14:03:00:59[INFO ] rule_match.pl-41    : RULE AT-VGF
+21:02:14:03:00:59[INFO ] rule_match.pl-42    : Rule No--18
+21:02:14:03:00:59[INFO ] rule_match.pl-43    : Pos in Rule--,1
+21:02:14:03:00:59[INFO ] rule_match.pl-44    : Rule Chunk Tag:,NP
+21:02:14:03:00:59[INFO ] rule_match.pl-41    : RULE AT-VGF
+21:02:14:03:00:59[INFO ] rule_match.pl-42    : Rule No--19
+21:02:14:03:00:59[INFO ] rule_match.pl-43    : Pos in Rule--,1
+21:02:14:03:00:59[INFO ] rule_match.pl-44    : Rule Chunk Tag:,NP
+21:02:14:03:00:59[INFO ] rule_match.pl-41    : RULE AT-VGF
+21:02:14:03:00:59[INFO ] rule_match.pl-42    : Rule No--11
+21:02:14:03:00:59[INFO ] rule_match.pl-43    : Pos in Rule--,1
+21:02:14:03:00:59[INFO ] rule_match.pl-44    : Rule Chunk Tag:,NP
+21:02:14:03:00:59[INFO ] rule_match.pl-41    : RULE AT-VGF
+21:02:14:03:00:59[INFO ] rule_match.pl-42    : Rule No--11
+21:02:14:03:00:59[INFO ] rule_match.pl-43    : Pos in Rule--,1
+21:02:14:03:00:59[INFO ] rule_match.pl-44    : Rule Chunk Tag:,NP
+21:02:14:03:00:59[INFO ] rule_match.pl-41    : RULE AT-VGF
+21:02:14:03:00:59[INFO ] rule_match.pl-42    : Rule No--11
+21:02:14:03:00:59[INFO ] rule_match.pl-43    : Pos in Rule--,1
+21:02:14:03:00:59[INFO ] rule_match.pl-44    : Rule Chunk Tag:,NP
+21:02:14:03:00:59[INFO ] rule_match.pl-41    : RULE AT-VGF
+21:02:14:03:00:59[INFO ] rule_match.pl-42    : Rule No--11
+21:02:14:03:00:59[INFO ] rule_match.pl-43    : Pos in Rule--,1
+21:02:14:03:00:59[INFO ] rule_match.pl-44    : Rule Chunk Tag:,NP
+21:02:14:03:00:59[INFO ] rule_match.pl-41    : RULE AT-VGF
+21:02:14:03:00:59[INFO ] rule_match.pl-42    : Rule No--1228650
+21:02:14:03:00:59[INFO ] rule_match.pl-43    : Pos in Rule--,1
+21:02:14:03:00:59[INFO ] rule_match.pl-44    : Rule Chunk Tag:,VGNF
+21:02:14:03:00:59[INFO ] rule_match.pl-41    : RULE AT-VGF
+21:02:14:03:00:59[INFO ] rule_match.pl-42    : Rule No--1228651
+21:02:14:03:00:59[INFO ] rule_match.pl-43    : Pos in Rule--,1
+21:02:14:03:00:59[INFO ] rule_match.pl-44    : Rule Chunk Tag:,VGNF
+21:02:14:03:00:59[INFO ] rule_match.pl-41    : RULE AT-VGF
+21:02:14:03:00:59[INFO ] rule_match.pl-42    : Rule No--1228652
+21:02:14:03:00:59[INFO ] rule_match.pl-43    : Pos in Rule--,1
+21:02:14:03:00:59[INFO ] rule_match.pl-44    : Rule Chunk Tag:,VGNF
+21:02:14:03:00:59[INFO ] rule_match.pl-41    : RULE AT-VGF
+21:02:14:03:00:59[INFO ] rule_match.pl-42    : Rule No--1228653
+21:02:14:03:00:59[INFO ] rule_match.pl-43    : Pos in Rule--,1
+21:02:14:03:00:59[INFO ] rule_match.pl-44    : Rule Chunk Tag:,VGNF
+21:02:14:03:00:59[INFO ] rule_match.pl-41    : RULE AT-VGF
+21:02:14:03:00:59[INFO ] rule_match.pl-42    : Rule No--1228654
+21:02:14:03:00:59[INFO ] rule_match.pl-43    : Pos in Rule--,1
+21:02:14:03:00:59[INFO ] rule_match.pl-44    : Rule Chunk Tag:,VGNF
+21:02:14:03:00:59[INFO ] rule_match.pl-41    : RULE AT-VGF
+21:02:14:03:00:59[INFO ] rule_match.pl-42    : Rule No--1228655
+21:02:14:03:00:59[INFO ] rule_match.pl-43    : Pos in Rule--,1
+21:02:14:03:00:59[INFO ] rule_match.pl-44    : Rule Chunk Tag:,VGNF
+21:02:14:03:00:59[INFO ] rule_match.pl-41    : RULE AT-VGF
+21:02:14:03:00:59[INFO ] rule_match.pl-42    : Rule No--1228656
+21:02:14:03:00:59[INFO ] rule_match.pl-43    : Pos in Rule--,1
+21:02:14:03:00:59[INFO ] rule_match.pl-44    : Rule Chunk Tag:,VGNF
+21:02:14:03:00:59[INFO ] rule_match.pl-41    : RULE AT-VGF
+21:02:14:03:00:59[INFO ] rule_match.pl-42    : Rule No--1228657
+21:02:14:03:00:59[INFO ] rule_match.pl-43    : Pos in Rule--,1
+21:02:14:03:00:59[INFO ] rule_match.pl-44    : Rule Chunk Tag:,VGNF
+21:02:14:03:00:59[INFO ] rule_match.pl-41    : RULE AT-VGF
+21:02:14:03:00:59[INFO ] rule_match.pl-42    : Rule No--1228658
+21:02:14:03:00:59[INFO ] rule_match.pl-43    : Pos in Rule--,1
+21:02:14:03:00:59[INFO ] rule_match.pl-44    : Rule Chunk Tag:,VGNF
+21:02:14:03:00:59[INFO ] rule_match.pl-41    : RULE AT-VGF
+21:02:14:03:00:59[INFO ] rule_match.pl-42    : Rule No--1228659
+21:02:14:03:00:59[INFO ] rule_match.pl-43    : Pos in Rule--,1
+21:02:14:03:00:59[INFO ] rule_match.pl-44    : Rule Chunk Tag:,VGNF
+21:02:14:03:00:59[INFO ] rule_match.pl-41    : RULE AT-VGF
+21:02:14:03:00:59[INFO ] rule_match.pl-42    : Rule No--1228661
+21:02:14:03:00:59[INFO ] rule_match.pl-43    : Pos in Rule--,1
+21:02:14:03:00:59[INFO ] rule_match.pl-44    : Rule Chunk Tag:,VGNF
+21:02:14:03:00:59[INFO ] rule_match.pl-41    : RULE AT-VGF
+21:02:14:03:00:59[INFO ] rule_match.pl-42    : Rule No--1228662
+21:02:14:03:00:59[INFO ] rule_match.pl-43    : Pos in Rule--,1
+21:02:14:03:00:59[INFO ] rule_match.pl-44    : Rule Chunk Tag:,VGNF
+21:02:14:03:00:59[INFO ] rule_match.pl-41    : RULE AT-VGF
+21:02:14:03:00:59[INFO ] rule_match.pl-42    : Rule No--1228663
+21:02:14:03:00:59[INFO ] rule_match.pl-43    : Pos in Rule--,1
+21:02:14:03:00:59[INFO ] rule_match.pl-44    : Rule Chunk Tag:,VGNF
+21:02:14:03:00:59[INFO ] rule_match.pl-41    : RULE AT-VGF
+21:02:14:03:00:59[INFO ] rule_match.pl-42    : Rule No--1228664
+21:02:14:03:00:59[INFO ] rule_match.pl-43    : Pos in Rule--,1
+21:02:14:03:00:59[INFO ] rule_match.pl-44    : Rule Chunk Tag:,VGNF
+21:02:14:03:00:59[INFO ] rule_match.pl-41    : RULE AT-VGF
+21:02:14:03:00:59[INFO ] rule_match.pl-42    : Rule No--1228671
+21:02:14:03:00:59[INFO ] rule_match.pl-43    : Pos in Rule--,1
+21:02:14:03:00:59[INFO ] rule_match.pl-44    : Rule Chunk Tag:,VGNF
+21:02:14:03:00:59[INFO ] rule_match.pl-41    : RULE AT-VGF
+21:02:14:03:00:59[INFO ] rule_match.pl-42    : Rule No--1228672
+21:02:14:03:00:59[INFO ] rule_match.pl-43    : Pos in Rule--,1
+21:02:14:03:00:59[INFO ] rule_match.pl-44    : Rule Chunk Tag:,VGNF
+21:02:14:03:00:59[INFO ] rule_match.pl-41    : RULE AT-VGF
+21:02:14:03:00:59[INFO ] rule_match.pl-42    : Rule No--1228673
+21:02:14:03:00:59[INFO ] rule_match.pl-43    : Pos in Rule--,1
+21:02:14:03:00:59[INFO ] rule_match.pl-44    : Rule Chunk Tag:,VGNF
+21:02:14:03:00:59[INFO ] rule_match.pl-41    : RULE AT-VGF
+21:02:14:03:00:59[INFO ] rule_match.pl-42    : Rule No--1228674
+21:02:14:03:00:59[INFO ] rule_match.pl-43    : Pos in Rule--,1
+21:02:14:03:00:59[INFO ] rule_match.pl-44    : Rule Chunk Tag:,VGNF
+21:02:14:03:00:59[INFO ] chunk_repair.pl-131   : ##OUT of RULE MATCH func
+

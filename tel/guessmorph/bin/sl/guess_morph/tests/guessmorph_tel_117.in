@@ -1,0 +1,29 @@
+<Sentence id="1">
+1	((	NP	
+1.1	munmuMxu	NST	<fs af='munmuMxu,unk,,,,,,' poslcat="NM">
+	))		
+2	((	NP	
+2.1	I	DEM	<fs af='I,avy,,,,,,' poslcat="NM">|<fs af='I,avy,,,,,,' poslcat="NM">
+2.2	vaMweVnanu	NN	<fs af='vaMweVna,n,,sg,,,ni,ni'>|<fs af='vaMweVna,n,,sg,,,nu,nu'>
+	))		
+3	((	VGNF	
+3.1	viswariMcukune	VM	<fs af='viswariMcu,v,any,any,any,,koVn,koVn_e'>|<fs af='viswariMcu,v,any,any,any,,koVn_an,koVn_an_e'>|<fs af='viswariMcu,v,any,any,any,,koVn_i,koVn_i_e'>
+	))		
+4	((	NP	
+4.1	muMxucUpuwo	NN	<fs af='muMxucUpu,n,,sg,,,wo,wo'>
+	))		
+5	((	NP	
+5.1	nirmANa	JJ	<fs af='nirmANaM,n,,sg,,o,ti,ti' poslcat="NM">
+5.2	panulu	NN	<fs af='pani,n,,pl,,d,0,0'>|<fs af='pani,n,,pl,,,vu,vu'>
+	))		
+6	((	VGNF	
+6.1	cepattanunnatlu	VM	<fs af='cepattu,v,any,any,any,,a_uMdu_ina_atlu,a_uMdu_ina_atlu'>
+	))		
+7	((	NP	
+7.1	aXikArulu	NN	<fs af='aXikAri,n,,pl,,d,0,0'>|<fs af='aXikAri,n,,pl,,,vu,vu'>
+	))		
+8	((	VGF	
+8.1	veVlladiMcAru	VM	<fs af='veVlladiMcu,v,fm,pl,3,,A,A'>
+8.2	.	SYM	<fs af='&dot;,punc,,,,,,'>
+	))		
+</Sentence>

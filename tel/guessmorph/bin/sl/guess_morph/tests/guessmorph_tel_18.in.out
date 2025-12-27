@@ -1,0 +1,28 @@
+<Sentence id="1">			
+1	((	NP	
+1.1	rAjA	NN	<fs af='rAjA,n,,sg,,d,0,0'>|<fs af='rAjA,n,,sg,,o,ti,ti'>
+	))		
+2	((	NP	
+2.1	gOd	NN	<fs af='gOd,n,,sg,,d,0,0'>|<fs af='gOd,n,,sg,,o,ti,ti'>
+2.2	nu	PSP	<fs af='nu,avy,,,,,0,0_avy' poslcat="NM">
+	))		
+3	((	NP	
+3.1	prasannaM	NN	<fs af='prasannaM,n,,sg,,d,0,0'>
+	))		
+4	((	VGNF	
+4.1	cesukovadAniki	VM	<fs af='ceVyyi,v,,sg,,,koVn_adaM_ki,koVn_adaM_ki'>
+	))		
+5	((	NP	
+5.1	awanu	PRP	<fs af='awanu,pn,m,sg,3,d,0,0'>
+	))		
+6	((	VGNF	
+6.1	cesina	VM	<fs af='ceVyyi,v,any,any,any,,ina,ina'>
+	))		
+7	((	NP	
+7.1	prayawnAlu	NN	<fs af='prayawnaM,n,,pl,,d,0,0'>|<fs af='prayawnaM,n,,pl,,,vu,vu'>
+	))		
+8	((	VGF	
+8.1	PaliMcavu	VM	<fs af='PaliMcu,v,n,pl,3,,a,a'>
+8.2	.	SYM	<fs af='&dot;,punc,,,,,,'>
+	))		
+</Sentence>			

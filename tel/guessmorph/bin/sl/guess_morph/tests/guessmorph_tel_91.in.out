@@ -1,0 +1,13 @@
+<Sentence id="1">			
+1	((	NP	
+1.1	maMgoliyA	NNP	<fs af='maMgoliyA,unk,,,,,,' poslcat="NM">
+	))		
+2	((	NP	
+2.1	oVka	JJ	<fs af='oVka,adj,,,,,0,0_adj'>
+2.2	BUpariveRtiwa	NN	<fs af='BUpariveRtiwa,unk,,,,,,' poslcat="NM">
+	))		
+3	((	NP	
+3.1	xeSaM	NN	<fs af='xeSaM,n,,sg,,d,0,0'>
+3.2	.	SYM	<fs af='&dot;,punc,,,,,,'>
+	))		
+</Sentence>			

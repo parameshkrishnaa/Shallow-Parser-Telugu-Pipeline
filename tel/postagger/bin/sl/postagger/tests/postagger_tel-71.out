@@ -1,0 +1,12 @@
+<Sentence id="1">			
+1	varaMgallu	NNP	<fs af='varaMgallu,n,,sg,,d,0,0'>|<fs af='varaMgallu,n,,sg,,o,ti,ti'>|<fs af='varaMgal,n,,pl,,d,0,0'>|<fs af='varaMgal,n,,pl,,d,0,0'>|<fs af='varaMgal,n,,pl,,,vu,vu'>|<fs af='varaMgal,n,,pl,,,vu,vu'>
+2	weVlaMgANa	NNP	<fs af='weVlaMgANa,n,,sg,,d,0,0'>|<fs af='weVlaMgANa,n,,sg,,o,ti,ti'>
+3	lo	PSP	<fs af='lo,avy,,,,,,'>|<fs af='la,avy,,,,,o,o_avy'>
+4	reVMdo	QO	<fs af='reVMdo,adj,,,,,0,0_adj'>|<fs af='reVMdu,n,,sg,,,0,0_o'>|<fs af='reVMdu,num,,,,,ava,ava' deri_cat='n'>
+5	awi	INTF	<fs af='awi,avy,,,,,0,0_avy'>
+6	peVxxa	JJ	<fs af='peVxxa,adj,,,,,0,0_adj'>
+7	nagaraM	NN	<fs af='nagaraM,n,,sg,,d,0,0'>
+8	.	SYM	<fs af='&dot;,punc,,,,,,'>
+</Sentence>			
+<Sentence id="2">			
+</Sentence>			

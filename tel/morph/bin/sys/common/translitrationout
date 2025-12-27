@@ -1,0 +1,32 @@
+<Sentence id="1">			
+1	((	SSF	
+1.1	((	NP	<fs af='मील,n,,pl,,o,@टि,ti' head='mElYla'>
+1.1.1	@600	QC	<fs af='@600,num,,,,,@,'>
+1.1.2	मील	NN	<fs af='मील,n,,pl,,o,@टि,ti' name='mElYla'>
+	))		
+1.2	((	NP	<fs af='तट,n,,sg,,,से,wo' head='wIraMwo'>
+1.2.1	समुद्र_का_किनारा	NN	<fs af='समुद्र_का_किनारा,n,,sg,,d,@0,0'>
+1.2.2	तट	NN	<fs af='तट,n,,sg,,,से,wo' name='wIraMwo'>
+	))		
+1.3	((	VGNF	<fs af='होना,v,any,any,any,,या_है_जो_वह,ina' head='unna'>
+1.3.1	हो	VM	<fs af='हो,v,any,any,any,,या_है_जो_वह,ina' name='unna'>
+	))		
+1.4	((	NP	<fs af='आँध्रप्रदेश,n,,sg,,d,@0,0' head='AMXrapraxeS'>
+1.4.1	आँध्रप्रदेश	NNP	<fs af='आँध्रप्रदेश,n,,sg,,d,@0,0' name='AMXrapraxeS'>
+	))		
+1.5	((	NP	<fs af='उत्तर,n,,sg,,o,@का,ti' head='uwwara'>
+1.5.1	उत्तर	NN	<fs af='उत्तर,n,,sg,,o,@का,ti' name='uwwara'>
+1.5.2	@	SYM	<fs af='@,,punc,,,,@,'>
+	))		
+1.6	((	NP	<fs af='क्षेत्र,n,,pl,,,को,ki' head='prAMwAlaku'>
+1.6.1	दक्षिण	NN	<fs af='दक्षिण,n,,sg,,o,@का,ti'>
+1.6.2	क्षेत्र	NN	<fs af='क्षेत्र,n,,pl,,,को,ki' name='prAMwAlaku'>
+	))		
+1.7	((	NP	<fs af='पुल,n,,sg,,d,@0,0' head='vAraXi'>
+1.7.1	पुल	NN	<fs af='पुल,n,,sg,,d,@0,0' name='vAraXi'>
+	))		
+1.8	((	VGF	<fs af='.,punc,,,,,,' head='.'  poslcat='NM'>
+1.8.1	.	SYM	<fs af='.,punc,,,,,,' name='.'  poslcat='NM'>
+	))		
+	))		
+</Sentence>			

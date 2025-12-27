@@ -1,0 +1,20 @@
+<Sentence id="1">
+1	((	NP	
+1.1	araviMx	NNP	<fs af='araviMx,n,,sg,,d,0,0'>|<fs af='araviMx,n,,sg,,d,0,0'>|<fs af='araviMx,n,,sg,,o,ti,ti'>|<fs af='araviMx,n,,sg,,o,ti,ti'>
+	))		
+2	((	NP	
+2.1	kejrivAl	NNP	<fs af='kejrivAl,unk,,,,,,' poslcat="NM">
+	))		
+3	((	NP	
+3.1	BArawIya	JJ	<fs af='BArawIya,adj,,,,,0,0_adj'>
+3.2	sAmAjikavewwa	NN	<fs af='sAmAjikavewwa,unk,,,,,,' poslcat="NM">
+	))		
+4	((	CCP	
+4.1	mariyu	CC	<fs af='mariyu,avy,,,,,0,0_avy'>
+	))		
+5	((	NP	
+5.1	rAjakIya	JJ	<fs af='rAjakIya,adj,,,,,0,0_adj'>
+5.2	nAyakudu	NN	<fs af='nAyakudu,n,,sg,,d,0,0'>|<fs af='nAyakudu,n,,sg,,d,0,0'>
+5.3	.	SYM	<fs af='&dot;,punc,,,,,,'>
+	))		
+</Sentence>

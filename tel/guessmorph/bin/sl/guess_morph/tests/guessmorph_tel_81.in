@@ -1,0 +1,29 @@
+<Sentence id="1">
+1	((	NP	
+1.1	janavari	NN	<fs af='janavari,n,,sg,,d,0,0'>|<fs af='janavari,n,,sg,,o,ti,ti'>
+	))		
+2	((	NP	
+2.1	28	QC	<fs af='28,num,,,,,,'>
+2.2	,	SYM	<fs af='&comma;,punc,,,,,,'>
+	))		
+3	((	NP	
+3.1	2014	QC	<fs af='2014,num,,,,,,'>
+3.2	na	PSP	<fs af='na,avy,,,,,0,0_avy' poslcat="NM">
+	))		
+4	((	NP	
+4.1	gretar	NN	<fs af='gretar,n,,sg,,d,0,0'>|<fs af='gretar,n,,sg,,o,ti,ti'>
+4.2	(	SYM	<fs af='&rcbrs;,punc,,,,,,'>
+	))		
+5	((	NP	
+5.1	mahA	JJ	<fs af='mahA,avy,,,,,0,0_avy'>
+5.2	nagaraM	NN	<fs af='nagaraM,n,,sg,,d,0,0'>
+5.3	)	SYM	<fs af='&lcbrs;,punc,,,,,,'>
+	))		
+6	((	RBP	
+6.1	gA	RB	<fs af='gA,adv,,,,,0,0_avy'>
+	))		
+7	((	VGF	
+7.1	mAriMxi	VM	<fs af='mAru,v,fn,sg,3,,A,A'>
+7.2	.	SYM	<fs af='&dot;,punc,,,,,,'>
+	))		
+</Sentence>

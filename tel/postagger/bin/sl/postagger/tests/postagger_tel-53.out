@@ -1,0 +1,24 @@
+<Sentence id="1">			
+1	kAnI	CC	<fs af='kAnI,avy,,,,,0,0_avy'>|<fs af='kAnI,avy,,,,,0,0_avy'>|<fs af='kAni,avy,,,,,V,V_avy'>|<fs af='kAni,avy,,,,,V,V_avy'>
+2	I	DEM	<fs af='I,avy,,,,,,'>|<fs af='I,avy,,,,,,'>
+3	CArjIlanu	NN	<fs af='CArjI,n,,pl,,,ni,ni'>
+4	mAPI	NN	<fs af='mAPI,unk,,,,,,'>
+5	ceyiMcukuneMxuku	VM	<fs af='ceyiMcu,v,any,any,any,,koVn_e_eMxuku,koVn_e_eMxuku'>
+6	keMxra	NN	<fs af='keMxra,adj,,,,,0,0_adj'>|<fs af='keMxraM,n,,sg,,o,ti,ti'>
+7	rElve	NN	<fs af='rElve,n,,sg,,d,0,0'>|<fs af='rElve,n,,sg,,o,ti,ti'>
+8	SAKa	NN	<fs af='SAKa,n,,sg,,d,0,0'>|<fs af='SAKa,n,,sg,,o,ti,ti'>
+9	maMwrini	NN	<fs af='maMwri,n,,sg,,,nu,nu'>|<fs af='maMwri,n,,sg,,,ni,ni'>
+10	oppiMcataMlo	NN	<fs af='oppiMcataMlo,unk,,,,,,'>
+11	rARtra	NN	<fs af='rARtraM,n,,sg,,o,ti,ti'>
+12	praBuwvaM	NN	<fs af='praBuwvaM,n,,sg,,d,0,0'>
+13	saPalaM	NN	<fs af='saPalaM,n,,sg,,d,0,0'>
+14	kAvataMwo	VM	<fs af='avvu,v,,sg,,,adaM_wo,adaM_wo' deri_cat='n'>
+15	Arvobila	NN	<fs af='Arvobila,unk,,,,,,'>
+16	nirmANAniki	VM	<fs af='nirmANaM,n,,sg,,,ki,ki'>
+17	eVxurEna	JJ	<fs af='eVxuravvu,v,any,any,any,,ina,ina'>|<fs af='eVxuru,n,,sg,,,Ena,Ena'>
+18	ibbaMxulu	NN	<fs af='ibbaMxi,n,,pl,,d,0,0'>
+19	woVlagipoyAyi	VM	<fs af='woVlagu,v,n,pl,3,,i_po_A,i_po_A'>
+20	.	SYM	<fs af='&dot;,punc,,,,,,'>
+</Sentence>			
+<Sentence id="2">			
+</Sentence>			

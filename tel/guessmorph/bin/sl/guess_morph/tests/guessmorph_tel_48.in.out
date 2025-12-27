@@ -1,0 +1,21 @@
+<Sentence id="1">			
+1	((	JJP	
+1.1	lAvu	JJ	<fs af='lAvu,adj,,,,,0,0_adj'>|<fs af='lAvu,n,,sg,,d,0,0'>
+	))		
+2	((	VGNF	
+2.1	waggina	VM	<fs af='waggu,v,any,any,any,,ina,ina'>
+	))		
+3	((	NP	
+3.1	Baraw	NNP	<fs af='Baraw,n,,sg,,d,0,0'>|<fs af='Baraw,n,,sg,,o,ti,ti'>
+	))		
+4	((	NP	
+4.1	ni	NN	<fs af='ni,avy,,,,,0,0_avy' poslcat="NM">
+	))		
+5	((	VGNF	
+5.1	cUda	VM	<fs af='cUdu,v,any,any,any,,an,an'>
+	))		
+6	((	VGF	
+6.1	lekapoyAmu	VM	<fs af='gala,v,,pl,1,,aka_po_A,aka_po_A'>
+6.2	.	SYM	<fs af='&dot;,punc,,,,,,'>
+	))		
+</Sentence>			

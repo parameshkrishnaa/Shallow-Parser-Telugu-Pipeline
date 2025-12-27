@@ -1,0 +1,17 @@
+1       ((      NP			
+2	गांधीजी	NNP	
+3	की	PSP	<fs af='का,sh_n,s,f,,0,Shashthi,'>
+	))
+5       ((      NP			
+6	@लिङे	NN	<fs af='@लिङे,n,f,s,,0,,'>
+	))
+8       ((      JJP			
+9	तेज	JJ	<fs af='तेज,D,,,,,,'>
+	))
+11      ((      VGF			
+12	लिङे	@VM	<fs af='लिङे,n,f,s,any,,WA,'>
+	))
+14      ((      BLK			
+15	.	SYM	
+	))
+

@@ -1,0 +1,9 @@
+<Sentence id="1">
+1	((	NP	
+1.1	nenu	PRP	<fs af='nenu,pn,,sg,,,0,0'>
+	))		
+2	((	NP	
+2.1	ikkada	NST	<fs af='ikkada,adv,,,,,0,0_adv'>|<fs af='ikkada,n,,sg,,,0,0'>|<fs af='ikkada,n,,sg,,,obl,obl'>
+	))		
+</Sentence>
+

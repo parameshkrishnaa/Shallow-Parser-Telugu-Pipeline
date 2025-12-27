@@ -1,0 +1,30 @@
+<Sentence id="1">			
+1	kudi	NN	<fs af='kudi,n,,sg,,d,0,0'>|<fs af='kudi,n,,sg,,o,ti,ti'>
+2	cewi	NN	<fs af='ceyi,n,,sg,,o,ti,ti'>
+3	vAtaM	NN	<fs af='vAtaM,n,,sg,,d,0,0'>
+4	gala	RP	<fs af='gala,v,any,any,any,,ina,ina'>|<fs af='gala,adj,,,,,0,0_adj'>
+5	byAtsmeVn	NN	<fs af='byAtsmeVn,n,,sg,,d,0,0'>|<fs af='byAtsmeVn,n,,sg,,o,ti,ti'>
+6	mariyu	CC	<fs af='mariyu,avy,,,,,0,0_avy'>
+7	vikeVt	NN	<fs af='vikeVt,n,,sg,,d,0,0'>|<fs af='vikeVt,n,,sg,,o,ti,ti'>
+8	kIpar	NN	<fs af='kIpar,n,,sg,,d,0,0'>|<fs af='kIpar,n,,sg,,o,ti,ti'>
+9	gA	RB	<fs af='gA,avy,,,,,0,0_avy'>
+10	BArawa	NNP	<fs af='BArawaM,n,,sg,,o,ti,ti'>
+11	jattulo	NN	<fs af='jattu,n,,pl,,,0,0_o'>|<fs af='jattu,n,,sg,,,lo,lo'>
+12	raMgapraveSaM	NNP	<fs af='raMgapraveSaM,n,,sg,,d,0,0'>
+13	cesina	VM	<fs af='ceVyyi,v,any,any,any,,ina,ina'>
+14	Xoni	NN	<fs af='Xoni,unk,,,,,,'>
+15	jUniyar	NN	<fs af='jUniyar,n,,sg,,d,0,0'>|<fs af='jUniyar,n,,sg,,o,ti,ti'>
+16	mariyu	CC	<fs af='mariyu,avy,,,,,0,0_avy'>
+17	iMdiyA	NNP	<fs af='iMdiyA,n,,sg,,d,0,0'>|<fs af='iMdiyA,n,,sg,,d,0,0'>|<fs af='iMdiyA,n,,sg,,o,ti,ti'>|<fs af='iMdiyA,n,,sg,,o,ti,ti'>
+18	-	SYM	<fs af='&minus;,punc,,,,,,'>
+19	e	WQ	<fs af='e,avy,,,,,,'>|<fs af='e,avy,,,,,,'>|<fs af='e,adj,,,,,0,0_adj'>
+20	lo	PSP	<fs af='lo,avy,,,,,,'>|<fs af='la,avy,,,,,o,o_avy'>
+21	prawiBa	NN	<fs af='prawiBa,n,,sg,,d,0,0'>|<fs af='prawiBa,n,,sg,,o,ti,ti'>
+22	praxarSiMci	VM	<fs af='praxarSiMcu,v,any,any,any,,i,i'>
+23	I	DEM	<fs af='I,avy,,,,,,'>|<fs af='I,avy,,,,,,'>
+24	sWAyiki	NN	<fs af='sWAyi,n,,sg,,,ki,ki'>
+25	vaccinAdu	VM	<fs af='vaccu,v,m,sg,3,,A,A'>
+26	.	SYM	<fs af='&dot;,punc,,,,,,'>
+</Sentence>			
+<Sentence id="2">			
+</Sentence>			

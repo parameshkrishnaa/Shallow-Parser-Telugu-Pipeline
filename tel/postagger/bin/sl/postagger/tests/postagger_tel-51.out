@@ -1,0 +1,28 @@
+<Sentence id="1">			
+1	jana	NN	<fs af='jana,adj,,,,,0,0_adj'>|<fs af='janaM,n,,sg,,o,ti,ti'>|<fs af='janaM,n,,sg,,o,ti,ti'>|<fs af='janudu,n,,sg,,o,ti,ti'>
+2	lokapAl	NN	<fs af='lokapAl,unk,,,,,,'>
+3	billu	NN	<fs af='billu,n,,sg,,d,0,0'>|<fs af='billu,n,,sg,,o,ti,ti'>|<fs af='bil,n,,pl,,d,0,0'>|<fs af='bil,n,,pl,,,vu,vu'>
+4	kosaM	PSP	<fs af='kosaM,avy,,,,,0,0_avy'>|<fs af='kosaM,avy,,,,,0,0_avy'>
+5	annA	NN	<fs af='annA,avy,,,,,0,0_avy'>|<fs af='anna,n,,sg,,,0,0_A'>|<fs af='anna,n,,sg,,,0,0_V'>|<fs af='anni,pn,,pl,,,0,0_A'>|<fs af='annu,n,,sg,,,0,0_A'>|<fs af='anu,v,,sg,1,,A,A'>|<fs af='anu,v,any,any,any,,inA,inA'>|<fs af='aMwa,pn,,pl,,,0,0_A' deri_cat='n'>
+6	hajAre	NN	<fs af='hajAre,n,,sg,,d,0,0'>|<fs af='hajAre,n,,sg,,o,ti,ti'>
+7	wo	PSP	<fs af='wo,avy,,,,,0,0_avy'>
+8	kalisi	VM	<fs af='kaliyu,v,any,any,any,,i,i'>|<fs af='kaluvu,v,any,any,any,,i,i'>
+9	cesina	VM	<fs af='ceVyyi,v,any,any,any,,ina,ina'>
+10	porAtaM	NN	<fs af='porAtaM,n,,sg,,d,0,0'>
+11	mariyu	CC	<fs af='mariyu,avy,,,,,0,0_avy'>
+12	samAcAra	NN	<fs af='samAcAraM,n,,sg,,o,ti,ti'>
+13	hakku	NN	<fs af='hakku,n,,sg,,d,0,0'>|<fs af='hakku,n,,sg,,o,ti,ti'>
+14	cattaM	NN	<fs af='cattaM,n,,sg,,d,0,0'>|<fs af='cattaM,n,,sg,,d,0,0'>
+15	kosaM	PSP	<fs af='kosaM,avy,,,,,0,0_avy'>|<fs af='kosaM,avy,,,,,0,0_avy'>
+16	cesina	VM	<fs af='ceVyyi,v,any,any,any,,ina,ina'>
+17	porAtaMwo	NN	<fs af='porAtaM,n,,sg,,,wo,wo'>
+18	Iyana	PRP	<fs af='Iyana,pn,,sg,,d,0,0'>|<fs af='Iyana,pn,,sg,,o,ti,ti'>
+19	xeSavyApwaM	NN	<fs af='xeSavyApwaM,n,,sg,,d,0,0'>
+20	gA	RB	<fs af='gA,avy,,,,,0,0_avy'>
+21	maMci	JJ	<fs af='maMci,adj,,,,,0,0_adj'>
+22	prAmuKyawa	NN	<fs af='prAmuKyawa,n,,sg,,d,0,0'>|<fs af='prAmuKyawa,n,,sg,,o,ti,ti'>
+23	saMpAxiMcAru	VM	<fs af='saMpAxiMcu,v,fm,pl,3,,A,A'>
+24	.	SYM	<fs af='&dot;,punc,,,,,,'>
+</Sentence>			
+<Sentence id="2">			
+</Sentence>			

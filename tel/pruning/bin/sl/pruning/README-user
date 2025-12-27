@@ -1,0 +1,41 @@
+						PRUNE 1.7 (PRUNING)
+						-------------------
+Pruning : 
+--------
+
+How to Use??
+------------
+
+1. perl $setu/bin/sl/pruning/pruning.pl --path=$setu/bin/sl/pruning 
+   --resource=$setu/data_bin/sl/pruning/mapping.dat --input=$setu/bin/sl/pruning/tests/pruning.rin
+   
+   *resource is the mapping.dat file in the "data_bin" dir
+
+   *sample input and output files are provided in the tests dir
+    namely pruning.rin pruning.rout.
+
+2. perl $setu/bin/sl/pruning/pruning.pl --help
+
+   For the display of help
+
+   *mapping.dat file consists of the the mapping of the POS_TAGs and
+   the CATEGORY of MORPH.
+
+   To change the mapping one can modify the mapping.dat file.
+
+To INSTALL:
+----------
+  To INSTALL please check INSTALL file
+
+#################################
+Author: Avinesh PVS/src
+
+Language Technologies Research Centre
+IIIT Hyderabad	
+
+Any Queries or suggestions mail to
+avinesh@students.iiit.ac.in
+(or)
+avinesh.pvs@gmail.com 
+#################################
+

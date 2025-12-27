@@ -1,0 +1,14 @@
+1	((	NP	<fs af='rAmaliMgadu,n,,sg,,,,obl' head="rAmaliMgadi">
+1.1	rAmaliMgadi	NNP	<fs af='rAmaliMgadu,v,,sg,,,,obl' name="rAmaliMgadi">
+	))		
+2	((	NP	<fs af='illu,v,,sg,,,,obl' head="iMti">
+2.1	iMti	NN	<fs af='illu,v,,sg,,,,obl' name="iMti">
+	))		
+3	((	NP	<fs af='ceVruvu,n,,sg,,,AjFArWa,0' head="ceVruvu">
+3.1	pakkane	NST	<fs af='pakkana,n,,,,,,adv_0_e'>
+3.2	ceVruvu	NN	<fs af='hE,v,,sg,,,AjFArWa,0' name="ceVruvu">
+	))		
+4	((	VGF	
+4.1	uMxi	VM	<fs af='WA,v,fn,sg,3,,A,A' name="uMxi">
+4.2	.	SYM	
+	))		

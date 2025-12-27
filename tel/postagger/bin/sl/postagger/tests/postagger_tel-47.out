@@ -1,0 +1,13 @@
+<Sentence id="1">			
+1	prawi	JJ	<fs af='prawi,n,,sg,,d,0,0'>|<fs af='prawi,n,,sg,,o,ti,ti'>|<fs af='prawi,adj,,,,,0,0_adj'>
+2	xvAraM	NN	<fs af='xvAraM,n,,sg,,d,0,0'>
+3	reVMdu	QC	<fs af='reVMdu,n,,sg,,d,0,0'>|<fs af='reVMdu,n,,sg,,o,ti,ti'>
+4	baMgAru	NN	<fs af='baMgAru,n,,sg,,d,0,0'>|<fs af='baMgAru,n,,sg,,o,ti,ti'>
+5	koVbbari	NN	<fs af='koVbbari,n,,sg,,d,0,0'>|<fs af='koVbbari,n,,sg,,o,ti,ti'>|<fs af='koVbbari,n,,sg,,d,0,0'>|<fs af='koVbbari,n,,sg,,o,ti,ti'>
+6	kAMdamula	NN	<fs af='kAMdaM,n,,pl,,o,ti,ti'>
+7	maXya	NST	<fs af='maXya,adv,,,,,0,0_adv'>|<fs af='maXya,nst,,,,,yoVkka,yoVkka_adv'>|<fs af='maXyaM,n,,sg,,o,ti,ti'>
+8	unnaxi	VM	<fs af='unna,adj,,,,,xi,xi_adj'>|<fs af='unna,adj,,,,,xi,xi_adj'>
+9	.	SYM	<fs af='&dot;,punc,,,,,,'>
+</Sentence>			
+<Sentence id="2">			
+</Sentence>			

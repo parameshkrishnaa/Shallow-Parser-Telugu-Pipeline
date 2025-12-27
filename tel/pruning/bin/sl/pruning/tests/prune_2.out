@@ -1,0 +1,26 @@
+<Sentence id="1">
+1	((	NP	
+1.1	koVttaMpE	NN	<fs af='koVttaM,n,,sg,,,pE,pE'>
+	))		
+2	((	NP	
+2.1	neVlalawarabadi	NN	<fs af='neVlalawarabadi,avy,,,,,,' poslcat="NM">
+	))		
+3	((	NP	
+3.1	o	JJ	<fs af='o,avy,,,,,,' poslcat="NM">|<fs af='o,avy,,,,,0,0_avy' poslcat="NM">
+3.2	wIgaku	NN	<fs af='wIga,n,,sg,,,ki,ki'>
+	))		
+4	((	VGNF	
+4.1	velAde	VM	<fs af='velAdu,v,any,any,any,,e,e'>|<fs af='velAdu,v,any,any,any,,i,i_e'>
+	))		
+5	((	NP	
+5.1	gummadilo	NN	<fs af='gummadi,n,,sg,,,lo,lo'>
+	))		
+6	((	NP	
+6.1	axBuwa	JJ	<fs af='axBuwaM,n,,sg,,o,ti,ti' poslcat="NM">
+6.2	ORaXAlu	NN	<fs af='ORaXaM,n,,pl,,d,0,0'>|<fs af='ORaXaM,n,,pl,,,vu,vu'>
+	))		
+7	((	VGF	
+7.1	unnAyi	VM	<fs af='uMdu,v,n,pl,3,,A,A'>
+7.2	.	SYM	<fs af='&dot;,punc,,,,,,'>
+	))		
+</Sentence>

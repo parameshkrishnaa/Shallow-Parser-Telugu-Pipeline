@@ -1,0 +1,14 @@
+<Sentence id="1">			
+1	proVstet	NN	<fs af='proVstet,n,,sg,,d,0,0'>|<fs af='proVstet,n,,sg,,o,ti,ti'>
+2	graMWula	NN	<fs af='graMWi,n,,pl,,o,ti,ti'>
+3	vApunu	NN	<fs af='vApu,n,,sg,,,nu,nu'>|<fs af='vApu,n,,sg,,,ni,ni'>
+4	waggiMcadAniki	VM	<fs af='waggiMcu,v,,sg,,,adaM_ki,adaM_ki' deri_cat='n'>
+5	vExya	NN	<fs af='vExya,adj,,,,,0,0_adj'>|<fs af='vExyaM,n,,sg,,o,ti,ti'>|<fs af='vExyudu,n,,sg,,o,ti,ti'>
+6	paraMgA	RB	<fs af='paraMgA,avy,,,,,0,0_avy'>|<fs af='paraM,n,,sg,,,gA,gA'>
+7	gummadi	NN	<fs af='gummadi,n,,sg,,d,0,0'>|<fs af='gummadi,n,,sg,,o,ti,ti'>
+8	kAya	NN	<fs af='kAya,n,,sg,,d,0,0'>|<fs af='kAya,n,,sg,,o,ti,ti'>|<fs af='kAyaM,n,,sg,,o,ti,ti'>|<fs af='kAyi,v,any,any,any,,an,an'>
+9	saripowuMxi	VM	<fs af='saripo,v,fn,sg,3,,wA,wA'>|<fs af='saripo,v,fn,sg,3,,wA,wA'>
+10	.	SYM	<fs af='&dot;,punc,,,,,,'>
+</Sentence>			
+<Sentence id="2">			
+</Sentence>			

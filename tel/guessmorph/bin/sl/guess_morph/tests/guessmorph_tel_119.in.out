@@ -1,0 +1,27 @@
+<Sentence id="1">			
+1	((	NP	
+1.1	Sa.	NN	<fs af='Sa.,unk,,,,,,' poslcat="NM">
+	))		
+2	((	NP	
+2.1	1100-1400	QC	<fs af='1100-1400,num,,,,,,'>
+2.2	la	NN	<fs af='la,avy,,,,,0,0_avy' poslcat="NM">
+	))		
+3	((	NP	
+3.1	maXya	NST	<fs af='maXya,adv,,,,,0,'>
+3.2	musliM	NN	<fs af='musliM,n,,sg,,d,0,0'>|<fs af='musliM,n,,sg,,o,ti,ti'>
+	))		
+4	((	NP	
+4.1	coVrabAtu	NN	<fs af='coVrabAtu,n,,sg,,d,0,0'>|<fs af='coVrabAtu,n,,sg,,o,ti,ti'>
+	))		
+5	((	NP	
+5.1	xArula	NN	<fs af='xAru,n,,pl,,o,ti,ti'>|<fs af='xArudu,n,,pl,,o,ti,ti'>
+5.2	cewa	PSP	<fs af='cewa,avy,,,,,,' poslcat="NM">
+	))		
+6	((	NP	
+6.1	nelamattaM	NN	<fs af='nelamattaM,n,,sg,,d,0,0'>
+	))		
+7	((	VGF	
+7.1	kAlexu	VM	<fs af='avvu,v,any,any,any,,a_lexu,a_lexu'>
+7.2	.	SYM	<fs af='&dot;,punc,,,,,,'>
+	))		
+</Sentence>			

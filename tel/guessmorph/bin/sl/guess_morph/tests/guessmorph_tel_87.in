@@ -1,0 +1,18 @@
+<Sentence id="1">
+1	((	NP	
+1.1	ixi	PRP	<fs af='ixi,pn,fn,sg,3,d,0,0'>
+	))		
+2	((	NP	
+2.1	wUrpuAsiyA	NN	<fs af='wUrpuAsiyA,unk,,,,,,' poslcat="NM">
+	))		
+3	((	CCP	
+3.1	mariyu	CC	<fs af='mariyu,avy,,,,,0,0_avy'>
+	))		
+4	((	NP	
+4.1	maXyAsiyAlo	NN	<fs af='maXyAsiyAlo,unk,,,,,,' poslcat="NM">
+	))		
+5	((	VGF	
+5.1	unnaxi	VM	<fs af='unna,adj,,,,,xi,xi_adj' poslcat="NM">|<fs af='unna,adj,,,,,xi,xi_adj' poslcat="NM">
+5.2	.	SYM	<fs af='&dot;,punc,,,,,,'>
+	))		
+</Sentence>

@@ -1,0 +1,30 @@
+<Sentence id="1">
+1	((	NP	
+1.1	varRA	NN	<fs af='varRA,n,,sg,,d,0,0'>
+	))		
+2	((	NP	
+2.1	kAlaM	NN	<fs af='kAlaM,n,,sg,,d,0,0'>
+	))		
+3	((	VGF	
+3.1	vacciMxi	VM	<fs af='vaccu,v,fn,sg,3,,A,A'>
+	))		
+4	((	BLK	
+4.1	aMte	UT	<fs af='aMte,avy,,,,,,'>
+	))		
+5	((	NP	
+5.1	palleVllo	NN	<fs af='palleV,n,,pl,,,lo,lo'>
+	))		
+6	((	NP	
+6.1	puttagoVdugulu	NN	<fs af='puttagoVdugu,n,,pl,,d,0,0'>
+	))		
+7	((	VGNF	
+7.1	eVkkadapadiwe	VM	<fs af='eVkkadapadiwe,avy,,,,,,' poslcat="NM">
+	))		
+8	((	NP	
+8.1	akkada	NST	<fs af='akkada,adv,,,,,0,0_adv' poslcat="NM">
+	))		
+9	((	VGF	
+9.1	kanipiswAyi	VM	<fs af='kanipiMcu,v,n,pl,3,,wA,wA'>
+9.2	.	SYM	<fs af='&dot;,punc,,,,,,'>
+	))		
+</Sentence>

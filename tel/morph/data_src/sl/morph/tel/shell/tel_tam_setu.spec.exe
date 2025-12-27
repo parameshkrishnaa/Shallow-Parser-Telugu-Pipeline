@@ -1,0 +1,458 @@
+#%EXE_FILE%
+#!/usr/bin/perl
+
+use Time::HiRes qw( gettimeofday tv_interval );
+use Getopt::Std;
+use Log::Log4perl;
+use File::Path;
+use File::Basename;
+%options;
+getopts('l:c:i:',\%options);
+$logopt = $options{l};
+$logFile = $ENV{"dash_home"}."/conf/log.conf";
+Log::Log4perl->init($logFile);
+sub logfile {
+ my $myLog = $options{l}||'/var/dashboard/dashboard.log';
+return $myLog;
+ }
+$ARGV[0] = $options{i};
+my $dashLog = Log::Log4perl->get_logger;
+$dashLog->info("Executable of Spec file is ready for running ");
+
+#Global Variables
+my $mt_iiit="/usr/share/Dashboard";
+my $setu="/home/teltamilmt/sampark";
+my $src="$setu/src";
+my $bin="$setu/bin";
+my $data_bin="$setu/data_bin";
+my $data_src="$setu/data_src";
+my $val_data="$setu/val_data";
+my $slang="tel";
+my $tlang="tam";
+my $stlang="tel_tam";
+
+#Environment Variables
+$ENV{'mt_iiit'}="/usr/share/Dashboard";
+$ENV{'setu'}="/home/teltamilmt/sampark";
+$ENV{'src'}="$setu/src";
+$ENV{'bin'}="$setu/bin";
+$ENV{'data_bin'}="$setu/data_bin";
+$ENV{'data_src'}="$setu/data_src";
+$ENV{'val_data'}="$setu/val_data";
+
+my $start_include = [gettimeofday];
+$dashLog->debug("get time of day $start_include");
+
+#Include files
+
+#API files
+require("$mt_iiit/lib/shakti_tree_api.pl");
+require("$mt_iiit/lib/feature_filter.pl");
+
+#Including Modules
+
+#The directory where the output will be stored
+my $PWD = `pwd`;
+
+$dashLog->debug("Directory where the output is stored $PWD");
+chomp($PWD);
+mkpath "/home/teltamilmt/OUTPUT.tmp";
+mkpath "/home/teltamilmt/OUTPUT.tmp/Sent_21";
+mkpath "/home/teltamilmt/OUTPUT.tmp/Sent_21/tel_tam_setu.spec";
+chdir("/home/teltamilmt/OUTPUT.tmp/Sent_21/tel_tam_setu.spec");
+
+$dashLog->debug("New OutputDirectory is /home/teltamilmt/OUTPUT.tmp/Sent_21/tel_tam_setu.spec");
+
+#Input from STDIN
+if($ARGV[0]) {
+	my $input="$ARGV[0]";
+
+$dashLog->debug("Input From ARGUMENT $input");
+	system("cp $input input.tmp");
+}
+else {
+	print "\nInput: ";
+	$input=<STDIN>;
+
+$dashLog->debug("Input From STDIN $input");
+	chomp($input);
+	open(INPUT,">input.tmp");
+	print INPUT "$input";
+	close(INPUT);
+}
+$end_include = [gettimeofday];
+$diff_time = tv_interval($start_include,$end_include);
+
+$dashLog->debug("difference time $diff_time");
+my $start_system = [gettimeofday];
+
+#Calling Modules
+
+my $start_module = [gettimeofday];
+system("cp -r input.tmp morph-2.6.tmp.in") == 0 || die "Error: Couldn't run morph-2.6";
+
+system("sh /home/teltamilmt/sampark/bin/sl/morph/tel/morph.sh < input.tmp > morph-2.6.tmp") == 0 || die "Error: Couldn't run morph-2.6";
+$dashLog->debug("Command is for running sh module with dependency start$command");
+
+system("cp -r morph-2.6.tmp morph-2.6.tmp.out") == 0 || die "Error: Couldn't run morph-2.6";
+$end_module = [gettimeofday];
+$diff_time = tv_interval($start_module,$end_module);
+$dashLog->debug("time difference is $diff_time ");
+print_time_taken("morph-2.6");
+open(ALL,">>all.out");
+print ALL "\n#morph-2.6\n";
+close(ALL);
+`cat morph-2.6.tmp > all.out`;
+
+my $start_module = [gettimeofday];
+system("cp -r morph-2.6.tmp postagger-1.4.tmp.in") == 0 || die "Error: Couldn't run postagger-1.4";
+
+system("sh /home/teltamilmt/sampark/bin/sl/postagger/postagger.sh < morph-2.6.tmp > postagger-1.4.tmp") == 0 || die "Error: Couldn't run postagger-1.4";
+$dashLog->debug("Command is for running sh module with dependency previous $command");
+
+system("cp -r postagger-1.4.tmp postagger-1.4.tmp.out") == 0 || die "Error: Couldn't run postagger-1.4";
+$end_module = [gettimeofday];
+$diff_time = tv_interval($start_module,$end_module);
+$dashLog->debug("time difference is $diff_time ");
+print_time_taken("postagger-1.4");
+open(ALL,">>all.out");
+print ALL "\n#postagger-1.4\n";
+close(ALL);
+my $diff_val=`diff postagger-1.4.tmp morph-2.6.tmp 2>>error_file`;
+if($diff_val =~ /^\d/) { `cat postagger-1.4.tmp >> all.out`; }
+
+my $start_module = [gettimeofday];
+system("cp -r postagger-1.4.tmp chunker-1.3.tmp.in") == 0 || die "Error: Couldn't run chunker-1.3";
+
+system("sh /home/teltamilmt/sampark/bin/sl/chunker/chunker.sh < postagger-1.4.tmp > chunker-1.3.tmp") == 0 || die "Error: Couldn't run chunker-1.3";
+$dashLog->debug("Command is for running sh module with dependency previous $command");
+
+system("cp -r chunker-1.3.tmp chunker-1.3.tmp.out") == 0 || die "Error: Couldn't run chunker-1.3";
+$end_module = [gettimeofday];
+$diff_time = tv_interval($start_module,$end_module);
+$dashLog->debug("time difference is $diff_time ");
+print_time_taken("chunker-1.3");
+open(ALL,">>all.out");
+print ALL "\n#chunker-1.3\n";
+close(ALL);
+my $diff_val=`diff chunker-1.3.tmp postagger-1.4.tmp 2>>error_file`;
+if($diff_val =~ /^\d/) { `cat chunker-1.3.tmp >> all.out`; }
+
+my $start_module = [gettimeofday];
+system("cp -r chunker-1.3.tmp pruning-1.7.tmp.in") == 0 || die "Error: Couldn't run pruning-1.7";
+
+system("sh /home/teltamilmt/sampark/bin/sl/pruning/pruning.sh < chunker-1.3.tmp > pruning-1.7.tmp") == 0 || die "Error: Couldn't run pruning-1.7";
+$dashLog->debug("Command is for running sh module with dependency previous $command");
+
+system("cp -r pruning-1.7.tmp pruning-1.7.tmp.out") == 0 || die "Error: Couldn't run pruning-1.7";
+$end_module = [gettimeofday];
+$diff_time = tv_interval($start_module,$end_module);
+$dashLog->debug("time difference is $diff_time ");
+print_time_taken("pruning-1.7");
+open(ALL,">>all.out");
+print ALL "\n#pruning-1.7\n";
+close(ALL);
+my $diff_val=`diff pruning-1.7.tmp chunker-1.3.tmp 2>>error_file`;
+if($diff_val =~ /^\d/) { `cat pruning-1.7.tmp >> all.out`; }
+
+my $start_module = [gettimeofday];
+system("cp -r pruning-1.7.tmp guess-morph-1.0.tmp.in") == 0 || die "Error: Couldn't run guess-morph-1.0";
+
+system("sh /home/teltamilmt/sampark/bin/sl/guess_morph/tel/guess-morph.sh < pruning-1.7.tmp > guess-morph-1.0.tmp") == 0 || die "Error: Couldn't run guess-morph-1.0";
+$dashLog->debug("Command is for running sh module with dependency previous $command");
+
+system("cp -r guess-morph-1.0.tmp guess-morph-1.0.tmp.out") == 0 || die "Error: Couldn't run guess-morph-1.0";
+$end_module = [gettimeofday];
+$diff_time = tv_interval($start_module,$end_module);
+$dashLog->debug("time difference is $diff_time ");
+print_time_taken("guess-morph-1.0");
+open(ALL,">>all.out");
+print ALL "\n#guess-morph-1.0\n";
+close(ALL);
+my $diff_val=`diff guess-morph-1.0.tmp pruning-1.7.tmp 2>>error_file`;
+if($diff_val =~ /^\d/) { `cat guess-morph-1.0.tmp >> all.out`; }
+
+my $start_module = [gettimeofday];
+system("cp -r guess-morph-1.0.tmp pickonemorph-1.1.tmp.in") == 0 || die "Error: Couldn't run pickonemorph-1.1";
+
+system("sh /home/teltamilmt/sampark/bin/sl/pickonemorph/pickonemorph.sh < guess-morph-1.0.tmp > pickonemorph-1.1.tmp") == 0 || die "Error: Couldn't run pickonemorph-1.1";
+$dashLog->debug("Command is for running sh module with dependency previous $command");
+
+system("cp -r pickonemorph-1.1.tmp pickonemorph-1.1.tmp.out") == 0 || die "Error: Couldn't run pickonemorph-1.1";
+$end_module = [gettimeofday];
+$diff_time = tv_interval($start_module,$end_module);
+$dashLog->debug("time difference is $diff_time ");
+print_time_taken("pickonemorph-1.1");
+open(ALL,">>all.out");
+print ALL "\n#pickonemorph-1.1\n";
+close(ALL);
+my $diff_val=`diff pickonemorph-1.1.tmp guess-morph-1.0.tmp 2>>error_file`;
+if($diff_val =~ /^\d/) { `cat pickonemorph-1.1.tmp >> all.out`; }
+
+my $start_module = [gettimeofday];
+system("cp -r pickonemorph-1.1.tmp repair-1.0.tmp.in") == 0 || die "Error: Couldn't run repair-1.0";
+
+system("sh /home/teltamilmt/sampark/bin/sl/repair/tel-tam/repair_tel_tam.sh < pickonemorph-1.1.tmp > repair-1.0.tmp") == 0 || die "Error: Couldn't run repair-1.0";
+$dashLog->debug("Command is for running sh module with dependency previous $command");
+
+system("cp -r repair-1.0.tmp repair-1.0.tmp.out") == 0 || die "Error: Couldn't run repair-1.0";
+$end_module = [gettimeofday];
+$diff_time = tv_interval($start_module,$end_module);
+$dashLog->debug("time difference is $diff_time ");
+print_time_taken("repair-1.0");
+open(ALL,">>all.out");
+print ALL "\n#repair-1.0\n";
+close(ALL);
+my $diff_val=`diff repair-1.0.tmp pickonemorph-1.1.tmp 2>>error_file`;
+if($diff_val =~ /^\d/) { `cat repair-1.0.tmp >> all.out`; }
+
+my $start_module = [gettimeofday];
+system("cp -r repair-1.0.tmp headcomputation-1.3.tmp.in") == 0 || die "Error: Couldn't run headcomputation-1.3";
+
+system("sh /home/teltamilmt/sampark/bin/sl/headcomputation/headcomputation.sh < repair-1.0.tmp > headcomputation-1.3.tmp") == 0 || die "Error: Couldn't run headcomputation-1.3";
+$dashLog->debug("Command is for running sh module with dependency previous $command");
+
+system("cp -r headcomputation-1.3.tmp headcomputation-1.3.tmp.out") == 0 || die "Error: Couldn't run headcomputation-1.3";
+$end_module = [gettimeofday];
+$diff_time = tv_interval($start_module,$end_module);
+$dashLog->debug("time difference is $diff_time ");
+print_time_taken("headcomputation-1.3");
+open(ALL,">>all.out");
+print ALL "\n#headcomputation-1.3\n";
+close(ALL);
+my $diff_val=`diff headcomputation-1.3.tmp repair-1.0.tmp 2>>error_file`;
+if($diff_val =~ /^\d/) { `cat headcomputation-1.3.tmp >> all.out`; }
+
+my $start_module = [gettimeofday];
+system("cp -r headcomputation-1.3.tmp vibhakticomputation-2.3.tmp.in") == 0 || die "Error: Couldn't run vibhakticomputation-2.3";
+
+system("sh /home/teltamilmt/sampark/bin/sl/vibhakticomputation/vibhakticomputation.sh < headcomputation-1.3.tmp > vibhakticomputation-2.3.tmp") == 0 || die "Error: Couldn't run vibhakticomputation-2.3";
+$dashLog->debug("Command is for running sh module with dependency previous $command");
+
+system("cp -r vibhakticomputation-2.3.tmp vibhakticomputation-2.3.tmp.out") == 0 || die "Error: Couldn't run vibhakticomputation-2.3";
+$end_module = [gettimeofday];
+$diff_time = tv_interval($start_module,$end_module);
+$dashLog->debug("time difference is $diff_time ");
+print_time_taken("vibhakticomputation-2.3");
+open(ALL,">>all.out");
+print ALL "\n#vibhakticomputation-2.3\n";
+close(ALL);
+my $diff_val=`diff vibhakticomputation-2.3.tmp headcomputation-1.3.tmp 2>>error_file`;
+if($diff_val =~ /^\d/) { `cat vibhakticomputation-2.3.tmp >> all.out`; }
+
+my $start_module = [gettimeofday];
+system("cp -r vibhakticomputation-2.3.tmp parser-1.0.tmp.in") == 0 || die "Error: Couldn't run parser-1.0";
+
+system("sh /home/teltamilmt/sampark/bin/sl/simple_parser/parser_tel.sh < vibhakticomputation-2.3.tmp > parser-1.0.tmp") == 0 || die "Error: Couldn't run parser-1.0";
+$dashLog->debug("Command is for running sh module with dependency previous $command");
+
+system("cp -r parser-1.0.tmp parser-1.0.tmp.out") == 0 || die "Error: Couldn't run parser-1.0";
+$end_module = [gettimeofday];
+$diff_time = tv_interval($start_module,$end_module);
+$dashLog->debug("time difference is $diff_time ");
+print_time_taken("parser-1.0");
+open(ALL,">>all.out");
+print ALL "\n#parser-1.0\n";
+close(ALL);
+my $diff_val=`diff parser-1.0.tmp vibhakticomputation-2.3.tmp 2>>error_file`;
+if($diff_val =~ /^\d/) { `cat parser-1.0.tmp >> all.out`; }
+
+my $start_module = [gettimeofday];
+system("cp -r parser-1.0.tmp multiword-1.0.tmp.in") == 0 || die "Error: Couldn't run multiword-1.0";
+
+system("sh /home/teltamilmt/sampark/bin/sl_tl/multiword/multiword.sh < parser-1.0.tmp > multiword-1.0.tmp") == 0 || die "Error: Couldn't run multiword-1.0";
+$dashLog->debug("Command is for running sh module with dependency previous $command");
+
+system("cp -r multiword-1.0.tmp multiword-1.0.tmp.out") == 0 || die "Error: Couldn't run multiword-1.0";
+$end_module = [gettimeofday];
+$diff_time = tv_interval($start_module,$end_module);
+$dashLog->debug("time difference is $diff_time ");
+print_time_taken("multiword-1.0");
+open(ALL,">>all.out");
+print ALL "\n#multiword-1.0\n";
+close(ALL);
+my $diff_val=`diff multiword-1.0.tmp parser-1.0.tmp 2>>error_file`;
+if($diff_val =~ /^\d/) { `cat multiword-1.0.tmp >> all.out`; }
+
+my $start_module = [gettimeofday];
+system("cp -r multiword-1.0.tmp transfergrammar-2.4.tmp.in") == 0 || die "Error: Couldn't run transfergrammar-2.4";
+
+system("sh /home/teltamilmt/sampark/bin/sl_tl/transfergrammar/transfergrammar-tel_tam.sh < multiword-1.0.tmp > transfergrammar-2.4.tmp") == 0 || die "Error: Couldn't run transfergrammar-2.4";
+$dashLog->debug("Command is for running sh module with dependency previous $command");
+
+system("cp -r transfergrammar-2.4.tmp transfergrammar-2.4.tmp.out") == 0 || die "Error: Couldn't run transfergrammar-2.4";
+$end_module = [gettimeofday];
+$diff_time = tv_interval($start_module,$end_module);
+$dashLog->debug("time difference is $diff_time ");
+print_time_taken("transfergrammar-2.4");
+open(ALL,">>all.out");
+print ALL "\n#transfergrammar-2.4\n";
+close(ALL);
+my $diff_val=`diff transfergrammar-2.4.tmp multiword-1.0.tmp 2>>error_file`;
+if($diff_val =~ /^\d/) { `cat transfergrammar-2.4.tmp >> all.out`; }
+
+my $start_module = [gettimeofday];
+system("cp -r transfergrammar-2.4.tmp lexicaltransfer-3.2.3.tmp.in") == 0 || die "Error: Couldn't run lexicaltransfer-3.2.3";
+
+system("sh /home/teltamilmt/sampark/bin/sl_tl/lexicaltransfer/tel/lexicaltransfer.sh < transfergrammar-2.4.tmp > lexicaltransfer-3.2.3.tmp") == 0 || die "Error: Couldn't run lexicaltransfer-3.2.3";
+$dashLog->debug("Command is for running sh module with dependency previous $command");
+
+system("cp -r lexicaltransfer-3.2.3.tmp lexicaltransfer-3.2.3.tmp.out") == 0 || die "Error: Couldn't run lexicaltransfer-3.2.3";
+$end_module = [gettimeofday];
+$diff_time = tv_interval($start_module,$end_module);
+$dashLog->debug("time difference is $diff_time ");
+print_time_taken("lexicaltransfer-3.2.3");
+open(ALL,">>all.out");
+print ALL "\n#lexicaltransfer-3.2.3\n";
+close(ALL);
+my $diff_val=`diff lexicaltransfer-3.2.3.tmp transfergrammar-2.4.tmp 2>>error_file`;
+if($diff_val =~ /^\d/) { `cat lexicaltransfer-3.2.3.tmp >> all.out`; }
+
+my $start_module = [gettimeofday];
+system("cp -r lexicaltransfer-3.2.3.tmp translitration-3.4.tmp.in") == 0 || die "Error: Couldn't run translitration-3.4";
+
+system("sh /home/teltamilmt/sampark/bin/sl_tl/transliteration/transliteration_tel2tam_ssf.sh < lexicaltransfer-3.2.3.tmp > translitration-3.4.tmp") == 0 || die "Error: Couldn't run translitration-3.4";
+$dashLog->debug("Command is for running sh module with dependency previous $command");
+
+system("cp -r translitration-3.4.tmp translitration-3.4.tmp.out") == 0 || die "Error: Couldn't run translitration-3.4";
+$end_module = [gettimeofday];
+$diff_time = tv_interval($start_module,$end_module);
+$dashLog->debug("time difference is $diff_time ");
+print_time_taken("translitration-3.4");
+open(ALL,">>all.out");
+print ALL "\n#translitration-3.4\n";
+close(ALL);
+my $diff_val=`diff translitration-3.4.tmp lexicaltransfer-3.2.3.tmp 2>>error_file`;
+if($diff_val =~ /^\d/) { `cat translitration-3.4.tmp >> all.out`; }
+
+my $start_module = [gettimeofday];
+system("cp -r translitration-3.4.tmp agreementfeature-1.0.tmp.in") == 0 || die "Error: Couldn't run agreementfeature-1.0";
+
+system("sh /home/teltamilmt/sampark/bin/tl/agreementfeature/tam/agreementfeature_tam.sh < translitration-3.4.tmp > agreementfeature-1.0.tmp") == 0 || die "Error: Couldn't run agreementfeature-1.0";
+$dashLog->debug("Command is for running sh module with dependency previous $command");
+
+system("cp -r agreementfeature-1.0.tmp agreementfeature-1.0.tmp.out") == 0 || die "Error: Couldn't run agreementfeature-1.0";
+$end_module = [gettimeofday];
+$diff_time = tv_interval($start_module,$end_module);
+$dashLog->debug("time difference is $diff_time ");
+print_time_taken("agreementfeature-1.0");
+open(ALL,">>all.out");
+print ALL "\n#agreementfeature-1.0\n";
+close(ALL);
+my $diff_val=`diff agreementfeature-1.0.tmp translitration-3.4.tmp 2>>error_file`;
+if($diff_val =~ /^\d/) { `cat agreementfeature-1.0.tmp >> all.out`; }
+
+my $start_module = [gettimeofday];
+system("cp -r agreementfeature-1.0.tmp interchunk-1.0.tmp.in") == 0 || die "Error: Couldn't run interchunk-1.0";
+
+system("sh /home/teltamilmt/sampark/bin/tl/interchunk/tam/interchunk-tam.sh < agreementfeature-1.0.tmp > interchunk-1.0.tmp") == 0 || die "Error: Couldn't run interchunk-1.0";
+$dashLog->debug("Command is for running sh module with dependency previous $command");
+
+system("cp -r interchunk-1.0.tmp interchunk-1.0.tmp.out") == 0 || die "Error: Couldn't run interchunk-1.0";
+$end_module = [gettimeofday];
+$diff_time = tv_interval($start_module,$end_module);
+$dashLog->debug("time difference is $diff_time ");
+print_time_taken("interchunk-1.0");
+open(ALL,">>all.out");
+print ALL "\n#interchunk-1.0\n";
+close(ALL);
+my $diff_val=`diff interchunk-1.0.tmp agreementfeature-1.0.tmp 2>>error_file`;
+if($diff_val =~ /^\d/) { `cat interchunk-1.0.tmp >> all.out`; }
+
+my $start_module = [gettimeofday];
+system("cp -r interchunk-1.0.tmp vibhaktispliter-2.0.tmp.in") == 0 || die "Error: Couldn't run vibhaktispliter-2.0";
+
+system("sh /home/teltamilmt/sampark/bin/tl/vibhaktisplitter/tam/vibhaktisplitter_tam.sh < interchunk-1.0.tmp > vibhaktispliter-2.0.tmp") == 0 || die "Error: Couldn't run vibhaktispliter-2.0";
+$dashLog->debug("Command is for running sh module with dependency previous $command");
+
+system("cp -r vibhaktispliter-2.0.tmp vibhaktispliter-2.0.tmp.out") == 0 || die "Error: Couldn't run vibhaktispliter-2.0";
+$end_module = [gettimeofday];
+$diff_time = tv_interval($start_module,$end_module);
+$dashLog->debug("time difference is $diff_time ");
+print_time_taken("vibhaktispliter-2.0");
+open(ALL,">>all.out");
+print ALL "\n#vibhaktispliter-2.0\n";
+close(ALL);
+my $diff_val=`diff vibhaktispliter-2.0.tmp interchunk-1.0.tmp 2>>error_file`;
+if($diff_val =~ /^\d/) { `cat vibhaktispliter-2.0.tmp >> all.out`; }
+
+my $start_module = [gettimeofday];
+system("cp -r vibhaktispliter-2.0.tmp agreementdistribution-1.0.tmp.in") == 0 || die "Error: Couldn't run agreementdistribution-1.0";
+
+system("sh /home/teltamilmt/sampark/bin/tl/agreementdistribution/tam/agreementdistribution-tam.sh < vibhaktispliter-2.0.tmp > agreementdistribution-1.0.tmp") == 0 || die "Error: Couldn't run agreementdistribution-1.0";
+$dashLog->debug("Command is for running sh module with dependency previous $command");
+
+system("cp -r agreementdistribution-1.0.tmp agreementdistribution-1.0.tmp.out") == 0 || die "Error: Couldn't run agreementdistribution-1.0";
+$end_module = [gettimeofday];
+$diff_time = tv_interval($start_module,$end_module);
+$dashLog->debug("time difference is $diff_time ");
+print_time_taken("agreementdistribution-1.0");
+open(ALL,">>all.out");
+print ALL "\n#agreementdistribution-1.0\n";
+close(ALL);
+my $diff_val=`diff agreementdistribution-1.0.tmp vibhaktispliter-2.0.tmp 2>>error_file`;
+if($diff_val =~ /^\d/) { `cat agreementdistribution-1.0.tmp >> all.out`; }
+
+my $start_module = [gettimeofday];
+system("cp -r agreementdistribution-1.0.tmp wordgen.tmp.in") == 0 || die "Error: Couldn't run wordgen";
+
+system("sh /home/teltamilmt/sampark/bin/tl/wordgenerator/tam/wordgen_tam.sh < agreementdistribution-1.0.tmp > wordgen.tmp") == 0 || die "Error: Couldn't run wordgen";
+$dashLog->debug("Command is for running sh module with dependency previous $command");
+
+system("cp -r wordgen.tmp wordgen.tmp.out") == 0 || die "Error: Couldn't run wordgen";
+$end_module = [gettimeofday];
+$diff_time = tv_interval($start_module,$end_module);
+$dashLog->debug("time difference is $diff_time ");
+print_time_taken("wordgen");
+open(ALL,">>all.out");
+print ALL "\n#wordgen\n";
+close(ALL);
+my $diff_val=`diff wordgen.tmp agreementdistribution-1.0.tmp 2>>error_file`;
+if($diff_val =~ /^\d/) { `cat wordgen.tmp >> all.out`; }
+$end_system = [gettimeofday];
+$diff_time = tv_interval($start_system,$end_system);
+$dashLog->debug("time difference is $diff_time ");
+print_time_taken("Complete time");
+
+
+sub print_time_taken {
+	open(TIME,">>TIME_TAKEN.out");
+	print TIME "$_[0]\t$diff_time\n";
+	close (TIME);
+}
+open(FOR_VALIDATION,">$PWD/.dash.tmp");
+print FOR_VALIDATION "<OUTPUT_DIR>\n";
+print FOR_VALIDATION "<LAST_MODULE_OUTFILE>wordgen.tmp\n";
+close(FOR_VALIDATION);
+closedir DIR;
+$dashLog->info("Executable of Spec file run successfully and all output is stored in Output Directory");
+
+sub convertor{
+
+  my $input_file = $_[0];
+
+  my $input = "hello";
+
+ print "input file $input_file";
+
+  my $encode = $_[1];
+
+if($encode eq "wx"){
+
+  print $_[0];
+
+  system ("perl /home/arun/dashboard/DashCore/generate_exe/convertor/convert.pl -s utf -t wx <$_[0] >temp1");
+$dashLog->info("command is /home/arun/dashboard/DashCore/generate_exe/Convertor/convert.pl -s wx -t utf <  >temp1 ");
+
+ system(cp temp1 $_[0]);
+
+  }
+
+  if($encode eq "utf8"){
+  system ("perl  /home/arun/dashboard/DashCore/generate_exe/Convertor/convert.pl -s wx -t utf <$_[0] >temp1 ");
+$dashLog->info("command is /home/arun/dashboard/DashCore/generate_exe/Convertor/convert.pl -s wx -t utf <$_[0] >temp1 ");
+	system("cp temp1 $_[0]");
+
+   }
+
+}

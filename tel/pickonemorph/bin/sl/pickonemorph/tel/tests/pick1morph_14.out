@@ -1,0 +1,16 @@
+<Sentence id="1">
+1	((	NP	
+1.1	rakwaMloni	NN	<fs af='rakwaM,n,,sg,,,loni,loni'>
+	))		
+2	((	NP	
+2.1	glUkoj	NN	<fs af='glUkoj,n,,sg,,d,0,0'>
+2.2	nu	PSP	<fs af='nu,avy,,,,,0,0_avy' poslcat="NM">
+	))		
+3	((	NP	
+3.1	bAgA	INTF	<fs af='bAgA,avy,,,,,0,0_avy'>
+	))		
+4	((	VGF	
+4.1	waggiswuMxi	VM	<fs af='waggiMcu,v,fn,sg,3,,wA,wA'>
+4.2	.	SYM	<fs af='&dot;,punc,,,,,,'>
+	))		
+</Sentence>

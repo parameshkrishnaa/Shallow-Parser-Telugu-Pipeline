@@ -1,0 +1,12 @@
+<Sentence id="1">			
+1	AhAraM	NN	<fs af='AhAraM,n,,sg,,d,0,0'>
+2	pUrwigA	RB	<fs af='pUrwigA,avy,,,,,0,0_avy'>|<fs af='pUrwi,n,,sg,,,gA,gA'>
+3	jIrNaM	NN	<fs af='jIrNaM,n,,sg,,d,0,0'>
+4	ayyi	VM	<fs af='avvu,v,any,any,any,,i,i'>
+5	malabaxXaka	NN	<fs af='malabaxXakaM,n,,sg,,o,ti,ti'>
+6	samasya	NN	<fs af='samasya,n,,sg,,d,0,0'>|<fs af='samasya,n,,sg,,o,ti,ti'>
+7	wIruwuMxi	VM	<fs af='wIru,v,fn,sg,3,,wA,wA'>|<fs af='wIru,v,fn,sg,3,,wA,wA'>
+8	.	SYM	<fs af='&dot;,punc,,,,,,'>
+</Sentence>			
+<Sentence id="2">			
+</Sentence>			

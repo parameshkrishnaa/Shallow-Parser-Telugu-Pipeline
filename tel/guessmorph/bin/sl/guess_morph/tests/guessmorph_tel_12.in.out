@@ -1,0 +1,27 @@
+<Sentence id="1">			
+1	((	NP	
+1.1	wana	PRP	<fs af='wAnu,pn,,sg,,o,ti,ti'>
+1.2	mAtalu	NN	<fs af='mAta,n,,pl,,d,0,0'>|<fs af='mAta,n,,pl,,,vu,vu'>
+1.3	,	SYM	<fs af='&comma;,punc,,,,,,'>
+	))		
+2	((	NP	
+2.1	rAwalu	NN	<fs af='rAwa,n,,pl,,d,0,0'>|<fs af='rAwa,n,,pl,,,vu,vu'>
+	))		
+3	((	NP	
+3.1	prakaMpanalu	NN	<fs af='prakaMpana,n,,pl,,d,0,0'>|<fs af='prakaMpana,n,,pl,,d,0,0'>
+	))		
+4	((	VGNF	
+4.1	sqRtiMci	VM	<fs af='sqRtiMcu,v,any,any,any,,i,i'>|<fs af='sqRtiMcu,v,any,any,any,,i,i'>
+	))		
+5	((	NP	
+5.1	velAxi	QC	<fs af='velAxi,n,,sg,,d,0,0'>|<fs af='velAxi,n,,sg,,o,ti,ti'>
+5.2	kApIlu	NN	<fs af='kApI,n,,pl,,d,0,0'>|<fs af='kApI,n,,pl,,,vu,vu'>
+	))		
+6	((	VGNF	
+6.1	ammudupowAyani	VM	<fs af='ammudupo,v,n,pl,3,,wA_ani,wA_ani'>
+	))		
+7	((	VGF	
+7.1	BAviMcAru	VM	<fs af='BAviMcu,v,fm,pl,3,,A,A'>|<fs af='BAviMcu,v,fm,pl,3,,A,A'>
+7.2	.	SYM	<fs af='&dot;,punc,,,,,,'>
+	))		
+</Sentence>			

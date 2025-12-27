@@ -1,0 +1,22 @@
+<Sentence id="1">			
+1	pArtI	NN	<fs af='pArtI,n,,sg,,d,0,0'>|<fs af='pArtI,n,,sg,,o,ti,ti'>
+2	swApiMcina	VM	<fs af='swApiMcina,unk,,,,,,'>
+3	waruvAwa	NST	<fs af='waruvAwa,adv,,,,,0,0_adv'>
+4	jarigina	VM	<fs af='jarigina,adj,,,,,0,0_adj'>|<fs af='jarugu,v,any,any,any,,ina,ina'>
+5	woVli	NN	<fs af='woVli,adj,,,,,0,0_adj'>
+6	eVnnikalEna	JJ	<fs af='eVnnika,n,,pl,,,Ena,Ena'>
+7	2013	QC	<fs af='2013,num,,,,,,'>
+8	DillI	NN	<fs af='DillI,n,,sg,,d,0,0'>|<fs af='DillI,n,,sg,,o,ti,ti'>
+9	aseVMblI	NN	<fs af='aseVMblI,n,,sg,,d,0,0'>|<fs af='aseVMblI,n,,sg,,o,ti,ti'>
+10	eVnnikala	NN	<fs af='eVnnika,n,,pl,,o,ti,ti'>
+11	vijayaMwo	NN	<fs af='vijayaM,n,,sg,,,wo,wo'>
+12	DillI	NN	<fs af='DillI,n,,sg,,d,0,0'>|<fs af='DillI,n,,sg,,o,ti,ti'>
+13	7	QC	<fs af='7,num,,,,,,'>
+14	va	NN	<fs af='va,avy,,,,,,'>
+15	muKyamaMwrigA	RB	<fs af='muKyamaMwri,n,,sg,,,gA,gA'>
+16	paxavi	NN	<fs af='paxavi,n,,sg,,d,0,0'>|<fs af='paxavi,n,,sg,,o,ti,ti'>
+17	cebattAru	VM	<fs af='cebattAru,unk,,,,,,'>
+18	.	SYM	<fs af='&dot;,punc,,,,,,'>
+</Sentence>			
+<Sentence id="2">			
+</Sentence>			

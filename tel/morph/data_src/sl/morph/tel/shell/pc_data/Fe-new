@@ -1,0 +1,158 @@
+clas_pst_tam iwi
+clas_pst_ds_tam iwi_le
+clas_pst_dsh_tam iwi_leVMdi
+clas_pst_dsj_tam iwi_o
+clas_pst_emp_tam iwi_e
+clas_pst_hex_tam iwi_aMdi
+clas_pst_indf_tam iwi_alle
+clas_pst_nh_tam iwi_rA
+clas_pst_qt_tam iwi_ani
+clas_pst_rep_tam iwi_ata
+clas_pst_rep1_tam iwi_uta
+clas_pst_rep2_tam iwi_annamAta
+clas_pst_wh_tam iwi_A
+fin_habit_tam wuMtA
+fin_habit_ds_tam wuMtA_le
+fin_habit_dsh_tam wuMtA_leVMdi
+fin_habit_dsj_tam wuMtA_o
+fin_habit_emp_tam wuMtA_e
+fin_habit_hex_tam wuMtA_aMdi
+fin_habit_indf_tam wuMtA_alle
+fin_habit_nh_tam wuMtA_rA
+fin_habit_qt_tam wuMtA_ani
+fin_habit_rep_tam wuMtA_ata
+fin_habit_rep1_tam wuMtA_uta
+fin_habit_rep2_tam wuMtA_annamAta
+fin_habit_wh_tam wuMtA_A
+pt_conc_tam inA
+pt_conc_pcl_tam inA_sare inA_gUdA inA_gaxU inA_gAni
+pt_cond_tam we
+pt_cond_pcl_tam we_annA we_mari we_ata we_attuMxi we_mAlle we_wappa we_gUdA we_ganuka we_e_gaxa we_gaxa we_gAni we_gA we_o we_e we_A
+dur_adjl_tam e
+dur_adjl_pcl_tam e_koVxxi e_xAkA e_lopuna e_lopala e_aMwavaraku e_aMwalo e_aMwasepu e_aMwagA e_aMwa e_anni e_valla e_aMxuku e_kannA e_varaku e_pAtiki e_sariki e_appudu e_muMxu e_lA e_atuvaMti e_atlu
+fin_cont_tam uxu
+fin_cont_ds_tam uxu_le
+fin_cont_dsh_tam uxu_leVMdi
+fin_cont_dsj_tam uxu_o
+fin_cont_emp_tam uxu_e
+fin_cont_hex_tam uxu_aMdi
+fin_cont_indf_tam uxu_alle
+fin_cont_nh_tam uxu_rA
+fin_cont_qt_tam uxu_ani
+fin_cont_rep_tam uxu_ata
+fin_cont_rep1_tam uxu_uta
+fin_cont_rep2_tam uxu_annamAta
+fin_cont_wh_tam uxu_A
+fin_dur_tam wunn
+fin_dur_ds_tam wunn_le
+fin_dur_dsh_tam wunn_leVMdi
+fin_dur_dsj_tam wunn_o
+fin_dur_emp_tam wunn_e
+fin_dur_hex_tam wunn_aMdi
+fin_dur_indf_tam wunn_alle
+fin_dur_nh_tam wunn_rA
+fin_dur_qt_tam wunn_ani
+fin_dur_rep_tam wunn_ata
+fin_dur_rep1_tam wunn_uta
+fin_dur_rep2_tam wunn_annamAta
+fin_dur_wh_tam wunn_A
+fin_fut_tam wA
+fin_fut_ds_tam wA_le
+fin_fut_dsh_tam wA_leVMdi
+fin_fut_dsj_tam wA_o
+fin_fut_emp_tam wA_e
+fin_fut_hex_tam wA_aMdi
+fin_fut_indf_tam wA_alle
+fin_fut_nh_tam wA_rA
+fin_fut_qt_tam wA_ani
+fin_fut_rep_tam wA_ata
+fin_fut_rep1_tam wA_uta
+fin_fut_rep2_tam wA_annamAta
+fin_fut_wh_tam wA_A
+fin_hort_tam xA
+fin_hort_ds_tam xA_le
+fin_hort_dsh_tam xA_leVMdi
+fin_hort_dsj_tam xA_o
+fin_hort_emp_tam xA_e
+fin_hort_hex_tam xA_aMdi
+fin_hort_indf_tam xA_alle
+fin_hort_nh_tam xA_rA
+fin_hort_qt_tam xA_ani
+fin_hort_rep_tam xA_ata
+fin_hort_rep1_tam xA_uta
+fin_hort_rep2_tam xA_annamAta
+fin_hort_wh_tam xA_A
+fin_imp_tam AjFArWa_ve AjFArWa_rA AjFArWa_ayyA AjFArWa_ammA AjFArWa_le AjFArWa_manu AjFArWa
+imp_neg_tam aku
+fin_neg_tam a
+fin_neg_ds_tam a_le
+fin_neg_dsj_tam a_o
+fin_neg_dsh_tam a_leVMdi
+fin_neg_emp_tam a_e
+fin_neg_hex_tam a_aMdi
+fin_neg_indf_tam a_alle
+fin_neg_nh_tam a_rA
+fin_neg_qt_tam a_ani
+fin_neg_rep_tam a_ata
+fin_neg_rep1_tam a_uta
+fin_neg_rep2_tam a_annamAta
+fin_neg_wh_tam a_A
+fin_past_tam A
+fin_past_ds_tam A_le
+fin_past_dsh_tam A_leVMdi
+fin_past_dsj_tam A_o
+fin_past_emp_tam A_e
+fin_past_hex_tam A_aMdi
+fin_past_indf_tam A_alle
+fin_past_nh_tam A_rA
+fin_past_qt_tam A_ani
+fin_past_rep_tam A_ata
+fin_past_rep1_tam A_uta
+fin_past_rep2_tam A_annamAta
+fin_past_wh_tam A_A
+gerund_pcl_tam adaM_gAni adaM_aMte adaM_annamAta adaM_annA adaM_aMtU adaM_aMta adaM
+koVn_tam koVn
+inf_mdls_tam an_e_akkara an_akkara a_gAne an_avasaraM a_batti a_gA a_vaccu a_rAxu an_e_kUdaxu a_kUdaxu a_mAku an_e_vaxxu a_vaxxu adaM_e_lexu an_e_lexu adaM_lexu a_lexu a_EnA an_e an
+inf_neg_tam aka
+inf_neg_pcl_tam aka_annamAta aka_ani aka_ganaka aka_attuMxi aka_gAbolu aka_gaxA aka_gaxU aka_gAni aka_V aka_muMxu aka_le aka_o aka_e aka_A
+inf_neg_gAni_tam aka_gAni
+neg_adjl_tam ani_co ani
+neg_adjl_pcl_tam ani_aMwavaraku ani_aMwasepu ani_aMwagA ani_aMwa ani_anni ani_aMxuna ani_atuvaMti ani_aMxuvalla ani_aMxuku ani_app_ki ani_app_nuMci ani_appati ani_appudu ani_atlugA ani_atlu
+neg_advl_tam akuMdA
+neg_advl_pcl_tam akuMdA_ata akuMdA_annamAta akuMdA_EnA akuMdA_attuMxi akuMdA_gAbolu akuMdA_gUdA akuMdA_gaxU akuMdA_gaxA akuMdA_gAni akuMdA_le akuMdA_o akuMdA_e akuMdA_A
+neg_conc_tam akunnA
+neg_conc_pcl_tam akunnA_sare akunnA_gUdA akunnA_gaxU akunnA_gAni
+neg_cond_tam akapowe
+neg_cond_pcl_tam akapowe_annA akapowe_mari akapowe_ata akapowe_attuMxi akapowe_mAlle akapowe_wappa akapowe_gUdA akapowe_ganaka akapowe_e_gaxa akapowe_gaxa akapowe_gAni akapowe_gA akapowe_o akapowe_e akapowe_A
+nf_forciv_tam Ali_ayyA Ali_ammA Ali_rA Ali_aMdi Ali_V Ali_o Ali_e Ali_A Ali_aMte Ali_annamAta Ali_ata Ali_aMta Alasi Ali_gaxa Ali_emo Ali_emonani Ali_gAni Ali_ane Ali_ani Ali
+np_adjl_tam wunna_co wunna
+np_adjl_pcl_tam wunna_koVxxi wunna_xAkA wunna_lopala wunna_aMwavaraku wunna_aMwalo wunna_aMwasepu wunna_aMwagA wunna_aMwa wunna_anni wunna_aMxuna wunna_atuvaMti wunna_aMxuvalana wunna_aMxuku wunna_app_ki wunna_app_nuMci wunna_app_ti wunna_appudu wunna_atlugA wunna_atlu
+np_advl_tam wU
+np_advl_pcl_tam wU_ata wU_annamAta wU_EnA wU_attuMxi wU_gAbolu wU_gUdA wU_gaxu wU_gaxa wU_gAni wU_le wU_o wU_e wU_A
+np_conc_tam wunnA
+np_conc_pcl_tam wunnA_sare wunnA_gUdA wunnA_gaxU wunnA_gAni
+np_cond_tam wuMte
+np_cond_pcl_tam wuMte_annA wuMte_mari wuMte_ata wuMte_attuMxi wuMte_alle wuMte_wappa wuMte_gUdA wuMte_ganaka wuMte_e_gaxa wuMte_gaxa wuMte_gAni wuMte_gA wuMte_o wuMte_e wuMte_A
+pt_adjl_tam ina_co ina
+pt_adjl_gAni_tam ina_gAni
+pt_adjl_pcl_tam ina_koVxxi ina_Aka ina_xAkA ina_lopala ina_aMwavaraku ina_aMwalo ina_aMwasepu ina_aMwagA ina_aMwa ina_anni ina_aMxuna ina_atuvaMti ina_aMxuvalla ina_aMxuku ina_app_ki ina_app_nuMci ina_appati ina_appudu ina_atlugA ina_atlu
+pt_advl_tam i
+pt_advl_pcl_tam i_annamAta i_EnA i_attuMxi i_gAbolu i_gUdA i_gaxu i_gaxa i_gAni i_gA i_le i_V i_o i_e i_A
+aux_aka_tam aka_mAnu aka_wappu aka_po aka_uMdu
+aux_akuMdA_tam akuMdA_cUdu akuMdA_uMdu
+aux_i_tam i_komanu i_veVyyi i_pAreVyyi i_peVttu i_wIru i_cUdu i_uMdu i_vaccu i_po
+aux_wU_tam wU_uMdu wU_vaccu wU_po
+aux_a_tam a_buxXeVyyi a_buxXavvu a_buxXiputtu a_valayu a_sAgu a_paracu a_jAlu a_vaccu a_joVccu a_wiyyi a_galugu a_gUdu a_wagu a_beVttu a_goVttu a_walacu a_manu a_uMdu a_ivvu a_goru a_bUnu a_neru a_nAraMBiMcu a_bo a_gala a_badu a_le
+ANY_gnp any
+1p_gnp 12_ba
+gnp_2 2_ba 2_e
+gnp_5a 1_ba 2_ba 3 2_e 1_e
+gnp_5b 1_ba 2_ba_3_non_na_ba 3_e_3_na_ba 2_e 1_e
+gnp_6 3_non_na_ba 2_ba 1_ba 3_e_3_na_ba 2_e 1_e
+gnp_6b 2_e_3_na_ba 3_non_pu_e 1_ba 23_ba 3_pu_e 1_e
+gnp_7 3_na_ba 3_non_pu_e 1_ba 23_ba 3_pu_e 2_e 1_e
+number bahu eka
+number_s eka
+number_p bahu
+any_number any
+Avy Avy

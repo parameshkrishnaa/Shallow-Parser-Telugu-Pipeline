@@ -1,0 +1,10 @@
+<Sentence id="1">			
+1	kAnI	CC	<fs af='kAnI,avy,,,,,0,0_avy'>|<fs af='kAni,avy,,,,,V,V_avy'>|<fs af='kAni,avy,,,,,V,V_avy'>
+2	ippudu	NST	<fs af='ippudu,n,,sg,,d,0,0'>|<fs af='ippudu,n,,sg,,o,ti,ti'>
+3	avi	PRP	<fs af='axi,pn,fn,pl,3,d,0,0'>
+4	kanipiMcadaM	VM	<fs af='kanipiMcu,v,any,any,any,,adaM,adaM'>
+5	lexu	VAUX	<fs af='gala,v,fn,sg,3,,a,a'>|<fs af='uMdu,v,any,any,any,,a_lexu,a_lexu'>
+6	.	SYM	<fs af='&dot;,punc,,,,,,'>
+</Sentence>			
+<Sentence id="2">			
+</Sentence>			

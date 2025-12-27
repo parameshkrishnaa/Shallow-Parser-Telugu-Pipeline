@@ -1,0 +1,18 @@
+<Sentence id="1">
+1	((	BLK	
+1.1	aMtU	UT	<fs af='aMtU,avy,,,,,,'>
+	))		
+2	((	NP	
+2.1	murAriki	NN	<fs af='murAri,n,,sg,,,ki,ki'>
+	))		
+3	((	NP	
+3.1	koVMxaru	PRP	<fs af='koVMxaru,pn,,pl,,d,0,0'>
+	))		
+4	((	NP	
+4.1	eVseVMeVslu	NN	<fs af='eVseVMeVslu,unk,,,,,,' poslcat="NM">
+	))		
+5	((	VGF	
+5.1	ceSAru	VM	<fs af='ceVyyi,v,fm,pl,3,,A,A'>
+5.2	.	SYM	<fs af='&dot;,punc,,,,,,'>
+	))		
+</Sentence>

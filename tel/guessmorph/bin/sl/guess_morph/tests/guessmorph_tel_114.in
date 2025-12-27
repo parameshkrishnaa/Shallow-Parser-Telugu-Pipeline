@@ -1,0 +1,18 @@
+<Sentence id="1">
+1	((	NP	
+1.1	I	DEM	<fs af='I,avy,,,,,,' poslcat="NM">|<fs af='I,avy,,,,,,' poslcat="NM">
+1.2	xeSaMyoVkka	NN	<fs af='xeSaM,n,,sg,,,yoVkka,yoVkka'>
+	))		
+2	((	NP	
+2.1	rAjakIya	JJ	<fs af='rAjakIya,adj,,,,,0,0_adj'>
+2.2	viXAnaM	NN	<fs af='viXAnaM,n,,sg,,d,0,0'>
+	))		
+3	((	NP	
+3.1	pArlameVMtarI	NN	<fs af='pArlameVMtarI,n,,sg,,d,0,0'>|<fs af='pArlameVMtarI,n,,sg,,o,ti,ti'>
+	))		
+4	((	NP	
+4.1	ripablik	NN	<fs af='ripablik,n,,sg,,d,0,0'>|<fs af='ripablik,n,,sg,,o,ti,ti'>
+4.2	viXAnaM	NN	<fs af='viXAnaM,n,,sg,,d,0,0'>
+4.3	.	SYM	<fs af='&dot;,punc,,,,,,'>
+	))		
+</Sentence>

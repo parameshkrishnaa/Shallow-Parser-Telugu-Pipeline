@@ -1,0 +1,16 @@
+<Sentence id="1">
+1	((	CCP	
+1.1	kAnI	CC	<fs af='kAnI,avy,,,,,0,0_avy'>
+	))		
+2	((	NP	
+2.1	ippudu	NST	<fs af='ippudu,n,,sg,,d,0,0' poslcat="NM">
+	))		
+3	((	NP	
+3.1	avi	PRP	<fs af='axi,pn,fn,pl,3,d,0,0'>
+	))		
+4	((	VGF	
+4.1	kanipiMcadaM	VM	<fs af='kanipiMcu,v,any,any,any,,adaM,adaM'>
+4.2	lexu	VAUX	<fs af='gala,v,fn,sg,3,,a,a'>
+4.3	.	SYM	<fs af='&dot;,punc,,,,,,'>
+	))		
+</Sentence>

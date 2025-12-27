@@ -1,0 +1,23 @@
+1	rElve	unk	<fs af='rElve,n,,sg,,d,0,0'>|<fs af='rElve,n,,sg,,o,ti,ti'>
+2	lEnlu	unk	<fs af='lEn,n,,pl,,d,0,0'>|<fs af='lEn,n,,pl,,,vu,vu'>|<fs af='lEnu,n,,pl,,d,0,0'>|<fs af='lEnu,n,,pl,,,vu,vu'>
+3	unna	unk	<fs af='unna,adj,,,,,0,0_adj'>|<fs af='uMdu,v,any,any,any,,ina,ina'>
+4	prAMwAllo	unk	<fs af='prAMwaM,n,,pl,,,lo,lo'>
+5	meVtro	unk	<fs af='meVtro,n,,sg,,d,0,0'>|<fs af='meVtro,n,,sg,,o,ti,ti'>
+6	kAridAr	unk	<fs af='kAridAr,unk,,,,,,'>
+7	kosaM	unk	<fs af='kosaM,avy,,,,,0,0_avy'>|<fs af='kosaM,avy,,,,,0,0_avy'>
+8	nirmiMcanunna	unk	<fs af='nirmiMcu,v,any,any,any,,a_uMdu_ina,a_uMdu_ina'>
+9	rodovar	unk	<fs af='rodovar,unk,,,,,,'>
+10	bridji	unk	<fs af='bridji,n,,sg,,d,0,0'>|<fs af='bridji,n,,sg,,o,ti,ti'>
+10	laku	unk	<fs af='laku,avy,,,,,0,0_avy'>
+11	saMbaMXiMci	unk	<fs af='saMbaMXiMcu,v,any,any,any,,i,i'>
+12	hExarAbAx	unk	<fs af='hExarAbAx,n,,sg,,d,0,0'>|<fs af='hExarAbAx,n,,sg,,o,ti,ti'>
+13	meVtro	unk	<fs af='meVtro,n,,sg,,d,0,0'>|<fs af='meVtro,n,,sg,,o,ti,ti'>
+14	rElu	unk	<fs af='rElu,n,,sg,,d,0,0'>|<fs af='rEl,n,,sg,,d,0,0'>|<fs af='rEl,n,,sg,,o,ti,ti'>
+15	kotlalo	unk	<fs af='kot,n,,pl,,,lo,lo'>|<fs af='kot,n,,pl,,,lo,lo'>|<fs af='koti,n,,pl,,,lo,lo'>|<fs af='kotu,n,,pl,,,lo,lo'>
+16	xakRiNa	unk	<fs af='xakRiNaM,n,,sg,,o,ti,ti'>|<fs af='xakRiNudu,n,,sg,,o,ti,ti'>
+17	maXya	unk	<fs af='maXya,adv,,,,,0,0_adv'>|<fs af='maXya,nst,,,,,yoVkka,yoVkka_adv'>|<fs af='maXyaM,n,,sg,,o,ti,ti'>
+18	rElveku	unk	<fs af='rElve,n,,sg,,,ki,ki'>
+19	CArjIlanu	unk	<fs af='CArjI,n,,pl,,,ni,ni'>
+20	ceVlliMcAlsi	unk	<fs af='ceVlliMcu,v,any,any,any,,Alasi,Alasi'>
+21	uMdexi	unk	<fs af='uMdu,v,,sg,,,e_axi,e_axi_0' deri_cat='pn'>
+22	.	unk	<fs af='&dot;,punc,,,,,,'>

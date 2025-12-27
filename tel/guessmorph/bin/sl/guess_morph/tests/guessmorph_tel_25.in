@@ -1,0 +1,29 @@
+<Sentence id="1">
+1	((	NP	
+1.1	rOdI	NN	<fs af='rOdI,n,,sg,,d,0,0'>|<fs af='rOdI,n,,sg,,o,ti,ti'>
+	))		
+2	((	NP	
+2.1	gyAMgulu	NN	<fs af='gyAMg,n,,pl,,d,0,0'>|<fs af='gyAMg,n,,pl,,,vu,vu'>
+2.2	,	SYM	<fs af='&comma;,punc,,,,,,'>
+	))		
+3	((	NP	
+3.1	vAlYlawo	PRP	<fs af='vAlYlu,pn,fm,pl,3,,wo,wo'>
+	))		
+4	((	NP	
+4.1	hIro	NN	<fs af='hIro,n,,sg,,d,0,0'>|<fs af='hIro,n,,sg,,o,ti,ti'>
+	))		
+5	((	NP	
+5.1	PEtlu	NN	<fs af='PEt,n,,pl,,d,0,0'>|<fs af='PEt,n,,pl,,,vu,vu'>
+	))		
+6	((	NP	
+6.1	manaM	PRP	<fs af='manaM,pn,any,pl,1,d,0,0'>
+	))		
+7	((	NP	
+7.1	cAlA	QF	<fs af='cAlA,avy,,,,,0,0_avy' poslcat="NM">|<fs af='cAlu,v,any,any,any,,i_A,i_A' poslcat="NM">|<fs af='cAlu,avy,,,,,A,A_avy' poslcat="NM">
+7.2	sinimAllo	NN	<fs af='sinimA,n,,pl,,,lo,lo'>
+	))		
+8	((	VGF	
+8.1	cUsinave	VM	<fs af='cUdu,v,any,any,any,,ina_avi_0,ina_axi_0_e'>
+8.2	.	SYM	<fs af='&dot;,punc,,,,,,'>
+	))		
+</Sentence>

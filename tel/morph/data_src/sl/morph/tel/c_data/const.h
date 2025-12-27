@@ -1,0 +1,4 @@
+#define SIZEOF_LEX 100 
+#define SIZEOF_IND 19 
+#define SIZEOF_SUFF_ADD 34295 
+#define TOTAL_FE_INFO  913 

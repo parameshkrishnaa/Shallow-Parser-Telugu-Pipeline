@@ -1,0 +1,13 @@
+<Sentence id="1">			
+1	xIni	PRP	<fs af='ixi,pn,fn,sg,3,o,ti,ti'>
+2	xakRiNAgrAna	NN	<fs af='xakRiNAgrAna,unk,,,,,,'>
+3	koVxxi	QF	<fs af='koVxxi,adj,,,,,0,0_adj'>
+4	mElYla	NN	<fs af='mElu,n,,pl,,o,ti,ti'>
+5	xUraMlo	NN	<fs af='xUraM,n,,sg,,,lo,lo'>
+6	kajakaswAn	NN	<fs af='kajakaswAn,unk,,,,,,'>
+7	sarihaxxu	VM	<fs af='sarihaxxu,n,,sg,,d,0,0'>|<fs af='sarihaxxu,n,,sg,,o,ti,ti'>
+8	kalaxu	VM	<fs af='kala,v,fn,sg,3,,wA,wA'>|<fs af='kala,v,fn,sg,3,,A,A'>|<fs af='kalayu,v,fn,sg,3,,a,a'>
+9	.	SYM	<fs af='&dot;,punc,,,,,,'>
+</Sentence>			
+<Sentence id="2">			
+</Sentence>			

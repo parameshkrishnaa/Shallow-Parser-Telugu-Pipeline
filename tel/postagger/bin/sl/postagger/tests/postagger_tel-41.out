@@ -1,0 +1,12 @@
+<Sentence id="1">			
+1	xIni	PRP	<fs af='ixi,pn,fn,sg,3,o,ti,ti'>
+2	cuttU	NN	<fs af='cuttU,avy,,,,,0,0_avy'>|<fs af='cuttu,n,,sg,,,0,0_V'>
+3	8	QC	<fs af='8,num,,,,,,'>
+4	xvArAlawo	NN	<fs af='xvAraM,n,,pl,,,wo,wo'>
+5	kUdina	VM	<fs af='kUdu,v,any,any,any,,ina,ina'>
+6	kudyaM	NN	<fs af='kudyaM,n,,sg,,d,0,0'>
+7	unnaxi	VM	<fs af='unna,adj,,,,,xi,xi_adj'>|<fs af='unna,adj,,,,,xi,xi_adj'>
+8	.	SYM	<fs af='&dot;,punc,,,,,,'>
+</Sentence>			
+<Sentence id="2">			
+</Sentence>			

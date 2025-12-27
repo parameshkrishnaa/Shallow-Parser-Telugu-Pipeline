@@ -1,0 +1,35 @@
+<Sentence id="1">			
+1	((	NP	
+1.1	I	DEM	<fs af='I,avy,,,,,,' poslcat="NM">'>|<fs af='I,avy,,,,,,' poslcat="NM">'>
+1.2	nagarAnni	NN	<fs af='nagaraM,n,,sg,,,ni,ni'>|<fs af='nagaraM,n,,sg,,,nu,nu'>
+	))		
+2	((	NP	
+2.1	wUrpu	JJ	<fs af='wUrpu,n,,sg,,o,ti,ti' poslcat="NM">'>|<fs af='wUrpu,n,,sg,,d,0,0' poslcat="NM">'>
+2.2	veVnis	NN	<fs af='veVnis,n,,sg,,d,0,0'>|<fs af='veVnis,n,,sg,,o,ti,ti'>
+	))		
+3	((	NP	
+3.1	nagaraM	NN	<fs af='nagaraM,n,,sg,,d,0,0'>
+3.2	,	SYM	<fs af='&comma;,punc,,,,,,'>
+	))		
+4	((	NP	
+4.1	prema	JJ	<fs af='prema,n,,sg,,o,ti,ti' poslcat="NM">'>|<fs af='premaM,n,,sg,,o,ti,ti' poslcat="NM">'>
+4.2	nagaraM	NN	<fs af='nagaraM,n,,sg,,d,0,0'>
+	))		
+5	((	CCP	
+5.1	mariyu	CC	<fs af='mariyu,avy,,,,,0,0_avy'>
+	))		
+6	((	NP	
+6.1	sarassula	JJ	<fs af='sarassu,n,,pl,,o,ti,ti' poslcat="NM">
+6.2	nagaraM	NN	<fs af='nagaraM,n,,sg,,d,0,0'>
+	))		
+7	((	BLK	
+7.1	ani	UT	<fs af='ani,avy,,,,,0,0_avy'>|<fs af='ani,avy,,,,,0,0_avy'>
+	))		
+8	((	NP	
+8.1	upanAmAlu	NN	<fs af='upanAmAlu,unk,,,,,,' poslcat="NM">
+	))		
+9	((	VGF	
+9.1	unnAyi	VM	<fs af='uMdu,v,n,pl,3,,A,A'>
+9.2	.	SYM	<fs af='&dot;,punc,,,,,,'>
+	))		
+</Sentence>			

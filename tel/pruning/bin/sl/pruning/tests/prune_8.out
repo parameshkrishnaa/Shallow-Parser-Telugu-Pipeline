@@ -1,0 +1,28 @@
+<Sentence id="1">
+1	((	NP	
+1.1	proVstet	NN	<fs af='proVstet,n,,sg,,d,0,0'>|<fs af='proVstet,n,,sg,,o,ti,ti'>
+	))		
+2	((	NP	
+2.1	graMWula	NN	<fs af='graMWi,n,,pl,,o,ti,ti'>
+	))		
+3	((	NP	
+3.1	vApunu	NN	<fs af='vApu,n,,sg,,,nu,nu'>|<fs af='vApu,n,,sg,,,ni,ni'>
+	))		
+4	((	VGNF	
+4.1	waggiMcadAniki	VM	<fs af='waggiMcu,v,,sg,,,adaM_ki,adaM_ki' deri_cat=n>
+	))		
+5	((	NP	
+5.1	vExya	NN	<fs af='vExyaM,n,,sg,,o,ti,ti'>|<fs af='vExyudu,n,,sg,,o,ti,ti'>
+	))		
+6	((	RBP	
+6.1	paraMgA	RB	<fs af='paraMgA,avy,,,,,0,0_avy' poslcat="NM">|<fs af='paraM,n,,sg,,,gA,gA' poslcat="NM">
+	))		
+7	((	NP	
+7.1	gummadi	NN	<fs af='gummadi,n,,sg,,d,0,0'>|<fs af='gummadi,n,,sg,,o,ti,ti'>
+7.2	kAya	NN	<fs af='kAya,n,,sg,,d,0,0'>|<fs af='kAya,n,,sg,,o,ti,ti'>|<fs af='kAyaM,n,,sg,,o,ti,ti'>
+	))		
+8	((	VGF	
+8.1	saripowuMxi	VM	<fs af='saripo,v,fn,sg,3,,wA,wA'>|<fs af='saripo,v,fn,sg,3,,wA,wA'>
+8.2	.	SYM	<fs af='&dot;,punc,,,,,,'>
+	))		
+</Sentence>

@@ -1,0 +1,29 @@
+<Sentence id="1">			
+1	((	NP	
+1.1	SrI	NNP	<fs af='SrI,n,,sg,,d,0,0'>|<fs af='SrI,n,,sg,,o,ti,ti'>
+	))		
+2	((	VGNF	
+2.1	puttina	VM	<fs af='puttu,v,any,any,any,,ina,ina'>
+	))		
+3	((	NP	
+3.1	roju	NN	<fs af='roju,n,,sg,,d,0,0'>|<fs af='roju,n,,sg,,o,ti,ti'>
+	))		
+4	((	NP	
+4.1	vedukala	NN	<fs af='veduka,n,,pl,,o,ti,'>
+4.2	sUrya	NN	<fs af='sUryaM,n,,sg,,o,ti,ti'>|<fs af='sUryudu,n,,sg,,o,ti,ti'>
+	))		
+5	((	NP	
+5.1	miwra	JJ	<fs af='miwra,adj,,,,,0,0_adj'>|<fs af='miwraM,n,,sg,,o,ti,ti'>
+5.2	bqMxaM	NN	<fs af='bqMxaM,n,,sg,,d,0,0'>
+	))		
+6	((	NP	
+6.1	sOxI	NN	<fs af='sOxI,n,,sg,,d,0,0'>|<fs af='sOxI,n,,sg,,o,ti,ti'>
+	))		
+7	((	NP	
+7.1	arebiyA	NN	<fs af='arebiyA,n,,sg,,d,0,0'>|<fs af='arebiyA,n,,sg,,o,ti,ti'>
+	))		
+8	((	VGF	
+8.1	veVlYwuMxi	VM	<fs af='veVlYlu,v,fn,sg,3,,wA,wA'>
+8.2	.	SYM	<fs af='&dot;,punc,,,,,,'>
+	))		
+</Sentence>			

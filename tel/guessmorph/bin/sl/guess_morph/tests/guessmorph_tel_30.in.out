@@ -1,0 +1,32 @@
+<Sentence id="1">			
+1	((	NP	
+1.1	praxIp	NN	<fs af='praxIp,n,,sg,,d,0,0'>|<fs af='praxIp,n,,sg,,o,ti,ti'>
+	))		
+2	((	NP	
+2.1	rAvaw	NNP	<fs af='rAvaw,n,,sg,,d,0,0'>|<fs af='rAvaw,n,,sg,,o,ti,ti'>
+2.2	,	SYM	<fs af='&comma;,punc,,,,,,'>
+	))		
+3	((	NP	
+3.1	mukul	NN	<fs af='mukul,n,,sg,,d,0,0'>|<fs af='mukul,n,,sg,,o,ti,ti'>
+	))		
+4	((	NP	
+4.1	xev	NN	<fs af='xev,n,,sg,,d,0,0'>|<fs af='xev,n,,sg,,o,ti,ti'>
+4.2	,	SYM	<fs af='&comma;,punc,,,,,,'>
+	))		
+5	((	NP	
+5.1	brahmAjI	NNP	<fs af='brahmAjI,n,,sg,,d,0,0'>|<fs af='brahmAjI,n,,sg,,o,ti,ti'>
+5.2	,	SYM	<fs af='&comma;,punc,,,,,,'>
+	))		
+6	((	NP	
+6.1	suprIw	NNP	<fs af='suprIw,n,,sg,,d,0,0'>|<fs af='suprIw,n,,sg,,o,ti,ti'>
+6.2	,	SYM	<fs af='&comma;,punc,,,,,,'>
+	))		
+7	((	NP	
+7.1	Xarmavarapu	NNP	<fs af='XarmavaraM,n,,sg,,o,ti,ti'>
+7.2	,	SYM	<fs af='&comma;,punc,,,,,,'>
+	))		
+8	((	NP	
+8.1	si	NN	<fs af='si,n,,sg,,d,0,0'>|<fs af='si,n,,sg,,o,ti,ti'>
+8.2	.	SYM	<fs af='&dot;,punc,,,,,,'>
+	))		
+</Sentence>			

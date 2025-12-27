@@ -1,0 +1,15 @@
+<Sentence id="1">			
+1	munmuMxu	NST	<fs af='munmuMxu,unk,,,,,,'>
+2	I	DEM	<fs af='I,avy,,,,,,'>|<fs af='I,avy,,,,,,'>
+3	vaMweVnanu	NN	<fs af='vaMweVna,n,,sg,,,nu,nu'>|<fs af='vaMweVna,n,,sg,,,ni,ni'>
+4	viswariMcukune	VM	<fs af='viswariMcu,v,any,any,any,,koVn,koVn_e'>|<fs af='viswariMcu,v,any,any,any,,koVn_an,koVn_an_e'>|<fs af='viswariMcu,v,any,any,any,,koVn_i,koVn_i_e'>
+5	muMxucUpuwo	NN	<fs af='muMxucUpu,n,,sg,,,wo,wo'>
+6	nirmANa	NN	<fs af='nirmANaM,n,,sg,,o,ti,ti'>
+7	panulu	NN	<fs af='pani,n,,pl,,d,0,0'>|<fs af='pani,n,,pl,,,vu,vu'>
+8	cepattanunnatlu	VM	<fs af='cepattu,v,any,any,any,,a_uMdu_ina_atlu,a_uMdu_ina_atlu'>
+9	aXikArulu	NN	<fs af='aXikAri,n,,pl,,d,0,0'>|<fs af='aXikAri,n,,pl,,,vu,vu'>
+10	veVlladiMcAru	VM	<fs af='veVlladiMcu,v,fm,pl,3,,A,A'>
+11	.	SYM	<fs af='&dot;,punc,,,,,,'>
+</Sentence>			
+<Sentence id="2">			
+</Sentence>			

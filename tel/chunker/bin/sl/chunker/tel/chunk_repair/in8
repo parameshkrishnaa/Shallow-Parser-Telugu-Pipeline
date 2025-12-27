@@ -1,0 +1,38 @@
+<Sentence id="1">
+1	((	NP	
+1.1	qgvexaM	NN	<fs af='qgvexaM,n,,sg,,d,0,0'>
+1.2	,	SYM	<fs af='&comma;,punc,,,,,,'>
+	))		
+2	((	NP	
+2.1	rAmAyaNaM	NNP	<fs af='rAmAyaNaM,n,,sg,,d,0,0'>
+2.2	,	SYM	<fs af='&comma;,punc,,,,,,'>
+	))		
+3	((	NP	
+3.1	mahABArawaM	NNP	<fs af='mahABArawaM,n,,sg,,d,0,0'>|<fs af='mahABArawaM,n,,sg,,o,ti,ti'>|<fs af='mahABArawaM,n,,sg,,d,0,0'>
+3.2	,	SYM	<fs af='&comma;,punc,,,,,,'>
+	))		
+4	((	NP	
+4.1	skAMxapurANaMvaMti	NNP	<fs af='skAMxapurANaM,n,,sg,,,lAti,lAti'>
+	))		
+5	((	NP	
+5.1	aneka	JJ	<fs af='aneka,adj,,,,,0,0_adj'>|<fs af='anekaM,n,,sg,,o,ti,ti'>|<fs af='anekudu,n,,sg,,o,ti,ti'>
+5.2	AXyAwmika	NN	<fs af='AXyAwmika,adj,,,,,0,0_adj'>|<fs af='AXyAwmikaM,n,,sg,,o,ti,ti'>|<fs af='AXyAwmikudu,n,,sg,,o,ti,ti'>
+	))		
+6	((	NP	
+6.1	graMWAlalo	NN	<fs af='graMWaM,n,,pl,,,lo,lo'>
+	))		
+7	((	NP	
+7.1	kASI	NNP	<fs af='kASI,n,,sg,,d,0,0'>|<fs af='kASI,n,,sg,,o,ti,ti'>|<fs af='kASi,n,,sg,,,0,0_V'>
+	))		
+8	((	NP	
+8.1	nagaraM	NN	<fs af='nagaraM,n,,sg,,d,0,0'>
+	))		
+9	((	NP	
+9.1	prasakwi	NN	<fs af='prasakwi,n,,sg,,d,0,0'>|<fs af='prasakwi,n,,sg,,o,ti,ti'>
+	))		
+10	((	VGF	
+10.1	uMxi	VM	<fs af='uMdu,v,fn,sg,3,,A,A'>
+10.2	.	SYM	<fs af='&dot;,punc,,,,,,'>
+	))		
+</Sentence>
+

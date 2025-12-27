@@ -1,0 +1,24 @@
+<Sentence id="1">			
+1	((	NP	
+1.1	gummadi	NN	<fs af='gummadi,n,,sg,,d,0,0'>|<fs af='gummadi,n,,sg,,o,ti,ti'>
+	))		
+2	((	NP	
+2.1	viwwanAlu	NN	<fs af='viwwanaM,n,,pl,,d,0,0'>|<fs af='viwwanaM,n,,pl,,,vu,vu'>
+	))		
+3	((	VGNN	
+3.1	winadaM	VM	<fs af='winu,v,any,any,any,,adaM,adaM'>
+	))		
+4	((	BLK	
+4.1	valana	PSP	<fs af='valana,avy,,,,,0,0_avy' poslcat="NM">'>|<fs af='vala,n,,sg,,,na,na' poslcat="NM">'>
+	))		
+5	((	NP	
+5.1	malabaxXakaM	NN	<fs af='malabaxXakaM,n,,sg,,d,0,0'>
+	))		
+6	((	NP	
+6.1	nivAraNa	NN	<fs af='nivAraNa,n,,sg,,d,0,0'>|<fs af='nivAraNa,n,,sg,,o,ti,ti'>
+	))		
+7	((	VGF	
+7.1	avuwuMxi	VM	<fs af='avvu,v,fn,sg,3,,wA,wA'>
+7.2	.	SYM	<fs af='&dot;,punc,,,,,,'>
+	))		
+</Sentence>			

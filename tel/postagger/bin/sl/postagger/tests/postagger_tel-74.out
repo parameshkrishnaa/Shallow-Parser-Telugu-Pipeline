@@ -1,0 +1,18 @@
+<Sentence id="1">			
+1	cAlA	INTF	<fs af='cAlA,avy,,,,,0,0_avy'>|<fs af='cAlu,v,,sg,1,,A,A'>|<fs af='cAlu,v,any,any,any,,i_A,i_A'>|<fs af='cAlu,avy,,,,,A,A_avy'>
+2	kAlaMyoVkka	NN	<fs af='kAlaM,n,,sg,,,yoVkka,yoVkka'>
+3	nirlakRyaM	NN	<fs af='nirlakRyaM,n,,sg,,d,0,0'>
+4	waruvAwa	NST	<fs af='waruvAwa,adv,,,,,0,0_adv'>
+5	19	QC	<fs af='19,num,,,,,,'>
+6	va	NN	<fs af='va,avy,,,,,,'>
+7	SawAbxaM	NN	<fs af='SawAbxaM,n,,sg,,d,0,0'>|<fs af='SawAbxaM,n,,sg,,d,0,0'>
+8	lo	PSP	<fs af='lo,avy,,,,,,'>|<fs af='la,avy,,,,,o,o_avy'>
+9	britIR	NN	<fs af='britIR,n,,sg,,d,0,0'>|<fs af='britIR,n,,sg,,o,ti,ti'>
+10	vAru	PRP	<fs af='vAru,pn,fm,pl,3,d,0,0'>|<fs af='vAru,pn,fm,pl,3,,vu,vu'>
+11	vItilo	PRP	<fs af='vIdu,n,,sg,,,lo,lo'>|<fs af='ixi,pn,fn,pl,3,,lo,lo'>
+12	koVnniMtini	NN	<fs af='koVnni,pn,,pl,,,ni,ni'>|<fs af='koVMwa,pn,,pl,,,ni,ni' deri_cat='n'>
+13	kanipeVttAru	VM	<fs af='kanipeVttu,v,fm,pl,3,,A,A'>|<fs af='kanipeVttu,v,fm,pl,3,,A,A'>
+14	.	SYM	<fs af='&dot;,punc,,,,,,'>
+</Sentence>			
+<Sentence id="2">			
+</Sentence>			

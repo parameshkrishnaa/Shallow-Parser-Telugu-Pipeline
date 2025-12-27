@@ -1,0 +1,43 @@
+29-Jun-2012 "Parameshwari K" <parameshkrishnaa@gmail.com>
+	* Version 3.1 (Derivation Issue solved)
+
+	1. Verbs with 'infini_aux" derivation issue is solved.
+	2. Deverbal noun derivation links are enabled.
+
+24-Jan-2012 "Christopher Mala" <efthachris@gmail.com> 
+	* Version 3.0 (Basic version of Sandhi Splitter)
+
+	1. Sandhi Splitter Engine is called in main.
+	2. 700 Apx. Rules are tested and verified.
+	3. Rules can be increased
+
+	* Version 2.6
+
+	1. To handle the spell variation a wrapper has been added.
+
+27-Aug-2009 "Christopher Mala" <efthachris@gmail.com> 
+
+	* Version 2.5
+
+	1. Some changes in the Display of TAM.
+	2. Some changes in Fe File.
+
+	* Version 2.4
+
+	1. 0 byte uword file has been removed.
+
+	* Version 2.3
+
+	1. Able to Run with out src and data_src.
+	
+	* Version 2.2
+
+	1. Include Makefile for copying and installation.
+	2. improve the directory structure as per ilmt_guideline_0.3 except application logging and code review.
+	3. able to handle pronouns (07-nov-2008)
+
+	* Version 2.1
+
+	1. Include Makefile for copying and installation.
+	2. improve the directory structure as per ilmt_guideline_0.3 except application logging and code review.
+

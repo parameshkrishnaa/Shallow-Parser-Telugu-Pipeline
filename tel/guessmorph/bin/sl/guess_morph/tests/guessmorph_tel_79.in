@@ -1,0 +1,21 @@
+<Sentence id="1">
+1	((	NP	
+1.1	vexAllo	NN	<fs af='vexaM,n,,pl,,,lo,lo'>
+	))		
+2	((	NP	
+2.1	samAcAraM	NN	<fs af='samAcAraM,n,,sg,,d,0,0'>
+	))		
+3	((	VGNF	
+3.1	kuxiMcina	VM	<fs af='kuxiMcu,v,any,any,any,,ina,ina'>
+	))		
+4	((	NP	
+4.1	rUpaMlo	NN	<fs af='rUpaM,n,,sg,,,lo,lo'>
+	))		
+5	((	VGF	
+5.1	uMxi	VM	<fs af='uMdu,v,fn,sg,3,,A,A'>
+	))		
+6	((	VGF	
+6.1	annAru	VM	<fs af='anu,v,fm,pl,3,,A,A'>
+6.2	.	SYM	<fs af='&dot;,punc,,,,,,'>
+	))		
+</Sentence>

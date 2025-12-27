@@ -1,0 +1,13 @@
+<Sentence id="1">			
+1	((	NP	
+1.1	ixi	PRP	<fs af='ixi,pn,fn,sg,3,d,0,0'>
+	))		
+2	((	NP	
+2.1	uxayapUr	NNP	<fs af='uxayapUr,n,,sg,,d,0,0'>|<fs af='uxayapUr,n,,sg,,o,ti,ti'>
+	))		
+3	((	NP	
+3.1	jillA	NN	<fs af='jillA,n,,sg,,d,0,0'>|<fs af='jillA,n,,sg,,o,ti,ti'>
+3.2	praXAnakeMxraM	NN	<fs af='praXAnakeMxraM,n,,sg,,d,0,0'>
+3.3	.	SYM	<fs af='&dot;,punc,,,,,,'>
+	))		
+</Sentence>			

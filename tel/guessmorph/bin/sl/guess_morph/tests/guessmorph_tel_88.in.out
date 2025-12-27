@@ -1,0 +1,27 @@
+<Sentence id="1">			
+1	((	NP	
+1.1	aMxuvalla	PRP	<fs af='aMxuvalla,avy,,,,,,' poslcat="NM">
+	))		
+2	((	NP	
+2.1	AXunika	NN	<fs af='AXunikaM,n,,sg,,o,ti,ti'>|<fs af='AXunikaM,n,,sg,,o,ti,ti'>
+	))		
+3	((	NP	
+3.1	vijFAna	NN	<fs af='vijFAnaM,n,,sg,,o,ti,ti'>
+	))		
+4	((	NP	
+4.1	SAswraM	NN	<fs af='SAswraM,n,,sg,,d,0,0'>
+	))		
+5	((	NP	
+5.1	xAnini	PRP	<fs af='axi,pn,fn,sg,3,,ni,ni'>|<fs af='axi,pn,fn,sg,3,,nu,nu'>
+	))		
+6	((	VGNF	
+6.1	aMgIkariMcadaM	VM	<fs af='aMgIkariMcu,v,any,any,any,,adaM,adaM'>
+	))		
+7	((	VGF	
+7.1	kaRtamavuwoMxi	VM	<fs af='kaRtamavvu,v,fn,sg,3,,wunn,wunn'>
+	))		
+8	((	VGF	
+8.1	annAru	VM	<fs af='anu,v,fm,pl,3,,A,A'>
+8.2	.	SYM	<fs af='&dot;,punc,,,,,,'>
+	))		
+</Sentence>			

@@ -1,0 +1,14 @@
+<Sentence id="1">
+1	((	NP	
+1.1	ixi	PRP	<fs af='ixi,pn,fn,sg,3,d,0,0'>
+	))		
+2	((	NP	
+2.1	cAlA	QF	<fs af='cAlA,avy,,,,,0,0_avy'>|<fs af='cAlu,v,any,any,any,,i_A,i_A'>|<fs af='cAlu,avy,,,,,A,A_avy'>
+2.2	maMxiki	CL	<fs af='maMxi,n,,pl,,,ki,ki'>
+	))		
+3	((	VGF	
+3.1	weVliyaxu	VM	<fs af='weVliyu,v,fn,sg,3,,a,a'>
+3.2	.	SYM	<fs af='&dot;,punc,,,,,,'>
+	))		
+</Sentence>
+

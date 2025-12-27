@@ -1,0 +1,13 @@
+<Sentence id="1">			
+1	vexAlanu	NN	<fs af='vexaM,n,,pl,,,ni,ni'>
+2	caxavAlaMte	VM	<fs af='caxuvu,v,any,any,any,,Ali_aMte,Ali_aMte'>
+3	saMskqwi	NNP	<fs af='saMskqwi,n,,sg,,d,0,0'>|<fs af='saMskqwi,n,,sg,,o,ti,ti'>
+4	weVlisi	VM	<fs af='weVliyu,v,any,any,any,,i,i'>|<fs af='weVluvu,v,any,any,any,,i,i'>
+5	uMdAlanexe	VM	<fs af='uMdu,v,,sg,,,xi_0,xi_0_e' deri_cat='pn'>
+6	oVka	JJ	<fs af='oVka,adj,,,,,0,0_adj'>
+7	avaroXamu	NN	<fs af='avaroXaM,n,,sg,,d,0,0'>
+8	annAru	VM	<fs af='anu,v,fm,pl,3,,A,A'>
+9	.	SYM	<fs af='&dot;,punc,,,,,,'>
+</Sentence>			
+<Sentence id="2">			
+</Sentence>			

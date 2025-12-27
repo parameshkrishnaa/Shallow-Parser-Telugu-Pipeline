@@ -1,0 +1,7 @@
+<Sentence id="1">
+1.1	nInuMci	NN	<fs af='nIvu,pn,any,sg,2,,niMci,niMci' name=nInuMci poslcat="NM">
+2.1	mAtalu	QC	<fs af='veVdalpu,n,,sg,,d,0,0' name=mAtalu>
+3.1	padAlsi	VM	<fs af='NULL_VGF,v,fn,sg,3,,Alasi_vaccu_A,A' name=padAlsi>
+3.1	padAlsi	VAUX	<fs af='XX,pv,fn,sg,3,,Alasi_vaccu_A,A' name=padAlsi>
+3.2	.	SYM	<fs af='&dot;,punc,,,,,,' name=.>
+</Sentence>

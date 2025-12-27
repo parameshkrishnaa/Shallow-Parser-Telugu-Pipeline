@@ -1,0 +1,27 @@
+<Sentence id="1">
+1	((	VGF	
+1.1	ayinA	VM	<fs af='avvu,v,any,any,any,,inA,inA'>
+1.2	gAni	VAUX	<fs af='gAni,avy,,,,,0,0_avy'>|<fs af='gAdu,n,,sg,,o,ti,ti'>|<fs af='gAdu,pn,,sg,,o,ti,ti'>|<fs af='gaM,n,,sg,,o,ti,ti'>
+	))		
+2	((	NP	
+2.1	uwwarapraxeS	NN	<fs af='uwwarapraxeS,n,,sg,,d,0,0'>|<fs af='uwwarapraxeS,n,,sg,,d,0,0'>|<fs af='uwwarapraxeS,n,,sg,,o,ti,ti'>|<fs af='uwwarapraxeS,n,,sg,,o,ti,ti'>
+	))		
+3	((	NP	
+3.1	xAxApu	NN	<fs af='xAxApu,n,,sg,,d,0,0'>|<fs af='xAxApu,n,,sg,,o,ti,ti'>
+	))		
+4	((	NP	
+4.1	18	QC	<fs af='18,num,,,,,,'>
+	))		
+5	((	NP	
+5.1	kotla	QC	<fs af='kot,n,,pl,,o,ti,ti'>|<fs af='koti,n,,pl,,o,ti,ti'>|<fs af='kotu,n,,pl,,o,ti,ti'>
+5.2	janABA	NN	<fs af='janABA,n,,sg,,d,0,0'>|<fs af='janABA,n,,sg,,o,ti,ti'>
+	))		
+6	((	VGNF	
+6.1	kaligi	VM	<fs af='kalugu,v,any,any,any,,i,i'>
+	))		
+7	((	VGF	
+7.1	uMxi	VM	<fs af='uMdu,v,fn,sg,3,,A,A'>
+7.2	.	SYM	<fs af='&dot;,punc,,,,,,'>
+	))		
+</Sentence>
+

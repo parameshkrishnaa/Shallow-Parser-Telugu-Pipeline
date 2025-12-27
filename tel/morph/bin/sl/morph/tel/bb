@@ -1,0 +1,22 @@
+1	IveVMt	unk	<fs af='IveVMt,unk,,,,,,'>
+2	menejar	unk	<fs af='menejar,n,,sg,,,0,0', case_name='Nom'>|<fs af='menejar,n,,sg,,,obl,obl'>
+3	ceVppina	unk	<fs af='ceVppu,v,any,any,any,,ina,ina'>
+4	raxxu	unk	<fs af='raxxu,n,,sg,,,0,0', case_name='Nom'>|<fs af='raxxu,n,,sg,,,obl,obl'>
+5	,	unk	<fs af='&comma;,punc,,,,,,'>
+6	vApasu	unk	<fs af='vApasu,n,,sg,,,0,0', case_name='Nom'>|<fs af='vApasu,n,,sg,,,obl,obl'>|<fs af='vApas,n,,sg,,,0,0', case_name='Nom'>|<fs af='vApas,n,,sg,,,obl,obl'>
+7	viXAnAlu	unk	<fs af='viXAnaM,n,,pl,,,0,0', case_name='Nom'>|<fs af='viXAnaM,n,,pl,,,vu,vu'>
+8	nijAniki	unk	<fs af='nijAna,nst,,,,,ku,ku_adv'>|<fs af='nijaM,n,,sg,,,ki,ki', case_name='Dat'>
+9	nenu	unk	<fs af='nenu,pn,,sg,,,0,0'>
+10	anukunnaxAnikaMte	unk	<fs af='anukunnaxAnikaMte,unk,,,,,,'>
+11	bAgu	unk0	<fs af='bAgu,n,,sg,,,0,0', case_name='Nom'>|<fs af='bAgu,n,,sg,,,obl,obl'>|<fs af='bAg,n,,sg,,,0,0', case_name='Nom'>|<fs af='bAg,n,,sg,,,obl,obl'>
+12	unnAyi	unk0	<fs af='uMdu,v,n,pl,3,,A,A', Tense='Pst'>
+13	!	unk	<fs af='&exm;,punc,,,,,,'>
+14	anukoni	unk	<fs af='anuko,v,any,any,any,,ani,ani'>
+15	mArpulu	unk	<fs af='mArpu,n,,pl,,,0,0', case_name='Nom'>|<fs af='mArpu,n,,pl,,,vu,vu'>
+16	vaswe	unk	<fs af='vaccu,v,any,any,any,,we,we'>
+17	nAku	unk	<fs af='nAku,v,,sg,2,,AjFArWa,AjFArWa'>|<fs af='nAk,n,,sg,,,0,0', case_name='Nom'>|<fs af='nAk,n,,sg,,,obl,obl'>|<fs af='nenu,pn,,sg,,,ki,ki'>
+18	manasu	unk	<fs af='manasu,n,,sg,,,0,0', case_name='Nom'>|<fs af='manasu,n,,sg,,,obl,obl'>
+19	koVMceVM	unk	<fs af='koVMceVM,n,,sg,,,0,0', case_name='Nom'>|<fs af='koVMceVM,n,,sg,,,obl,obl'>
+20	welikagA	unk	<fs af='welika,n,,sg,,,gA,gA'>|<fs af='welika,adj,,,,,gA,gA_adj'>
+21	uMtuMxi	unk	<fs af='uMdu,v,fn,sg,3,,wA,wA', Tense='Fut'>
+22	.	unk	<fs af='&dot;,punc,,,,,,'>

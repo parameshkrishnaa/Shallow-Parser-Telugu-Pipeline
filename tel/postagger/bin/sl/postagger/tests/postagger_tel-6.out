@@ -1,0 +1,15 @@
+<Sentence id="1">			
+1	malabaxXakaM	NN	<fs af='malabaxXakaM,n,,sg,,d,0,0'>
+2	moVxalukoVni	VM	<fs af='moVxalukoVni,avy,,,,,0,0_avy'>
+3	maXumehaM	NN	<fs af='maXumehaM,n,,sg,,d,0,0'>
+4	varakU	PSP	<fs af='varakU,avy,,,,,0,0_avy'>
+5	cAlA	INTF	<fs af='cAlA,avy,,,,,0,0_avy'>|<fs af='cAlu,v,any,any,any,,i_A,i_A'>|<fs af='cAlu,avy,,,,,A,A_avy'>
+6	viXAla	NN	<fs af='viXaM,n,,pl,,o,ti,ti'>
+7	upayogapade	VM	<fs af='upayogapadu,v,any,any,any,,e,e'>|<fs af='upayogapadu,v,any,any,any,,i,i_e'>
+8	gummadi	NN	<fs af='gummadi,n,,sg,,d,0,0'>|<fs af='gummadi,n,,sg,,o,ti,ti'>
+9	nijaMgA	RB	<fs af='nijaMgA,avy,,,,,0,0_avy'>|<fs af='nijaM,n,,sg,,,gA,gA'>
+10	gammawwEnaxe	VM	<fs af='gammawwu,n,,sg,,,Ena_xi_0,Ena_xi_0_e' deri_cat='pn'>
+11	.	SYM	<fs af='&dot;,punc,,,,,,'>
+</Sentence>			
+<Sentence id="2">			
+</Sentence>			

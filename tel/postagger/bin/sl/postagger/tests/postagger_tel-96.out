@@ -1,0 +1,12 @@
+<Sentence id="1">			
+1	varaMgal	NNP	<fs af='varaMgal,n,,sg,,d,0,0'>|<fs af='varaMgal,n,,sg,,d,0,0'>|<fs af='varaMgal,n,,sg,,o,ti,ti'>|<fs af='varaMgal,n,,sg,,o,ti,ti'>
+2	jillA	NN	<fs af='jillA,n,,sg,,d,0,0'>|<fs af='jillA,n,,sg,,o,ti,ti'>|<fs af='jillu,n,,sg,,,0,0_A'>|<fs af='jil,n,,sg,,,lA,lA'>
+3	weVlaMgANa	NNP	<fs af='weVlaMgANa,n,,sg,,d,0,0'>|<fs af='weVlaMgANa,n,,sg,,o,ti,ti'>
+4	rARtraMloni	NN	<fs af='rARtraM,n,,sg,,,loni,loni'>
+5	10	QC	<fs af='10,num,,,,,,'>
+6	jillAlalo	NN	<fs af='jillA,n,,pl,,,lo,lo'>
+7	oVkati	QC	<fs af='oVkati,n,,sg,,d,0,0'>|<fs af='oVkati,n,,sg,,o,ti,ti'>
+8	.	SYM	<fs af='&dot;,punc,,,,,,'>
+</Sentence>			
+<Sentence id="2">			
+</Sentence>			

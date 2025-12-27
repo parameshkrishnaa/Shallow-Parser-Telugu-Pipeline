@@ -1,0 +1,12 @@
+Purpose:
+	To convert a w-x Roman file to ISCII8 notation.
+
+To compile:
+	./comp.sh  
+
+Usage:
+	ra_d8_wp_r.out <input_file> output_file
+
+	where input_file should be in w-x Roman notation
+	      output_file will be in ISCII8 notation
+ 

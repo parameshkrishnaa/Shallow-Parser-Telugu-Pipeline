@@ -1,0 +1,32 @@
+<Sentence id="1">			
+1	((	NP	
+1.1	I	DEM	<fs af='I,avy,,,,,,' poslcat="NM">'>|<fs af='I,avy,,,,,,' poslcat="NM">'>
+1.2	puswakaMlo	NN	<fs af='puswakaM,n,,sg,,,lo,lo'>
+	))		
+2	((	NP	
+2.1	jAnaki	NNP	<fs af='jAnaki,n,,sg,,d,0,0'>|<fs af='jAnaki,n,,sg,,o,ti,ti'>
+	))		
+3	((	NP	
+3.1	rAmudu	NNP	<fs af='rAmudu,n,,sg,,d,0,0'>|<fs af='rAmudu,n,,sg,,d,0,0'>
+	))		
+4	((	NP	
+4.1	ciwrAnni	NN	<fs af='ciwraM,n,,sg,,,nu,nu'>|<fs af='ciwraM,n,,sg,,,ni,ni'>
+	))		
+5	((	VGNF	
+5.1	nirmiMce	VM	<fs af='nirmiMcu,v,any,any,any,,e,e'>|<fs af='nirmiMcu,v,any,any,any,,i,i_e'>
+	))		
+6	((	NP	
+6.1	aMSaMpE	NN	<fs af='aMSaM,n,,sg,,,pE,pE'>
+	))		
+7	((	NP	
+7.1	Ayana	PRP	<fs af='Ayana,pn,,sg,,d,0,0'>|<fs af='Ayana,pn,,sg,,o,ti,ti'>
+	))		
+8	((	NP	
+8.1	Asakwikara	NN	<fs af='AsakwikaraM,n,,sg,,o,ti,'>
+8.2	aMSAlanu	NN	<fs af='aMSaM,n,,pl,,,ni,ni'>
+	))		
+9	((	VGF	
+9.1	praswAviMcAru	VM	<fs af='praswAviMcu,v,fm,pl,3,,A,A'>
+9.2	.	SYM	<fs af='&dot;,punc,,,,,,'>
+	))		
+</Sentence>			

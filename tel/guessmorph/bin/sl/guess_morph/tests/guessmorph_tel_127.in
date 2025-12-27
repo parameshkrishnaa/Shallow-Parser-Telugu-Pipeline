@@ -1,0 +1,27 @@
+<Sentence id="1">
+1	((	NP	
+1.1	rAjapuwrula	JJ	<fs af='rAjapuwrudu,n,,pl,,o,ti,ti' poslcat="NM">
+1.2	cariwra	NN	<fs af='cariwra,n,,sg,,d,0,0'>|<fs af='cariwra,n,,sg,,o,ti,ti'>|<fs af='cariwraM,n,,sg,,o,ti,ti'>
+1.3	,	SYM	<fs af='&comma;,punc,,,,,,'>
+	))		
+2	((	NP	
+2.1	saMskqwi	NNP	<fs af='saMskqwi,n,,sg,,d,0,0'>|<fs af='saMskqwi,n,,sg,,o,ti,ti'>
+	))		
+3	((	CCP	
+3.1	mariyu	CC	<fs af='mariyu,avy,,,,,0,0_avy'>
+	))		
+4	((	NP	
+4.1	vijFAna	JJ	<fs af='vijFAnaM,n,,sg,,o,ti,ti' poslcat="NM">
+4.2	praxeSAlu	NN	<fs af='praxeSaM,n,,pl,,d,0,0'>|<fs af='praxeSaM,n,,pl,,,vu,vu'>
+	))		
+5	((	NP	
+5.1	uxayapUr	NN	<fs af='uxayapUr,n,,sg,,d,0,0'>|<fs af='uxayapUr,n,,sg,,o,ti,ti'>
+	))		
+6	((	NP	
+6.1	ippatikI	NST	<fs af='ippudu,nst,,,,,ki_V,ki_V_adv'>
+	))		
+7	((	VGF	
+7.1	viSaxIkariswuMxi	VM	<fs af='viSaxIkariMcu,v,fn,sg,3,,wA,wA'>
+7.2	.	SYM	<fs af='&dot;,punc,,,,,,'>
+	))		
+</Sentence>

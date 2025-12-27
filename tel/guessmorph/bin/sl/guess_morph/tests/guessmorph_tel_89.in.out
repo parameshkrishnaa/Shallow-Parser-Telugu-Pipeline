@@ -1,0 +1,25 @@
+<Sentence id="1">			
+1	((	NP	
+1.1	pU	NN	<fs af='pU,n,,sg,,d,0,0'>|<fs af='pU,n,,sg,,o,ti,ti'>
+	))		
+2	((	NP	
+2.1	600	QC	<fs af='600,num,,,,,,'>
+2.2	nuMdi	PSP	<fs af='nuMdi,avy,,,,,0,0_avy' poslcat="NM">
+	))		
+3	((	NP	
+3.1	praswuwa	JJ	<fs af='praswuwa,adj,,,,,0,0_adj'>
+3.2	kAlaM	NN	<fs af='kAlaM,n,,sg,,d,0,0'>
+3.3	varaku	PSP	<fs af='varaku,avy,,,,,,' poslcat="NM">'>|<fs af='varaku,adv,,,,,0,0_adv' poslcat="NM">'>
+	))		
+4	((	NP	
+4.1	I	DEM	<fs af='I,avy,,,,,,' poslcat="NM">'>|<fs af='I,avy,,,,,,' poslcat="NM">'>
+4.2	praxeSaM	NN	<fs af='praxeSaM,n,,sg,,d,0,0'>
+	))		
+5	((	NP	
+5.1	parAkAMwaM	NN	<fs af='parAkAMwaM,unk,,,,,,' poslcat="NM">
+	))		
+6	((	VGF	
+6.1	kAlexu	VM	<fs af='avvu,v,any,any,any,,a_lexu,a_lexu'>
+6.2	.	SYM	<fs af='&dot;,punc,,,,,,'>
+	))		
+</Sentence>			

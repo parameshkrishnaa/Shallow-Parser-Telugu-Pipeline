@@ -1,0 +1,41 @@
+<Sentence id="1">			
+1	((	NP	
+1.1	SrI	NNP	<fs af='SrI,n,,sg,,d,0,0'>|<fs af='SrI,n,,sg,,o,ti,ti'>
+	))		
+2	((	NP	
+2.1	waMdrigA	NN	<fs af='waMdri,n,,sg,,,gA,gA'>
+	))		
+3	((	NP	
+3.1	rAjeMxra	NN	<fs af='rAjeMxra,n,,sg,,d,0,0'>|<fs af='rAjeMxra,n,,sg,,o,ti,ti'>
+	))		
+4	((	NP	
+4.1	prasAx	NN	<fs af='prasAx,n,,sg,,d,0,0'>|<fs af='prasAx,n,,sg,,o,ti,ti'>
+	))		
+5	((	RBP	
+5.1	bAgAne	RB	<fs af='bAgAne,adv,,,,,0,0_avy'>|<fs af='bAgA,adv,,,,,e,e_avy'>
+	))		
+6	((	VGF	
+6.1	cesinA	VM	<fs af='ceVyyi,v,any,any,any,,inA,inA'>
+6.2	,	SYM	<fs af='&comma;,punc,,,,,,'>
+	))		
+7	((	NP	
+7.1	awannI	PRP	<fs af='awanu,pn,m,sg,3,,ni,ni_V'>
+	))		
+8	((	NP	
+8.1	kqRNudini	NN	<fs af='kqRNudu,n,,sg,,,nu,nu'>|<fs af='kqRNudu,n,,sg,,,nu,nu'>
+	))		
+9	((	NP	
+9.1	bAgA	INTF	<fs af='bAgA,avy,,,,,0,0_avy'>
+	))		
+10	((	VGF	
+10.1	vAduko	VM	<fs af='vAduko,v,,sg,2,,AjFArWa,AjFArWa'>|<fs af='vAduko,v,any,any,any,,an,an'>
+10.2	lexu	VAUX	<fs af='gala,v,fn,sg,3,,a,a' poslcat="NM">'>|<fs af='uMdu,v,any,any,any,,a_lexu,a_lexu' poslcat="NM">'>
+	))		
+11	((	BLK	
+11.1	ani	UT	<fs af='ani,avy,,,,,0,0_avy'>|<fs af='ani,avy,,,,,0,0_avy'>
+	))		
+12	((	VGF	
+12.1	anipiswuMxi	VM	<fs af='anipiMcu,v,fn,sg,3,,wA,wA'>
+12.2	.	SYM	<fs af='&dot;,punc,,,,,,'>
+	))		
+</Sentence>			

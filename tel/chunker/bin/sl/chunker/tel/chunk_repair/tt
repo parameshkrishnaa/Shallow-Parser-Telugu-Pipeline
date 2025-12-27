@@ -1,0 +1,24 @@
+1	((	NP	
+1.1	rAmudu	NN	<fs af='rAma,n,,,,o,adj_vAdu,' name="rAmudu">
+1.2	mohanvalYlu	JJ	<fs af='vaMti,adj,,,,,vi,'>
+	))		
+2	((	NP	
+2.1	panI	NST	<fs af='maXya,n,,s,,,0,'>
+2.2	rAmudu	NN	<fs af='rAma,n,,,,o,adj_vAdu,' name="rAmudu">
+	))		
+3	((	NP	
+3.1	mohanvalYlu	NN	<fs af='vaMti,n,,,,o,vi,' name="mohanvalYlu">
+3.2	panI	NST	<fs af='vaxxa,n,,sg,,,0,'>
+	))		
+4	((	NP	
+4.1	mohan	QC	<fs af='1970,n,,,,,va,' name="mohanvalYlu">
+	))		
+5	((	NP	
+5.1	mohan	NN	<fs af='XX,n,,,,,po_A,' name="mohanvalYlu">
+5.2	va	NN	<fs af='rAmudu,n,m,pl,3,o,tt,'>
+	))		
+6	((	VGF	
+6.1	ceswunnArani	VM	<fs af='ceVyyi,v,m,sg,3,,an,'>
+6.2	ceppedu	VAUX	<fs af='gala,v,f,sg,3,,a,' name="ceppedu">
+6.3	.	SYM	<fs af='&dot;,punc,,,,,,'>
+	))		

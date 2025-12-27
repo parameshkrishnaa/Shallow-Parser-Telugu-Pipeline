@@ -1,0 +1,39 @@
+<Sentence id="1">			
+1	((	NP	
+1.1	maheMxra	JJ	<fs af='maheMxra,n,,sg,,o,ti,ti' poslcat="NM">'>|<fs af='maheMxra,n,,sg,,o,ti,ti' poslcat="NM">'>
+1.2	siMg	NN	<fs af='siMg,n,,sg,,d,0,0'>|<fs af='siMg,n,,sg,,o,ti,ti'>
+	))		
+2	((	NP	
+2.1	Xoni	NN	<fs af='Xoni,unk,,,,,,' poslcat="NM">
+	))		
+3	((	NP	
+3.1	keVpteVn	NN	<fs af='keVpteVn,n,,sg,,d,0,0'>|<fs af='keVpteVn,n,,sg,,d,0,0'>
+	))		
+4	((	RBP	
+4.1	gA	RB	<fs af='gA,adv,,,,,0,0_avy'>
+	))		
+5	((	NP	
+5.1	ti20	NN	<fs af='ti20,unk,,,,,,' poslcat="NM">
+	))		
+6	((	NP	
+6.1	mariyU	NN	<fs af='mariyU,avy,,,,,0,0_avy' poslcat="NM">'>|<fs af='mariyu,avy,,,,,V,V_avy' poslcat="NM">'>
+	))		
+7	((	NP	
+7.1	prapaMcakap	NN	<fs af='prapaMcakap,unk,,,,,,' poslcat="NM">
+	))		
+8	((	NP	
+8.1	2011	QC	<fs af='2011,num,,,,,,'>
+8.2	lo	PSP	<fs af='lo,avy,,,,,,' poslcat="NM">'>|<fs af='la,avy,,,,,o,o_avy' poslcat="NM">'>
+	))		
+9	((	NP	
+9.1	BAraw	NNP	<fs af='BAraw,n,,sg,,d,0,0'>|<fs af='BAraw,n,,sg,,o,ti,ti'>
+9.2	nu	PSP	<fs af='nu,avy,,,,,0,0_avy' poslcat="NM">
+	))		
+10	((	NP	
+10.1	vijayapaXAna	NNP	<fs af='vijayapaXAna,unk,,,,,,' poslcat="NM">
+	))		
+11	((	VGF	
+11.1	nilipinAdu	VM	<fs af='nilupu,v,m,sg,3,,A,A'>
+11.2	.	SYM	<fs af='&dot;,punc,,,,,,'>
+	))		
+</Sentence>			

@@ -1,0 +1,10 @@
+When the postagger-crf-tel-1.4.2 is plugged into tel-hin-ilmt system, kindly do the following modifications.
+
+1. `cd' to the system bin directory $setu/bin/sl/postagger
+
+2. Open postagger.sh and postagger_run.sh
+
+3. Comment and Uncomment the lines as notified.
+
+For how to use postagger, please refer to the file README.
+

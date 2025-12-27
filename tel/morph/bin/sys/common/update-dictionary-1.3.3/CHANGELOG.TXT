@@ -1,0 +1,24 @@
+Update Dictionary Tool
+-----------------------------
+1.33
+DSFRecord is enhanced to support Cross-linking of words. Depending on the size of the input 5-line DSF files, this version may take 10min-20min for execution.
+If the execution is aborted prematurely, the tool will generate temporary files in input directory. User must delete these files manually before running the tool again.
+The name of the temporary files will be <language-Namecode>-CLTemp.txt (e.g. hin-CLTemp.txt, mar-CLTemp.txt)
+
+1.32
+POS tag set update for category.
+
+1.31
+line no is added to error message.
+
+1.3 
+Added functionality for TAM
+
+1.2
+Some bug fixes and Readme updated
+
+1.1 
+Added functionality for Function Words
+
+1.0 
+Initial Release

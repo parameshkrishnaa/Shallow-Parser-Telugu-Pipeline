@@ -1,0 +1,9 @@
+<Sentence id="1">			
+1	ixi	PRP	<fs af='ixi,pn,fn,sg,3,d,0,0'>
+2	uxayapUr	NNP	<fs af='uxayapUr,n,,sg,,d,0,0'>|<fs af='uxayapUr,n,,sg,,o,ti,ti'>
+3	jillA	NN	<fs af='jillA,n,,sg,,d,0,0'>|<fs af='jillA,n,,sg,,o,ti,ti'>|<fs af='jillu,n,,sg,,,0,0_A'>|<fs af='jil,n,,sg,,,lA,lA'>
+4	praXAnakeMxraM	NN	<fs af='praXAnakeMxraM,n,,sg,,d,0,0'>
+5	.	SYM	<fs af='&dot;,punc,,,,,,'>
+</Sentence>			
+<Sentence id="2">			
+</Sentence>			

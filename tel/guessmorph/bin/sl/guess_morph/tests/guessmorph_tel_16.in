@@ -1,0 +1,22 @@
+<Sentence id="1">
+1	((	NP	
+1.1	ciwraM	NN	<fs af='ciwraM,n,,sg,,d,0,0'>
+	))		
+2	((	VGNF	
+2.1	cUsAka	VM	<fs af='cUdu,v,any,any,any,,ina_Aka,ina_Aka'>
+	))		
+3	((	NP	
+3.1	vAri	PRP	<fs af='vAru,pn,fm,pl,3,o,ti,ti'>
+3.2	saMxehAle	NN	<fs af='saMxehaM,n,,pl,,,0,0_e'>
+	))		
+4	((	NP	
+4.1	nijamu	NN	<fs af='nijaM,n,,sg,,d,0,0'>
+	))		
+5	((	VGNF	
+5.1	ayyAyani	VM	<fs af='avvu,v,n,pl,3,,A_ani,A_ani'>
+	))		
+6	((	VGF	
+6.1	anipiswuMxi	VM	<fs af='anipiMcu,v,fn,sg,3,,wA,wA'>
+6.2	.	SYM	<fs af='&dot;,punc,,,,,,'>
+	))		
+</Sentence>

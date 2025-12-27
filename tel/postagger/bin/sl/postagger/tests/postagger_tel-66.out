@@ -1,0 +1,13 @@
+<Sentence id="1">			
+1	kAni	RP	<fs af='kAni,avy,,,,,,'>|<fs af='kAni,avy,,,,,0,0_avy'>|<fs af='kAni,avy,,,,,0,0_avy'>|<fs af='kAdu,n,,sg,,o,ti,ti' deri_cat='pn'>|<fs af='avvu,v,any,any,any,,ani,ani'>
+2	praswuwaM	NN	<fs af='praswuwaM,n,,sg,,d,0,0'>|<fs af='praswuwa,adj,,,,,xi,xi_adj'>
+3	22	QC	<fs af='22,num,,,,,,'>
+4	mAwrame	PSP	<fs af='mAwrame,avy,,,,,,'>|<fs af='mAwramu,avy,,,,,e,e_avy'>|<fs af='mAwraM,avy,,,,,e,e_avy'>
+5	ceVppukoxagina	VM	<fs af='ceVppu,v,any,any,any,,koVn_a_xagu_ina,koVn_a_xagu_ina'>
+6	aMwa	QF	<fs af='aMwa,pn,,sg,,d,0,0'>|<fs af='aMwa,pn,,sg,,d,0,0' deri_cat='n'>|<fs af='aMwa,pn,,sg,,o,ti,ti' deri_cat='n'>|<fs af='aMwaM,n,,sg,,o,ti,ti'>
+7	varaku	PSP	<fs af='varaku,avy,,,,,,'>|<fs af='varaku,adv,,,,,0,0_adv'>|<fs af='varaku,adv,,,,,0,0_adv'>
+8	punaruxXariMcabadinAyi	VM	<fs af='punaruxXariMcu,v,n,pl,3,,a_badu_A,a_badu_A'>
+9	.	SYM	<fs af='&dot;,punc,,,,,,'>
+</Sentence>			
+<Sentence id="2">			
+</Sentence>			

@@ -1,0 +1,29 @@
+<Sentence id="1">
+1	((	NP	
+1.1	malabaxXakaM	NN	<fs af='malabaxXakaM,n,,sg,,d,0,0'>
+	))		
+2	((	VGNF	
+2.1	moVxalukoVni	VM	<fs af='moVxalukoVni,avy,,,,,0,0_avy' poslcat="NM">
+	))		
+3	((	NP	
+3.1	maXumehaM	NN	<fs af='maXumehaM,n,,sg,,d,0,0'>
+3.2	varakU	PSP	<fs af='varakU,avy,,,,,0,0_avy' poslcat="NM">
+	))		
+4	((	NP	
+4.1	cAlA	INTF	<fs af='cAlA,avy,,,,,0,0_avy'>
+4.2	viXAla	NN	<fs af='viXaM,n,,pl,,o,ti,ti'>
+	))		
+5	((	VGNF	
+5.1	upayogapade	VM	<fs af='upayogapadu,v,any,any,any,,e,e'>
+	))		
+6	((	NP	
+6.1	gummadi	NN	<fs af='gummadi,n,,sg,,d,0,0'>
+	))		
+7	((	RBP	
+7.1	nijaMgA	RB	<fs af='nijaMgA,avy,,,,,0,0_avy' poslcat="NM">
+	))		
+8	((	VGF	
+8.1	gammawwEnaxe	VM	<fs af='gammawwu,n,,sg,,,Ena_xi_0,Ena_xi_0_e' deri_cat=pn poslcat="NM">
+8.2	.	SYM	<fs af='&dot;,punc,,,,,,'>
+	))		
+</Sentence>

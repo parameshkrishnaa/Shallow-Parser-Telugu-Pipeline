@@ -1,0 +1,39 @@
+<Sentence id="1">			
+1	kAkawIya	NNP	<fs af='kAkawIya,n,,sg,,d,0,0'>|<fs af='kAkawIya,n,,sg,,o,ti,ti'>|<fs af='kAkawIyudu,n,,sg,,o,ti,ti'>
+2	viSvavixyAlayaM	NN	<fs af='viSvavixyAlayaM,n,,sg,,d,0,0'>
+3	kAkawIya	NNP	<fs af='kAkawIya,n,,sg,,d,0,0'>|<fs af='kAkawIya,n,,sg,,o,ti,ti'>|<fs af='kAkawIyudu,n,,sg,,o,ti,ti'>
+4	meVdikal	NN	<fs af='meVdikal,n,,sg,,d,0,0'>|<fs af='meVdikal,n,,sg,,o,ti,ti'>
+5	kAleji	NN	<fs af='kAleji,n,,sg,,d,0,0'>|<fs af='kAleji,n,,sg,,d,0,0'>|<fs af='kAleji,n,,sg,,o,ti,ti'>|<fs af='kAleji,n,,sg,,o,ti,ti'>
+6	,	SYM	<fs af='&comma;,punc,,,,,,'>
+7	neRanal	NNP	<fs af='neRanal,n,,sg,,d,0,0'>|<fs af='neRanal,n,,sg,,o,ti,ti'>
+8	instityUt	NNP	<fs af='instityUt,n,,sg,,d,0,0'>|<fs af='instityUt,n,,sg,,d,0,0'>|<fs af='instityUt,n,,sg,,o,ti,ti'>|<fs af='instityUt,n,,sg,,o,ti,ti'>
+9	AP	NN	<fs af='AP,n,,sg,,d,0,0'>|<fs af='AP,n,,sg,,o,ti,ti'>
+10	teVknAlajI	NNP	<fs af='teVknAlajI,n,,sg,,d,0,0'>|<fs af='teVknAlajI,n,,sg,,d,0,0'>|<fs af='teVknAlajI,n,,sg,,o,ti,ti'>|<fs af='teVknAlajI,n,,sg,,o,ti,ti'>
+11	(	SYM	<fs af='&rcbrs;,punc,,,,,,'>
+12	pUrvaMyoVkka	NN	<fs af='pUrvaM,n,,sg,,,yoVkka,yoVkka'>
+13	rIjinal	NN	<fs af='rIjinal,n,,sg,,d,0,0'>|<fs af='rIjinal,n,,sg,,o,ti,ti'>
+14	iMjanIriMg	NN	<fs af='iMjanIriMg,n,,sg,,d,0,0'>|<fs af='iMjanIriMg,n,,sg,,o,ti,ti'>
+15	kAlej	NN	<fs af='kAlej,n,,sg,,d,0,0'>|<fs af='kAlej,n,,sg,,o,ti,ti'>
+16	)	SYM	<fs af='&lcbrs;,punc,,,,,,'>
+17	,	SYM	<fs af='&comma;,punc,,,,,,'>
+18	kAkawIya	NNP	<fs af='kAkawIya,n,,sg,,d,0,0'>|<fs af='kAkawIya,n,,sg,,o,ti,ti'>|<fs af='kAkawIyudu,n,,sg,,o,ti,ti'>
+19	instityUt	NNP	<fs af='instityUt,n,,sg,,d,0,0'>|<fs af='instityUt,n,,sg,,d,0,0'>|<fs af='instityUt,n,,sg,,o,ti,ti'>|<fs af='instityUt,n,,sg,,o,ti,ti'>
+20	AP	NN	<fs af='AP,n,,sg,,d,0,0'>|<fs af='AP,n,,sg,,o,ti,ti'>
+21	teVknAlajI	NNP	<fs af='teVknAlajI,n,,sg,,d,0,0'>|<fs af='teVknAlajI,n,,sg,,d,0,0'>|<fs af='teVknAlajI,n,,sg,,o,ti,ti'>|<fs af='teVknAlajI,n,,sg,,o,ti,ti'>
+22	aMd	NN	<fs af='aMd,n,,sg,,d,0,0'>|<fs af='aMd,n,,sg,,o,ti,ti'>
+23	sEnseVs	NN	<fs af='sEnseVs,n,,sg,,d,0,0'>|<fs af='sEnseVs,n,,sg,,o,ti,ti'>
+24	,	SYM	<fs af='&comma;,punc,,,,,,'>
+25	kAkawIya	NNP	<fs af='kAkawIya,n,,sg,,d,0,0'>|<fs af='kAkawIya,n,,sg,,o,ti,ti'>|<fs af='kAkawIyudu,n,,sg,,o,ti,ti'>
+26	praBuwva	NN	<fs af='praBuwvaM,n,,sg,,o,ti,ti'>
+27	digrI	NN	<fs af='digrI,n,,sg,,d,0,0'>|<fs af='digrI,n,,sg,,o,ti,ti'>
+28	kalYASAla	NN	<fs af='kalYASAla,n,,sg,,d,0,0'>|<fs af='kalYASAla,n,,sg,,o,ti,ti'>
+29	moVxalEna	JJ	<fs af='moVxalEna,avy,,,,,0,0_avy'>|<fs af='moVxalEna,adj,,,,,0,0_adj'>|<fs af='moVxalavvu,v,any,any,any,,ina,ina'>|<fs af='moVxalu,n,,sg,,,Ena,Ena'>
+30	pramuKa	NN	<fs af='pramuKa,adj,,,,,0,0_adj'>|<fs af='pramuKaM,n,,sg,,o,ti,ti'>|<fs af='pramuKudu,n,,sg,,o,ti,ti'>
+31	vixyA	NN	<fs af='vixya,n,,sg,,,0,0_A'>|<fs af='vixya,n,,sg,,,0,0_V'>
+32	saMsWalu	NN	<fs af='saMsWa,n,,pl,,d,0,0'>|<fs af='saMsWa,n,,pl,,,vu,vu'>
+33	varaMgallulo	NN	<fs af='varaMgallu,n,,pl,,,0,0_o'>|<fs af='varaMgallu,n,,sg,,,lo,lo'>
+34	unnAyi	VM	<fs af='uMdu,v,n,pl,3,,A,A'>
+35	.	SYM	<fs af='&dot;,punc,,,,,,'>
+</Sentence>			
+<Sentence id="2">			
+</Sentence>			

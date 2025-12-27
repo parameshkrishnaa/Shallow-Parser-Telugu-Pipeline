@@ -1,0 +1,19 @@
+<Sentence id="1">			
+1	((	RBP	
+1.1	alA	RB	<fs af='alA,adv,,,,,0,0_avy'>
+	))		
+2	((	VGNF	
+2.1	nirUpiMcagaligina	VM	<fs af='nirUpiMcu,v,any,any,any,,a_galugu_ina,a_galugu_ina'>
+	))		
+3	((	NP	
+3.1	moVxati	NST	<fs af='moVxata,nst,,,,,yoVkka,yoVkka_adv'>
+3.2	vyakwulaM	NN	<fs af='vyakwudu,n,,pl,,,nu,nu'>|<fs af='vyakwi,n,,pl,,,nu,nu'>
+	))		
+4	((	NP	
+4.1	maname	PRP	<fs af='manaM,pn,any,pl,1,,0,0_e'>
+	))		
+5	((	VGF	
+5.1	annAru	VM	<fs af='anu,v,fm,pl,3,,A,A'>
+5.2	.	SYM	<fs af='&dot;,punc,,,,,,'>
+	))		
+</Sentence>			

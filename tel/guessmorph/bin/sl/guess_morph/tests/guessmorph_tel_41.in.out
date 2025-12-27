@@ -1,0 +1,16 @@
+<Sentence id="1">			
+1	((	NP	
+1.1	Ayana	PRP	<fs af='Ayana,pn,,sg,,d,0,0'>|<fs af='Ayana,pn,,sg,,o,ti,ti'>
+1.2	guriMci	PSP	<fs af='guriMci,avy,,,,,0,0_avy' poslcat="NM">
+	))		
+2	((	JJP	
+2.1	peVxxagA	JJ	<fs af='peVxxa,adj,,,,,gA,gA_adj'>
+	))		
+3	((	NP	
+3.1	eVvvarikI	WQ	<fs af='eVvvaru,pn,,pl,,,ki,ki_V'>
+	))		
+4	((	VGF	
+4.1	weVliyaxe	VM	<fs af='weVliyu,v,fn,sg,3,,a,a_e'>
+4.2	.	SYM	<fs af='&dot;,punc,,,,,,'>
+	))		
+</Sentence>			

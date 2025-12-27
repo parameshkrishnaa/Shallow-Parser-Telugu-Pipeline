@@ -1,0 +1,20 @@
+<Sentence id="1">			
+1	((	NP	
+1.1	sWAnikulu	NN	<fs af='sWAnikudu,n,,pl,,d,0,0'>|<fs af='sWAnikudu,n,,pl,,d,0,0'>
+	))		
+2	((	NP	
+2.1	xInini	PRP	<fs af='ixi,pn,fn,sg,3,,ni,ni'>|<fs af='ixi,pn,fn,sg,3,,nu,nu'>
+	))		
+3	((	NP	
+3.1	Svewa	JJ	<fs af='Svewa,n,,sg,,o,ti,ti' poslcat="NM">'>|<fs af='SvewaM,n,,sg,,o,ti,ti' poslcat="NM">'>
+3.2	nagaraM	NN	<fs af='nagaraM,n,,sg,,d,0,0'>
+	))		
+4	((	BLK	
+4.1	ani	UT	<fs af='ani,avy,,,,,0,0_avy'>|<fs af='ani,avy,,,,,0,0_avy'>
+4.2	kUdA	PSP	<fs af='kUdA,avy,,,,,0,0_avy' poslcat="NM">'>|<fs af='kUdu,v,,sg,1,,A,A' poslcat="NM">'>
+	))		
+5	((	VGF	
+5.1	aMtAru	VM	<fs af='aMtu,v,fm,pl,3,,A,A'>|<fs af='anu,v,fm,pl,3,,wA,wA'>
+5.2	.	SYM	<fs af='&dot;,punc,,,,,,'>
+	))		
+</Sentence>			

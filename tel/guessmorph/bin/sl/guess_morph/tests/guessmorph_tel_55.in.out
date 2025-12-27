@@ -1,0 +1,41 @@
+<Sentence id="1">			
+1	((	NP	
+1.1	ti.	NN	<fs af='ti.,unk,,,,,,' poslcat="NM">
+	))		
+2	((	NP	
+2.1	vi.	NN	<fs af='vi.,unk,,,,,,' poslcat="NM">
+	))		
+3	((	NP	
+3.1	9	QC	<fs af='9,num,,,,,,'>
+3.2	lo	PSP	<fs af='lo,avy,,,,,,' poslcat="NM">'>|<fs af='la,avy,,,,,o,o_avy' poslcat="NM">'>
+	))		
+4	((	NP	
+4.1	rAjA	NN	<fs af='rAjA,n,,sg,,d,0,0'>|<fs af='rAjA,n,,sg,,o,ti,ti'>
+	))		
+5	((	NP	
+5.1	gOd	NN	<fs af='gOd,n,,sg,,d,0,0'>|<fs af='gOd,n,,sg,,o,ti,ti'>
+5.2	nu	PSP	<fs af='nu,avy,,,,,0,0_avy' poslcat="NM">
+	))		
+6	((	NP	
+6.1	paricayaM	NN	<fs af='paricayaM,n,,sg,,d,0,0'>
+	))		
+7	((	VGNN	
+7.1	ceVyyadaM	VM	<fs af='ceVyyi,v,any,any,any,,adaM,adaM'>
+7.2	,	SYM	<fs af='&comma;,punc,,,,,,'>
+	))		
+8	((	NP	
+8.1	reVstAreVMt	NN	<fs af='reVstAreVMt,n,,sg,,d,0,0'>|<fs af='reVstAreVMt,n,,sg,,o,ti,ti'>
+8.2	lo	PSP	<fs af='lo,avy,,,,,,' poslcat="NM">'>|<fs af='la,avy,,,,,o,o_avy' poslcat="NM">'>
+	))		
+9	((	NP	
+9.1	PEt	NN	<fs af='PEt,n,,sg,,d,0,0'>|<fs af='PEt,n,,sg,,o,ti,ti'>
+	))		
+10	((	NP	
+10.1	vaMtivi	JJ	<fs af='vaMti,adj,n,pl,3,,0,xi_0'>
+10.2	bAgu	NN	<fs af='bAgu,n,,sg,,d,0,0'>|<fs af='bAgu,n,,sg,,o,ti,ti'>
+	))		
+11	((	VGF	
+11.1	unnAyi	VM	<fs af='uMdu,v,n,pl,3,,A,A'>
+11.2	.	SYM	<fs af='&dot;,punc,,,,,,'>
+	))		
+</Sentence>			

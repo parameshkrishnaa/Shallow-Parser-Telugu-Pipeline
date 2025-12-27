@@ -1,0 +1,18 @@
+<Sentence id="1">			
+1	I	DEM	<fs af='I,avy,,,,,,'>|<fs af='I,avy,,,,,,'>
+2	xevAlayAla	NN	<fs af='xevAlayaM,n,,pl,,o,ti,ti'>|<fs af='xevAlayaM,n,,pl,,o,ti,ti'>
+3	samUhAlu	NN	<fs af='samUhaM,n,,pl,,d,0,0'>|<fs af='samUhaM,n,,pl,,,vu,vu'>
+4	950	QC	<fs af='950,num,,,,,,'>
+5	nuMdi	PSP	<fs af='nuMdi,avy,,,,,0,0_avy'>
+6	1050	QC	<fs af='1050,num,,,,,,'>
+7	maXya	NST	<fs af='maXya,adv,,,,,0,0_adv'>|<fs af='maXya,nst,,,,,yoVkka,yoVkka_adv'>|<fs af='maXyaM,n,,sg,,o,ti,ti'>
+8	sumAru	NN	<fs af='sumAru,avy,,,,,0,0_avy'>|<fs af='sumAru,avy,,,,,0,0_avy'>
+9	nUru	QC	<fs af='nUru,n,,sg,,d,0,0'>|<fs af='nUru,n,,sg,,o,ti,ti'>|<fs af='nUru,v,,sg,2,,AjFArWa,AjFArWa'>|<fs af='nUru,num,,sg,,d,0,0' deri_cat='n'>|<fs af='nUr,n,,sg,,d,0,0'>|<fs af='nUr,n,,sg,,o,ti,ti'>
+10	saMvawsarAla	NN	<fs af='saMvawsaraM,n,,pl,,o,ti,ti'>
+11	maXya	NST	<fs af='maXya,adv,,,,,0,0_adv'>|<fs af='maXya,nst,,,,,yoVkka,yoVkka_adv'>|<fs af='maXyaM,n,,sg,,o,ti,ti'>
+12	kAlaMlo	NN	<fs af='kAlaM,n,,sg,,,lo,lo'>
+13	nirmiMpabadinavi	VM	<fs af='nirmiMcu,v,,pl,,,a_badu_ina_axi,a_badu_ina_axi_0' deri_cat='pn'>
+14	.	SYM	<fs af='&dot;,punc,,,,,,'>
+</Sentence>			
+<Sentence id="2">			
+</Sentence>			

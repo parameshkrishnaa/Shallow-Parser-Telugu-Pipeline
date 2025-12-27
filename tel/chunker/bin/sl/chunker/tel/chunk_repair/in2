@@ -1,0 +1,25 @@
+<Sentence id="1">
+1	((	NP	
+1.1	mOryacakravarwi	NNP	<fs af='mOryacakravarwi,unk,,,,,,'>
+	))		
+2	((	NP	
+2.1	aSokuni	NN	<fs af='aSokudu,n,,sg,,o,ti,ti'>|<fs af='aSok,n,,sg,,,ni,ni'>
+	))		
+3	((	NP	
+3.1	maraNa	NN	<fs af='maraNaM,n,,sg,,o,ti,ti'>
+	))		
+4	((	NP	
+4.1	waruvAwa	NST	<fs af='waruvAwa,adv,,,,,0,0_adv'>
+	))		
+5	((	NP	
+5.1	AMXrulu	NNP	<fs af='AMXrudu,n,,pl,,d,0,0'>|<fs af='AMXrudu,n,,pl,,,vu,vu'>|<fs af='AMXra,adj,,,,,vAru,vAru_adj'>
+	))		
+6	((	NP	
+6.1	veVluguloki	NN	<fs af='veVlugu,n,,sg,,,lopalaki,lopalaki'>
+	))		
+7	((	VGF	
+7.1	vaccAru	VM	<fs af='vaccu,v,fm,pl,3,,A,A'>
+7.2	.	SYM	<fs af='&dot;,punc,,,,,,'>
+	))		
+</Sentence>
+

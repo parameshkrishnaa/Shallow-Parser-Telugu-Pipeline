@@ -1,0 +1,14 @@
+<Sentence id="1">			
+1	((	NP	
+1.1	sUrya	NN	<fs af='sUryaM,n,,sg,,o,ti,ti'>|<fs af='sUryudu,n,,sg,,o,ti,ti'>
+1.2	-	SYM	<fs af='&minus;,punc,,,,,,'>
+	))		
+2	((	NP	
+2.1	SrI	NNP	<fs af='SrI,n,,sg,,d,0,0'>|<fs af='SrI,n,,sg,,o,ti,ti'>
+	))		
+3	((	NP	
+3.1	prANa	NN	<fs af='prANaM,n,,sg,,o,ti,'>
+3.2	miwrulu	NN	<fs af='miwrudu,n,,pl,,d,0,0'>|<fs af='miwrudu,n,,pl,,d,0,0'>
+3.3	.	SYM	<fs af='&dot;,punc,,,,,,'>
+	))		
+</Sentence>			

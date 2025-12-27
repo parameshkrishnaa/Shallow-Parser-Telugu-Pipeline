@@ -1,0 +1,12 @@
+<Sentence id="1">
+1	((	NP	
+1.1	vAtini	PRP	<fs af='axi,pn,fn,pl,3,,ni,ni'>
+	))		
+2	((	NP	
+2.1	vIre	PRP	<fs af='vIru,pn,fm,pl,3,,0,0_e'>
+	))		
+3	((	VGF	
+3.1	ceVdagoVttArA	VM	<fs af='ceVdagoVttu,v,fm,pl,3,,A,A_A'>
+3.2	?	SYM	<fs af='&qus;,punc,,,,,,'>
+	))		
+</Sentence>

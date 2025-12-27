@@ -1,0 +1,19 @@
+<Sentence id="1">			
+1	((	NP	
+1.1	o	JJ	<fs af='o,avy,,,,,,'>|<fs af='o,avy,,,,,0,0_avy'>
+1.2	pramuKa	JJ	<fs af='pramuKa,adj,,,,,0,0_adj'>|<fs af='pramuKaM,n,,sg,,o,ti,ti'>
+1.3	nirmAwa	NN	<fs af='nirmAwa,n,,sg,,d,0,0'>|<fs af='nirmAwa,n,,sg,,o,ti,ti'>
+1.4	,	SYM	<fs af='&comma;,punc,,,,,,'>
+	))		
+2	((	NP	
+2.1	rAGaveMxrarAvu	NNP	<fs af='rAGaveMxrarAvu,n,,sg,,d,0,0'>|<fs af='rAGaveMxrarAvu,n,,sg,,o,ti,ti'>
+2.2	kUdA	PSP	<fs af='kUdA,avy,,,,,0,0_avy' poslcat="NM">'>|<fs af='kUdu,v,any,any,any,,i_A,i_A' poslcat="NM">'>
+	))		
+3	((	VGNF	
+3.1	navvi	VM	<fs af='navvu,v,any,any,any,,i,i'>
+	))		
+4	((	VGF	
+4.1	UrukunnAru	VM	<fs af='Uruko,v,fm,pl,3,,A,A'>
+4.2	.	SYM	<fs af='&dot;,punc,,,,,,'>
+	))		
+</Sentence>			

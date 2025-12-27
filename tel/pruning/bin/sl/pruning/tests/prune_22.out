@@ -1,0 +1,19 @@
+<Sentence id="1">
+1	((	NP	
+1.1	ivi	PRP	<fs af='ivi,pn,,sg,,d,0,0' deri_cat=n>|<fs af='ivi,pn,,sg,,o,ti,ti' deri_cat=n>|<fs af='ixi,pn,fn,pl,3,d,0,0'>
+1.2	annI	QF	<fs af='annI,avy,,,,,0,0_avy'>
+	))		
+2	((	NP	
+2.1	vAriki	PRP	<fs af='vAru,pn,fm,pl,3,,ki,ki'>
+	))		
+3	((	NP	
+3.1	prakqwi	NN	<fs af='prakqwi,n,,sg,,d,0,0'>|<fs af='prakqwi,n,,sg,,o,ti,ti'>
+	))		
+4	((	VGNF	
+4.1	prasAxiMcina	VM	<fs af='prasAxiMcu,v,any,any,any,,ina,ina'>
+	))		
+5	((	NP	
+5.1	varame	NN	<fs af='varaM,n,,sg,,,0,0_e'>
+5.2	.	SYM	<fs af='&dot;,punc,,,,,,'>
+	))		
+</Sentence>

@@ -1,0 +1,33 @@
+<Sentence id="1">			
+1	((	NP	
+1.1	ciraMjIvi	NNP	<fs af='ciraMjIvi,n,,sg,,d,0,0'>|<fs af='ciraMjIvi,n,,sg,,o,ti,ti'>
+1.2	,	SYM	<fs af='&comma;,punc,,,,,,'>
+	))		
+2	((	NP	
+2.1	araviMx	NNP	<fs af='araviMx,n,,sg,,d,0,0'>|<fs af='araviMx,n,,sg,,o,ti,ti'>
+2.2	vaMti	JJ	<fs af='vaMti,adj,,,,,0,0_adj'>
+2.3	hemAhemIlanu	NN	<fs af='hemAhemIlu,n,,pl,,,ni,ni'>
+	))		
+3	((	VGNF	
+3.1	wUrpArapaduwU	VM	<fs af='wUrpArapattu,v,any,any,any,,wU,wU'>
+	))		
+4	((	VGNF	
+4.1	rAsina	VM	<fs af='rAyi,v,any,any,any,,ina,ina'>
+	))		
+5	((	NP	
+5.1	murAri	NN	<fs af='murAri,n,,sg,,d,0,0'>|<fs af='murAri,n,,sg,,o,ti,ti'>
+	))		
+6	((	VGNF	
+6.1	navvipoxurugAka	VM	<fs af=',num,,,,,,' poslcat="NM">
+	))		
+7	((	NP	
+7.1	puswakaM	NN	<fs af='puswakaM,n,,sg,,d,0,0'>
+	))		
+8	((	RBP	
+8.1	anukunnaMwagA	RB	<fs af='anuko,v,any,any,any,,wunna_aMwagA,wunna_aMwagA' poslcat="NM">'>|<fs af='anuko,v,any,any,any,,ina_aMwagA,ina_aMwagA' poslcat="NM">'>
+	))		
+9	((	VGF	
+9.1	pelalexu	VM	<fs af='pelu,v,any,any,any,,a_lexu,a_lexu'>
+9.2	.	SYM	<fs af='&dot;,punc,,,,,,'>
+	))		
+</Sentence>			

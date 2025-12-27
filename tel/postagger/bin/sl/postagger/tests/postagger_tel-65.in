@@ -1,0 +1,9 @@
+1	ixi	unk	<fs af='ixi,pn,fn,sg,3,d,0,0'>
+2	BAraw	unk	<fs af='BAraw,n,,sg,,d,0,0'>|<fs af='BAraw,n,,sg,,o,ti,ti'>
+3	waraPuna	unk	<fs af='waraPuna,n,,sg,,d,0,0'>|<fs af='waraPuna,n,,sg,,o,ti,ti'>
+4	vandelo	unk	<fs af='vandelo,unk,,,,,,'>
+5	reVMdo	unk	<fs af='reVMdo,adj,,,,,0,0_adj'>|<fs af='reVMdu,n,,sg,,,0,0_o'>|<fs af='reVMdu,num,,,,,ava,ava' deri_cat='n'>
+6	awyuwwama	unk	<fs af='awyuwwama,adj,,,,,0,0_adj'>|<fs af='awyuwwamaM,n,,sg,,o,ti,ti'>|<fs af='awyuwwamudu,n,,sg,,o,ti,ti'>
+7	vyakwigawa	unk	<fs af='vyakwigawaM,n,,sg,,o,ti,ti'>
+8	skoru	unk	<fs af='skoru,n,,sg,,d,0,0'>|<fs af='skoru,n,,sg,,o,ti,ti'>|<fs af='skor,n,,sg,,d,0,0'>|<fs af='skor,n,,sg,,o,ti,ti'>
+9	.	unk	<fs af='&dot;,punc,,,,,,'>

@@ -1,0 +1,12 @@
+<Sentence id="1">			
+1	ayinA	CC	<fs af='avvu,v,,sg,1,,A,A'>|<fs af='avvu,v,any,any,any,,inA,inA'>
+2	mari	RP	<fs af='mari,avy,,,,,,'>
+3	koVMwa	QF	<fs af='koVMwa,pn,,sg,,d,0,0'>|<fs af='koVMwa,pn,,sg,,d,0,0' deri_cat='n'>|<fs af='koVMwa,pn,,sg,,o,ti,ti' deri_cat='n'>
+4	kAlaM	NN	<fs af='kAlaM,n,,sg,,d,0,0'>|<fs af='kAlu,v,,pl,1,,a,a'>
+5	pAtu	NN	<fs af='pAtu,n,,sg,,d,0,0'>|<fs af='pAtu,n,,sg,,d,0,0'>|<fs af='pAtu,n,,sg,,o,ti,ti'>|<fs af='pAtu,n,,sg,,o,ti,ti'>|<fs af='pAtu,avy,,,,,0,0_avy'>|<fs af='pAt,n,,sg,,d,0,0'>|<fs af='pAt,n,,sg,,o,ti,ti'>
+6	KajurAho	NN	<fs af='KajurAho,n,,sg,,d,0,0'>|<fs af='KajurAho,n,,sg,,o,ti,ti'>
+7	veVlugoVMxinaxi	VM	<fs af='veVlugoVMxu,v,,sg,,,ina_axi,ina_axi_0' deri_cat='pn'>
+8	.	SYM	<fs af='&dot;,punc,,,,,,'>
+</Sentence>			
+<Sentence id="2">			
+</Sentence>			

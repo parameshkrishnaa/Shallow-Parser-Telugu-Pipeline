@@ -1,0 +1,6 @@
+1	aneka	unk	<fs af='aneka,adj,,,,,0,0_adj'>|<fs af='anekaM,n,,sg,,o,ti,ti'>
+2	rAjamaMxirAlu	unk	<fs af='rAjamaMxiraM,rAjamaMxiraM,,pl,,d,0,0' deri_cat='n'>|<fs af='rAjamaMxiraM,rAjamaMxiraM,,pl,,,vu,vu' deri_cat='n'>
+3	vilAsavaMwamEna	unk	<fs af='vilAsavaMwaM,n,,sg,,,Ena,Ena'>
+4	vasawigqhAlugA	unk	<fs af='vasawigqhaM,n,,pl,,,gA,gA'>
+5	mArcabaddAyi	unk	<fs af='mArcu,v,n,pl,3,,a_badu_A,a_badu_A'>
+6	.	unk	<fs af='&dot;,punc,,,,,,'>

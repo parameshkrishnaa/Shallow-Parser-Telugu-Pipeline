@@ -1,0 +1,42 @@
+<Sentence id="1">
+1	((	NP	
+1.1	xoVMgala	NN	<fs af='xoVMga,n,,pl,,o,ti,ti'>|<fs af='xoVMga,n,,pl,,o,ti,ti'>
+1.2	BayaMwo	NN	<fs af='BayaM,n,,sg,,,wo,wo'>
+	))		
+2	((	NP	
+2.1	yAwrikulu	NN	<fs af='yAwrikudu,n,,pl,,d,0,0'>|<fs af='yAwrikudu,n,,pl,,d,0,0'>|<fs af='yAwrikudu,n,,pl,,d,0,0'>|<fs af='yAwrikudu,n,,pl,,d,0,0'>|<fs af='yAwrikudu,n,,pl,,,vu,vu'>|<fs af='yAwrikudu,n,,pl,,,vu,vu'>|<fs af='yAwrikudu,n,,pl,,,vu,vu'>|<fs af='yAwrikudu,n,,pl,,,vu,vu'>|<fs af='yAwrika,adj,,,,,vAru,vAru_adj'>
+	))		
+3	((	NP	
+3.1	guMpulu	NN	<fs af='guMpu,n,,pl,,d,0,0'>|<fs af='guMpu,n,,pl,,,vu,vu'>
+	))		
+4	((	NP	
+4.1	guMpulugA	NN	<fs af='guMpu,n,,pl,,,gA,gA'>
+	))		
+5	((	NP	
+5.1	dappulu	NN	<fs af='dappu,n,,pl,,d,0,0'>|<fs af='dappu,n,,pl,,,vu,vu'>|<fs af='dappi,n,,pl,,d,0,0'>
+	))		
+6	((	VGF	
+6.1	vAyiswU	VM	<fs af='vAyiMcu,v,any,any,any,,wU,wU'>
+6.2	,	SYM	<fs af='&comma;,punc,,,,,,'>
+	))		
+7	((	NP	
+7.1	goviMxu	NNP	<fs af='goviMxu,n,,sg,,d,0,0'>|<fs af='goviMxu,n,,sg,,o,ti,ti'>|<fs af='goviMx,n,,sg,,d,0,0'>|<fs af='goviMx,n,,sg,,o,ti,ti'>
+	))		
+8	((	NP	
+8.1	nAma	NN	<fs af='nAmaM,n,,sg,,o,ti,ti'>
+	))		
+9	((	NP	
+9.1	smaraNa	NN	<fs af='smaraNa,n,,sg,,d,0,0'>|<fs af='smaraNa,n,,sg,,o,ti,ti'>|<fs af='smaraNaM,n,,sg,,o,ti,ti'>
+	))		
+10	((	VGNF	
+10.1	ceswU	VM	<fs af='ceVyyi,v,any,any,any,,wU,wU'>
+	))		
+11	((	NP	
+11.1	koVMda	NN	<fs af='koVMda,n,,sg,,d,0,0'>|<fs af='koVMda,n,,sg,,o,ti,ti'>
+	))		
+12	((	VGF	
+12.1	eVkkevAru	VM	<fs af='eVkku,pn,,pl,,,e_vAru,e_vAru_0'>|<fs af='eVkku,pn,,pl,,,e_vAru_vu,e_vAru_vu'>
+12.2	.	SYM	<fs af='&dot;,punc,,,,,,'>
+	))		
+</Sentence>
+

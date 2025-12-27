@@ -1,0 +1,19 @@
+<Sentence id="1">			
+1	I	DEM	<fs af='I,avy,,,,,,'>|<fs af='I,avy,,,,,,'>
+2	nagarAnni	NN	<fs af='nagaraM,n,,sg,,,nu,nu'>|<fs af='nagaraM,n,,sg,,,ni,ni'>
+3	wUrpu	NN	<fs af='wUrpu,n,,sg,,d,0,0'>|<fs af='wUrpu,n,,sg,,o,ti,ti'>
+4	veVnis	NN	<fs af='veVnis,n,,sg,,d,0,0'>|<fs af='veVnis,n,,sg,,o,ti,ti'>
+5	nagaraM	NN	<fs af='nagaraM,n,,sg,,d,0,0'>
+6	,	SYM	<fs af='&comma;,punc,,,,,,'>
+7	prema	NN	<fs af='prema,n,,sg,,d,0,0'>|<fs af='prema,n,,sg,,o,ti,ti'>|<fs af='premaM,n,,sg,,o,ti,ti'>
+8	nagaraM	NN	<fs af='nagaraM,n,,sg,,d,0,0'>
+9	mariyu	CC	<fs af='mariyu,avy,,,,,0,0_avy'>
+10	sarassula	NN	<fs af='sarassu,n,,pl,,o,ti,ti'>
+11	nagaraM	NN	<fs af='nagaraM,n,,sg,,d,0,0'>
+12	ani	UT	<fs af='ani,avy,,,,,0,0_avy'>|<fs af='ani,avy,,,,,0,0_avy'>|<fs af='anu,v,any,any,any,,i,i'>
+13	upanAmAlu	NN	<fs af='upanAmAlu,unk,,,,,,'>
+14	unnAyi	VM	<fs af='uMdu,v,n,pl,3,,A,A'>
+15	.	SYM	<fs af='&dot;,punc,,,,,,'>
+</Sentence>			
+<Sentence id="2">			
+</Sentence>			

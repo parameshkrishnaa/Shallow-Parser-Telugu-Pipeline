@@ -1,0 +1,26 @@
+<Sentence id="1">
+1	((	NP	
+1.1	waracU	NN	<fs af='waracU,avy,,,,,,'>
+	))		
+2	((	NP	
+2.1	gummadini	NN	<fs af='gummadi,n,,sg,,,nu,nu'>|<fs af='gummadi,n,,sg,,,ni,ni'>
+	))		
+3	((	VGNN	
+3.1	wIsukovadaM	VM	<fs af='wIsuko,v,any,any,any,,adaM,adaM'>|<fs af='wIsuko,v,any,any,any,,adaM,adaM'>
+	))		
+4	((	FRAGP	
+4.1	valana	PSP	<fs af='valana,avy,,,,,0,0_avy'>|<fs af='vala,n,,sg,,,na,na'>
+	))		
+5	((	NP	
+5.1	gyAstrik	NN	<fs af='gyAstrik,n,,sg,,d,0,0'>|<fs af='gyAstrik,n,,sg,,o,ti,ti'>
+5.2	nuMci	PSP	<fs af='nuMci,avy,,,,,0,0_avy'>
+	))		
+6	((	NP	
+6.1	upaSamanaM	NN	<fs af='upaSamanaM,n,,sg,,d,0,0'>
+	))		
+7	((	VGF	
+7.1	laBiswuMxi	VM	<fs af='laBiMcu,v,fn,sg,3,,wA,wA'>
+7.2	.	SYM	<fs af='&dot;,punc,,,,,,'>
+	))		
+</Sentence>
+

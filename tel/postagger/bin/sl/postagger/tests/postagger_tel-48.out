@@ -1,0 +1,14 @@
+<Sentence id="1">			
+1	2012	QC	<fs af='2012,num,,,,,,'>
+2	lo	PSP	<fs af='lo,avy,,,,,,'>|<fs af='la,avy,,,,,o,o_avy'>
+3	Am	NN	<fs af='Am,unk,,,,,,'>
+4	AxmI	NN	<fs af='AxmI,unk,,,,,,'>
+5	pArtI	NN	<fs af='pArtI,n,,sg,,d,0,0'>|<fs af='pArtI,n,,sg,,o,ti,ti'>
+6	ane	UT	<fs af='ane,avy,,,,,,'>|<fs af='ani,avy,,,,,e,e_avy'>|<fs af='ani,avy,,,,,e,e_avy'>|<fs af='anu,v,any,any,any,,e,e'>|<fs af='anu,v,any,any,any,,i,i_e'>
+7	rAjakIya	NN	<fs af='rAjakIya,adj,,,,,0,0_adj'>|<fs af='rAjakIyaM,n,,sg,,o,ti,ti'>|<fs af='rAjakIyudu,n,,sg,,o,ti,ti'>
+8	pArtIni	NN	<fs af='pArtI,n,,sg,,,ni,ni'>
+9	sWApiMcAru	VM	<fs af='sWApiMcu,v,fm,pl,3,,A,A'>
+10	.	SYM	<fs af='&dot;,punc,,,,,,'>
+</Sentence>			
+<Sentence id="2">			
+</Sentence>			

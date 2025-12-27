@@ -1,0 +1,33 @@
+<Sentence id="1">
+1	((	RBP	
+1.1	alAge	RB	<fs af='alAge,avy,,,,,0,0_avy'>
+	))		
+2	((	NP	
+2.1	CAwI	NN	<fs af='CAwI,n,,sg,,d,0,0'>|<fs af='CAwI,n,,sg,,o,ti,ti'>
+2.2	noVppi	NN	<fs af='noVppi,n,,sg,,d,0,0'>|<fs af='noVppi,n,,sg,,o,ti,ti'>
+2.3	,	SYM	<fs af='&comma;,punc,,,,,,'>
+	))		
+3	((	NP	
+3.1	Upiriwiwwula	NN	<fs af='Upiriwiwwi,n,,pl,,o,ti,ti'>
+	))		
+4	((	NP	
+4.1	kyAnsarlu	NN	<fs af='kyAnsar,n,,pl,,d,0,0'>|<fs af='kyAnsar,n,,pl,,,vu,vu'>|<fs af='kyAnsaru,n,,pl,,d,0,0'>|<fs af='kyAnsaru,n,,pl,,,vu,vu'>
+	))		
+5	((	VGNF	
+5.1	vacce	VM	<fs af='vaccu,v,any,any,any,,e,e'>|<fs af='vaccu,v,any,any,any,,i,i_e'>|<fs af='vac,n,,sg,,,ce,ce'>
+	))		
+6	((	NP	
+6.1	avakASAlu	NN	<fs af='avakASaM,n,,pl,,d,0,0'>|<fs af='avakASaM,n,,pl,,,vu,vu'>
+	))		
+7	((	VGNF	
+7.1	wagguwAyani	VM	<fs af='waggu,v,n,pl,3,,wA_ani,wA_ani'>
+	))		
+8	((	NP	
+8.1	pariSoXakulu	NN	<fs af='pariSoXakudu,n,,pl,,d,0,0'>|<fs af='pariSoXakudu,n,,pl,,,vu,vu'>|<fs af='pariSoXaka,adj,,,,,vAru,vAru_adj'>
+	))		
+9	((	VGF	
+9.1	ceVbuwunnAru	VM	<fs af='ceVppu,v,fm,pl,3,,wunn,wunn'>
+9.2	.	SYM	<fs af='&dot;,punc,,,,,,'>
+	))		
+</Sentence>
+

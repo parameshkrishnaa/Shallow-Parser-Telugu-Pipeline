@@ -1,0 +1,68 @@
+<Sentence id="1">			
+1	((	NP	
+1.1	kudi	NN	<fs af='kudi,n,,sg,,d,0,0'>|<fs af='kudi,n,,sg,,o,ti,ti'>
+	))		
+2	((	NP	
+2.1	cewi	NN	<fs af='ceyi,n,,sg,,o,ti,ti'>
+	))		
+3	((	NP	
+3.1	vAtaM	NN	<fs af='vAtaM,n,,sg,,d,0,0'>
+3.2	gala	RP	<fs af='gala,v,any,any,any,,ina,ina' poslcat="NM">'>|<fs af='gala,adj,,,,,0,0_adj' poslcat="NM">'>
+	))		
+4	((	NP	
+4.1	byAtsmeVn	NN	<fs af='byAtsmeVn,n,,sg,,d,0,0'>|<fs af='byAtsmeVn,n,,sg,,o,ti,ti'>
+	))		
+5	((	CCP	
+5.1	mariyu	CC	<fs af='mariyu,avy,,,,,0,0_avy'>
+	))		
+6	((	NP	
+6.1	vikeVt	NN	<fs af='vikeVt,n,,sg,,d,0,0'>|<fs af='vikeVt,n,,sg,,o,ti,ti'>
+	))		
+7	((	NP	
+7.1	kIpar	NN	<fs af='kIpar,n,,sg,,d,0,0'>|<fs af='kIpar,n,,sg,,o,ti,ti'>
+	))		
+8	((	RBP	
+8.1	gA	RB	<fs af='gA,adv,,,,,0,0_avy'>
+	))		
+9	((	NP	
+9.1	BArawa	JJ	<fs af='BArawaM,n,,sg,,o,ti,ti' poslcat="NM">
+9.2	jattulo	NN	<fs af='jattu,n,,sg,,,lo,lo'>
+	))		
+10	((	NP	
+10.1	raMgapraveSaM	NNP	<fs af='raMgapraveSaM,n,,sg,,d,0,0'>
+	))		
+11	((	VGNF	
+11.1	cesina	VM	<fs af='ceVyyi,v,any,any,any,,ina,ina'>
+	))		
+12	((	NP	
+12.1	Xoni	NN	<fs af='Xoni,unk,,,,,,' poslcat="NM">
+	))		
+13	((	NP	
+13.1	jUniyar	NN	<fs af='jUniyar,n,,sg,,d,0,0'>|<fs af='jUniyar,n,,sg,,o,ti,ti'>
+	))		
+14	((	CCP	
+14.1	mariyu	CC	<fs af='mariyu,avy,,,,,0,0_avy'>
+	))		
+15	((	NP	
+15.1	iMdiyA	NNP	<fs af='iMdiyA,n,,sg,,d,0,0'>|<fs af='iMdiyA,n,,sg,,d,0,0'>
+15.2	-	SYM	<fs af='&minus;,punc,,,,,,'>
+	))		
+16	((	NP	
+16.1	e	WQ	<fs af='e,avy,,,,,,'>|<fs af='e,avy,,,,,,'>
+16.2	lo	PSP	<fs af='lo,avy,,,,,,' poslcat="NM">'>|<fs af='la,avy,,,,,o,o_avy' poslcat="NM">'>
+	))		
+17	((	NP	
+17.1	prawiBa	NN	<fs af='prawiBa,n,,sg,,d,0,0'>|<fs af='prawiBa,n,,sg,,o,ti,ti'>
+	))		
+18	((	VGNF	
+18.1	praxarSiMci	VM	<fs af='praxarSiMcu,v,any,any,any,,i,i'>
+	))		
+19	((	NP	
+19.1	I	DEM	<fs af='I,avy,,,,,,' poslcat="NM">'>|<fs af='I,avy,,,,,,' poslcat="NM">'>
+19.2	sWAyiki	NN	<fs af='sWAyi,n,,sg,,,ki,ki'>
+	))		
+20	((	VGF	
+20.1	vaccinAdu	VM	<fs af='vaccu,v,m,sg,3,,A,A'>
+20.2	.	SYM	<fs af='&dot;,punc,,,,,,'>
+	))		
+</Sentence>			

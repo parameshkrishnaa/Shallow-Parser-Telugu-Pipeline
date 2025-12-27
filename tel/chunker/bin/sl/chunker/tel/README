@@ -1,0 +1,105 @@
+						CRF CHUNKING 1.3.2 (CHUNKING)
+						--------------------------
+Telugu CRF Chunker : Chunking involves identifying simple noun phrases, verb groups, adjectival
+phrases,and adverbial phrases in a sentence. This involves identifying the boundary
+of chunks and marking the label.
+
+There is two part in chunker one is training(training mode) and other is testing
+(perform or run mode).
+
+In training mode, we train the chunker using the manually chunked annotated data and
+generate trained model (e.g. 200k_model_chunker).
+
+In perform/run mode, we use above parameter to tag the input sentence.Both training
+and testing pos tagger internally use the BIO format.
+
+Requirements:
+------------
+Operating System		:    LINUX/UNIX system
+
+Compiler/Interpreter/Librarie(s):    Perl, SSF API's and C++ compiler (gcc 3.0 or higher)
+
+we assumed that CRF Tool kit is installed at your system.
+if CRF Tool Kit is not installed at your system then you download
+and instaaled from http://crfpp.sourceforge.net/ site.
+
+version of CRF should be 0.42 or higher.
+
+For installation on Linux, please refer to the file INSTALL.
+
+Directory Structure:
+--------------------
+
+chunker
+     |
+     |    
+     |---data_bin (data bin files)
+     |     |
+     |     |---tel/200k_telugu_chunker_model
+     |	  
+     |---data_src
+     |	    |
+     |      |---tel/200k-Chunked.ssf.clean
+     |
+     |---API (SSF API's)
+     |
+     |---tests (contains the referenece input and output)
+     |     |
+     |     |--tel (contains the referenece input and output of telugu as source langauge)
+     |
+     |---doc (documentaion files of the chunker)
+     |
+     |---README (How to run/use the module)
+     |
+     |---INSTALL (How to install in sampark directory structure)
+     |
+     |---ChangeLog (version inforamation)
+     |
+     |---Makefile (first level make file for copying the module source in sampark system)
+     |
+     |---Makefile.stage2 (2nd level make file for actual installation/copying in the bin and data_bin directory)
+     |
+     |---chunker_run.sh (to run the chunker module)
+     |
+     |---chunker_train.sh (to train the chunker module)
+     |
+     |---chunker.sh (for the use of dashboard spec file)
+     |
+     |---chunker.spec (individual chunker module run with dashboard)
+     |
+     |---ssf2tnt_pos.pl (convert ssf to tnt format)
+     |
+     |---convert_biotossf.pl (convert bio to ssf format)
+
+
+
+
+How to Use??
+------------
+
+1) perl $setu/bin/sl/chunker/tel/common/ssf2tnt_pos.pl $1 > chunkinput_pos.tnt
+
+2) crf_test -m $setu/data_bin/sl/chunker/tel/200k_telugu_chunker_model chunkinput_pos.tnt > chunker_out.tnt
+
+3) perl $setu/bin/sl/chunker/tel/common/convert_biotossf.pl < chunker_out.tnt 
+
+# Comment the previous line (3) and uncomment the following lines (4 and 5) if the system is tel-hin-ilmt
+#4) perl $setu/bin/sl/chunker/tel/common/convert_biotossf.pl < chunker_out.tnt > chunker_out1.tnt
+#5) perl $setu/bin/sl/chunker/tel/chunk_repair/chunk_repair.pl --path=$setu/bin/sl/chunker/tel/chunk_repair --resource=$setu/bin/sl/chunker/tel/chunk_repair/Rules --input=chunker_out1.tnt
+
+
+#################################
+Author: Parameshwari K, Chrishtopher M.
+	CALTS, UoH.
+	<parameshkrishnaa@gmail.com, efthachris@gmail.com>
+
+Author: Avinesh PVS
+	LTRC
+	IIIT Hyderabad	
+
+Any Quries or suggestions mail to
+avinesh@students.iiit.ac.in
+(or)
+avinesh.pvs@gmail.com 
+#################################
+

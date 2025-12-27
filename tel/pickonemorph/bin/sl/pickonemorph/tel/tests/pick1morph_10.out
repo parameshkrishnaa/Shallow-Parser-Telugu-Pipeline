@@ -1,0 +1,24 @@
+<Sentence id="1">
+1	((	NP	
+1.1	AhAraM	NN	<fs af='AhAraM,n,,sg,,d,0,0'>
+	))		
+2	((	RBP	
+2.1	pUrwigA	RB	<fs af='pUrwigA,avy,,,,,0,0_avy' poslcat="NM">
+	))		
+3	((	NP	
+3.1	jIrNaM	NN	<fs af='jIrNaM,n,,sg,,d,0,0'>
+	))		
+4	((	VGNF	
+4.1	ayyi	VM	<fs af='avvu,v,any,any,any,,i,i'>
+	))		
+5	((	NP	
+5.1	malabaxXaka	NN	<fs af='malabaxXakaM,n,,sg,,o,ti,ti'>
+	))		
+6	((	NP	
+6.1	samasya	NN	<fs af='samasya,n,,sg,,d,0,0'>
+	))		
+7	((	VGF	
+7.1	wIruwuMxi	VM	<fs af='wIru,v,fn,sg,3,,wA,wA'>
+7.2	.	SYM	<fs af='&dot;,punc,,,,,,'>
+	))		
+</Sentence>

@@ -1,0 +1,37 @@
+1	((	NP	
+1.1	rAmudu	NN	<fs af='rAma,n,,,,o,adj_vAdu,' name="rAmudu" name="rAmudu">
+	))		
+2	((	JJP	
+2.1	mohanvalYlu	JJ	<fs af='vaMti,adj,,,,,vi,' name="mohanvalYlu" name="mohanvalYlu">
+	))		
+3	((	NP	
+3.1	panI	NST	<fs af='maXya,n,,s,,0,0,' name="panI" name="panI">
+	))		
+1	((	NP	
+1.1	rAmudu	NN	<fs af='rAma,n,,,,o,adj_vAdu,' name="rAmudu" name="rAmudu">
+	))		
+2	((	NP	
+2.1	mohanvalYlu	NN	<fs af='vaMti,n,,,,o,vi,' name="mohanvalYlu" name="mohanvalYlu">
+	))		
+3	((	NP	
+3.1	panI	NST	<fs af='vaxxa,n,,sg,,0,0,' name="panI" name="panI">
+	))		
+2	((	NP	
+2.1	mohan	QC	<fs af='1970,n,,,,,,' name="mohanvalYlu" name="mohanvalYlu">
+	))		
+2	((	NP	
+2.1	va	NN	<fs af='va,n,,,,,0,' name="mohanvalYlu" name="mohanvalYlu">
+	))	
+2	((	NP	
+2.1	mohan	NN	<fs af='XX,n,,,,,po_A,' name="mohanvalYlu" name="mohanvalYlu">
+	))		
+2	((	NP	
+2.1	va	NN	<fs af='rAmudu,n,m,pl,3,o,tt,xx' name="mohanvalYlu" name="mohanvalYlu">
+	))	
+4	((	VGNF	
+4.1	ceswunnArani	VM	<fs af='ceVyyi,v,m,sg,3,,an,' name="ceswunnArani" name="ceswunnArani">
+	))		
+5	((	VGF	
+5.1	ceppedu	VM	<fs af='gala,v,f,sg,3,,a,' name="ceppedu" name="ceppedu">
+5.2	.	SYM	<fs af='&dot;,punc,,,,,,'>
+	))		

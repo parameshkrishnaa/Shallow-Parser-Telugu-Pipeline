@@ -1,0 +1,10 @@
+<Sentence id="1">
+1	((	NP	
+1.1	puttagoVdugulawo	NN	<fs af='puttagoVdugu,n,,pl,,,wo,wo'>
+	))		
+2	((	NP	
+2.1	guMdeV	NN	<fs af='guMdeV,n,,sg,,d,0,0'>
+2.2	paxilaM	NN	<fs af='paxilaM,n,,sg,,d,0,0'>
+2.3	.	SYM	<fs af='&dot;,punc,,,,,,'>
+	))		
+</Sentence>

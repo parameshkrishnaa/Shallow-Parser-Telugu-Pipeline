@@ -1,0 +1,32 @@
+<Sentence id="1">
+1	((	NP	
+1.1	caMxrudi	NN	<fs af='caMxrudu,n,,sg,,o,ti,ti'>
+1.2	pEna	NST	<fs af='pEna,adv,,,,,0,0_adv'>|<fs af='pEna,n,,sg,,d,0,0'>|<fs af='pEna,n,,sg,,o,ti,ti'>|<fs af='pE,n,,sg,,,na,na'>|<fs af='pi,n,,sg,,,Ena,Ena'>
+	))		
+2	((	NP	
+2.1	nIru	NN	<fs af='nIru,n,,sg,,d,0,0'>|<fs af='nIru,n,,sg,,o,ti,ti'>
+	))		
+3	((	VGF	
+3.1	uMxani	VM	<fs af='uMdu,v,fn,sg,3,,A,A'>
+	))		
+4	((	BLK	
+4.1	ani	UT	<fs af='ani,avy,,,,,,'>
+	))		
+5	((	NP	
+5.1	oVka	JJ	<fs af='oVka,adj,,,,,0,0_adj'>
+5.2	vexaMloni	NN	<fs af='vexaM,n,,sg,,,loni,loni'>
+	))		
+6	((	NP	
+6.1	SlokAlu	NN	<fs af='SlokAl,n,,sg,,d,0,0'>|<fs af='SlokAl,n,,sg,,o,ti,ti'>|<fs af='SlokaM,n,,pl,,d,0,0'>|<fs af='SlokaM,n,,pl,,,vu,vu'>
+	))		
+7	((	VGF	
+7.1	ceVbuwunnAyani	VM	<fs af='ceVppu,v,n,pl,3,,wunn,wunn'>
+	))		
+8	((	BLK	
+8.1	ani	UT	<fs af='ani,avy,,,,,,'>
+	))		
+9	((	VGF	
+9.1	weVlipAru	VM	<fs af='weVlupu,v,fm,pl,3,,A,A'>
+9.2	.	SYM	<fs af='&dot;,punc,,,,,,'>
+	))		
+</Sentence>

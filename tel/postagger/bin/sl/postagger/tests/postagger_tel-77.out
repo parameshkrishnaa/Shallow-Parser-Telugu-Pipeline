@@ -1,0 +1,26 @@
+<Sentence id="1">			
+1	2005	QC	<fs af='2005,num,,,,,,'>
+2	lo	PSP	<fs af='lo,avy,,,,,,'>|<fs af='la,avy,,,,,o,o_avy'>
+3	pAkiswAn	NN	<fs af='pAkiswAn,n,,sg,,d,0,0'>|<fs af='pAkiswAn,n,,sg,,o,ti,ti'>
+4	pE	NN	<fs af='pE,adj,,,,,0,0_adj'>|<fs af='pE,n,,sg,,d,0,0'>|<fs af='pE,n,,sg,,o,ti,ti'>
+5	5	QC	<fs af='5,num,,,,,,'>
+6	va	NN	<fs af='va,avy,,,,,,'>
+7	vande	NN	<fs af='vande,unk,,,,,,'>
+8	lo	PSP	<fs af='lo,avy,,,,,,'>|<fs af='la,avy,,,,,o,o_avy'>
+9	148	QC	<fs af='148,num,,,,,,'>
+10	parugulu	NN	<fs af='parugu,n,,pl,,d,0,0'>|<fs af='parugu,n,,pl,,,vu,vu'>
+11	sAXiMci	VM	<fs af='sAXiMcu,v,any,any,any,,i,i'>
+12	vandelo	NN	<fs af='vandelo,unk,,,,,,'>
+13	awyaXika	NN	<fs af='awyaXika,adj,,,,,0,0_adj'>|<fs af='awyaXikaM,n,,sg,,o,ti,ti'>
+14	vyakwigawa	NN	<fs af='vyakwigawaM,n,,sg,,o,ti,ti'>
+15	skoru	NN	<fs af='skoru,n,,sg,,d,0,0'>|<fs af='skoru,n,,sg,,o,ti,ti'>|<fs af='skor,n,,sg,,d,0,0'>|<fs af='skor,n,,sg,,o,ti,ti'>
+16	sAXiMcina	VM	<fs af='sAXiMcu,v,any,any,any,,ina,ina'>
+17	BArawa	NNP	<fs af='BArawaM,n,,sg,,o,ti,ti'>
+18	vikeVt	NN	<fs af='vikeVt,n,,sg,,d,0,0'>|<fs af='vikeVt,n,,sg,,o,ti,ti'>
+19	kIpargA	RB	<fs af='kIpar,n,,sg,,,gA,gA'>
+20	rikArdu	NN	<fs af='rikArdu,n,,sg,,d,0,0'>|<fs af='rikArdu,n,,sg,,o,ti,ti'>|<fs af='rikArd,n,,sg,,d,0,0'>|<fs af='rikArd,n,,sg,,o,ti,ti'>
+21	sqRtiMcAdu	VM	<fs af='sqRtiMcu,v,m,sg,3,,A,A'>|<fs af='sqRtiMcu,v,m,sg,3,,A,A'>
+22	.	SYM	<fs af='&dot;,punc,,,,,,'>
+</Sentence>			
+<Sentence id="2">			
+</Sentence>			

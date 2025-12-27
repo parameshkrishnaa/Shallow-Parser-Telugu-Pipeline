@@ -1,0 +1,72 @@
+						PICK ONE MORPH 1.1 (PICK ONE MORPH)
+						-----------------------------------------------
+
+PICK ONE MORPH : 
+----------------
+
+Pick one morph is the task of removing multiple feature structures after the pruning module and leaving with the first feature structure.
+
+Requirements:
+------------
+Operating System		:    LINUX/UNIX system
+
+Compiler/Interpreter/Librarie(s):    Perl and SSF API's
+
+For installation on Linux, please refer to the file INSTALL.
+
+
+Directory Structure:
+--------------------
+
+pickonemorph
+     |
+     |---src (functional source code of the pickonemorph)
+     |
+     |---API (SSF API's)
+     |
+     |---tests (contains the referenece input and output)
+     |
+     |---doc (documentaion files of the pickonemorph)
+     |
+     |---README (How to run/use the module)
+     |
+     |---INSTALL (How to install in sampark directory structure)
+     |
+     |---ChangeLog (version inforamation)
+     | 
+     |---Makefile (first level make file for copying the module in sampark system)
+     |
+     |---Makefile.stage2 (2nd level make file for actual installation)
+     |
+     |---pickonemorph_run.sh (to run the pickonemorph module)
+     |
+     |---pickonemorph.sh  (for dashboard spec file)
+     |
+     |---pickonemorph.spec (individual run the pruning module with dashboard)
+     |
+     |---pickonemorph.pl (main file of pickonemorph)
+
+
+
+
+How to Use??
+------------
+
+1. perl $setu/bin/sl/pickonemorph/pickonemorph.pl --path=$setu/bin/sl/pickonemorph --input=$setu/bin/sl/pickonemorph/tests/pickonemorph.rin --output=$setu/bin/sl/pickonemorph/tests/pickonemorph.rout
+
+   *sample input and output files are provided in the tests dir namely pickonemorph.rin pickonemorph.rout.
+
+2. perl $setu/bin/sl/pickonemorph/pickonemorph.pl --help
+   for display the help
+
+
+#################################
+Author: Avinesh PVS
+	LTRC
+	IIIT Hyderabad	
+Any Quries or suggestions mail to
+avinesh@students.iiit.ac.in
+(or)
+avinesh.pvs@gmail.com 
+#################################
+

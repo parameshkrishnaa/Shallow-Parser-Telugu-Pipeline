@@ -1,0 +1,22 @@
+<Sentence id="1">
+1	((	NP	
+1.1	SrI	NNP	<fs af='SrI,n,,sg,,d,0,0'>|<fs af='SrI,n,,sg,,o,ti,ti'>
+	))		
+2	((	NP	
+2.1	pAwralo	NN	<fs af='pAwra,n,,pl,,,0,0_o'>|<fs af='pAwra,n,,sg,,,lo,lo'>
+	))		
+3	((	NP	
+3.1	SrIrAmu	NNP	<fs af='SrIrAmu,n,,sg,,d,0,0'>|<fs af='SrIrAmu,n,,sg,,o,ti,ti'>
+	))		
+4	((	NP	
+4.1	cinna	JJ	<fs af='cinna,n,,sg,,d,0,0'>|<fs af='cinna,n,,sg,,o,ti,ti'>|<fs af='cinna,adj,,,,,0,0_adj'>|<fs af='cinnaM,n,,sg,,o,ti,ti'>
+4.2	pAwra	NN	<fs af='pAwra,n,,sg,,d,0,0'>|<fs af='pAwra,n,,sg,,o,ti,ti'>|<fs af='pAwrudu,n,,sg,,o,ti,ti'>|<fs af='pAwrudu,n,,sg,,o,ti,ti'>
+	))		
+5	((	NP	
+5.1	bAgA	INTF	<fs af='bAgA,avy,,,,,0,0_avy'>
+	))		
+6	((	VGF	
+6.1	cesAdu	VM	<fs af='ceVyyi,v,m,sg,3,,A,A'>
+6.2	.	SYM	<fs af='&dot;,punc,,,,,,'>
+	))		
+</Sentence>
