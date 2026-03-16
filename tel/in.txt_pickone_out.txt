@@ -1,0 +1,78 @@
+#Text=భారీ వర్షాల కారణంగా కొన్ని చోట్ల ఆందోళనకర పరిస్థితులు నెలకొనగా , మరికొన్ని చోట్ల వర్షం కోసం ప్రజలు ఎదురు చూస్తున్నారు .
+<Sentence id="1">
+1	((	NP
+1.1	భారీ	JJ	<fs af='భారీ,adj,,,,,0,0_adj'>
+1.2	వర్షాల	NN	<fs af='వర్షా,n,n,pl,,,ఓబ్ల్,obl'>
+	))
+2	((	RBP
+2.1	కారణంగా	RB	<fs af='కారణం,n,n,sg,,,గా,gA' poslcat="NM">
+	))
+3	((	NP
+3.1	కొన్ని	QF	<fs af='కొన్ని,pn,,pl,,,0,0' poslcat="NM">
+3.2	చోట్ల	NN	<fs af='చోటు,n,n,pl,,,ఓబ్ల్,obl'>
+	))
+4	((	NP
+4.1	ఆందోళనకర	NN	<fs af='ఆందోళనకరం,n,n,sg,,,ఓబ్ల్,obl'>
+	))
+5	((	NP
+5.1	పరిస్థితులు	NN	<fs af='పరిస్థితి,n,n,pl,,,0,0,' case_name='Nom'>
+	))
+6	((	RBP
+6.1	నెలకొనగా	RB	<fs af='నెలకొను,v,any,any,any,,అ_గా,a_gA,' Neg='Yes'  poslcat="NM"  Tense='Fut,'>
+6.2	,	SYM	<fs af='&comma;,punc,,,,,,'>
+	))
+7	((	NP
+7.1	మరికొన్ని	QF	<fs af='మరికొన్ని,avy,,,,,0,0_avy'>
+7.2	చోట్ల	NN	<fs af='చోటు,n,n,pl,,,ఓబ్ల్,obl'>
+	))
+8	((	NP
+8.1	వర్షం	NN	<fs af='వర్షం,n,n,sg,,,0,0,' case_name='Nom'>
+8.2	కోసం	PSP	<fs af='కోసం,avy,,,,,0,0_avy' poslcat="NM">
+	))
+9	((	NP
+9.1	ప్రజలు	NN	<fs af='ప్రజలు,n,fm,pl,,,0,0,' case_name='Nom'>
+	))
+10	((	NP
+10.1	ఎదురు	NN	<fs af='ఎదురు,n,n,sg,,,0,0,' case_name='Nom'>
+	))
+11	((	VGF
+11.1	చూస్తున్నారు	VM	<fs af='చూడు,v,fm,pl,3,,తున్న్,wunn'>
+11.2	.	SYM	<fs af='&dot;,punc,,,,,,'>
+	))
+</Sentence>
+#Text=ఇప్పుడు చాలా చోట్ల మంచి వర్షాలు కురుస్తాయని నివేదికలు ఉన్నాయి .
+<Sentence id="2">
+1	((	NP
+1.1	ఇప్పుడు	NST	<fs af='ఇప్పుడు,adv,n,,,,0,0_adv'>
+	))
+2	((	NP
+2.1	చాలా	QF	<fs af='చాలా,avy,,,,,0,0_avy'>
+2.2	చోట్ల	NN	<fs af='చోటు,n,n,pl,,,ఓబ్ల్,obl'>
+	))
+3	((	NP
+3.1	మంచి	JJ	<fs af='మంచి,adj,,,,,0,0_adj'>
+3.2	వర్షాలు	NN	<fs af='వర్షా,n,n,pl,,,0,0,' case_name='Nom'>
+	))
+4	((	VGNF
+4.1	కురుస్తాయని	VM	<fs af='కురువు,v,n,pl,3,,తా_అని,wA_ani,' Tense='Fut'>
+	))
+5	((	NP
+5.1	నివేదికలు	NN	<fs af='నివేదిక,n,n,pl,,,0,0,' case_name='Nom'>
+	))
+6	((	VGF
+6.1	ఉన్నాయి	VM	<fs af='ఉండు,v,n,pl,3,,ఆ,A,' Tense='Pst'>
+6.2	.	SYM	<fs af='&dot;,punc,,,,,,'>
+	))
+</Sentence>
+#Text=నేను ఇక్కడ ఉన్నాను
+<Sentence id="3">
+1	((	NP
+1.1	నేను	PRP	<fs af='నేను,pn,,sg,,,0,0'>
+	))
+2	((	NP
+2.1	ఇక్కడ	NST	<fs af='ఇక్కడ,adv,n,,,,0,0_adv'>
+	))
+3	((	VGF
+3.1	ఉన్నాను	VM	<fs af='ఉండు,v,,sg,1,,ఆ,A,' Tense='Pst'>
+	))
+</Sentence>

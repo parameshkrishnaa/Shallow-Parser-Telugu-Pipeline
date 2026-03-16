@@ -1,0 +1,38 @@
+#Text=భారీ వర్షాల కారణంగా కొన్ని చోట్ల ఆందోళనకర పరిస్థితులు నెలకొనగా , మరికొన్ని చోట్ల వర్షం కోసం ప్రజలు ఎదురు చూస్తున్నారు .
+# sent_id = 1
+1	భారీ	భారీ	adj	JJ	Gender=_|Number=_|Person=_|Case=_|Vib=0|Suff=0_adj	_	B-NP	{NF}
+2	వర్షాల	వర్షా	n	NN	Gender=n|Number=pl|Person=_|Case=_|Vib=ఓబ్ల్|Suff=obl	_	I-NP	_
+3	కారణంగా	కారణం	n	RB	Gender=n|Number=sg|Person=_|Case=_|Vib=గా|Suff=gA	_	B-RBP	_
+4	కొన్ని	కొన్ని	pn	QF	Gender=_|Number=pl|Person=_|Case=_|Vib=0|Suff=0	_	B-NP	_
+5	చోట్ల	చోటు	n	NN	Gender=n|Number=pl|Person=_|Case=_|Vib=ఓబ్ల్|Suff=obl	_	I-NP	_
+6	ఆందోళనకర	ఆందోళనకరం	n	NN	Gender=n|Number=sg|Person=_|Case=_|Vib=ఓబ్ల్|Suff=obl	_	B-NP	_
+7	పరిస్థితులు	పరిస్థితి	n	NN	Gender=n|Number=pl|Person=_|Case=_|Vib=0|Suff=0	_	B-NP	_
+8	నెలకొనగా	నెలకొను	v	RB	Gender=any|Number=any|Person=any|Case=_|Vib=అ_గా|Suff=a_gA	_	B-RBP	_
+9	,	&comma;	punc	SYM	Gender=_|Number=_|Person=_|Case=_|Vib=_|Suff=_	_	I-RBP	{/NF}
+10	మరికొన్ని	మరికొన్ని	avy	QF	Gender=_|Number=_|Person=_|Case=_|Vib=0|Suff=0_avy	_	B-NP	{MCL}
+11	చోట్ల	చోటు	n	NN	Gender=n|Number=pl|Person=_|Case=_|Vib=ఓబ్ల్|Suff=obl	_	I-NP	_
+12	వర్షం	వర్షం	n	NN	Gender=n|Number=sg|Person=_|Case=_|Vib=0|Suff=0	_	B-NP	_
+13	కోసం	కోసం	avy	PSP	Gender=_|Number=_|Person=_|Case=_|Vib=0|Suff=0_avy	_	I-NP	_
+14	ప్రజలు	ప్రజలు	n	NN	Gender=fm|Number=pl|Person=_|Case=_|Vib=0|Suff=0	_	B-NP	_
+15	ఎదురు	ఎదురు	n	NN	Gender=n|Number=sg|Person=_|Case=_|Vib=0|Suff=0	_	B-NP	_
+16	చూస్తున్నారు	చూడు	v	VM	Gender=fm|Number=pl|Person=3|Case=_|Vib=తున్న్|Suff=wunn	_	B-VGF	_
+17	.	&dot;	punc	SYM	Gender=_|Number=_|Person=_|Case=_|Vib=_|Suff=_	_	I-VGF	{/MCL}
+
+#Text=ఇప్పుడు చాలా చోట్ల మంచి వర్షాలు కురుస్తాయని నివేదికలు ఉన్నాయి .
+# sent_id = 2
+1	ఇప్పుడు	ఇప్పుడు	adv	NST	Gender=n|Number=_|Person=_|Case=_|Vib=0|Suff=0_adv	_	B-NP	{MCL}|{COM}
+2	చాలా	చాలా	avy	QF	Gender=_|Number=_|Person=_|Case=_|Vib=0|Suff=0_avy	_	B-NP	_
+3	చోట్ల	చోటు	n	NN	Gender=n|Number=pl|Person=_|Case=_|Vib=ఓబ్ల్|Suff=obl	_	I-NP	_
+4	మంచి	మంచి	adj	JJ	Gender=_|Number=_|Person=_|Case=_|Vib=0|Suff=0_adj	_	B-NP	_
+5	వర్షాలు	వర్షా	n	NN	Gender=n|Number=pl|Person=_|Case=_|Vib=0|Suff=0	_	I-NP	_
+6	కురుస్తాయని	కురువు	v	VM	Gender=n|Number=pl|Person=3|Case=_|Vib=తా_అని|Suff=wA_ani	_	B-VGNF	{/COM}
+7	నివేదికలు	నివేదిక	n	NN	Gender=n|Number=pl|Person=_|Case=_|Vib=0|Suff=0	_	B-NP	_
+8	ఉన్నాయి	ఉండు	v	VM	Gender=n|Number=pl|Person=3|Case=_|Vib=ఆ|Suff=A	_	B-VGF	_
+9	.	&dot;	punc	SYM	Gender=_|Number=_|Person=_|Case=_|Vib=_|Suff=_	_	I-VGF	{/MCL}
+
+#Text=నేను ఇక్కడ ఉన్నాను
+# sent_id = 3
+1	నేను	నేను	pn	PRP	Gender=_|Number=sg|Person=_|Case=_|Vib=0|Suff=0	_	B-NP	{MCL}
+2	ఇక్కడ	ఇక్కడ	adv	NST	Gender=n|Number=_|Person=_|Case=_|Vib=0|Suff=0_adv	_	B-NP	_
+3	ఉన్నాను	ఉండు	v	VM	Gender=_|Number=sg|Person=1|Case=_|Vib=ఆ|Suff=A	_	B-VGF	{/MCL}
+

@@ -1,0 +1,11 @@
+<Sentence id="1">
+1	((	NP
+1.1	నేను	PRP	<fs af='నేను,pn,,sg,,,0,0'>
+	))
+2	((	NP
+2.1	ఇక్కడ	NST	<fs af='ఇక్కడ,adv,n,,,,0,0_adv'>
+	))
+3	((	VGF
+3.1	ఉన్నాను	VM	<fs af='ఉండు,v,,sg,1,,ఆ,A,' Tense='Pst'>
+	))
+</Sentence>

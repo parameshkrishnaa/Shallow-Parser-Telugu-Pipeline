@@ -5,7 +5,7 @@ from peft import PeftModel, PeftConfig
 from datetime import datetime
 
 
-def load_model(model_path, hf_token=None):
+def load_model(model_path, hf_token):
     """Load fine-tuned model and tokenizer"""
     print(f"Loading model from: {model_path}")
 
@@ -114,16 +114,16 @@ def save_predictions(predictions, output_file):
     timestamp = datetime.now().strftime("%Y%m%d_%H%M%S")
 
     with open(output_file, 'w', encoding='utf-8') as f:
-        f.write("GEMMA CLAUSE BOUNDARY PREDICTIONS\n")
-        f.write("="*80 + "\n")
-        f.write(f"Timestamp: {timestamp}\n")
-        f.write(f"Total sentences: {len(predictions)}\n")
-        f.write("="*80 + "\n\n")
+        # f.write("GEMMA CLAUSE BOUNDARY PREDICTIONS\n")
+        # f.write("="*80 + "\n")
+        # f.write(f"Timestamp: {timestamp}\n")
+        # f.write(f"Total sentences: {len(predictions)}\n")
+        # f.write("="*80 + "\n\n")
 
         for i, (raw, pred) in enumerate(predictions, 1):
-            f.write(f"[{i}]\n")
-            f.write(f"RAW:  {raw}\n")
-            f.write(f"PRED: {pred}\n\n")
+            # f.write(f"[{i}]\n")
+            # f.write(f"RAW:  {raw}\n")
+            f.write(f"{pred}\n")
 
     print(f"✓ Predictions saved to: {output_file}")
 
@@ -152,8 +152,8 @@ def main():
 
     # Load model
     # If your model is gated, uncomment and add token:
-    # hf_token = "your_token_here"
-    model, tokenizer = load_model(model_path, hf_token=None)
+    hf_token = "Your token here"
+    model, tokenizer = load_model(model_path, hf_token)
 
     # Load sentences
     print(f"\nLoading sentences from: {input_file}")

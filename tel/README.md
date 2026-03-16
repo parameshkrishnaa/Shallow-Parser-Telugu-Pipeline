@@ -8,6 +8,7 @@ export setu=/home/user/shallow-parser-pipeline/tel
 ````
 ## Dependencies
 ## CRF++ 0.51+
+Download: https://drive.google.com/file/d/1ytMgBCdU0E3JihL8K24XbogEmne_OLte/view?usp=drive_link
 
 ### Follow below steps to install CRF++
 
@@ -55,9 +56,18 @@ make compile
 make install
 
 ````
-## to run
+## to run pipeline upto pickonemorph
 ````
 python3 run_pipeline.py <in.txt>
 ````
 
 ## View in.txt_pickone.txt for the pickone output
+
+
+# To setup clause boundary
+Follow the README.md in clauseboundary
+
+## To run pipeline upto clauseboundary
+````
+sh run_pipeline.sh in.txt
+

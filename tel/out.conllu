@@ -1,0 +1,7 @@
+#Text=nenu ikkada unnAnu.
+# sent_id = 1
+{MCL}
+1	నేను	PRP	B-NP	<fs af='నేను,pn,,sg,,,0,0'>
+2	ఇక్కడ	NST	B-NP	<fs af='ఇక్కడ,adv,n,,,,0,0_adv'>
+3	ఉన్నాను	VM	B-VGF	<fs af='ఉండు,v,,sg,1,,ఆ,A,' Tense='Pst'>
+4	.	SYM	I-VGF	<fs af='&dot;,punc,,,,,,'>
