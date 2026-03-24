@@ -2,6 +2,7 @@ import sys
 import torch
 from transformers import AutoTokenizer, AutoModelForCausalLM
 from peft import PeftModel, PeftConfig
+import os
 from datetime import datetime
 
 
@@ -14,11 +15,19 @@ def load_model(model_path, hf_token):
     base_model_name = config.base_model_name_or_path
 
     print(f"Loading base model: {base_model_name}")
+    # Determine best dtype based on available hardware
+    if torch.cuda.is_available():
+        dtype = torch.bfloat16
+        print("Using GPU acceleration (bfloat16)")
+    else:
+        dtype = torch.float32
+        print("Using CPU mode (float32)")
+
     # Load base model
     base_model = AutoModelForCausalLM.from_pretrained(
         base_model_name,
         device_map="auto",
-        torch_dtype=torch.bfloat16,
+        torch_dtype=dtype,
         token=hf_token
     )
 
@@ -41,7 +50,7 @@ def load_model(model_path, hf_token):
 
 def format_instruction(raw_sentence):
     """Create instruction prompt for the model"""
-    instruction = """Annotate the following Hindi sentence with clause boundaries.
+    instruction = """Annotate the following Telugu sentence with clause boundaries.
 
 CLAUSE TYPES:
 - MCL (Main Clause)
@@ -151,8 +160,11 @@ def main():
     print("="*80 + "\n")
 
     # Load model
-    # If your model is gated, uncomment and add token:
-    hf_token = "Your token here"
+    # Use environment variable for token; fall back to command line or hardcoded if needed
+    hf_token = os.getenv("HF_TOKEN")
+    if not hf_token:
+        print("[WARNING] HF_TOKEN environment variable not found. If this is a gated model, loading will fail.")
+    
     model, tokenizer = load_model(model_path, hf_token)
 
     # Load sentences

@@ -39,7 +39,8 @@ cd tel-cb-model-repo
 pip install -r requirements.txt
 ```
 
-3. You need a Hugging Face token if the base model is gated:
+3. **Set your Hugging Face Token (REQUIRED):**
+The script reads your token from your environment variables. Ensure it is set before running:
 ```bash
 # Linux/Mac:
 export HF_TOKEN="your_huggingface_token_here"
@@ -106,5 +107,8 @@ See `requirements.txt` for full list of dependencies. Key packages:
 - **LoRA Adapter**: This repository contains a LoRA adapter, not a full model. The inference script will automatically download the base model (`google/gemma-3-4b-it`) from Hugging Face on first run.
 - **First Run**: Initial inference will take longer as the base model (~7-8 GB) is downloaded and cached.
 - **Model Caching**: The base model is cached locally and reused in subsequent runs (no re-download needed).
+- **GPU/CPU Compatibility**: The `inference.py` script automatically detects your hardware:
+    - **GPU (CUDA)**: Uses `torch.bfloat16` for fast, memory-efficient inference.
+    - **CPU**: Automatically switches to `torch.float32` for maximum compatibility on standard processors.
 
 
